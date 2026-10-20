@@ -1,0 +1,244 @@
+{
+ "geradoEm": "2026-10-20T14:30:00Z",
+ "noticias": {
+  "vatican": {
+   "atualizadoEm": "2026-10-20T08:51:59Z",
+   "fonte": "https://www.vaticannews.va/pt.rss.xml",
+   "items": [
+    {
+     "data": "2026-10-20T08:05:00Z",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/ucrania-ataques-contra-civis-nao-dao-tregua-evacuacao-em-oleshky.html",
+     "resumo": "Ataques russos seguem atingindo civis; avalia-se a retirada da população de Oleshky.",
+     "secao": "Mundo",
+     "titulo": "Ucrânia: ataques contra civis não dão trégua, estuda-se plano de evacuação em Oleshky"
+    },
+    {
+     "data": "2026-10-20T07:50:00Z",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/nigeria-padre-raptado-na-semana-passada-foi-libertado.html",
+     "resumo": "Sacerdote sequestrado no estado de Benue, na Nigéria, recuperou a liberdade.",
+     "secao": "África",
+     "titulo": "Nigéria – Padre raptado na semana passada foi libertado"
+    },
+    {
+     "data": "2026-10-20T07:21:00Z",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/evangelho-20-de-outubro-dom-mario-spaki.html",
+     "resumo": "Dom Mário Spaki comenta o Evangelho dos servos vigilantes (Lc 12,35-38).",
+     "secao": "Evangelho",
+     "titulo": "Evangelho de 20 de outubro"
+    },
+    {
+     "data": "2026-10-20T07:16:00Z",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/cardeal-koovakad-londres-ahimsa-day-parlamento-britanico-2026.html",
+     "resumo": "No Parlamento britânico, cardeal destaca a não violência como valor comum a católicos e jainistas.",
+     "secao": "Vaticano",
+     "titulo": "Cardeal Koovakad em Londres: católicos e jainistas juntos pela paz"
+    },
+    {
+     "data": "2026-10-20T07:15:00Z",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/papa-leao-viagem-apostolica-franca-lourdes-europa-dialogo.html",
+     "resumo": "Balanço da viagem do Papa à França, de Paris a Lourdes e Metz.",
+     "secao": "Igreja",
+     "titulo": "Lusofonias - Papa Leão em França: Da ‘Concorde’ e ‘Champs Elysées’ a Metz"
+    },
+    {
+     "data": "2026-10-19T16:45:00Z",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/leao-xiv-telefona-a-zelensky-tregua-em-oleshky-evacuacao-civis.html",
+     "resumo": "Papa conversa com o presidente ucraniano e pede trégua para retirar civis em segurança.",
+     "secao": "Papa",
+     "titulo": "Leão XIV telefona a Zelensky: trégua em Oleshky e evacuação segura dos civis"
+    },
+    {
+     "data": "2026-10-19T15:12:10Z",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/igreja-mocambique-dia-mundial-missoes-criancas-oracao-partilha.html",
+     "resumo": "Crianças de Nampula se reúnem em festa missionária com oração, Missa e música.",
+     "secao": "África",
+     "titulo": "Moçambique. Mais de duas mil crianças em Nampula celebram Dia Mundial das Missões"
+    },
+    {
+     "data": "2026-10-19T14:35:00Z",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/cinefe-fatima-tres-dias-dedicados-cinema-cultura-fe.html",
+     "resumo": "Fátima recebe em novembro o primeiro festival internacional de cinema católico CineFé.",
+     "secao": "Mundo",
+     "titulo": "CineFé em Fátima: três dias dedicados ao cinema, à cultura e à fé"
+    },
+    {
+     "data": "2026-10-19T14:29:00Z",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/inteligencia-consciencia-liberdade-luz-verdade.html",
+     "resumo": "Reflexão sobre liberdade e tecnologia a serviço da dignidade humana.",
+     "secao": "Igreja",
+     "titulo": "Inteligência, consciência e liberdade à Luz da Verdade"
+    },
+    {
+     "data": "2026-10-19T14:24:00Z",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/franca-cardeal-jean-marc-aveline-apelos-paz-violencia-protestos.html",
+     "resumo": "Arcebispo de Marselha pede paz após dias de protestos e tumultos na França.",
+     "secao": "Igreja",
+     "titulo": "França: não nos deixemos ser arrastados pela violência, afirma cardeal Aveline"
+    },
+    {
+     "data": "2026-10-19T14:21:00Z",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/cirio-maraba-entrou-historia-450-mil-participantes.html",
+     "resumo": "Círio de Marabá bate recorde de público em suas celebrações.",
+     "secao": "Igreja",
+     "titulo": "O 46º Círio de Marabá entrou para a história: mais de 450 mil participantes"
+    },
+    {
+     "data": "2026-10-19T12:02:00Z",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-nomeaco-comissao-teologica-internacional-pucrs-bra.html",
+     "resumo": "Leão XIV nomeia novos membros da Comissão Teológica Internacional, entre eles um teólogo da PUCRS.",
+     "secao": "Papa",
+     "titulo": "Papa: Comissão Teológica tem novos membros nomeados, inclusive um brasileiro"
+    },
+    {
+     "data": "2026-10-19T11:00:00Z",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/koovakad-londres-dialogo-inter-religioso-assis-oracao-paz.html",
+     "resumo": "Cardeal fala das religiões como construtoras de paz no espírito de Assis.",
+     "secao": "Vaticano",
+     "titulo": "Koovakad: de Assis, que a unidade entre as religiões se torne um farol de esperança"
+    },
+    {
+     "data": "2026-10-19T10:43:00Z",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/cardeal-dziwisz-45-anos-fundacao-joao-paulo-ii-oracoes-leao-xiv.html",
+     "resumo": "Missa marca os 45 anos da Fundação João Paulo II, com orações pelo Papa.",
+     "secao": "Vaticano",
+     "titulo": "Cardeal Dziwisz: monumento mais duradouro de João Paulo II são as pessoas"
+    },
+    {
+     "data": "2026-10-19T09:44:00Z",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-recuperacao-vaticano-castel-gandolfo-audiencia-geral.html",
+     "resumo": "Em recuperação no Vaticano, o Papa manterá a Audiência Geral na Praça São Pedro.",
+     "secao": "Papa",
+     "titulo": "O Papa continua sua recuperação no Vaticano. Fará a Audiência Geral na Praça São Pedro"
+    }
+   ]
+  },
+  "manzotti": {
+   "atualizadoEm": "2026-10-20T08:51:59Z",
+   "fonte": "https://padrereginaldomanzotti.com.br/noticias",
+   "items": [
+    {
+     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-esta-no-top-10-do-premio-ibest-2026-na-categoria-influenciador-de-religiao/",
+     "titulo": "Padre Reginaldo Manzotti está no TOP 10 do Prêmio iBest 2026 na categoria Influenciador de Religião"
+    },
+    {
+     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-chega-a-cracovia-na-polonia-com-grupo-de-peregrinos/",
+     "titulo": "Padre Reginaldo Manzotti chega a Cracóvia, na Polônia, com grupo de peregrinos"
+    },
+    {
+     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-conclui-etapa-da-peregrinacao-em-viena-e-segue-para-olomouc-na-tchequia/",
+     "titulo": "Padre Reginaldo Manzotti concluiu etapa da peregrinação em Viena e seguiu para Olomouc, na Tchéquia"
+    },
+    {
+     "link": "https://padrereginaldomanzotti.com.br/blog/sou-um-milagre-de-nossa-senhora-aparecida/",
+     "titulo": "Sou um milagre de Nossa Senhora Aparecida"
+    },
+    {
+     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-preside-santa-missa-pelos-casais-em-budapeste/",
+     "titulo": "Padre Reginaldo Manzotti preside Santa Missa pelos casais em Budapeste"
+    },
+    {
+     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-inicia-peregrinacao-passos-da-misericordia-pela-europa/",
+     "titulo": "Padre Reginaldo Manzotti inicia peregrinação \"Passos da Misericórdia\" pela Europa"
+    },
+    {
+     "link": "https://padrereginaldomanzotti.com.br/blog/ide-esta-e-a-missao/",
+     "titulo": "Ide, esta é a missão!"
+    },
+    {
+     "link": "https://padrereginaldomanzotti.com.br/blog/associacao-evangelizar-e-preciso-celebra-21-anos-de-missao-fe-e-transformacao/",
+     "titulo": "Associação Evangelizar É Preciso celebra 21 anos de missão, fé e transformação"
+    },
+    {
+     "link": "https://padrereginaldomanzotti.com.br/blog/mais-de-50-mil-pessoas-participaram-da-xi-festa-de-jesus-das-santas-chagas-em-curitiba/",
+     "titulo": "Mais de 50 mil pessoas participaram da XI Festa de Jesus das Santas Chagas em Curitiba"
+    },
+    {
+     "link": "https://padrereginaldomanzotti.com.br/blog/celebrar-os-arcanjos-e-celebrar-o-amor-de-deus-por-toda-criacao/",
+     "titulo": "Celebrar os Arcanjos é celebrar o amor de Deus por toda criação"
+    }
+   ]
+  }
+ },
+ "liturgia": {
+  "atualizadoEm": "2026-10-20T08:51:59Z",
+  "celebracao": "Terça-feira da 29ª Semana do Tempo Comum · Santa Maria Bertilla Boscardin, virgem",
+  "cor": "verde",
+  "data": "2026-10-20",
+  "leituras": [
+   {
+    "ref": "Ef 2,12-22",
+    "tipo": "1ª Leitura"
+   },
+   {
+    "ref": "Sl 84(85),9ab-10.11-12.13-14 · O Senhor anunciará a paz",
+    "tipo": "Salmo"
+   },
+   {
+    "ref": "Lc 12,35-38",
+    "tipo": "Evangelho"
+   }
+  ],
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/29a-semana-do-tempo-comum-terca-feira-20-de-outubro-de-2026/",
+  "reflexao": "Paulo anuncia que Cristo é a nossa paz: pela cruz Ele derrubou o muro que separava os povos e fez de todos um só corpo, morada de Deus no Espírito. No Evangelho, Jesus pede que estejamos vigilantes, de lâmpadas acesas, e surpreende ao revelar um Senhor que, ao voltar, se põe a servir os seus servos.",
+  "tempo": "Tempo Comum"
+ },
+ "santo": {
+  "atualizadoEm": "2026-10-20T08:51:59Z",
+  "data": "2026-10-20",
+  "link": "https://www.vaticannews.va/en/saints/10/20.html",
+  "nome": "Santa Maria Bertilla Boscardin, virgem",
+  "resumo": "Anna Francesca Boscardin nasceu em Brendola, no Vêneto (Itália), em 1888, e entrou em 1904 para as Irmãs Mestras de Santa Doroteia, Filhas dos Sagrados Corações, em Vicenza. Como enfermeira no hospital de Treviso, dedicou-se com humildade às crianças doentes, como as vítimas de difteria, e aos feridos da Primeira Guerra Mundial. Morreu em 20 de outubro de 1922, aos 34 anos, e foi canonizada por São João XXIII em 1961."
+ },
+ "catequese": {
+  "atualizadoEm": "2026-10-20T08:51:59Z",
+  "cic": "CIC 2623-2649",
+  "data": "2026-10-20",
+  "historico": [
+   {
+    "atualizadoEm": "2026-10-19T08:52:15Z",
+    "cic": "CIC 2617-2622",
+    "data": "2026-10-19",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
+    "parte": "A oração cristã",
+    "pergunta": "Você consegue, hoje, dizer a Deus um “sim” confiante numa situação que não depende de você, como Maria fez?",
+    "tema": "Como Maria rezou?",
+    "texto": "O Catecismo apresenta Maria como modelo da oração cristã, porque ela se oferece inteiramente a Deus. Na Anunciação, ela responde com confiança: “Faça-se em mim segundo a tua palavra”, e esse “sim” é a forma mais pura de rezar, que é entregar-se a Deus. No Magnificat, Maria louva o Senhor pelas maravilhas que Ele faz pelos humildes e pelos pobres. Em Caná, ela intercede pelos noivos e nos ensina a confiar a Jesus as necessidades dos outros."
+   },
+   {
+    "atualizadoEm": "2026-10-18T08:51:20Z",
+    "cic": "CIC 2598-2616",
+    "data": "2026-10-18",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
+    "parte": "A oração cristã",
+    "pergunta": "Antes da próxima decisão importante da sua vida, você vai reservar um tempo para rezar a sós, como Jesus fazia?",
+    "tema": "Como Jesus rezou e nos ensinou a rezar?",
+    "texto": "O Catecismo mostra que Jesus, verdadeiro Deus e verdadeiro homem, aprendeu a rezar com Maria e na tradição do seu povo, e rezava muitas vezes a sós, sobretudo antes dos momentos decisivos da sua missão. Sua oração é uma relação filial de confiança total com o Pai, que chega ao auge na agonia e na cruz: “Pai, não se faça a minha vontade, mas a tua”. Jesus também nos ensina a rezar com fé, perseverança e um coração convertido, pedindo em seu nome. Por isso, a oração cristã é sempre unir-se à oração de Jesus."
+   },
+   {
+    "atualizadoEm": "2026-10-17T08:51:08Z",
+    "cic": "CIC 2566-2589",
+    "data": "2026-10-17",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
+    "parte": "A oração cristã",
+    "pergunta": "Com qual desses personagens a sua oração mais se parece hoje: a confiança de Abraão, a intercessão de Moisés ou o louvor e o arrependimento de Davi?",
+    "tema": "Como rezavam Abraão, Moisés e Davi?",
+    "texto": "O Catecismo mostra que Deus chama todas as pessoas à oração, e que a Bíblia é uma grande escola onde aprendemos a rezar. Abraão reza ouvindo e confiando: põe-se a caminho e até intercede por Sodoma. Moisés conversa com Deus “face a face, como um amigo” e se torna o grande intercessor do seu povo. Davi, pastor e rei, ensina a louvar e a pedir perdão nos Salmos, que se tornaram a oração do povo de Deus e da Igreja."
+   },
+   {
+    "atualizadoEm": "2026-10-16T18:40:00Z",
+    "cic": "CIC 2558-2565",
+    "data": "2026-10-16",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
+    "parte": "A oração cristã",
+    "pergunta": "Hoje, em que momento do dia você pode parar alguns minutos só para estar diante de Deus?",
+    "tema": "O que é a oração?",
+    "texto": "O Catecismo ensina que a oração é a elevação da alma a Deus, ou o pedido a Deus dos bens de que precisamos. Ela não começa em nós: é Deus quem primeiro nos procura, e a oração é a nossa resposta a esse chamado. Por isso, rezar exige humildade, como quem se põe diante de Deus de mãos vazias. A oração é um encontro pessoal e vivo com Deus, e não só uma fórmula repetida."
+   }
+  ],
+  "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
+  "parte": "A oração cristã",
+  "pergunta": "Na sua oração de hoje, que tal incluir as cinco formas: adorar, pedir perdão, interceder por alguém, agradecer e louvar?",
+  "tema": "Quais são as formas de oração na Igreja?",
+  "texto": "O Catecismo ensina que, guiada pelo Espírito Santo, a Igreja reza de várias formas, todas presentes na Sagrada Escritura. A bênção e a adoração reconhecem que Deus é o Criador e que tudo recebemos d'Ele; a petição pede o perdão e os bens de que precisamos, e a intercessão pede pelos outros, até pelos inimigos. A ação de graças agradece cada dom, e o louvor glorifica a Deus simplesmente porque Ele é Deus. A Eucaristia reúne e expressa todas essas formas de oração."
+ }
+}

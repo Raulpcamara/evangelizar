@@ -1,0 +1,881 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Fé Diária · liturgia, santo do dia, orações e catequese</title>
+<meta name="description" content="App católico gratuito: liturgia e santo do dia, catequese diária, orações, terço, novenas, notícias da Igreja, transmissões ao vivo e imagens para evangelizar nas redes sociais.">
+<link rel="canonical" href="https://evangelizar.casadavochica.com.br/">
+<meta name="theme-color" content="#13224A">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta property="og:title" content="Fé Diária">
+<meta property="og:description" content="Liturgia, santo do dia, catequese, orações e notícias da Igreja num só app.">
+<meta property="og:image" content="https://evangelizar.casadavochica.com.br/icons/icon-512.png">
+<meta property="og:type" content="website">
+<!-- Google AdSense: depois da aprovação, troque ca-pub-XXXXXXXXXXXXXXXX pelo seu ID de editor e remova os comentários desta linha.
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
+-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Cormorant+Garamond:ital,wght@0,600;1,500;1,600&family=Source+Sans+3:wght@400;600;700&display=swap">
+<style>
+/* Layout: Catedral — navy banner with gothic arches and Chi-Rho, navy icon tab bar with a gold rule, arched cards on a stone-toned ground */
+:root{
+  --bg:#F4F1EA; --surface:#FFFFFF; --ink:#13224A; --muted:#5A5F72; --line:#DCD3BF;
+  --marian:#13224A; --marian-soft:#E7E9F1; --gold:#9A7614; --live:#B3261E; --ok:#2E7D4F;
+  --nave:#13224A; --nave-2:#1A2D5E; --nave-ink:#F3E6C0; --nave-muted:#B9C3DE; --leaf:#C9A227;
+  --display:"Cinzel","Trajan Pro",Georgia,serif;
+  --body:"Source Sans 3","Segoe UI",Roboto,Arial,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0A1128; --surface:#131D3D; --ink:#EDE6D2; --muted:#A9AFC4; --line:#28355E;
+  --marian:#C9D5F2; --marian-soft:#1F2C55; --gold:#E0C068; --live:#FF8A80; --ok:#7FD3A0;
+  --nave:#0E1834; --nave-2:#162650; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0A1128; --surface:#131D3D; --ink:#EDE6D2; --muted:#A9AFC4; --line:#28355E;
+  --marian:#C9D5F2; --marian-soft:#1F2C55; --gold:#E0C068; --live:#FF8A80; --ok:#7FD3A0;
+  --nave:#0E1834; --nave-2:#162650; color-scheme:dark}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html,body{background:var(--bg)}
+body{color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.5;padding-inline:16px;padding-block:12px 40px}
+.wrap{max-width:640px;margin:0 auto}
+header{position:relative;background:var(--nave);border-radius:22px 22px 0 0;height:200px;overflow:hidden;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;text-align:center;gap:4px;padding:0 16px 16px}
+header svg.arcos{position:absolute;inset:0;width:100%;height:100%}
+header::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,0) 45%,var(--nave) 92%);pointer-events:none}
+header > *:not(svg){position:relative;z-index:1}
+.brand{font-family:var(--display);font-weight:700;font-size:1.9rem;letter-spacing:.07em;color:var(--nave-ink);margin:0;line-height:1.1}
+.day{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:4px 12px;color:var(--nave-muted);font-size:.9rem}
+.lit{display:inline-flex;align-items:center;gap:6px;font-weight:600;color:var(--nave-ink)}
+.dot{width:12px;height:12px;border-radius:50%;display:inline-block;border:1px solid rgba(255,255,255,.35);flex:none}
+nav{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--nave);display:flex;gap:2px;padding:6px;border-top:1px solid var(--leaf);border-radius:0 0 22px 22px;overflow-x:auto;scrollbar-width:none;box-shadow:0 6px 16px rgba(10,17,40,.18)}
+nav::-webkit-scrollbar{display:none}
+nav button{font:600 .78rem var(--body);color:var(--nave-muted);background:transparent;border:0;border-radius:12px;padding:7px 10px;cursor:pointer;flex:none;white-space:nowrap;display:flex;flex-direction:column;align-items:center;gap:3px;min-width:64px}
+nav button svg{width:20px;height:20px;stroke-linecap:round;stroke-linejoin:round}
+nav button[aria-selected="true"]{color:#F3D98A;background:rgba(201,162,39,.18)}
+.card.arch{border-radius:44px 44px 14px 14px;padding-top:20px;text-align:center;align-items:center}
+.card.arch .row{justify-content:center}
+.card.arch h3{font-family:var(--display);font-weight:700;font-size:1.02rem;letter-spacing:.02em}
+.card.arch .chips{justify-content:center}
+.card.arch .readings{text-align:left}
+.card.arch p{text-align:left;align-self:stretch}
+.card.arch .eyebrow::before{content:"✠ ";}
+section > .eyebrow:first-child{color:var(--gold)}
+.opts{display:flex;flex-wrap:wrap;gap:8px}
+.opt{font:600 .9rem var(--body);padding:8px 12px;border-radius:10px;border:1px solid var(--line);background:var(--bg);color:var(--ink);cursor:pointer}
+.opt[aria-pressed="true"]{border-color:var(--marian);background:var(--marian-soft);color:var(--marian)}
+.tpls{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.tpl{display:flex;flex-direction:column;gap:6px;align-items:stretch;padding:6px;border-radius:12px;border:1px solid var(--line);background:var(--bg);cursor:pointer;font:600 .85rem var(--body);color:var(--ink);min-width:0}
+.tpl canvas{width:100%;aspect-ratio:1;border-radius:8px;display:block}
+.tpl[aria-pressed="true"]{border-color:var(--marian);box-shadow:0 0 0 2px var(--marian)}
+.tpl .nm{display:flex;justify-content:space-between;align-items:center;gap:4px;flex-wrap:wrap}
+.prem{font-size:.62rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--gold);border:1px solid var(--gold);border-radius:999px;padding:1px 6px}
+.preview{display:flex;justify-content:center;background:var(--bg);border:1px solid var(--line);border-radius:14px;padding:12px}
+.preview img{max-width:100%;max-height:520px;border-radius:6px;box-shadow:0 4px 18px rgba(0,0,0,.18)}
+select{font:400 1rem var(--body);color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:10px 12px;width:100%}
+.step{font-size:.8rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.reflect{background:var(--marian-soft);border-radius:12px;padding:12px 14px}
+.reflect b{color:var(--marian)}
+button:focus-visible,a:focus-visible,input:focus-visible,summary:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+section{padding-block:18px;display:flex;flex-direction:column;gap:14px}
+h2{font-family:var(--display);font-weight:500;font-size:1.12rem;letter-spacing:.05em;margin:8px 0 0;color:var(--ink);text-wrap:balance}
+h3{margin:0;font-size:1.05rem;text-wrap:balance}
+.eyebrow{font-size:.75rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--gold)}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px;display:flex;flex-direction:column;gap:10px;min-width:0}
+.card p{margin:0}
+.muted{color:var(--muted)}
+.small{font-size:.88rem}
+.seg{display:flex;gap:4px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:4px}
+.seg button{flex:1;font:600 .88rem var(--body);border:0;border-radius:9px;padding:8px 4px;background:transparent;color:var(--muted);cursor:pointer;min-width:0}
+.seg button[aria-pressed="true"]{background:var(--marian);color:var(--surface)}
+.meta{font-size:.85rem;color:var(--muted)}
+.list{display:flex;flex-direction:column;background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.item{display:flex;flex-direction:column;gap:4px;padding:14px 16px;border-top:1px solid var(--line);text-decoration:none;color:inherit;min-width:0}
+.item:first-child{border-top:0}
+a.item:hover{background:var(--marian-soft)}
+.item .t{font-weight:700;font-size:1.02rem;line-height:1.3;text-wrap:balance}
+.item .r{color:var(--muted);font-size:.93rem}
+.item .d{font-size:.8rem;color:var(--gold);font-weight:600;letter-spacing:.03em;font-variant-numeric:tabular-nums}
+.empty{background:var(--surface);border:1px dashed var(--line);border-radius:14px;padding:16px;color:var(--muted)}
+.btn{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 16px;border-radius:14px;text-decoration:none;font-weight:700;background:var(--surface);color:var(--ink);border:1px solid var(--line)}
+.btn small{display:block;font-weight:400;color:var(--muted);font-size:.85rem}
+.btn.primary{background:var(--marian);color:var(--surface);border-color:var(--marian)}
+.btn.primary small{color:var(--marian-soft)}
+.btn .arrow{font-size:1.2rem;flex:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px}
+.row{display:flex;justify-content:space-between;align-items:baseline;gap:8px;flex-wrap:wrap}
+.pill{font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:3px 8px;border-radius:999px;border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.pill.live{background:var(--live);border-color:var(--live);color:var(--surface)}
+.pill.soon{border-color:var(--gold);color:var(--gold)}
+.readings{display:grid;grid-template-columns:auto 1fr;gap:6px 14px;margin:0}
+.readings dt{font-size:.8rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--gold);padding-top:2px}
+.readings dd{margin:0;font-weight:600}
+.chip{display:inline-flex;align-items:center;gap:6px;padding:9px 14px;border-radius:999px;text-decoration:none;font:700 .9rem var(--body);border:1px solid var(--marian);color:var(--marian);background:transparent;cursor:pointer}
+.chip.fill{background:var(--marian);color:var(--surface)}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.note{font-size:.85rem;color:var(--muted);margin:0}
+details.prayer{background:var(--surface);border:1px solid var(--line);border-radius:14px}
+details.prayer summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:10px;padding:14px 16px;font-weight:700}
+details.prayer summary::-webkit-details-marker{display:none}
+details.prayer summary .plus{color:var(--muted);font-weight:400;flex:none}
+details.prayer[open] summary .plus{transform:rotate(45deg)}
+.ptext{padding:0 16px 16px;display:flex;flex-direction:column;gap:10px}
+.ptext p{margin:0;max-width:65ch}
+.star{border:0;background:transparent;font-size:1.3rem;line-height:1;color:var(--muted);cursor:pointer;padding:4px}
+.star[aria-pressed="true"]{color:var(--gold)}
+ol.myst{margin:0;padding-left:1.3em;display:flex;flex-direction:column;gap:4px}
+.today-tag{font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--surface);background:var(--gold);border-radius:999px;padding:2px 8px}
+.days{display:grid;grid-template-columns:repeat(9,1fr);gap:6px}
+.days button{aspect-ratio:1;max-width:100%;border-radius:10px;border:1px solid var(--line);background:var(--bg);color:var(--ink);font:700 .95rem var(--body);cursor:pointer;font-variant-numeric:tabular-nums;padding:0}
+.days button[aria-pressed="true"]{background:var(--ok);border-color:var(--ok);color:var(--surface)}
+.days button.cur{outline:2px solid var(--gold);outline-offset:1px}
+label{font-weight:600;font-size:.9rem;display:flex;flex-direction:column;gap:4px}
+input[type=text],textarea{font:400 1rem var(--body);color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:10px 12px;width:100%}
+textarea{min-height:70px;resize:vertical}
+form{display:flex;flex-direction:column;gap:10px}
+.act{display:flex;gap:8px;flex-wrap:wrap}
+.moment{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 16px;border-top:1px solid var(--line);flex-wrap:wrap}
+.moment:first-child{border-top:0}
+.moment .when{font-variant-numeric:tabular-nums;font-weight:700;color:var(--marian);min-width:3.2em}
+.moment .what{flex:1;min-width:150px}
+.next{display:flex;align-items:center;gap:14px}
+.next .clock{font-family:var(--display);font-size:1.6rem;color:var(--marian);font-variant-numeric:tabular-nums}
+footer{border-top:1px solid var(--line);padding-block:16px;font-size:.8rem;color:var(--muted)}
+@media (prefers-reduced-motion:no-preference){.pill.live{animation:pulse 2s ease-in-out infinite}@keyframes pulse{50%{opacity:.7}}}
+</style>
+<style>
+:root{color-scheme:light}
+body{margin:0;padding-top:max(12px,env(safe-area-inset-top))}
+.player{background:var(--nave);color:var(--nave-ink);border-radius:18px;padding:14px;display:flex;flex-direction:column;gap:10px}
+.player video{width:100%;aspect-ratio:16/9;background:#000;border-radius:12px;display:block}
+.player .row h3{color:var(--nave-ink)}
+.player .muted{color:var(--nave-muted)}
+.player .chip{border-color:var(--nave-ink);color:var(--nave-ink)}
+.player .chip.fill{background:#C9A227;border-color:#C9A227;color:#13224A}
+.radio-bar{display:flex;align-items:center;gap:12px}
+.radio-bar button.playbtn{width:52px;height:52px;border-radius:50%;border:0;background:#C9A227;color:#13224A;font-size:1.3rem;cursor:pointer;flex:none}
+.ad-slot{margin-block:18px;min-height:0;text-align:center}
+.ad-slot .ad-label{font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.links-legais{display:flex;flex-wrap:wrap;gap:6px 16px;margin-top:8px}
+.links-legais a{color:var(--muted)}
+.install{display:flex;align-items:center;justify-content:space-between;gap:12px}
+</style>
+</head>
+<body>
+
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-cruz" viewBox="0 0 24 24"><path d="M12 2.5v19M6.5 8h11" fill="none" stroke="currentColor" stroke-width="2"/></symbol>
+  <symbol id="i-chirho" viewBox="0 0 24 24"><path d="M6.5 7.5l11 11M17.5 7.5l-11 11M12 3v19M12 3h3.2a3.2 3.2 0 0 1 0 6.4H12" fill="none" stroke="currentColor" stroke-width="1.8"/></symbol>
+  <symbol id="i-jornal" viewBox="0 0 24 24"><path d="M4 5h13v14H6a2 2 0 0 1-2-2zM17 9h3v8a2 2 0 0 1-2 2M7 9h7M7 12.5h7M7 16h4" fill="none" stroke="currentColor" stroke-width="1.7"/></symbol>
+  <symbol id="i-terco" viewBox="0 0 24 24"><circle cx="12" cy="8.5" r="6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-dasharray="0 3.1"/><path d="M12 14.5v7M9.8 17.3h4.4" fill="none" stroke="currentColor" stroke-width="1.8"/></symbol>
+  <symbol id="i-livro" viewBox="0 0 24 24"><path d="M3 5.5c3-1.2 6-1 9 1 3-2 6-2.2 9-1v13.5c-3-1.2-6-1-9 1-3-2-6-2.2-9-1zM12 6.5V20" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M16.5 8.5v4M14.8 10h3.4" fill="none" stroke="currentColor" stroke-width="1.3"/></symbol>
+  <symbol id="i-pomba" viewBox="0 0 24 24"><path d="M3 14c2.6.3 4.8-.6 6.4-2.8C10 8.6 9.5 6 9 4c2.6 1.4 4.3 3.6 4.8 6.2L21 8.5l-2.6 3.2c-.6 3.6-3.6 6-7.4 6-3.4 0-6.1-1.4-8-3.7z" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M12 17.7 10.5 21M14 17.3l.8 3.2" fill="none" stroke="currentColor" stroke-width="1.4"/></symbol>
+  <symbol id="i-calice" viewBox="0 0 24 24"><circle cx="12" cy="4.2" r="2.3" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M6.5 8h11c0 4-2.3 6.4-5.5 6.4S6.5 12 6.5 8zM12 14.4V19.5M8.5 20.5h7" fill="none" stroke="currentColor" stroke-width="1.8"/></symbol>
+  <symbol id="i-coracao" viewBox="0 0 24 24"><path d="M12 20.5S4 15.4 4 10.2C4 7.6 6 5.8 8.2 5.8c1.6 0 3 .9 3.8 2.2.8-1.3 2.2-2.2 3.8-2.2 2.2 0 4.2 1.8 4.2 4.4 0 5.2-8 10.3-8 10.3z" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M12 1.8v5M10.2 3.5h3.6" fill="none" stroke="currentColor" stroke-width="1.5"/></symbol>
+</svg>
+<div class="wrap">
+  <header>
+    <svg class="arcos" viewBox="0 0 400 200" preserveAspectRatio="xMidYMin slice" aria-hidden="true" overflow="visible">
+      <g fill="none" stroke="#C9A227" stroke-width="1.4" opacity=".5">
+        <path d="M45 200V112Q45 56 92 36Q139 56 139 112V200"/><path d="M57 200V114Q57 66 92 50Q127 66 127 114V200"/>
+        <path d="M261 200V112Q261 56 308 36Q355 56 355 112V200"/><path d="M273 200V114Q273 66 308 50Q343 66 343 114V200"/>
+        <path d="M-160 200V112Q-160 56 -113 36Q-66 56 -66 112V200"/><path d="M-60 200V112Q-60 56 -13 36Q34 56 34 112V200"/>
+        <path d="M366 200V112Q366 56 413 36Q460 56 460 112V200"/><path d="M466 200V112Q466 56 513 36Q560 56 560 112V200"/>
+      </g>
+      <path d="M150 200V96Q150 26 200 8Q250 26 250 96V200" fill="#1A2D5E" stroke="#C9A227" stroke-width="2"/>
+      <circle cx="200" cy="70" r="23" fill="none" stroke="#C9A227" stroke-width="1.3" opacity=".85"/>
+      <g style="color:#F3D98A"><svg x="182" y="52" width="36" height="36"><use href="#i-chirho"/></svg></g>
+    </svg>
+    <h1 class="brand">Fé Diária</h1>
+    <div class="day"><span id="hoje"></span><span class="lit"><i class="dot" id="litcor"></i><span id="littempo"></span></span></div>
+  </header>
+
+  <nav role="tablist">
+    <button role="tab" id="tab-hoje" aria-selected="true" data-tab="hoje"><svg aria-hidden="true"><use href="#i-cruz"/></svg>Hoje</button>
+    <button role="tab" id="tab-noticias" aria-selected="false" data-tab="noticias"><svg aria-hidden="true"><use href="#i-jornal"/></svg>Notícias</button>
+    <button role="tab" id="tab-oracoes" aria-selected="false" data-tab="oracoes"><svg aria-hidden="true"><use href="#i-terco"/></svg>Orações</button>
+    <button role="tab" id="tab-catequese" aria-selected="false" data-tab="catequese"><svg aria-hidden="true"><use href="#i-livro"/></svg>Catequese</button>
+    <button role="tab" id="tab-evangeliza" aria-selected="false" data-tab="evangeliza"><svg aria-hidden="true"><use href="#i-pomba"/></svg>Você evangeliza</button>
+    <button role="tab" id="tab-missa" aria-selected="false" data-tab="missa"><svg aria-hidden="true"><use href="#i-calice"/></svg>Missa</button>
+    <button role="tab" id="tab-apoie" aria-selected="false" data-tab="apoie"><svg aria-hidden="true"><use href="#i-coracao"/></svg>Apoie</button>
+  </nav>
+
+  <!-- ================= HOJE ================= -->
+  <section id="hoje-panel" role="tabpanel">
+    <div class="card arch" id="liturgia">
+      <div class="row"><span class="eyebrow">Liturgia do dia</span><span class="pill" id="lit-cor-pill" hidden></span></div>
+      <h3 id="lit-cel">Carregando a liturgia…</h3>
+      <dl class="readings" id="lit-leituras"></dl>
+      <p class="muted" id="lit-reflexao" hidden></p>
+      <p class="note" id="lit-aviso" hidden></p>
+      <div class="chips"><a class="chip fill" id="lit-link" href="https://evangelizarepreciso.com.br/liturgia-diaria/" target="_blank" rel="noopener">Ler as leituras completas ↗</a></div>
+    </div>
+
+    <div class="card arch" id="santo">
+      <span class="eyebrow">Santo do dia</span>
+      <h3 id="santo-nome">Carregando…</h3>
+      <p id="santo-resumo" class="muted" hidden></p>
+      <div class="chips"><a class="chip" id="santo-link" href="https://www.vaticannews.va/pt/santo-do-dia.html" target="_blank" rel="noopener">Saiba mais ↗</a><button class="chip" type="button" id="santo-post">Criar post</button></div>
+    </div>
+
+    <div class="card">
+      <span class="eyebrow">Próximo momento de oração</span>
+      <div class="next"><span class="clock" id="next-hora">--:--</span><div><h3 id="next-nome"></h3><span class="muted small" id="next-falta"></span></div></div>
+      <div class="chips"><button class="chip" id="next-rezar">Rezar agora</button><button class="chip" id="ver-lembretes">Lembretes</button></div>
+    </div>
+
+    <h2 id="aovivo">Ao vivo com o Pe. Manzotti</h2>
+    <div class="grid" id="programas"></div>
+    <div class="player" id="tv-player">
+      <div class="row"><h3>TV Evangelizar ao vivo</h3><span class="pill live" id="tv-status" hidden>Ao vivo</span></div>
+      <video id="tv-video" controls playsinline preload="none" poster="icons/tv-poster.png"></video>
+      <p class="note muted small" id="tv-msg">Toque no play para assistir aqui no app.</p>
+      <div class="chips"><a class="chip" href="https://tvevangelizar.com.br/tv-ao-vivo" target="_blank" rel="noopener">Abrir no site da TV ↗</a></div>
+    </div>
+    <a class="btn" href="https://www.youtube.com/@PadreManzottiOficial/live" target="_blank" rel="noopener"><span>YouTube ao vivo<small>Canal oficial do Pe. Manzotti</small></span><span class="arrow">▶</span></a>
+    <div class="player" id="radio-player">
+      <div class="radio-bar"><button class="playbtn" type="button" id="radio-btn" aria-label="Tocar a Rádio Evangelizar">▶</button>
+        <div><h3 style="margin:0">Rádio Evangelizar</h3><span class="muted small" id="radio-msg">Toque para ouvir. A rádio continua tocando enquanto você navega pelas abas.</span></div></div>
+      <audio id="radio-audio" preload="none"></audio>
+      <div class="chips"><a class="chip" href="https://radioevangelizar.com.br/" target="_blank" rel="noopener">Abrir no site da rádio ↗</a></div>
+    </div>
+    <a class="btn" href="https://www.youtube.com/playlist?list=PLPwV6vwxafsslLwdCNWCSNeFnYRLcw9RN" target="_blank" rel="noopener"><span>Experiência de Deus gravados<small>Playlist com os programas anteriores</small></span><span class="arrow">↗</span></a>
+    <a class="btn" href="https://tvevangelizar.com.br/programacao/" target="_blank" rel="noopener"><span>Programação completa<small>Grade da TV Evangelizar, inclusive Santa Missa</small></span><span class="arrow">↗</span></a>
+    <p class="note">Horários de Brasília, conforme o site da TV Evangelizar. Podem mudar em feriados e eventos especiais.</p>
+  </section>
+
+  <!-- ================= NOTÍCIAS ================= -->
+  <section id="noticias" role="tabpanel" hidden>
+    <div class="seg" role="group" aria-label="Fonte">
+      <button id="src-vatican" aria-pressed="true" data-src="vatican">Vatican News</button>
+      <button id="src-manzotti" aria-pressed="false" data-src="manzotti">Pe. Manzotti</button>
+    </div>
+    <div class="meta" id="atualizado">Carregando notícias…</div>
+    <div id="lista"></div>
+    <a class="btn" id="portal" href="https://www.vaticannews.va/pt/igreja.html" target="_blank" rel="noopener">
+      <span>Abrir o portal completo<small id="portal-sub">vaticannews.va · Igreja</small></span><span class="arrow">↗</span></a>
+  </section>
+
+  <!-- ================= ORAÇÕES ================= -->
+  <section id="oracoes" role="tabpanel" hidden>
+    <div class="seg" role="group" aria-label="Seção de orações" id="orseg">
+      <button id="orb-lista" aria-pressed="true" data-or="lista">Orações</button>
+      <button id="orb-terco" aria-pressed="false" data-or="terco">Terço</button>
+      <button id="orb-novena" aria-pressed="false" data-or="novena">Novena</button>
+      <button id="orb-lembretes" aria-pressed="false" data-or="lembretes">Lembretes</button>
+    </div>
+
+    <div id="or-lista" class="orpane" style="display:flex;flex-direction:column;gap:10px">
+      <p class="note">Toque na estrela para guardar uma oração entre as favoritas. Elas aparecem primeiro.</p>
+      <div id="prayers" style="display:flex;flex-direction:column;gap:10px"></div>
+    </div>
+
+    <div id="or-terco" class="orpane" hidden style="display:flex;flex-direction:column;gap:12px">
+      <div class="card" id="misterios-hoje"></div>
+      <details class="prayer" id="como-terco"><summary>Como rezar o Terço <span class="plus">+</span></summary>
+        <div class="ptext">
+          <p>1. Faça o sinal da cruz e reze o Credo.</p>
+          <p>2. Reze um Pai-Nosso, três Ave-Marias e um Glória.</p>
+          <p>3. Para cada um dos cinco mistérios: anuncie o mistério, reze um Pai-Nosso, dez Ave-Marias, um Glória e a oração “Ó meu Jesus”.</p>
+          <p>4. Ao final, reze a Salve-Rainha.</p>
+        </div></details>
+      <details class="prayer" id="outros-misterios"><summary>Todos os mistérios <span class="plus">+</span></summary><div class="ptext" id="todos-misterios"></div></details>
+      <details class="prayer"><summary>Terço da Misericórdia <span class="plus">+</span></summary>
+        <div class="ptext">
+          <p class="muted small">Tradicionalmente rezado às 15h, a Hora da Misericórdia. Usa-se o mesmo terço.</p>
+          <p><b>No início:</b> Pai-Nosso, Ave-Maria e Credo.</p>
+          <p><b>Nas contas grandes:</b> Eterno Pai, eu vos ofereço o Corpo e Sangue, Alma e Divindade de vosso diletíssimo Filho, Nosso Senhor Jesus Cristo, em expiação dos nossos pecados e dos do mundo inteiro.</p>
+          <p><b>Nas contas pequenas (10 vezes):</b> Pela sua dolorosa Paixão, tende misericórdia de nós e do mundo inteiro.</p>
+          <p><b>No final (3 vezes):</b> Deus Santo, Deus Forte, Deus Imortal, tende piedade de nós e do mundo inteiro.</p>
+        </div></details>
+    </div>
+
+    <div id="or-novena" class="orpane" hidden style="display:flex;flex-direction:column;gap:12px">
+      <div class="card" id="novena-box"></div>
+      <a class="btn" href="https://evangelizarepreciso.com.br/novenas/" target="_blank" rel="noopener"><span>Novenas da Evangelizar É Preciso<small>Inclui a novena rezada no Experiência de Deus</small></span><span class="arrow">↗</span></a>
+      <a class="btn" href="https://padrereginaldomanzotti.com.br/novenas" target="_blank" rel="noopener"><span>Novenas do Pe. Manzotti<small>Textos completos no site oficial</small></span><span class="arrow">↗</span></a>
+      <a class="btn" href="https://padrereginaldomanzotti.com.br/oracoes" target="_blank" rel="noopener"><span>Mais orações do Pe. Manzotti<small>padrereginaldomanzotti.com.br</small></span><span class="arrow">↗</span></a>
+    </div>
+
+    <div id="or-lembretes" class="orpane" hidden style="display:flex;flex-direction:column;gap:12px">
+      <p class="note">Toque em “Lembrar todo dia” para criar o lembrete no Google Agenda do seu celular. Ele avisa no horário, mesmo com o app fechado.</p>
+      <div class="list" id="momentos"></div>
+    </div>
+  </section>
+
+  <!-- ================= CATEQUESE ================= -->
+  <section id="catequese" role="tabpanel" hidden>
+    <div class="card arch">
+      <div class="row"><span class="eyebrow">Catequese de hoje</span><span class="pill" id="cat-ref" hidden></span></div>
+      <h3 id="cat-tema">Carregando…</h3>
+      <p id="cat-texto"></p>
+      <div class="reflect" id="cat-perg-box" hidden><b>Para refletir:</b> <span id="cat-perg"></span></div>
+      <div class="chips"><a class="chip fill" id="cat-link" href="https://www.vatican.va/archive/cathechism_po/index_new/prima-pagina-cic_po.html" target="_blank" rel="noopener">Ler no Catecismo ↗</a><button class="chip" type="button" id="cat-post">Criar post</button></div>
+    </div>
+    <h2>Dicas anteriores</h2>
+    <div id="cat-hist"></div>
+    <p class="note">Uma dica nova a cada manhã, seguindo os temas do Catecismo da Igreja Católica: o Credo, os Sacramentos, a vida em Cristo e a oração.</p>
+  </section>
+
+  <!-- ================= VOCÊ EVANGELIZA ================= -->
+  <section id="evangeliza" role="tabpanel" hidden>
+    <div class="eyebrow">Você evangeliza</div>
+    <p style="margin:0">Crie imagens católicas prontas para postar no Instagram, Facebook, WhatsApp e TikTok.</p>
+    <div class="card">
+      <span class="step">1 · Conteúdo</span>
+      <div class="opts" id="ve-src">
+        <button class="opt" type="button" data-src="santo" aria-pressed="true">Santo do dia</button>
+        <button class="opt" type="button" data-src="catequese" aria-pressed="false">Catequese</button>
+        <button class="opt" type="button" data-src="frase" aria-pressed="false">Frase de santo</button>
+        <button class="opt" type="button" data-src="versiculo" aria-pressed="false">Versículo</button>
+        <button class="opt" type="button" data-src="oracao" aria-pressed="false">Oração</button>
+        <button class="opt" type="button" data-src="livre" aria-pressed="false">Meu texto</button>
+      </div>
+      <label for="ve-item" id="ve-item-lb" hidden>Escolha<select id="ve-item"></select></label>
+      <label for="ve-texto" id="ve-texto-lb" hidden>Seu texto<textarea id="ve-texto" maxlength="300" placeholder="Escreva uma mensagem de fé"></textarea></label>
+      <label for="ve-autor" id="ve-autor-lb" hidden>Autor ou referência (opcional)<input type="text" id="ve-autor" maxlength="60"></label>
+    </div>
+    <div class="card">
+      <span class="step">2 · Formato</span>
+      <div class="opts" id="ve-fmt">
+        <button class="opt" type="button" data-fmt="feed" aria-pressed="true">Feed 4:5</button>
+        <button class="opt" type="button" data-fmt="quadrado" aria-pressed="false">Quadrado</button>
+        <button class="opt" type="button" data-fmt="stories" aria-pressed="false">Stories · Status · Reels</button>
+        <button class="opt" type="button" data-fmt="horizontal" aria-pressed="false">Horizontal</button>
+      </div>
+      <span class="muted small" id="ve-fmt-desc"></span>
+    </div>
+    <div class="card">
+      <span class="step">3 · Modelo</span>
+      <div class="tpls" id="ve-tpls"></div>
+      <label for="ve-assin">Assinatura no rodapé<input type="text" id="ve-assin" maxlength="40" value="Fé Diária"></label>
+    </div>
+    <div class="preview"><img id="ve-prev" alt="Prévia da imagem"></div>
+    <div class="act">
+      <button class="chip fill" type="button" id="ve-baixar">Baixar imagem</button>
+      <button class="chip fill" type="button" id="ve-compartilhar" hidden>Compartilhar</button>
+      <button class="chip" type="button" id="ve-legenda">Copiar legenda</button>
+    </div>
+    <p class="note" id="ve-msg">Você também pode tocar e segurar a imagem para salvá-la.</p>
+    <textarea id="ve-leg-txt" readonly hidden></textarea>
+    <p class="note">Modelos marcados como <span class="prem">Premium</span> farão parte da assinatura na versão publicada do app. Por enquanto, todos estão liberados.</p>
+  </section>
+
+  <!-- ================= MISSA ================= -->
+  <section id="missa" role="tabpanel" hidden>
+    <div class="eyebrow">Arquidiocese do Rio de Janeiro</div>
+    <a class="btn primary" href="https://www.arqrio.com.br/app/painel/amissa/amissa.pdf" target="_blank" rel="noopener"><span>Baixar o folheto “A Missa”<small>Edição atual em PDF</small></span><span class="arrow">⤓</span></a>
+    <a class="btn" href="https://arqrio.org.br/folhetos" target="_blank" rel="noopener"><span>Próximos folhetos<small>Edições seguintes no site da Arquidiocese</small></span><span class="arrow">↗</span></a>
+    <a class="btn" href="https://arqrio.org.br/partituras" target="_blank" rel="noopener"><span>Partituras e cifras<small>Cantos das próximas celebrações</small></span><span class="arrow">↗</span></a>
+    <a class="btn" href="https://arqrio.org.br/category/noticias/" target="_blank" rel="noopener"><span>Notícias da Arquidiocese do Rio<small>arqrio.org.br</small></span><span class="arrow">↗</span></a>
+
+    <h2>Minhas paróquias</h2>
+    <a class="btn primary" href="https://www.google.com/maps/search/igreja+cat%C3%B3lica+missa" target="_blank" rel="noopener"><span>Encontrar igrejas perto de mim<small>Abre o Google Maps com as igrejas católicas próximas</small></span><span class="arrow">⌖</span></a>
+    <div id="paroquias" style="display:flex;flex-direction:column;gap:10px"></div>
+    <div class="card">
+      <h3 id="form-titulo">Adicionar paróquia</h3>
+      <form id="pform" autocomplete="off">
+        <label for="p-nome">Nome<input type="text" id="p-nome" required maxlength="120" placeholder="Ex.: Paróquia Nossa Senhora da Glória"></label>
+        <label for="p-end">Endereço ou bairro<input type="text" id="p-end" maxlength="160" placeholder="Ex.: Largo do Machado, Rio de Janeiro"></label>
+        <label for="p-hor">Horários de missa<textarea id="p-hor" maxlength="400" placeholder="Ex.: Seg a sex 7h e 18h · Sáb 17h · Dom 8h, 10h e 19h"></textarea></label>
+        <div class="act"><button type="submit" class="chip fill" id="p-salvar">Salvar paróquia</button><button type="button" class="chip" id="p-cancelar" hidden>Cancelar</button></div>
+      </form>
+      <p class="note" id="store-note"></p>
+    </div>
+  </section>
+
+  <!-- ================= APOIE ================= -->
+  <section id="apoie" role="tabpanel" hidden>
+    <div class="eyebrow">Apoie as obras</div>
+    <p style="margin:0">Todo o conteúdo deste app é oferecido gratuitamente por estas obras. Se puder, ajude quem o produz. As doações são feitas nos sites oficiais e vão direto para cada uma delas.</p>
+    <div class="card"><h3>Associação Evangelizar É Preciso</h3><p class="muted small">Mantém a TV e a Rádio Evangelizar, os programas do Pe. Reginaldo Manzotti e projetos sociais.</p>
+      <div class="chips"><a class="chip fill" href="https://doar.doacoesevangelizar.com.br/doacoes-site" target="_blank" rel="noopener">Fazer uma doação</a><a class="chip" href="https://evangelizarepreciso.com.br/contribua-com-a-obra" target="_blank" rel="noopener">Ser associado</a></div></div>
+    <div class="card"><h3>Arquidiocese do Rio de Janeiro</h3><p class="muted small">Produz o folheto “A Missa”, as partituras e as ações pastorais e sociais da Arquidiocese.</p>
+      <div class="chips"><a class="chip fill" href="https://arqrio.org.br/faca-uma-doacao" target="_blank" rel="noopener">Fazer uma doação</a></div></div>
+    <div class="card"><h3>Vatican News</h3><p class="muted small">Comunicação da Santa Sé, que leva a palavra do Papa em dezenas de línguas.</p>
+      <div class="chips"><a class="chip fill" href="https://www.comunicazione.va/en/sostienici/pt.html" target="_blank" rel="noopener">Apoiar o Vatican News</a></div></div>
+    <div class="card"><h3>Óbolo de São Pedro</h3><p class="muted small">Ajuda o Papa nas obras de caridade e no serviço à Igreja no mundo todo.</p>
+      <div class="chips"><a class="chip fill" href="https://www.obolodisanpietro.va/en/dona.html" target="_blank" rel="noopener">Doar ao Óbolo</a></div></div>
+    <p class="note">Fé Diária é um app independente, sem ligação oficial com as obras acima.</p>
+  </section>
+
+  <div class="ad-slot" id="ad-slot" hidden><div class="ad-label">Publicidade</div>
+    <!-- Bloco de anúncio do AdSense: cole aqui o código do bloco depois da aprovação -->
+  </div>
+
+  <div class="card install" id="install-card" hidden><div><h3>Instale o Fé Diária</h3><span class="muted small">Ele fica na tela inicial, como um aplicativo.</span></div><button class="chip fill" type="button" id="install-btn">Instalar</button></div>
+
+  <footer>Notícias, liturgia e santo do dia atualizados todas as manhãs a partir de vaticannews.va, padrereginaldomanzotti.com.br e evangelizarepreciso.com.br. Toque em um item para abri-lo no site de origem.
+    <div class="links-legais"><a href="sobre.html">Sobre</a><a href="privacidade.html">Privacidade</a><a href="contato.html">Contato</a><a href="https://casadavochica.com.br/">Casa da Vó Chica</a></div></footer>
+</div>
+
+<script>
+(function(){
+  "use strict";
+  const TZ="America/Sao_Paulo";
+  const $=id=>document.getElementById(id);
+  const el=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=text;return e;};
+
+  // ---------- Datas em horário de Brasília ----------
+  function brParts(d){const p=Object.fromEntries(new Intl.DateTimeFormat("en-US",{timeZone:TZ,year:"numeric",month:"2-digit",day:"2-digit",weekday:"short",hour:"2-digit",minute:"2-digit",hourCycle:"h23"}).formatToParts(d||new Date()).map(x=>[x.type,x.value]));
+    return{y:+p.year,m:+p.month,d:+p.day,dow:["Sun","Mon","Tue","Wed","Thu","Fri","Sat"].indexOf(p.weekday),min:(+p.hour)*60+(+p.minute)};}
+  const pad=n=>String(n).padStart(2,"0");
+  const isoBR=p=>p.y+"-"+pad(p.m)+"-"+pad(p.d);
+  const fmtDia=new Intl.DateTimeFormat("pt-BR",{timeZone:TZ,weekday:"long",day:"numeric",month:"long"});
+  $("hoje").textContent=fmtDia.format(new Date()).replace(/^./,c=>c.toUpperCase());
+
+  // ---------- Tempo litúrgico (cálculo local, usado até chegar a liturgia do dia) ----------
+  const DAY=864e5,add=(d,n)=>new Date(d.getTime()+n*DAY);
+  function easter(y){const a=y%19,b=Math.floor(y/100),c=y%100,d=Math.floor(b/4),e=b%4,f=Math.floor((b+8)/25),g=Math.floor((b-f+1)/3),h=(19*a+b-d-g+15)%30,i=Math.floor(c/4),k=c%4,l=(32+2*e+2*i-h-k)%7,m=Math.floor((a+11*h+22*l)/451),mo=Math.floor((h+l-7*m+114)/31),da=((h+l-7*m+114)%31)+1;return new Date(Date.UTC(y,mo-1,da));}
+  function adventStart(y){const x=new Date(Date.UTC(y,11,25));const w=x.getUTCDay();return add(add(x,-(w===0?7:w)),-21);}
+  function baptism(y){let ep=new Date(Date.UTC(y,0,2));while(ep.getUTCDay()!==0)ep=add(ep,1);return ep.getUTCDate()>=7?add(ep,1):add(ep,7);}
+  const COR={verde:"#2E7D4F",branco:"#FFFFFF",vermelho:"#B3261E",roxo:"#6B3FA0",rosa:"#E58FB0",preto:"#111111",dourado:"#C9A227"};
+  function season(p){const d=new Date(Date.UTC(p.y,p.m-1,p.d)),y=p.y,E=easter(y),ash=add(E,-46),pent=add(E,49),adv=adventStart(y),xmas=new Date(Date.UTC(y,11,25));
+    if(d<=baptism(y))return["Tempo do Natal","branco"];if(d<ash)return["Tempo Comum","verde"];if(d<add(E,-7))return["Quaresma","roxo"];
+    if(d<E)return["Semana Santa","vermelho"];if(d<pent)return["Tempo Pascal","branco"];if(d.getTime()===pent.getTime())return["Pentecostes","vermelho"];
+    if(d<adv)return["Tempo Comum","verde"];if(d<xmas)return["Advento","roxo"];return["Tempo do Natal","branco"];}
+  function setHeaderSeason(nome,cor){$("littempo").textContent=nome;$("litcor").style.background=COR[cor]||COR.verde;}
+  const today=brParts(),todayISO=isoBR(today);
+  const [sn,sc]=season(today);setHeaderSeason(sn,sc);
+
+  // ---------- Abas ----------
+  const TABS=["hoje","noticias","oracoes","catequese","evangeliza","missa","apoie"];
+  const panel=id=>$(id==="hoje"?"hoje-panel":id);
+  const tabs=[...document.querySelectorAll("nav button")];
+  function show(id){tabs.forEach(b=>b.setAttribute("aria-selected",b.dataset.tab===id?"true":"false"));
+    TABS.forEach(s=>panel(s).hidden=s!==id);try{localStorage.setItem("fe-tab",id)}catch(e){}
+    const t=$("tab-"+id);if(t&&t.scrollIntoView)t.scrollIntoView({block:"nearest",inline:"center"});
+    if(id==="evangeliza"&&window.__veRender)window.__veRender();}
+  tabs.forEach(b=>b.addEventListener("click",()=>{show(b.dataset.tab);window.scrollTo({top:0});}));
+  let start=(location.hash||"").slice(1);
+  if(start==="aovivo")start="hoje";
+  if(!TABS.includes(start)){try{start=localStorage.getItem("fe-tab")||"hoje"}catch(e){start="hoje"}}
+  show(TABS.includes(start)?start:"hoje");
+  if(location.hash==="#aovivo")setTimeout(()=>$("aovivo").scrollIntoView(),0);
+
+  // ---------- Orações: sub-seções ----------
+  const orBtns=[...document.querySelectorAll("#orseg button")];
+  function showOr(k){orBtns.forEach(b=>b.setAttribute("aria-pressed",b.dataset.or===k?"true":"false"));
+    document.querySelectorAll(".orpane").forEach(p=>p.hidden=p.id!=="or-"+k);
+    try{localStorage.setItem("fe-or",k)}catch(e){}}
+  orBtns.forEach(b=>b.addEventListener("click",()=>showOr(b.dataset.or)));
+  let orStart="lista";try{orStart=localStorage.getItem("fe-or")||"lista"}catch(e){}
+  showOr(["lista","terco","novena","lembretes"].includes(orStart)?orStart:"lista");
+
+  // ---------- Textos das orações (tradicionais) ----------
+  const PRAYERS=[
+    {id:"pai-nosso",t:"Pai-Nosso",p:["Pai nosso que estais nos céus, santificado seja o vosso nome; venha a nós o vosso reino; seja feita a vossa vontade, assim na terra como no céu.","O pão nosso de cada dia nos dai hoje; perdoai-nos as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido; e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém."]},
+    {id:"ave-maria",t:"Ave-Maria",p:["Ave Maria, cheia de graça, o Senhor é convosco; bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus.","Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora de nossa morte. Amém."]},
+    {id:"gloria",t:"Glória",p:["Glória ao Pai, ao Filho e ao Espírito Santo. Como era no princípio, agora e sempre. Amém."]},
+    {id:"credo",t:"Credo (Símbolo dos Apóstolos)",p:["Creio em Deus Pai todo-poderoso, criador do céu e da terra. E em Jesus Cristo, seu único Filho, nosso Senhor, que foi concebido pelo poder do Espírito Santo; nasceu da Virgem Maria; padeceu sob Pôncio Pilatos, foi crucificado, morto e sepultado; desceu à mansão dos mortos; ressuscitou ao terceiro dia; subiu aos céus, está sentado à direita de Deus Pai todo-poderoso, donde há de vir a julgar os vivos e os mortos.","Creio no Espírito Santo, na santa Igreja Católica, na comunhão dos santos, na remissão dos pecados, na ressurreição da carne, na vida eterna. Amém."]},
+    {id:"salve-rainha",t:"Salve-Rainha",p:["Salve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve! A vós bradamos, os degredados filhos de Eva; a vós suspiramos, gemendo e chorando neste vale de lágrimas.","Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei; e depois deste desterro mostrai-nos Jesus, bendito fruto do vosso ventre, ó clemente, ó piedosa, ó doce sempre Virgem Maria.","Rogai por nós, santa Mãe de Deus, para que sejamos dignos das promessas de Cristo. Amém."]},
+    {id:"angelus",t:"Angelus",p:["— O Anjo do Senhor anunciou a Maria. — E ela concebeu do Espírito Santo. Ave Maria…","— Eis aqui a serva do Senhor. — Faça-se em mim segundo a vossa palavra. Ave Maria…","— E o Verbo se fez carne. — E habitou entre nós. Ave Maria…","— Rogai por nós, santa Mãe de Deus. — Para que sejamos dignos das promessas de Cristo.","Oremos: Infundi, Senhor, nós vos pedimos, em nossos corações a vossa graça, para que, conhecendo pela anunciação do Anjo a encarnação de Cristo, vosso Filho, por sua paixão e morte na cruz sejamos conduzidos à glória da ressurreição. Pelo mesmo Cristo, Senhor nosso. Amém."]},
+    {id:"o-meu-jesus",t:"Ó meu Jesus",p:["Ó meu Jesus, perdoai-nos, livrai-nos do fogo do inferno, levai as almas todas para o céu e socorrei principalmente as que mais precisarem."]},
+    {id:"santo-anjo",t:"Santo Anjo",p:["Santo Anjo do Senhor, meu zeloso guardador, se a ti me confiou a piedade divina, sempre me rege, me guarda, me governa e me ilumina. Amém."]},
+    {id:"sao-miguel",t:"Oração a São Miguel Arcanjo",p:["São Miguel Arcanjo, defendei-nos no combate; sede nosso refúgio contra as maldades e ciladas do demônio. Ordene-lhe Deus, instantemente o pedimos; e vós, príncipe da milícia celeste, pela virtude divina, precipitai no inferno a Satanás e aos outros espíritos malignos, que andam pelo mundo para perder as almas. Amém."]},
+    {id:"espirito-santo",t:"Vinde, Espírito Santo",p:["Vinde, Espírito Santo, enchei os corações dos vossos fiéis e acendei neles o fogo do vosso amor.","— Enviai o vosso Espírito e tudo será criado. — E renovareis a face da terra.","Oremos: Ó Deus, que instruístes os corações dos vossos fiéis com a luz do Espírito Santo, concedei-nos que no mesmo Espírito saibamos o que é reto e gozemos sempre de suas consolações. Por Cristo, Senhor nosso. Amém."]},
+    {id:"contricao",t:"Ato de Contrição",p:["Meu Deus, eu me arrependo de todo o coração de vos ter ofendido, porque sois tão bom e amável. Prometo, com a vossa graça, esforçar-me para ser bom. Meu Jesus, misericórdia!"]}
+  ];
+
+  // ---------- Armazenamento pessoal (favoritas, novena, paróquias) ----------
+  const LKEY="fe-prefs";
+  const Store={data:{favoritos:[],paroquias:[],novena:null},mode:"local",ref:null,busy:false,dirty:false,
+    loadLocal(){try{const s=localStorage.getItem(LKEY);if(s){const o=JSON.parse(s);if(o&&typeof o==="object")this.data=Object.assign(this.data,o);}}catch(e){}},
+    save(){try{localStorage.setItem(LKEY,JSON.stringify(this.data))}catch(e){}
+      if(this.mode==="db"){this.dirty=true;this.flush();}},
+    async flush(){if(this.busy||!this.dirty||!this.ref)return;this.busy=true;this.dirty=false;
+      try{await this.ref.set(JSON.parse(JSON.stringify(this.data)));}
+      catch(e){if(e&&(e.code==="invalid_argument"||e.code==="not_granted"||e.code==="revoked"))this.mode="local";else this.dirty=true;}
+      this.busy=false;if(this.dirty&&this.mode==="db")setTimeout(()=>this.flush(),1500);
+      renderStoreNote();}};
+  Store.loadLocal();
+  function renderStoreNote(){$("store-note").textContent=Store.mode==="db"?"Suas paróquias, favoritas e novena ficam salvas na sua conta e aparecem em qualquer aparelho.":"Suas paróquias, favoritas e novena ficam salvas neste aparelho.";}
+  renderStoreNote();
+
+  // ---------- Render: orações ----------
+  function renderPrayers(){
+    const box=$("prayers"),open=new Set([...box.querySelectorAll("details[open]")].map(d=>d.dataset.id));box.textContent="";
+    const fav=new Set(Store.data.favoritos||[]);
+    const ordered=[...PRAYERS.filter(p=>fav.has(p.id)),...PRAYERS.filter(p=>!fav.has(p.id))];
+    ordered.forEach(pr=>{
+      const d=el("details","prayer");d.dataset.id=pr.id;d.id="pr-"+pr.id;if(open.has(pr.id))d.open=true;
+      const s=el("summary");const name=el("span",null,pr.t);
+      const right=el("span");right.style.cssText="display:flex;align-items:center;gap:6px;flex:none";
+      const st=el("button","star",fav.has(pr.id)?"★":"☆");st.type="button";st.setAttribute("aria-pressed",fav.has(pr.id)?"true":"false");
+      st.setAttribute("aria-label",(fav.has(pr.id)?"Remover ":"Adicionar ")+pr.t+" das favoritas");
+      st.addEventListener("click",ev=>{ev.preventDefault();ev.stopPropagation();
+        const f=new Set(Store.data.favoritos||[]);f.has(pr.id)?f.delete(pr.id):f.add(pr.id);Store.data.favoritos=[...f];Store.save();renderPrayers();});
+      right.append(st,el("span","plus","+"));s.append(name,right);
+      const t=el("div","ptext");pr.p.forEach(x=>t.appendChild(el("p",null,x)));d.append(s,t);box.appendChild(d);});}
+  renderPrayers();
+
+  // ---------- Render: terço ----------
+  const MYST={
+    gozosos:{n:"Mistérios Gozosos",dias:"segunda e sábado",l:["A anunciação do Anjo a Maria","A visitação de Maria a Isabel","O nascimento de Jesus em Belém","A apresentação do Menino Jesus no Templo","A perda e o encontro do Menino Jesus no Templo"]},
+    luminosos:{n:"Mistérios Luminosos",dias:"quinta-feira",l:["O batismo de Jesus no Jordão","A revelação de Jesus nas Bodas de Caná","O anúncio do Reino de Deus e o convite à conversão","A transfiguração de Jesus","A instituição da Eucaristia"]},
+    dolorosos:{n:"Mistérios Dolorosos",dias:"terça e sexta",l:["A agonia de Jesus no Horto das Oliveiras","A flagelação de Jesus","A coroação de espinhos","Jesus carrega a cruz até o Calvário","A crucifixão e morte de Jesus"]},
+    gloriosos:{n:"Mistérios Gloriosos",dias:"quarta e domingo",l:["A ressurreição de Jesus","A ascensão de Jesus ao céu","A vinda do Espírito Santo","A assunção de Maria ao céu","A coroação de Maria como Rainha do céu e da terra"]}};
+  const BYDAY=["gloriosos","gozosos","dolorosos","gloriosos","luminosos","dolorosos","gozosos"];
+  (function renderTerco(){
+    const k=BYDAY[today.dow],m=MYST[k],box=$("misterios-hoje");
+    const r=el("div","row");r.append(el("span","eyebrow","Terço de hoje"),el("span","today-tag","Hoje"));
+    const ol=el("ol","myst");m.l.forEach((x,i)=>ol.appendChild(el("li",null,x)));
+    box.append(r,el("h3",null,m.n),ol,el("p","note","Rezados às "+m.dias+"."));
+    const all=$("todos-misterios");["gozosos","luminosos","dolorosos","gloriosos"].forEach(kk=>{
+      const mm=MYST[kk];all.appendChild(el("p",null,"")).append(Object.assign(el("b",null,mm.n),{}),document.createTextNode(" ("+mm.dias+")"));
+      const o=el("ol","myst");mm.l.forEach(x=>o.appendChild(el("li",null,x)));all.appendChild(o);});
+  })();
+
+  // ---------- Render: novena ----------
+  const NOVENAS=["Novena a Jesus das Santas Chagas","Novena a Nossa Senhora Aparecida","Novena ao Espírito Santo","Novena a São Judas Tadeu","Novena a Santa Rita de Cássia","Novena a São José","Novena de Natal"];
+  let novenaConfirm=false;
+  function dayDiff(aISO,bISO){const a=Date.UTC(+aISO.slice(0,4),+aISO.slice(5,7)-1,+aISO.slice(8,10)),b=Date.UTC(+bISO.slice(0,4),+bISO.slice(5,7)-1,+bISO.slice(8,10));return Math.round((b-a)/DAY);}
+  function renderNovena(){
+    const box=$("novena-box");box.textContent="";const nv=Store.data.novena;
+    if(!nv||!nv.nome){
+      box.append(el("span","eyebrow","Acompanhe sua novena"),el("p","muted small","Escolha a novena que vai rezar. O app marca os nove dias para você acompanhar."));
+      const f=el("form");const lb=el("label",null,"Qual novena?");lb.htmlFor="nv-nome";
+      const inp=el("input");inp.type="text";inp.id="nv-nome";inp.setAttribute("list","nv-sug");inp.maxLength=100;inp.placeholder="Ex.: Novena a Nossa Senhora Aparecida";inp.required=true;lb.appendChild(inp);
+      const dl=el("datalist");dl.id="nv-sug";NOVENAS.forEach(n=>{const o=el("option");o.value=n;dl.appendChild(o);});
+      const b=el("button","chip fill","Começar hoje");b.type="submit";b.id="nv-start";
+      const sug=el("div","chips");NOVENAS.slice(0,4).forEach(n=>{const c=el("button","chip",n.replace("Novena ",""));c.type="button";c.addEventListener("click",()=>{inp.value=n;inp.focus();});sug.appendChild(c);});
+      const actd=el("div","act");actd.appendChild(b);f.append(lb,dl,sug,actd);
+      f.addEventListener("submit",e=>{e.preventDefault();const v=inp.value.trim();if(!v)return;Store.data.novena={nome:v.slice(0,100),inicio:todayISO,feitos:[false,false,false,false,false,false,false,false,false]};Store.save();renderNovena();});
+      box.appendChild(f);return;}
+    const cur=Math.min(9,Math.max(1,dayDiff(nv.inicio,todayISO)+1));const feitos=Array.isArray(nv.feitos)?nv.feitos:[];
+    const done=feitos.filter(Boolean).length;
+    const r=el("div","row");r.append(el("span","eyebrow","Minha novena"),el("span","pill"+(done===9?"":" soon"),done===9?"Concluída":"Dia "+cur+" de 9"));
+    box.append(r,el("h3",null,nv.nome));
+    const g=el("div","days");for(let i=0;i<9;i++){const b=el("button",null,String(i+1));b.type="button";b.setAttribute("aria-pressed",feitos[i]?"true":"false");
+      b.setAttribute("aria-label","Dia "+(i+1)+(feitos[i]?", rezado":", não rezado"));if(i+1===cur&&done<9)b.classList.add("cur");
+      b.addEventListener("click",()=>{const f=(Store.data.novena.feitos||[]).slice(0,9);while(f.length<9)f.push(false);f[i]=!f[i];Store.data.novena.feitos=f;Store.save();renderNovena();});g.appendChild(b);}
+    box.append(g,el("p","note",done+" de 9 dias rezados. Toque em um dia para marcá-lo."));
+    const act=el("div","act");const end=el("button","chip",novenaConfirm?"Confirmar: encerrar novena":"Encerrar novena");end.type="button";
+    end.addEventListener("click",()=>{if(!novenaConfirm){novenaConfirm=true;renderNovena();setTimeout(()=>{novenaConfirm=false;renderNovena();},5000);return;}
+      novenaConfirm=false;Store.data.novena=null;Store.save();renderNovena();});
+    act.appendChild(end);box.appendChild(act);}
+  renderNovena();
+
+  // ---------- Momentos de oração e lembretes ----------
+  const MOMENTOS=[
+    {id:"angelus-6",h:6,m:0,nome:"Angelus da manhã",oracao:"angelus",dias:null},
+    {id:"terco-6",h:6,m:0,nome:"Terço Mariano na TV Evangelizar",tv:true,dias:null},
+    {id:"exp-deus",h:10,m:0,nome:"Experiência de Deus",tv:true,dias:[1,2,3,4,5,6]},
+    {id:"angelus-12",h:12,m:0,nome:"Angelus do meio-dia",oracao:"angelus",dias:null},
+    {id:"misericordia",h:15,m:0,nome:"Hora da Misericórdia",terco:"misericordia",dias:null},
+    {id:"angelus-18",h:18,m:0,nome:"Angelus da tarde",oracao:"angelus",dias:null},
+    {id:"terco-18",h:18,m:0,nome:"Terço Mariano na TV Evangelizar",tv:true,dias:null},
+    {id:"noite",h:21,m:0,nome:"Oração da noite",oracao:"contricao",dias:null}];
+  const BYDAYRR=["SU","MO","TU","WE","TH","FR","SA"];
+  function nextOccurrence(mo,p){ // returns {offsetDays}
+    for(let k=0;k<8;k++){const dow=(p.dow+k)%7;if(mo.dias&&!mo.dias.includes(dow))continue;if(k===0&&mo.h*60+mo.m<=p.min)continue;return k;}return 0;}
+  function gcalLink(mo){const p=brParts();const k=nextOccurrence(mo,p);const d=new Date(Date.UTC(p.y,p.m-1,p.d)+k*DAY);
+    const ds=d.getUTCFullYear()+pad(d.getUTCMonth()+1)+pad(d.getUTCDate());const t0=pad(mo.h)+pad(mo.m)+"00";const end=mo.h*60+mo.m+15;const t1=pad(Math.floor(end/60))+pad(end%60)+"00";
+    const rr=mo.dias?"RRULE:FREQ=WEEKLY;BYDAY="+mo.dias.map(x=>BYDAYRR[x]).join(","):"RRULE:FREQ=DAILY";
+    const q=new URLSearchParams({action:"TEMPLATE",text:mo.nome+" · Fé Diária",details:"Momento de oração lembrado pelo app Fé Diária.",dates:ds+"T"+t0+"/"+ds+"T"+t1,ctz:TZ,recur:rr});
+    return "https://calendar.google.com/calendar/render?"+q.toString();}
+  function goPrayer(mo){show("oracoes");
+    if(mo.tv){show("hoje");$("aovivo").scrollIntoView({behavior:"smooth"});return;}
+    if(mo.terco){showOr("terco");return;}
+    showOr("lista");const d=$("pr-"+mo.oracao);if(d){d.open=true;d.scrollIntoView({behavior:"smooth",block:"start"});}}
+  (function renderMomentos(){const box=$("momentos");MOMENTOS.forEach(mo=>{
+    const r=el("div","moment");r.append(el("span","when",pad(mo.h)+":"+pad(mo.m)));
+    const w=el("div","what");w.append(el("div",null,mo.nome),el("div","muted small",mo.dias?"Segunda a sábado":"Todos os dias"));r.appendChild(w);
+    const a=el("a","chip","Lembrar todo dia");a.href=gcalLink(mo);a.target="_blank";a.rel="noopener";r.appendChild(a);box.appendChild(r);});})();
+  function renderNext(){const p=brParts();let best=null,bestDelta=1e9;
+    MOMENTOS.forEach(mo=>{if(mo.tv)return;const k=nextOccurrence(mo,p);const delta=k*1440+mo.h*60+mo.m-p.min;if(delta>0&&delta<bestDelta){bestDelta=delta;best=mo;}});
+    if(!best)return;$("next-hora").textContent=pad(best.h)+":"+pad(best.m);$("next-nome").textContent=best.nome;
+    const h=Math.floor(bestDelta/60),m=bestDelta%60;$("next-falta").textContent="Em "+(h?h+" h ":"")+m+" min";
+    $("next-rezar").onclick=()=>goPrayer(best);}
+  renderNext();setInterval(renderNext,60000);
+  $("ver-lembretes").addEventListener("click",()=>{show("oracoes");showOr("lembretes");window.scrollTo({top:0});});
+
+  // ---------- Programas ao vivo ----------
+  const PROGS=[
+    {nome:"Terço Mariano",quando:"Todos os dias, 06:00 e 18:00",dias:[0,1,2,3,4,5,6],horas:[[6,0],[18,0]],dur:30},
+    {nome:"Experiência de Deus",quando:"Segunda a sábado, 10:00",dias:[1,2,3,4,5,6],horas:[[10,0]],dur:60}];
+  function renderProgs(){const n=brParts(),box=$("programas");box.textContent="";
+    PROGS.forEach(p=>{let state=null;
+      if(p.dias.includes(n.dow))for(const [h,m] of p.horas){const s=h*60+m;
+        if(n.min>=s&&n.min<s+p.dur){state=["Ao vivo agora","live"];break}
+        if(n.min<s&&s-n.min<=60){state=["Começa às "+pad(h)+":"+pad(m),"soon"];break}}
+      const c=el("div","card");const top=el("div","row");top.appendChild(el("h3",null,p.nome));
+      if(state)top.appendChild(el("span","pill "+state[1],state[0]));c.append(top,el("span","muted small",p.quando));box.appendChild(c);});}
+  renderProgs();setInterval(renderProgs,60000);
+
+  // ---------- Paróquias ----------
+  let editId=null,removeId=null;
+  function safeHttps(u){return typeof u==="string"&&/^https:\/\//.test(u)?u:null;}
+  function renderParoquias(){const box=$("paroquias");box.textContent="";const ps=Store.data.paroquias||[];
+    if(!ps.length){box.appendChild(el("div","empty","Nenhuma paróquia salva ainda. Use o formulário abaixo para guardar as igrejas que você frequenta e os horários das missas."));return;}
+    ps.forEach(p=>{const c=el("div","card");c.appendChild(el("h3",null,p.nome));
+      if(p.endereco)c.appendChild(el("span","muted small",p.endereco));
+      if(p.horarios){const h=el("p",null,p.horarios);h.style.whiteSpace="pre-line";c.appendChild(h);}
+      const act=el("div","chips");
+      const q=encodeURIComponent((p.nome+" "+(p.endereco||"")).trim());const mp=el("a","chip fill","Ver no mapa ↗");mp.href="https://www.google.com/maps/search/?api=1&query="+q;mp.target="_blank";mp.rel="noopener";
+      const ed=el("button","chip","Editar");ed.type="button";ed.addEventListener("click",()=>{editId=p.id;$("p-nome").value=p.nome;$("p-end").value=p.endereco||"";$("p-hor").value=p.horarios||"";
+        $("form-titulo").textContent="Editar paróquia";$("p-cancelar").hidden=false;$("p-nome").focus();});
+      const rm=el("button","chip",removeId===p.id?"Confirmar remoção":"Remover");rm.type="button";
+      rm.addEventListener("click",()=>{if(removeId!==p.id){removeId=p.id;renderParoquias();setTimeout(()=>{if(removeId===p.id){removeId=null;renderParoquias();}},5000);return;}
+        removeId=null;Store.data.paroquias=(Store.data.paroquias||[]).filter(x=>x.id!==p.id);Store.save();renderParoquias();});
+      act.append(mp,ed,rm);c.appendChild(act);box.appendChild(c);});}
+  function resetForm(){editId=null;$("pform").reset();$("form-titulo").textContent="Adicionar paróquia";$("p-cancelar").hidden=true;}
+  $("pform").addEventListener("submit",e=>{e.preventDefault();const nome=$("p-nome").value.trim();if(!nome)return;
+    const item={id:editId||("p"+Date.now().toString(36)),nome:nome.slice(0,120),endereco:$("p-end").value.trim().slice(0,160),horarios:$("p-hor").value.trim().slice(0,400)};
+    const ps=(Store.data.paroquias||[]).slice();const i=ps.findIndex(x=>x.id===item.id);if(i>=0)ps[i]=item;else ps.push(item);
+    Store.data.paroquias=ps;Store.save();resetForm();renderParoquias();});
+  $("p-cancelar").addEventListener("click",resetForm);
+  renderParoquias();
+
+  // ---------- Hoje: liturgia e santo ----------
+  const fmtCurta=new Intl.DateTimeFormat("pt-BR",{timeZone:"UTC",day:"numeric",month:"long"});
+  function renderLiturgia(d){
+    if(d===undefined)return;
+    const lst=$("lit-leituras");lst.textContent="";
+    if(!d){$("lit-cel").textContent="Liturgia de hoje";$("lit-aviso").hidden=false;$("lit-aviso").textContent="As leituras aparecem aqui depois da atualização da manhã. Enquanto isso, abra as leituras completas pelo botão abaixo.";return;}
+    $("lit-cel").textContent=String(d.celebracao||"Liturgia de hoje");
+    (Array.isArray(d.leituras)?d.leituras:[]).forEach(x=>{lst.append(el("dt",null,String(x.tipo||"")),el("dd",null,String(x.ref||"")));});
+    if(d.reflexao){$("lit-reflexao").hidden=false;$("lit-reflexao").textContent=String(d.reflexao);}else $("lit-reflexao").hidden=true;
+    const pill=$("lit-cor-pill");if(d.cor&&COR[d.cor]){pill.hidden=false;pill.textContent=d.cor;}else pill.hidden=true;
+    const lk=safeHttps(d.link);if(lk)$("lit-link").href=lk;
+    const old=d.data&&d.data!==todayISO;$("lit-aviso").hidden=!old;
+    if(old)$("lit-aviso").textContent="Liturgia de "+fmtCurta.format(new Date(d.data+"T12:00:00Z"))+". A de hoje chega na atualização da manhã.";
+    if(!old){setHeaderSeason(String(d.tempo||sn),COR[d.cor]?d.cor:sc);}}
+  function renderSanto(d){
+    if(d===undefined)return;
+    if(!d){$("santo-nome").textContent="Santo do dia";$("santo-resumo").hidden=false;$("santo-resumo").textContent="O santo de hoje aparece aqui depois da atualização da manhã.";return;}
+    const old=d.data&&d.data!==todayISO;
+    $("santo-nome").textContent=String(d.nome||"Santo do dia")+(old?" ("+fmtCurta.format(new Date(d.data+"T12:00:00Z"))+")":"");
+    $("santo-resumo").hidden=!d.resumo;$("santo-resumo").textContent=String(d.resumo||"");
+    const lk=safeHttps(d.link);if(lk)$("santo-link").href=lk;}
+
+  // ---------- Notícias ----------
+  const SRC={vatican:{portal:"https://www.vaticannews.va/pt/igreja.html",sub:"vaticannews.va · Igreja"},manzotti:{portal:"https://padrereginaldomanzotti.com.br/noticias",sub:"padrereginaldomanzotti.com.br"}};
+  const cache={};let cur="vatican";
+  const fmtData=new Intl.DateTimeFormat("pt-BR",{timeZone:TZ,day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"});
+  const fmtUpd=new Intl.DateTimeFormat("pt-BR",{timeZone:TZ,day:"numeric",month:"long",hour:"2-digit",minute:"2-digit"});
+  function renderNews(){const lista=$("lista"),upd=$("atualizado");
+    $("portal").href=SRC[cur].portal;$("portal-sub").textContent=SRC[cur].sub;
+    const docu=cache[cur];lista.textContent="";
+    if(docu===undefined){upd.textContent="Carregando notícias…";return}
+    const items=(docu&&Array.isArray(docu.items))?docu.items:[];
+    if(!items.length){upd.textContent="";lista.appendChild(el("div","empty","As notícias aparecem aqui depois da atualização da manhã. Enquanto isso, abra o portal completo pelo botão abaixo."));return}
+    upd.textContent=docu.atualizadoEm?"Atualizado em "+fmtUpd.format(new Date(docu.atualizadoEm)):"";
+    const ul=el("div","list");
+    items.forEach(it=>{const lk=it&&safeHttps(it.link);if(!lk)return;
+      const a=el("a","item");a.href=lk;a.target="_blank";a.rel="noopener";
+      if(it.data||it.secao)a.appendChild(el("span","d",[it.secao,it.data?fmtData.format(new Date(it.data)):""].filter(Boolean).join(" · ")));
+      a.appendChild(el("span","t",String(it.titulo||"")));if(it.resumo)a.appendChild(el("span","r",String(it.resumo)));ul.appendChild(a);});
+    lista.appendChild(ul);}
+  document.querySelectorAll("#noticias .seg button").forEach(b=>b.addEventListener("click",()=>{
+    cur=b.dataset.src;document.querySelectorAll("#noticias .seg button").forEach(x=>x.setAttribute("aria-pressed",x===b?"true":"false"));renderNews();}));
+  renderNews();
+
+  // ---------- Conexão com o banco do app ----------
+  const shared={liturgia:undefined,santo:undefined,catequese:undefined};
+  function fallbackAll(){for(const k in SRC)if(cache[k]===undefined)cache[k]=null;renderNews();
+    if(shared.liturgia===undefined){shared.liturgia=null;renderLiturgia(null);}if(shared.santo===undefined){shared.santo=null;renderSanto(null);}
+    if(shared.catequese===undefined){shared.catequese=null;renderCatequese(null);}}
+
+  // ---------- Catequese ----------
+  function renderCatequese(d){
+    if(d===undefined)return;
+    const hist=$("cat-hist");hist.textContent="";
+    if(!d){$("cat-tema").textContent="Catequese de hoje";$("cat-texto").textContent="A dica de hoje aparece aqui depois da atualização da manhã.";$("cat-post").hidden=true;
+      hist.appendChild(el("div","empty","As dicas dos dias anteriores ficam guardadas aqui."));return;}
+    $("cat-post").hidden=false;
+    const old=d.data&&d.data!==todayISO;
+    $("cat-tema").textContent=String(d.tema||"Catequese de hoje")+(old?" ("+fmtCurta.format(new Date(d.data+"T12:00:00Z"))+")":"");
+    $("cat-texto").textContent=String(d.texto||"");
+    const ref=$("cat-ref");ref.hidden=!d.cic;ref.textContent=String(d.cic||"");
+    $("cat-perg-box").hidden=!d.pergunta;$("cat-perg").textContent=String(d.pergunta||"");
+    const lk=safeHttps(d.link);if(lk)$("cat-link").href=lk;
+    const prev=(Array.isArray(d.historico)?d.historico:[]).filter(h=>h&&h.data!==d.data);
+    if(!prev.length){hist.appendChild(el("div","empty","As dicas dos dias anteriores ficam guardadas aqui."));return;}
+    prev.forEach(h=>{const dd=el("details","prayer");const s=el("summary");
+      const left=el("span");left.append(el("span","d small muted",h.data?fmtCurta.format(new Date(h.data+"T12:00:00Z"))+" · ":""),document.createTextNode(String(h.tema||"")));
+      s.append(left,el("span","plus","+"));const t=el("div","ptext");t.appendChild(el("p",null,String(h.texto||"")));
+      if(h.pergunta){const r=el("div","reflect");r.append(el("b",null,"Para refletir: "),document.createTextNode(String(h.pergunta)));t.appendChild(r);}
+      if(h.cic)t.appendChild(el("p","note",String(h.cic)));dd.append(s,t);hist.appendChild(dd);});}
+
+  // ---------- Você evangeliza: gerador de imagens ----------
+  const FORMATOS={feed:{w:1080,h:1350,d:"1080 × 1350 · feed do Instagram e Facebook"},quadrado:{w:1080,h:1080,d:"1080 × 1080 · Instagram, Facebook e WhatsApp"},
+    stories:{w:1080,h:1920,d:"1080 × 1920 · Stories, Status do WhatsApp, Reels e TikTok"},horizontal:{w:1200,h:630,d:"1200 × 630 · Facebook, X e links"}};
+  const FRASES=[
+    {t:"Nada te perturbe, nada te amedronte. Tudo passa, só Deus não muda.",a:"Santa Teresa de Jesus"},
+    {t:"Fizeste-nos para ti, Senhor, e inquieto está o nosso coração enquanto não repousa em ti.",a:"Santo Agostinho"},
+    {t:"Reza, espera e não te preocupes.",a:"São Pio de Pietrelcina"},
+    {t:"Amar é dar tudo e dar-se a si mesmo.",a:"Santa Teresinha do Menino Jesus"},
+    {t:"Não tenhais medo! Abri, ou melhor, escancarai as portas a Cristo!",a:"São João Paulo II"},
+    {t:"Quem tem Deus nada lhe falta: só Deus basta.",a:"Santa Teresa de Jesus"}];
+  const VERSOS=[
+    {t:"O Senhor é o meu pastor, nada me faltará.",a:"Salmo 23,1"},
+    {t:"Tudo posso naquele que me fortalece.",a:"Filipenses 4,13"},
+    {t:"Deus é amor.",a:"1 João 4,8"},
+    {t:"Eu sou o caminho, a verdade e a vida.",a:"João 14,6"},
+    {t:"Vinde a mim, todos vós que estais cansados e sobrecarregados, e eu vos darei descanso.",a:"Mateus 11,28"},
+    {t:"Fazei tudo o que ele vos disser.",a:"João 2,5"}];
+  const ORACOES_POST=["ave-maria","gloria","santo-anjo","o-meu-jesus","pai-nosso","contricao"];
+  const TEMPLATES=[
+    {id:"luz",nome:"Luz",prem:false},{id:"mariano",nome:"Mariano",prem:false},{id:"liturgia",nome:"Cor do dia",prem:false},
+    {id:"noite",nome:"Noite",prem:true},{id:"vitral",nome:"Vitral",prem:true},{id:"moldura",nome:"Moldura",prem:true}];
+  const VE={src:"santo",fmt:"feed",tpl:"luz",item:0};
+  try{const s=JSON.parse(localStorage.getItem("fe-ve")||"null");if(s){Object.assign(VE,s);}}catch(e){}
+  function veSave(){try{localStorage.setItem("fe-ve",JSON.stringify({src:VE.src,fmt:VE.fmt,tpl:VE.tpl,assin:$("ve-assin").value}))}catch(e){}}
+  try{const s=JSON.parse(localStorage.getItem("fe-ve")||"null");if(s&&s.assin!=null)$("ve-assin").value=s.assin;}catch(e){}
+  function firstSentences(t,max){t=String(t||"");if(t.length<=max)return t;const parts=t.match(/[^.!?]+[.!?]+/g)||[t];let o="";
+    for(const p of parts){if((o+p).length>max)break;o+=p;}return(o||t.slice(0,max-1)+"…").trim();}
+  function veContent(){const dia=fmtCurta.format(new Date(todayISO+"T12:00:00Z"));
+    if(VE.src==="santo"){const s=shared.santo;if(!s)return{kicker:"Santo do dia",title:"Santo do dia",body:"O santo de hoje aparece depois da atualização da manhã.",ref:""};
+      return{kicker:"Santo do dia · "+dia,title:String(s.nome||""),body:firstSentences(s.resumo,230),ref:""};}
+    if(VE.src==="catequese"){const c=shared.catequese;if(!c)return{kicker:"Catequese",title:"Catequese de hoje",body:"A dica de hoje aparece depois da atualização da manhã.",ref:""};
+      return{kicker:"Catequese",title:String(c.tema||""),body:firstSentences(c.texto,260),ref:String(c.cic||"")};}
+    if(VE.src==="frase"){const f=FRASES[VE.item%FRASES.length];return{kicker:"",title:"",body:"“"+f.t+"”",ref:f.a,quote:true};}
+    if(VE.src==="versiculo"){const f=VERSOS[VE.item%VERSOS.length];return{kicker:"Palavra de Deus",title:"",body:"“"+f.t+"”",ref:f.a,quote:true};}
+    if(VE.src==="oracao"){const id=ORACOES_POST[VE.item%ORACOES_POST.length];const p=PRAYERS.find(x=>x.id===id);return{kicker:"Oração",title:p.t,body:p.p.join(" "),ref:""};}
+    const t=$("ve-texto").value.trim()||"Escreva sua mensagem no campo acima.";return{kicker:"",title:"",body:t,ref:$("ve-autor").value.trim(),quote:true};}
+  function rng(seed){let s=seed>>>0;return()=>{s=(s*1664525+1013904223)>>>0;return s/4294967296;};}
+  function wrap(ctx,text,maxW){const words=String(text).split(/\s+/);const lines=[];let line="";
+    for(const w of words){const t=line?line+" "+w:w;if(ctx.measureText(t).width>maxW&&line){lines.push(line);line=w;}else line=t;}if(line)lines.push(line);return lines;}
+  function fit(ctx,text,font,maxW,maxH,maxSize,minSize,lh){let size=maxSize,lines=[];
+    for(;size>=minSize;size-=2){ctx.font=font.replace("{s}",size+"px");lines=wrap(ctx,text,maxW);if(lines.length*size*lh<=maxH)break;}
+    return{size:Math.max(size,minSize),lines,font:font.replace("{s}",Math.max(size,minSize)+"px")};}
+  function drawCross(ctx,cx,cy,h,color,lw){ctx.save();ctx.strokeStyle=color;ctx.lineWidth=lw;ctx.lineCap="round";ctx.beginPath();
+    ctx.moveTo(cx,cy-h/2);ctx.lineTo(cx,cy+h/2);ctx.moveTo(cx-h*0.32,cy-h*0.18);ctx.lineTo(cx+h*0.32,cy-h*0.18);ctx.stroke();ctx.restore();}
+  function star(ctx,x,y,r,color){ctx.save();ctx.fillStyle=color;ctx.beginPath();for(let i=0;i<10;i++){const a=-Math.PI/2+i*Math.PI/5,rr=i%2?r*0.45:r;ctx.lineTo(x+Math.cos(a)*rr,y+Math.sin(a)*rr);}ctx.closePath();ctx.fill();ctx.restore();}
+  function litHex(){const d=shared.liturgia;const c=(d&&d.data===todayISO&&COR[d.cor])?d.cor:sc;return{nome:c,hex:c==="branco"?"#C9A227":COR[c]};}
+  function paintBg(ctx,W,H,tpl){const r=rng(W*7+H);let st={ink:"#1D2342",accent:"#A87A1E",soft:"#4A4F6A",panel:null};
+    if(tpl==="luz"){const g=ctx.createLinearGradient(0,0,0,H);g.addColorStop(0,"#FFFDF6");g.addColorStop(1,"#F1DFAF");ctx.fillStyle=g;ctx.fillRect(0,0,W,H);
+      ctx.save();ctx.translate(W/2,-H*0.05);for(let i=0;i<28;i++){ctx.rotate(Math.PI/28);ctx.fillStyle="rgba(201,162,39,0.07)";ctx.beginPath();ctx.moveTo(0,0);ctx.lineTo(-W*0.06,H*1.3);ctx.lineTo(W*0.06,H*1.3);ctx.closePath();ctx.fill();}ctx.restore();
+      st={ink:"#2A2340",accent:"#9A6E12",soft:"#5B5470"};}
+    else if(tpl==="mariano"){const g=ctx.createLinearGradient(0,0,W,H);g.addColorStop(0,"#16306B");g.addColorStop(1,"#4F74BF");ctx.fillStyle=g;ctx.fillRect(0,0,W,H);
+      const cx=W/2,cy=Math.min(W,H)*0.02,R=Math.min(W,H)*0.36;for(let i=0;i<12;i++){const a=Math.PI*(0.15+0.7*i/11);star(ctx,cx-Math.cos(a)*R,cy+Math.sin(a)*R*0.55,Math.min(W,H)*0.018,"#F5D77A");}
+      st={ink:"#FFFFFF",accent:"#F5D77A",soft:"#DCE5FA"};}
+    else if(tpl==="liturgia"){const L=litHex();ctx.fillStyle=L.hex;ctx.fillRect(0,0,W,H);
+      const g=ctx.createRadialGradient(W/2,H/2,Math.min(W,H)*0.2,W/2,H/2,Math.max(W,H)*0.75);g.addColorStop(0,"rgba(255,255,255,0.10)");g.addColorStop(1,"rgba(0,0,0,0.35)");ctx.fillStyle=g;ctx.fillRect(0,0,W,H);
+      st={ink:"#FFFFFF",accent:"#FFF1C2",soft:"rgba(255,255,255,0.85)"};}
+    else if(tpl==="noite"){ctx.fillStyle="#0B1026";ctx.fillRect(0,0,W,H);const g=ctx.createRadialGradient(W*0.5,H*0.15,10,W*0.5,H*0.15,H*0.9);g.addColorStop(0,"rgba(80,100,180,0.35)");g.addColorStop(1,"rgba(0,0,0,0)");ctx.fillStyle=g;ctx.fillRect(0,0,W,H);
+      for(let i=0;i<220;i++){ctx.fillStyle="rgba(255,255,255,"+(0.2+r()*0.7)+")";ctx.beginPath();ctx.arc(r()*W,r()*H,r()*2.4+0.4,0,7);ctx.fill();}
+      star(ctx,W*0.82,H*0.12,Math.min(W,H)*0.025,"#F1D27A");st={ink:"#F4ECD8",accent:"#E0B85A",soft:"#C9CCE0"};}
+    else if(tpl==="vitral"){const cols=["#7A1B22","#1E3F8A","#C9A227","#2E6B3F","#5B2C83","#B5541C"];const n=Math.ceil(W/120)+1,m=Math.ceil(H/120)+1;const pts=[];
+      for(let j=0;j<=m;j++){pts[j]=[];for(let i=0;i<=n;i++)pts[j][i]=[i*W/n+(i&&i<n?(r()-0.5)*50:0),j*H/m+(j&&j<m?(r()-0.5)*50:0)];}
+      ctx.lineWidth=7;ctx.strokeStyle="#1A1410";for(let j=0;j<m;j++)for(let i=0;i<n;i++){const a=pts[j][i],b=pts[j][i+1],c=pts[j+1][i+1],d=pts[j+1][i];
+        [[a,b,c],[a,c,d]].forEach(tr=>{ctx.fillStyle=cols[Math.floor(r()*cols.length)];ctx.beginPath();ctx.moveTo(...tr[0]);ctx.lineTo(...tr[1]);ctx.lineTo(...tr[2]);ctx.closePath();ctx.fill();ctx.stroke();});}
+      st={ink:"#231A12",accent:"#8A5A0A",soft:"#4A3F35",panel:"rgba(255,250,238,0.93)"};}
+    else{ctx.fillStyle="#FBF8F1";ctx.fillRect(0,0,W,H);const m=Math.min(W,H)*0.045;ctx.strokeStyle="#B08A2E";ctx.lineWidth=6;ctx.strokeRect(m,m,W-2*m,H-2*m);ctx.lineWidth=2;ctx.strokeRect(m+16,m+16,W-2*m-32,H-2*m-32);
+      [[m+16,m+16],[W-m-16,m+16],[m+16,H-m-16],[W-m-16,H-m-16]].forEach(([x,y])=>{ctx.save();ctx.translate(x,y);ctx.rotate(Math.PI/4);ctx.fillStyle="#B08A2E";ctx.fillRect(-12,-12,24,24);ctx.restore();});
+      st={ink:"#3A2A12",accent:"#8C6A1C",soft:"#6B5A40"};}
+    return st;}
+  function veDraw(canvas,tpl,fmtKey,content){const F=FORMATOS[fmtKey];const W=F.w,H=F.h;canvas.width=W;canvas.height=H;const ctx=canvas.getContext("2d");
+    const st=paintBg(ctx,W,H,tpl);const short=Math.min(W,H);const wide=W/H>1.4;
+    let mx=W*(wide?0.08:0.1),top=H*(fmtKey==="stories"?0.2:0.12),bottom=H*(fmtKey==="stories"?0.2:0.1);
+    if(st.panel){const px=W*0.07,py=H*(fmtKey==="stories"?0.16:0.08);ctx.fillStyle=st.panel;const rr=short*0.03;ctx.beginPath();ctx.roundRect?ctx.roundRect(px,py,W-2*px,H-2*py,rr):ctx.rect(px,py,W-2*px,H-2*py);ctx.fill();mx=px+W*0.06;top=py+H*0.06;bottom=py+H*0.05;}
+    const maxW=W-2*mx;ctx.textAlign="center";ctx.textBaseline="top";let y=top;
+    drawCross(ctx,W/2,y+short*0.035,short*0.07,st.accent,short*0.008);y+=short*0.1;
+    if(content.kicker){ctx.font="700 "+Math.round(short*0.028)+"px Cinzel, Georgia, serif";ctx.fillStyle=st.accent;
+      const k=content.kicker.toUpperCase();ctx.fillText(k,W/2,y,maxW);y+=short*0.05;}
+    if(content.title){const f=fit(ctx,content.title,"700 {s} Cinzel, Georgia, serif",maxW,short*0.2,Math.round(short*0.07),Math.round(short*0.038),1.15);
+      ctx.font=f.font;ctx.fillStyle=st.ink;f.lines.forEach(l=>{ctx.fillText(l,W/2,y);y+=f.size*1.15;});y+=short*0.03;}
+    const sigH=short*0.06,refH=content.ref?short*0.06:0;const avail=H-bottom-sigH-refH-y;
+    const bodyFont=content.quote?"italic 600 {s} 'Cormorant Garamond', Georgia, serif":"500 {s} 'Cormorant Garamond', Georgia, serif";
+    const b=fit(ctx,content.body,bodyFont,maxW,avail,Math.round(short*(content.quote?0.085:0.05)),Math.round(short*0.03),1.25);
+    const blockH=b.lines.length*b.size*1.25;let by=y+Math.max(0,(avail-blockH)/2);ctx.font=b.font;ctx.fillStyle=st.ink;
+    b.lines.forEach(l=>{ctx.fillText(l,W/2,by);by+=b.size*1.25;});
+    if(content.ref){ctx.font="700 "+Math.round(short*0.03)+"px 'Source Sans 3', Arial, sans-serif";ctx.fillStyle=st.accent;ctx.fillText("— "+content.ref,W/2,by+short*0.02,maxW);}
+    const sig=$("ve-assin").value.trim();if(sig){ctx.font="600 "+Math.round(short*0.026)+"px 'Source Sans 3', Arial, sans-serif";ctx.fillStyle=st.soft;ctx.fillText(sig,W/2,H-bottom-short*0.01,maxW);}}
+  // UI
+  const veSrcBtns=[...document.querySelectorAll("#ve-src .opt")],veFmtBtns=[...document.querySelectorAll("#ve-fmt .opt")];
+  function veItems(){const sel=$("ve-item");sel.textContent="";let list=null;
+    if(VE.src==="frase")list=FRASES.map(f=>f.a+": "+f.t.slice(0,42)+(f.t.length>42?"…":""));
+    else if(VE.src==="versiculo")list=VERSOS.map(f=>f.a+": "+f.t.slice(0,42)+(f.t.length>42?"…":""));
+    else if(VE.src==="oracao")list=ORACOES_POST.map(id=>PRAYERS.find(p=>p.id===id).t);
+    $("ve-item-lb").hidden=!list;$("ve-texto-lb").hidden=VE.src!=="livre";$("ve-autor-lb").hidden=VE.src!=="livre";
+    if(list){list.forEach((t,i)=>{const o=el("option",null,t);o.value=String(i);sel.appendChild(o);});VE.item=Math.min(VE.item,list.length-1);sel.value=String(VE.item);}}
+  function veSync(){veSrcBtns.forEach(b=>b.setAttribute("aria-pressed",b.dataset.src===VE.src?"true":"false"));
+    veFmtBtns.forEach(b=>b.setAttribute("aria-pressed",b.dataset.fmt===VE.fmt?"true":"false"));$("ve-fmt-desc").textContent=FORMATOS[VE.fmt].d;
+    document.querySelectorAll("#ve-tpls .tpl").forEach(b=>b.setAttribute("aria-pressed",b.dataset.tpl===VE.tpl?"true":"false"));}
+  const bigCanvas=document.createElement("canvas");let veTimer=null;
+  function veRender(){clearTimeout(veTimer);veTimer=setTimeout(()=>{if($("evangeliza").hidden)return;const c=veContent();veDraw(bigCanvas,VE.tpl,VE.fmt,c);
+    try{$("ve-prev").src=bigCanvas.toDataURL("image/png");}catch(e){}
+    document.querySelectorAll("#ve-tpls canvas").forEach(cv=>{const tmp=document.createElement("canvas");veDraw(tmp,cv.dataset.tpl,"quadrado",c);cv.width=240;cv.height=240;cv.getContext("2d").drawImage(tmp,0,0,240,240);});},60);}
+  window.__veRender=veRender;
+  TEMPLATES.forEach(t=>{const b=el("button","tpl");b.type="button";b.dataset.tpl=t.id;const cv=el("canvas");cv.dataset.tpl=t.id;cv.width=240;cv.height=240;
+    const nm=el("span","nm");nm.appendChild(el("span",null,t.nome));if(t.prem)nm.appendChild(el("span","prem","Premium"));b.append(cv,nm);
+    b.addEventListener("click",()=>{VE.tpl=t.id;veSync();veSave();veRender();});$("ve-tpls").appendChild(b);});
+  veSrcBtns.forEach(b=>b.addEventListener("click",()=>{VE.src=b.dataset.src;VE.item=0;veItems();veSync();veSave();veRender();}));
+  veFmtBtns.forEach(b=>b.addEventListener("click",()=>{VE.fmt=b.dataset.fmt;veSync();veSave();veRender();}));
+  $("ve-item").addEventListener("change",e=>{VE.item=+e.target.value||0;veRender();});
+  ["ve-texto","ve-autor","ve-assin"].forEach(id=>$(id).addEventListener("input",()=>{veSave();veRender();}));
+  if(!FORMATOS[VE.fmt])VE.fmt="feed";if(!TEMPLATES.some(t=>t.id===VE.tpl))VE.tpl="luz";
+  veItems();veSync();
+  function openPost(src){VE.src=src;VE.item=0;veItems();veSync();veSave();show("evangeliza");window.scrollTo({top:0});}
+  $("santo-post").addEventListener("click",()=>openPost("santo"));
+  $("cat-post").addEventListener("click",()=>openPost("catequese"));
+  function legenda(){const c=veContent();const tags=VE.src==="santo"?"#santododia #igrejacatolica #fecatolica":VE.src==="catequese"?"#catequese #catecismo #igrejacatolica":"#fe #igrejacatolica #evangelizar";
+    return[c.title,c.body,c.ref?"— "+c.ref:"","",tags].filter((x,i)=>x||i===3).join("\n").trim();}
+  $("ve-legenda").addEventListener("click",()=>{const t=legenda();const ta=$("ve-leg-txt");
+    navigator.clipboard&&navigator.clipboard.writeText?navigator.clipboard.writeText(t).then(()=>{$("ve-msg").textContent="Legenda copiada. Cole no seu post.";},()=>{ta.hidden=false;ta.value=t;ta.select();$("ve-msg").textContent="Selecione e copie a legenda abaixo.";})
+      :(ta.hidden=false,ta.value=t,ta.select(),$("ve-msg").textContent="Selecione e copie a legenda abaixo.");});
+  function veBlob(){return new Promise(res=>{veDraw(bigCanvas,VE.tpl,VE.fmt,veContent());bigCanvas.toBlob(b=>res(b),"image/png");});}
+  const veName=()=>"fe-diaria-"+VE.src+"-"+VE.fmt+".png";
+  $("ve-baixar").addEventListener("click",async()=>{const blob=await veBlob();if(!blob)return;const u=URL.createObjectURL(blob);
+    const a=document.createElement("a");a.href=u;a.download=veName();document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),4000);
+    $("ve-msg").textContent="Imagem salva. Agora é só postar.";});
+  (async()=>{try{const test=new File([new Blob(["x"],{type:"image/png"})],"t.png",{type:"image/png"});
+    if(navigator.canShare&&navigator.canShare({files:[test]}))$("ve-compartilhar").hidden=false;}catch(e){}})();
+  $("ve-compartilhar").addEventListener("click",async()=>{const blob=await veBlob();if(!blob)return;
+    const file=new File([blob],veName(),{type:"image/png"});
+    try{await navigator.share({files:[file],text:legenda()});}catch(e){if(e&&e.name!=="AbortError")$("ve-msg").textContent="Não foi possível compartilhar. Use o botão Baixar imagem.";}});
+  if(document.fonts&&document.fonts.load){Promise.all(["700 40px Cinzel","italic 600 40px 'Cormorant Garamond'","500 40px 'Cormorant Garamond'","600 40px 'Source Sans 3'"].map(f=>document.fonts.load(f).catch(()=>{}))).then(veRender);}
+  if(!$("evangeliza").hidden)veRender();
+  // ---------- Dados do dia (arquivo atualizado todas as manhãs pelo GitHub) ----------
+  (async()=>{
+    try{const r=await fetch("data/dados.json?d="+todayISO,{cache:"no-cache"});if(!r.ok)throw 0;const d=await r.json();
+      const n=d.noticias||{};for(const k in SRC)cache[k]=n[k]||null;renderNews();
+      shared.liturgia=d.liturgia||null;renderLiturgia(shared.liturgia);
+      shared.santo=d.santo||null;renderSanto(shared.santo);
+      shared.catequese=d.catequese||null;renderCatequese(shared.catequese);veRender();
+    }catch(e){fallbackAll();}
+  })();
+
+  // ---------- Players da TV e da Rádio ----------
+  const TV_URL="https://df1.cdnsimba.com.br/bpk-tv/Df1_TVEVCTB2_HLS/hls/master.m3u8";
+  const RADIO_URL="https://8239.brasilstream.com.br/stream?origem=radios.com.br";
+  const video=$("tv-video");let hls=null;
+  function tvFail(){$("tv-msg").textContent="Não foi possível abrir a transmissão aqui. Use o botão abaixo para assistir no site da TV.";$("tv-status").hidden=true;}
+  if(video.canPlayType("application/vnd.apple.mpegurl")){video.src=TV_URL;}
+  else{const sc=document.createElement("script");sc.src="https://cdn.jsdelivr.net/npm/hls.js@1.5.13/dist/hls.min.js";sc.defer=true;
+    sc.onload=()=>{if(window.Hls&&window.Hls.isSupported()){hls=new window.Hls({autoStartLoad:false});hls.loadSource(TV_URL);hls.attachMedia(video);
+      hls.on(window.Hls.Events.ERROR,(ev,data)=>{if(data&&data.fatal)tvFail();});}else tvFail();};
+    sc.onerror=tvFail;document.head.appendChild(sc);}
+  video.addEventListener("play",()=>{if(hls)hls.startLoad();$("tv-msg").textContent="Conectando…";});
+  video.addEventListener("playing",()=>{$("tv-status").hidden=false;$("tv-msg").textContent="";if(!audio.paused)audio.pause();});
+  video.addEventListener("error",()=>{if(video.src)tvFail();});
+  const audio=$("radio-audio"),rbtn=$("radio-btn");
+  rbtn.addEventListener("click",()=>{if(audio.paused){if(!audio.src)audio.src=RADIO_URL;$("radio-msg").textContent="Conectando…";
+      audio.play().then(()=>{rbtn.textContent="❚❚";rbtn.setAttribute("aria-label","Pausar a rádio");$("radio-msg").textContent="Tocando ao vivo. Você pode navegar pelas outras abas.";if(!video.paused)video.pause();})
+        .catch(()=>{$("radio-msg").textContent="Não foi possível tocar a rádio aqui. Use o botão abaixo para ouvir no site.";});}
+    else{audio.pause();rbtn.textContent="▶";rbtn.setAttribute("aria-label","Tocar a Rádio Evangelizar");$("radio-msg").textContent="Pausada.";}});
+  audio.addEventListener("error",()=>{if(audio.src){rbtn.textContent="▶";$("radio-msg").textContent="A transmissão da rádio está indisponível agora. Use o botão abaixo para ouvir no site.";}});
+  if("mediaSession" in navigator){navigator.mediaSession.metadata=new MediaMetadata({title:"Rádio Evangelizar",artist:"Ao vivo",artwork:[{src:"icons/icon-512.png",sizes:"512x512",type:"image/png"}]});}
+
+  // ---------- Anúncio (aparece só depois de configurar o AdSense) ----------
+  const ADSENSE_CLIENT="";   // ex.: "ca-pub-1234567890123456"
+  const ADSENSE_SLOT="";     // ex.: "1234567890"
+  if(ADSENSE_CLIENT&&ADSENSE_SLOT){const slot=$("ad-slot");slot.hidden=false;const ins=document.createElement("ins");ins.className="adsbygoogle";ins.style.display="block";
+    ins.setAttribute("data-ad-client",ADSENSE_CLIENT);ins.setAttribute("data-ad-slot",ADSENSE_SLOT);ins.setAttribute("data-ad-format","auto");ins.setAttribute("data-full-width-responsive","true");slot.appendChild(ins);
+    try{(window.adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}}
+
+  // ---------- Instalação e funcionamento offline ----------
+  if("serviceWorker" in navigator){window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));}
+  let deferredPrompt=null;window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();deferredPrompt=e;$("install-card").hidden=false;});
+  $("install-btn").addEventListener("click",async()=>{if(!deferredPrompt)return;deferredPrompt.prompt();await deferredPrompt.userChoice.catch(()=>{});deferredPrompt=null;$("install-card").hidden=true;});
+})();
+</script>
+
+</body>
+</html>
