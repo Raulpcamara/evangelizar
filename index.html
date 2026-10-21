@@ -7,6 +7,7 @@
 <meta name="description" content="App católico gratuito: liturgia e santo do dia, catequese diária, orações, terço, novenas, notícias da Igreja, transmissões ao vivo e imagens para evangelizar nas redes sociais.">
 <link rel="canonical" href="https://evangelizar.casadavochica.com.br/">
 <meta name="theme-color" content="#13224A">
+<script>try{var t=localStorage.getItem("fe-tema");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t);}catch(e){}</script>
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon-192.png" type="image/png">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
@@ -51,7 +52,9 @@ header > *:not(svg){position:relative;z-index:1}
 .day{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:4px 12px;color:var(--nave-muted);font-size:.9rem}
 .lit{display:inline-flex;align-items:center;gap:6px;font-weight:600;color:var(--nave-ink)}
 .dot{width:12px;height:12px;border-radius:50%;display:inline-block;border:1px solid rgba(255,255,255,.35);flex:none}
-nav{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--nave);display:flex;gap:2px;padding:6px;border-top:1px solid var(--leaf);border-radius:0 0 22px 22px;overflow-x:auto;scrollbar-width:none;box-shadow:0 6px 16px rgba(10,17,40,.18)}
+.topo-fixo{position:sticky;top:env(safe-area-inset-top,0px);z-index:5}
+.topo-fixo.com-mini nav{border-radius:0}
+nav{background:var(--nave);display:flex;gap:2px;padding:6px;border-top:1px solid var(--leaf);border-radius:0 0 22px 22px;overflow-x:auto;scrollbar-width:none;box-shadow:0 6px 16px rgba(10,17,40,.18)}
 nav::-webkit-scrollbar{display:none}
 nav button{font:600 .78rem var(--body);color:var(--nave-muted);background:transparent;border:0;border-radius:12px;padding:7px 10px;cursor:pointer;flex:none;white-space:nowrap;display:flex;flex-direction:column;align-items:center;gap:3px;min-width:64px}
 nav button svg{width:20px;height:20px;stroke-linecap:round;stroke-linejoin:round}
@@ -163,6 +166,27 @@ body{margin:0;padding-top:max(12px,env(safe-area-inset-top))}
 .links-legais a{color:var(--muted)}
 .install{display:flex;align-items:center;justify-content:space-between;gap:12px}
 </style>
+<style>
+.tema-btn{position:absolute;top:12px;right:12px;z-index:2;display:flex;align-items:center;gap:6px;border:1px solid rgba(201,162,39,.6);background:rgba(19,34,74,.6);color:#F3E6C0;border-radius:999px;padding:6px 11px;font:600 .78rem var(--body);cursor:pointer}
+.tema-btn svg{width:16px;height:16px}
+.mini{display:flex;align-items:center;gap:10px;background:var(--nave-2);color:#F3E6C0;padding:8px 10px;border-bottom:2px solid #C9A227;border-radius:0 0 18px 18px;box-shadow:0 6px 14px rgba(10,17,40,.25)}
+.mini .art{width:44px;height:44px;border-radius:9px;background:var(--nave);border:1px solid #C9A227;display:grid;place-items:center;flex:none;overflow:hidden;padding:0;cursor:pointer;color:#F3D98A}
+.mini .art.video{width:80px;height:45px;background:#000}
+.mini .art video{width:100%;height:100%;object-fit:cover;display:block;border-radius:0;aspect-ratio:auto}
+.mini .art svg{width:24px;height:24px}
+.mini .txt{flex:1;min-width:0;display:flex;flex-direction:column;align-items:flex-start;line-height:1.25;background:none;border:0;color:inherit;text-align:left;cursor:pointer;padding:0;font:inherit}
+.mini .txt b{font-size:.88rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+.mini .txt span{font-size:.72rem;color:#B9C3DE;display:flex;align-items:center;gap:6px}
+.live-tag{display:inline-flex;align-items:center;gap:4px;font-size:.6rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;background:#B3261E;color:#fff;border-radius:999px;padding:1px 7px}
+.live-tag::before{content:"";width:5px;height:5px;border-radius:50%;background:#fff}
+.eq{display:inline-flex;gap:2px;align-items:flex-end;height:10px}.eq i{width:2px;height:6px;background:#F3D98A;display:block}
+@media (prefers-reduced-motion:no-preference){.live-tag{animation:pulse 2s ease-in-out infinite}.eq i{animation:eq 1s ease-in-out infinite}.eq i:nth-child(2){animation-delay:.2s}.eq i:nth-child(3){animation-delay:.4s}@keyframes eq{0%,100%{height:3px}50%{height:10px}}}
+.mini.pausado .eq{display:none}
+.mini .pp{width:38px;height:38px;border-radius:50%;border:0;background:#C9A227;color:#13224A;font-size:.95rem;cursor:pointer;flex:none}
+.mini .x{width:30px;height:30px;border-radius:50%;border:1px solid rgba(185,195,222,.45);background:transparent;color:#B9C3DE;font-size:.8rem;cursor:pointer;flex:none}
+#tv-slot{width:100%;aspect-ratio:16/9;max-width:100%;background:#000;border-radius:12px;overflow:hidden}
+#tv-slot video{border-radius:0}
+</style>
 </head>
 <body>
 
@@ -190,10 +214,12 @@ body{margin:0;padding-top:max(12px,env(safe-area-inset-top))}
       <circle cx="200" cy="70" r="23" fill="none" stroke="#C9A227" stroke-width="1.3" opacity=".85"/>
       <g style="color:#F3D98A"><svg x="182" y="52" width="36" height="36"><use href="#i-chirho"/></svg></g>
     </svg>
+    <button class="tema-btn" id="tema-btn" type="button" aria-label="Mudar entre modo claro e escuro"><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 4a8 8 0 0 1 0 16z" fill="currentColor"/></svg><span id="tema-txt">Automático</span></button>
     <h1 class="brand">Fé Diária</h1>
     <div class="day"><span id="hoje"></span><span class="lit"><i class="dot" id="litcor"></i><span id="littempo"></span></span></div>
   </header>
 
+  <div class="topo-fixo" id="topo-fixo">
   <nav role="tablist">
     <button role="tab" id="tab-hoje" aria-selected="true" data-tab="hoje"><svg aria-hidden="true"><use href="#i-cruz"/></svg>Hoje</button>
     <button role="tab" id="tab-noticias" aria-selected="false" data-tab="noticias"><svg aria-hidden="true"><use href="#i-jornal"/></svg>Notícias</button>
@@ -203,6 +229,13 @@ body{margin:0;padding-top:max(12px,env(safe-area-inset-top))}
     <button role="tab" id="tab-missa" aria-selected="false" data-tab="missa"><svg aria-hidden="true"><use href="#i-calice"/></svg>Missa</button>
     <button role="tab" id="tab-apoie" aria-selected="false" data-tab="apoie"><svg aria-hidden="true"><use href="#i-coracao"/></svg>Apoie</button>
   </nav>
+  <div class="mini" id="mini" hidden>
+    <button class="art" id="mini-art" type="button" aria-label="Voltar ao player"></button>
+    <button class="txt" id="mini-txt" type="button" aria-label="Voltar ao player"><b id="mini-nome">Rádio Evangelizar</b><span><span class="live-tag">Ao vivo</span><span class="eq" aria-hidden="true"><i></i><i></i><i></i></span><span id="mini-sub"></span></span></button>
+    <button class="pp" id="mini-pp" type="button" aria-label="Pausar">❚❚</button>
+    <button class="x" id="mini-x" type="button" aria-label="Fechar e parar">✕</button>
+  </div>
+  </div>
 
   <!-- ================= HOJE ================= -->
   <section id="hoje-panel" role="tabpanel">
@@ -232,7 +265,7 @@ body{margin:0;padding-top:max(12px,env(safe-area-inset-top))}
     <div class="grid" id="programas"></div>
     <div class="player" id="tv-player">
       <div class="row"><h3>TV Evangelizar ao vivo</h3><span class="pill live" id="tv-status" hidden>Ao vivo</span></div>
-      <video id="tv-video" controls playsinline preload="none" poster="icons/tv-poster.png"></video>
+      <div id="tv-slot"><video id="tv-video" controls playsinline preload="none" poster="icons/tv-poster.png"></video></div>
       <p class="note muted small" id="tv-msg">Toque no play para assistir aqui no app.</p>
       <div class="chips"><a class="chip" href="https://tvevangelizar.com.br/tv-ao-vivo" target="_blank" rel="noopener">Abrir no site da TV ↗</a></div>
     </div>
@@ -874,6 +907,45 @@ body{margin:0;padding-top:max(12px,env(safe-area-inset-top))}
     else{audio.pause();rbtn.textContent="▶";rbtn.setAttribute("aria-label","Tocar a Rádio Evangelizar");$("radio-msg").textContent="Pausada.";}});
   audio.addEventListener("error",()=>{if(audio.src){rbtn.textContent="▶";$("radio-msg").textContent="A transmissão da rádio está indisponível agora. Use o botão abaixo para ouvir no site.";}});
   if("mediaSession" in navigator){navigator.mediaSession.metadata=new MediaMetadata({title:"Rádio Evangelizar",artist:"Ao vivo",artwork:[{src:"icons/icon-512.png",sizes:"512x512",type:"image/png"}]});}
+
+  // ---------- Mini player fixo abaixo das abas ----------
+  const mini=$("mini"),topo=$("topo-fixo"),slot=$("tv-slot"),art=$("mini-art"),pp=$("mini-pp");
+  const RADIO_ICO='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9h16v11H4zM8 9l9-5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="15" cy="14.5" r="2.6" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M7 13h3M7 16h3" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>';
+  let ativo=null;const vis={radio:false,tv:false};
+  function tocando(){return ativo==="tv"?!video.paused:ativo==="radio"?!audio.paused:false;}
+  function voltarVideo(){if(video.parentNode!==slot){video.controls=true;slot.appendChild(video);}}
+  function updMini(){
+    const mostrar=!!ativo&&!vis[ativo];
+    if(ativo==="tv"&&mostrar){art.classList.add("video");if(video.parentNode!==art){art.textContent="";video.controls=false;art.appendChild(video);}}
+    else{voltarVideo();if(ativo!=="tv"){art.classList.remove("video");if(!art.querySelector("svg"))art.innerHTML=RADIO_ICO;}}
+    if(ativo!=="tv"&&art.querySelector("video")===null&&!art.innerHTML)art.innerHTML=RADIO_ICO;
+    $("mini-nome").textContent=ativo==="tv"?"TV Evangelizar":"Rádio Evangelizar";
+    const on=tocando();mini.classList.toggle("pausado",!on);$("mini-sub").textContent=on?"":"Pausada";
+    pp.textContent=on?"❚❚":"▶";pp.setAttribute("aria-label",on?"Pausar":"Continuar");
+    mini.hidden=!mostrar;topo.classList.toggle("com-mini",mostrar);}
+  if("IntersectionObserver" in window){
+    const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.target===slot)vis.tv=e.isIntersecting;else vis.radio=e.isIntersecting;});updMini();},{rootMargin:"-120px 0px 0px 0px"});
+    io.observe(slot);io.observe($("radio-player"));}
+  video.addEventListener("play",()=>{ativo="tv";updMini();});
+  video.addEventListener("pause",updMini);
+  audio.addEventListener("play",()=>{ativo="radio";updMini();});
+  audio.addEventListener("pause",updMini);
+  pp.addEventListener("click",()=>{if(ativo==="tv"){video.paused?video.play().catch(()=>{}):video.pause();}else if(ativo==="radio"){rbtn.click();}});
+  $("mini-x").addEventListener("click",()=>{if(ativo==="tv")video.pause();
+    if(ativo==="radio"){audio.pause();audio.removeAttribute("src");audio.load();rbtn.textContent="▶";rbtn.setAttribute("aria-label","Tocar a Rádio Evangelizar");$("radio-msg").textContent="Toque para ouvir.";}
+    ativo=null;updMini();});
+  function irAoPlayer(){const alvo=ativo==="tv"?$("tv-player"):$("radio-player");show("hoje");setTimeout(()=>alvo.scrollIntoView({behavior:"smooth",block:"center"}),50);}
+  art.addEventListener("click",irAoPlayer);$("mini-txt").addEventListener("click",irAoPlayer);
+  if("mediaSession" in navigator){try{navigator.mediaSession.setActionHandler("play",()=>{if(ativo==="radio"&&audio.paused)rbtn.click();else if(ativo==="tv")video.play().catch(()=>{});});
+    navigator.mediaSession.setActionHandler("pause",()=>{if(ativo==="radio"&&!audio.paused)rbtn.click();else if(ativo==="tv")video.pause();});}catch(e){}}
+
+  // ---------- Tema claro / escuro ----------
+  const TEMAS=["auto","light","dark"],NOMES={auto:"Automático",light:"Claro",dark:"Escuro"};
+  let tema="auto";try{const t=localStorage.getItem("fe-tema");if(TEMAS.includes(t))tema=t;}catch(e){}
+  function aplicaTema(){if(tema==="auto")document.documentElement.removeAttribute("data-theme");else document.documentElement.setAttribute("data-theme",tema);
+    $("tema-txt").textContent=NOMES[tema];try{localStorage.setItem("fe-tema",tema);}catch(e){}}
+  $("tema-btn").addEventListener("click",()=>{tema=TEMAS[(TEMAS.indexOf(tema)+1)%TEMAS.length];aplicaTema();});
+  aplicaTema();
 
   // ---------- Anúncio (aparece só depois de configurar o AdSense) ----------
   const ADSENSE_CLIENT="";   // ex.: "ca-pub-1234567890123456"
