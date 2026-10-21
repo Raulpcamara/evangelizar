@@ -77,32 +77,69 @@ export function lerManzotti(html, limite = 10) {
 export function acharLiturgia(html, iso) {
   const [a, m, d] = iso.split("-").map(Number);
   const trecho = `-${d}-de-${MESES[m - 1]}-de-${a}`;
-  for (const mm of html.matchAll(/<a\b[^>]*href="(https:\/\/evangelizarepreciso\.com\.br\/liturgia-diaria\/[^"]+)"[^>]*>([\s\S]*?)<\/a>/gi)) {
+  for (const mm of html.matchAll(/<a\b[^>]*href="(https:\/\/evangelizarepreciso\.com\.br\/liturgia-diaria\/[^"]+)"[^>]*>/gi)) {
     if (mm[1].includes(trecho)) {
       const slug = mm[1].split("/").filter(Boolean).pop();
-      const titulo = texto(mm[2]) || slug.replace(trecho, "").replace(/-/g, " ");
-      return { link: mm[1], titulo };
+      return { link: mm[1], titulo: tituloDoSlug(slug.replace(trecho, "")) };
     }
   }
   return null;
 }
-function tituloLiturgia(slugTitulo) {
-  const t = slugTitulo.replace(/\s+/g, " ").trim();
-  return t ? t.replace(/^./, c => c.toUpperCase()).replace(/\b(\d+)a semana\b/i, "$1ª Semana").replace(/\b(\d+)o domingo\b/i, "$1º Domingo") : "Liturgia de hoje";
+const DIAS = ["segunda-feira","terca-feira","quarta-feira","quinta-feira","sexta-feira","sabado","domingo"];
+const DIAS_OK = { "segunda-feira":"Segunda-feira","terca-feira":"Terça-feira","quarta-feira":"Quarta-feira","quinta-feira":"Quinta-feira","sexta-feira":"Sexta-feira","sabado":"Sábado","domingo":"Domingo" };
+const MIN = new Set(["do","da","de","dos","das","e","a","o","em","na","no"]);
+export function tituloDoSlug(slug) {
+  let s = slug.replace(/^-+|-+$/g, "");
+  let dia = "";
+  for (const d of DIAS) if (s.endsWith("-" + d)) { dia = d; s = s.slice(0, -(d.length + 1)); break; }
+  s = s.replace(/^(\d+)a-semana/, "$1ª-semana").replace(/^(\d+)o-domingo/, "$1º-domingo");
+  const fixes = { tempo:"Tempo", comum:"Comum", pascoa:"Páscoa", quaresma:"Quaresma", advento:"Advento", natal:"Natal", semana:"Semana", domingo:"Domingo", santissima:"Santíssima", trindade:"Trindade", sao:"São", santo:"Santo", santa:"Santa", senhor:"Senhor", nossa:"Nossa", senhora:"Senhora", jesus:"Jesus", cristo:"Cristo", rei:"Rei" };
+  const titulo = s.split("-").map((w, i) => (i && MIN.has(w)) ? w : (fixes[w] || w.charAt(0).toUpperCase() + w.slice(1))).join(" ");
+  if (!dia || dia === "domingo") return titulo || "Liturgia de hoje";
+  return `${DIAS_OK[dia]} da ${titulo}`;
+}
+// Referências das leituras, lidas da página do dia (sem copiar os textos)
+export function leiturasDaPagina(html) {
+  const txt = decod(html.replace(/<(script|style)[\s\S]*?<\/\1>/gi, " ").replace(/<\/(p|div|h\d|li|br|strong|b|span)>|<br\s*\/?>/gi, "\n").replace(/<[^>]+>/g, " "));
+  const linhas = txt.split("\n").map(l => l.replace(/\s+/g, " ").trim()).filter(Boolean);
+  const REF = /(\d+\s?,\s?\d[\w\-–.,; ]*)/;
+  const limpa = r => r.replace(/\s*,\s*/g, ",").replace(/\s+/g, " ").replace(/[.;,]+$/, "").trim();
+  const out = []; let leituras = 0;
+  for (let i = 0; i < linhas.length && out.length < 5; i++) {
+    const l = linhas[i], prox = linhas[i + 1] || "";
+    if (/^Leitura (do|da|dos|das) /i.test(l) && leituras < 2) {
+      const junto = REF.test(l) ? l : l + " " + prox; const m = junto.match(REF); if (!m) continue;
+      const livro = junto.slice(0, m.index).replace(/^Leitura (do|da|dos|das)\s+/i, "").trim();
+      leituras++; out.push({ tipo: leituras === 1 ? "1ª Leitura" : "2ª Leitura", ref: livro + " " + limpa(m[1]) });
+    } else if (/^Salmo responsorial/i.test(l) && !out.some(o => o.tipo === "Salmo")) {
+      const alvo = REF.test(l.replace(/^Salmo responsorial/i, "")) ? l.replace(/^Salmo responsorial:?/i, "") : prox;
+      const r = alvo.replace(/\(R\.[^)]*\)/, "").trim(); if (REF.test(r)) out.push({ tipo: "Salmo", ref: limpa(r) });
+    } else if (/segundo (Mateus|Marcos|Lucas|João|Joao)/i.test(l) && !out.some(o => o.tipo === "Evangelho")) {
+      const ev = l.match(/segundo (Mateus|Marcos|Lucas|João|Joao)/i)[1];
+      const resto = l.slice(l.search(/segundo/i) + 8 + ev.length) + " " + prox; const m = resto.match(REF);
+      if (m) out.push({ tipo: "Evangelho", ref: ev.replace("Joao", "João") + " " + limpa(m[1]) });
+    }
+  }
+  const ordem = { "1ª Leitura": 0, "Salmo": 1, "2ª Leitura": 2, "Evangelho": 3 };
+  return out.sort((a, b) => ordem[a.tipo] - ordem[b.tipo]);
 }
 
 // ---------- Santo do dia (Vatican News) ----------
+export function santosDaPagina(html) {
+  const nomes = [];
+  for (const m of html.matchAll(/<h2\b[^>]*>([\s\S]*?)<\/h2>/gi)) {
+    const t = texto(m[1]);
+    if (t && !/santo do dia|calend[aá]rio|vatican news|leia tamb[eé]m|newsletter|siga-nos/i.test(t) && t.length < 160) nomes.push(t);
+  }
+  return [...new Set(nomes)];
+}
 async function santoVatican(iso) {
   const [, m, d] = iso.split("-");
-  const urls = [`https://www.vaticannews.va/pt/santo-do-dia/${m}/${d}.html`, "https://www.vaticannews.va/pt/santo-do-dia.html"];
-  for (const url of urls) {
-    try {
-      const html = await baixar(url);
-      const og = (html.match(/<meta[^>]+property="og:title"[^>]+content="([^"]+)"/i) || [])[1];
-      const titulo = texto(og || tag(html, "title")).replace(/\s*[-|]\s*Vatican News.*$/i, "");
-      if (titulo && !/santo do dia$/i.test(titulo)) return { nome: titulo, link: url };
-    } catch (e) { log("santo:", e.message); }
-  }
+  const url = `https://www.vaticannews.va/pt/santo-do-dia/${m}/${d}.html`;
+  try {
+    const nomes = santosDaPagina(await baixar(url));
+    if (nomes.length) return { nome: nomes[0], resumo: nomes.length > 1 ? "Também lembrados hoje: " + nomes.slice(1, 4).join("; ") + "." : "", link: url };
+  } catch (e) { log("santo:", e.message); }
   return null;
 }
 
@@ -164,8 +201,10 @@ async function main() {
     if (m.length) { dados.noticias.manzotti = { atualizadoEm: agora(), fonte: "https://padrereginaldomanzotti.com.br/noticias", items: m }; log("Pe. Manzotti:", m.length); } }
   catch (e) { log("Pe. Manzotti falhou, mantendo as anteriores:", e.message); }
 
-  let lit = null;
-  try { lit = acharLiturgia(await baixar("https://evangelizarepreciso.com.br/liturgia-diaria/"), iso); } catch (e) { log("liturgia:", e.message); }
+  let lit = null, leituras = [];
+  try { lit = acharLiturgia(await baixar("https://evangelizarepreciso.com.br/liturgia-diaria/"), iso);
+    if (lit) { leituras = leiturasDaPagina(await baixar(lit.link)); log("liturgia:", lit.titulo, "·", leituras.map(l => l.ref).join(" | ") || "sem referências"); } }
+  catch (e) { log("liturgia:", e.message); }
 
   const catAnterior = dados.catequese && dados.catequese.data !== iso ? dados.catequese : null;
   const novoHistorico = () => {
@@ -185,16 +224,16 @@ async function main() {
   // Liturgia
   if (ia?.liturgia?.leituras?.length) {
     dados.liturgia = { data: iso, ...ia.liturgia, link: lit?.link || "https://evangelizarepreciso.com.br/liturgia-diaria/", atualizadoEm: agora() };
-  } else if (dados.liturgia?.data !== iso) {
-    dados.liturgia = { data: iso, celebracao: lit ? tituloLiturgia(lit.titulo) : "Liturgia de hoje", leituras: [], link: lit?.link || "https://evangelizarepreciso.com.br/liturgia-diaria/", atualizadoEm: agora() };
+  } else if (dados.liturgia?.data !== iso || !(dados.liturgia.leituras || []).length) {
+    dados.liturgia = { data: iso, celebracao: lit ? lit.titulo : "Liturgia de hoje", leituras, link: lit?.link || "https://evangelizarepreciso.com.br/liturgia-diaria/", atualizadoEm: agora() };
   }
 
   // Santo
   if (ia?.santo?.nome) {
     dados.santo = { data: iso, nome: ia.santo.nome, resumo: ia.santo.resumo || "", link: https(ia.santo.link) ? ia.santo.link : "https://www.vaticannews.va/pt/santo-do-dia.html", atualizadoEm: agora() };
-  } else if (dados.santo?.data !== iso) {
+  } else if (dados.santo?.data !== iso || /santo do dia|calend[aá]rio/i.test(dados.santo?.nome || "")) {
     const s = await santoVatican(iso);
-    dados.santo = { data: iso, nome: s?.nome || "Santo do dia", resumo: s ? "" : "Toque em “Saiba mais” para conhecer o santo de hoje.", link: s?.link || "https://www.vaticannews.va/pt/santo-do-dia.html", atualizadoEm: agora() };
+    dados.santo = { data: iso, nome: s?.nome || "Santo do dia", resumo: s ? s.resumo : "Toque em “Saiba mais” para conhecer o santo de hoje.", link: s?.link || "https://www.vaticannews.va/pt/santo-do-dia.html", atualizadoEm: agora() };
   }
 
   // Catequese

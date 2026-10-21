@@ -146,15 +146,28 @@
  },
  "liturgia": {
   "data": "2026-10-21",
-  "celebracao": "Ver leituras de hoje",
-  "leituras": [],
+  "celebracao": "Quarta-feira da 29ª Semana do Tempo Comum",
+  "leituras": [
+   {
+    "tipo": "1ª Leitura",
+    "ref": "Carta de São Paulo aos Efésios 3,2-12"
+   },
+   {
+    "tipo": "Salmo",
+    "ref": "Is 12,2-3.4bcd.5-6"
+   },
+   {
+    "tipo": "Evangelho",
+    "ref": "Lucas 12,39-48"
+   }
+  ],
   "link": "https://evangelizarepreciso.com.br/liturgia-diaria/29a-semana-do-tempo-comum-quarta-feira-21-de-outubro-de-2026/",
   "atualizadoEm": "2026-10-21T14:08:55Z"
  },
  "santo": {
   "data": "2026-10-21",
-  "nome": "Santo do Dia e a sua história - Calendário dos Santos 21/10",
-  "resumo": "",
+  "nome": "S. Gaspar del Búfalo, presbítero, fundador dos Missionários do Preciosíssimo Sangue de Cristo",
+  "resumo": "Também lembrados hoje: S. Hilarião, abade; Santa Úrsula.",
   "link": "https://www.vaticannews.va/pt/santo-do-dia/10/21.html",
   "atualizadoEm": "2026-10-21T14:08:56Z"
  },
