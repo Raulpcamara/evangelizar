@@ -143,6 +143,24 @@ async function santoVatican(iso) {
   return null;
 }
 
+// ---------- Folheto "A Missa" (Arquidiocese do Rio) ----------
+export function lerFolhetos(html) {
+  const versoes = [];
+  for (const m of html.matchAll(/<a\b[^>]*href="([^"]*amissa\.php[^"]*)"[^>]*>([\s\S]*?)<\/a>/gi)) {
+    let link = decod(m[1]); if (link.startsWith("//")) link = "https:" + link; if (!https(link)) continue;
+    const nome = texto(m[2]) || "Folheto";
+    if (!versoes.some(v => v.link === link)) versoes.push({ nome: nome.replace(/^Assembl[eé]ia$/i, "Assembleia"), link });
+  }
+  if (!versoes.length) return null;
+  const plano = decod(html.replace(/<[^>]+>/g, "\n")).split("\n").map(l => l.replace(/\s+/g, " ").trim()).filter(Boolean);
+  const linha = plano.find(l => /\d{2}\/\d{2}\/\d{4}/.test(l) && /domingo|solenidade|festa|ano [abc]|n[ºo°]/i.test(l)) || plano.find(l => /\d{2}\/\d{2}\/\d{4}/.test(l)) || "";
+  const dm = linha.match(/(\d{2})\/(\d{2})\/(\d{4})/);
+  const titulo = (linha.replace(/\d{2}\/\d{2}\/\d{4}\s*[:\-–]?\s*/, "").split(/\s+-\s+/).pop() || "").trim();
+  const ordem = ["assembleia", "celular", "celebrante"];
+  versoes.sort((a, b) => (ordem.indexOf(a.nome.toLowerCase()) + 99) % 99 - (ordem.indexOf(b.nome.toLowerCase()) + 99) % 99);
+  return { titulo: titulo || "Folheto da próxima missa", ...(dm ? { data: `${dm[3]}-${dm[2]}-${dm[1]}` } : {}), versoes: versoes.slice(0, 4), fonte: "https://arqrio.org.br/folhetos" };
+}
+
 // ---------- Catequese sem IA: próxima dica do banco ----------
 function catequeseDoBanco(banco, anterior, iso) {
   const usados = new Set([anterior?.tema, ...(anterior?.historico || []).map(h => h.tema)].filter(Boolean));
@@ -242,6 +260,10 @@ async function main() {
     const c = ia?.catequese?.tema ? { ...ia.catequese, link: linkParte(ia.catequese.parte) } : catequeseDoBanco(JSON.parse(await readFile(BANCO, "utf8")), { tema: catAnterior?.tema, historico }, iso);
     dados.catequese = { data: iso, ...c, historico, atualizadoEm: agora() };
   }
+
+  try { const f = lerFolhetos(await baixar("https://arqrio.org.br/folhetos"));
+    if (f) { dados.folheto = { ...f, atualizadoEm: agora() }; log("folheto:", f.titulo, f.data || "", f.versoes.length, "versões"); } }
+  catch (e) { log("folheto falhou, mantendo o anterior:", e.message); }
 
   dados.geradoEm = agora();
   await writeFile(ARQ, JSON.stringify(dados, null, 1) + "\n");

@@ -368,8 +368,13 @@ body{margin:0;padding-top:max(12px,env(safe-area-inset-top))}
   <!-- ================= MISSA ================= -->
   <section id="missa" role="tabpanel" hidden>
     <div class="eyebrow">Arquidiocese do Rio de Janeiro</div>
-    <a class="btn primary" href="https://www.arqrio.com.br/app/painel/amissa/amissa.pdf" target="_blank" rel="noopener"><span>Baixar o folheto “A Missa”<small>Edição atual em PDF</small></span><span class="arrow">⤓</span></a>
-    <a class="btn" href="https://arqrio.org.br/folhetos" target="_blank" rel="noopener"><span>Próximos folhetos<small>Edições seguintes no site da Arquidiocese</small></span><span class="arrow">↗</span></a>
+    <div class="card" id="folheto-box">
+      <span class="eyebrow">Folheto “A Missa”</span>
+      <h3 id="folheto-titulo">Folheto da próxima missa</h3>
+      <span class="muted small" id="folheto-sub">Escolha a versão do folheto.</span>
+      <div class="chips" id="folheto-links"><a class="chip fill" href="https://arqrio.org.br/folhetos" target="_blank" rel="noopener">Abrir os folhetos ↗</a></div>
+    </div>
+    <a class="btn" href="https://arqrio.org.br/folhetos" target="_blank" rel="noopener"><span>Todos os folhetos<small>Lista completa no site da Arquidiocese</small></span><span class="arrow">↗</span></a>
     <a class="btn" href="https://arqrio.org.br/partituras" target="_blank" rel="noopener"><span>Partituras e cifras<small>Cantos das próximas celebrações</small></span><span class="arrow">↗</span></a>
     <a class="btn" href="https://arqrio.org.br/category/noticias/" target="_blank" rel="noopener"><span>Notícias da Arquidiocese do Rio<small>arqrio.org.br</small></span><span class="arrow">↗</span></a>
 
@@ -832,6 +837,12 @@ body{margin:0;padding-top:max(12px,env(safe-area-inset-top))}
     try{await navigator.share({files:[file],text:legenda()});}catch(e){if(e&&e.name!=="AbortError")$("ve-msg").textContent="Não foi possível compartilhar. Use o botão Baixar imagem.";}});
   if(document.fonts&&document.fonts.load){Promise.all(["700 40px Cinzel","italic 600 40px 'Cormorant Garamond'","500 40px 'Cormorant Garamond'","600 40px 'Source Sans 3'"].map(f=>document.fonts.load(f).catch(()=>{}))).then(veRender);}
   if(!$("evangeliza").hidden)veRender();
+  // ---------- Folheto da Missa (Arquidiocese do Rio) ----------
+  function renderFolheto(f){if(!f||!f.versoes||!f.versoes.length)return;
+    $("folheto-titulo").textContent=String(f.titulo||"Folheto da próxima missa");
+    $("folheto-sub").textContent=f.data?"Para a missa de "+fmtCurta.format(new Date(f.data+"T12:00:00Z"))+". Escolha a versão:":"Escolha a versão:";
+    const box=$("folheto-links");box.textContent="";
+    f.versoes.forEach((v,i)=>{const lk=safeHttps(v.link);if(!lk)return;const a=el("a","chip"+(i===0?" fill":""),String(v.nome||"Folheto")+" ↗");a.href=lk;a.target="_blank";a.rel="noopener";box.appendChild(a);});}
   // ---------- Dados do dia (arquivo atualizado todas as manhãs pelo GitHub) ----------
   (async()=>{
     try{const r=await fetch("data/dados.json?d="+todayISO,{cache:"no-cache"});if(!r.ok)throw 0;const d=await r.json();
@@ -839,6 +850,7 @@ body{margin:0;padding-top:max(12px,env(safe-area-inset-top))}
       shared.liturgia=d.liturgia||null;renderLiturgia(shared.liturgia);
       shared.santo=d.santo||null;renderSanto(shared.santo);
       shared.catequese=d.catequese||null;renderCatequese(shared.catequese);veRender();
+      renderFolheto(d.folheto);
     }catch(e){fallbackAll();}
   })();
 

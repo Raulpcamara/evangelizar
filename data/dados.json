@@ -232,5 +232,25 @@
    }
   ],
   "atualizadoEm": "2026-10-21T14:08:56Z"
+ },
+ "folheto": {
+  "titulo": "30º Domingo do Tempo Comum",
+  "data": "2026-10-25",
+  "versoes": [
+   {
+    "nome": "Assembleia",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6763f1657da1fd3|24cddaR33eb|4|2dcf8e"
+   },
+   {
+    "nome": "Celular",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6763f1657da1fd3|24cddaR33eb|4|2dcf9e"
+   },
+   {
+    "nome": "Celebrante",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf0e"
+   }
+  ],
+  "fonte": "https://arqrio.org.br/folhetos",
+  "atualizadoEm": "2026-10-21T19:25:00Z"
  }
 }
