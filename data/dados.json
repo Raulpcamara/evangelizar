@@ -1,199 +1,182 @@
 {
- "geradoEm": "2026-10-20T14:30:00Z",
+ "geradoEm": "2026-10-21T14:08:56Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-10-20T08:51:59Z",
+   "atualizadoEm": "2026-10-21T14:08:51Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "data": "2026-10-20T08:05:00Z",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/ucrania-ataques-contra-civis-nao-dao-tregua-evacuacao-em-oleshky.html",
-     "resumo": "Ataques russos seguem atingindo civis; avalia-se a retirada da população de Oleshky.",
-     "secao": "Mundo",
-     "titulo": "Ucrânia: ataques contra civis não dão trégua, estuda-se plano de evacuação em Oleshky"
+     "titulo": "Hospital do Papa tem primeiro consultório da Itália para crianças dedicado à miopia",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/hospital-do-papa-pediatrico-bambino-gesu-roma-miopia-ambulatorio.html",
+     "data": "2026-10-21T13:34:00Z",
+     "secao": "Vaticano"
     },
     {
-     "data": "2026-10-20T07:50:00Z",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/nigeria-padre-raptado-na-semana-passada-foi-libertado.html",
-     "resumo": "Sacerdote sequestrado no estado de Benue, na Nigéria, recuperou a liberdade.",
-     "secao": "África",
-     "titulo": "Nigéria – Padre raptado na semana passada foi libertado"
+     "titulo": "A importância do Credo Apostólico na vida das comunidades, séculos II e III",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/importancia-credo-apostolico-vida-comunidades.html",
+     "data": "2026-10-21T13:18:00Z",
+     "secao": "Igreja"
     },
     {
-     "data": "2026-10-20T07:21:00Z",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/evangelho-20-de-outubro-dom-mario-spaki.html",
-     "resumo": "Dom Mário Spaki comenta o Evangelho dos servos vigilantes (Lc 12,35-38).",
-     "secao": "Evangelho",
-     "titulo": "Evangelho de 20 de outubro"
+     "titulo": "Abu Dhabi, celebrações dos 800 anos da morte de São Francisco são inauguradas por Martinelli",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/abu-dhabi-celebracoes-800-anos-morte-sao-francisco.html",
+     "data": "2026-10-21T09:31:00Z",
+     "secao": "Igreja"
     },
     {
-     "data": "2026-10-20T07:16:00Z",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/cardeal-koovakad-londres-ahimsa-day-parlamento-britanico-2026.html",
-     "resumo": "No Parlamento britânico, cardeal destaca a não violência como valor comum a católicos e jainistas.",
-     "secao": "Vaticano",
-     "titulo": "Cardeal Koovakad em Londres: católicos e jainistas juntos pela paz"
+     "titulo": "Papa: obrigado a Deus pela generosidade e aos fiéis pelas orações",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-audiencia-geral-gaudium-et-spes-matrimonio-familia.html",
+     "data": "2026-10-21T08:27:27Z",
+     "secao": "Papa"
     },
     {
-     "data": "2026-10-20T07:15:00Z",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/papa-leao-viagem-apostolica-franca-lourdes-europa-dialogo.html",
-     "resumo": "Balanço da viagem do Papa à França, de Paris a Lourdes e Metz.",
-     "secao": "Igreja",
-     "titulo": "Lusofonias - Papa Leão em França: Da ‘Concorde’ e ‘Champs Elysées’ a Metz"
+     "titulo": "Cardeal Parolin: que o direito governe a IA, eliminando as desigualdades",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/cardeal-parolin-inteligencia-artificial-magnifica-humanitas-2026.html",
+     "data": "2026-10-21T08:05:00Z",
+     "secao": "Vaticano"
     },
     {
-     "data": "2026-10-19T16:45:00Z",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/leao-xiv-telefona-a-zelensky-tregua-em-oleshky-evacuacao-civis.html",
-     "resumo": "Papa conversa com o presidente ucraniano e pede trégua para retirar civis em segurança.",
-     "secao": "Papa",
-     "titulo": "Leão XIV telefona a Zelensky: trégua em Oleshky e evacuação segura dos civis"
+     "titulo": "Diocese de Bafatá aprova 1° projeto pastoral trienal do Episcopado de D. Quematcha",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/bafata-pastoral-fraternidade-dialogo-familias-religioes-paz.html",
+     "data": "2026-10-21T07:57:11Z",
+     "secao": "África"
     },
     {
-     "data": "2026-10-19T15:12:10Z",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/igreja-mocambique-dia-mundial-missoes-criancas-oracao-partilha.html",
-     "resumo": "Crianças de Nampula se reúnem em festa missionária com oração, Missa e música.",
-     "secao": "África",
-     "titulo": "Moçambique. Mais de duas mil crianças em Nampula celebram Dia Mundial das Missões"
+     "titulo": "D. Rui Valério tem convicção reforçada sobre a vinda do Papa a Portugal",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/portugal-papa-leao-patriarca-evangelizacao-acolhimento-habitacao.html",
+     "data": "2026-10-21T07:38:22Z",
+     "secao": "Igreja"
     },
     {
-     "data": "2026-10-19T14:35:00Z",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/cinefe-fatima-tres-dias-dedicados-cinema-cultura-fe.html",
-     "resumo": "Fátima recebe em novembro o primeiro festival internacional de cinema católico CineFé.",
-     "secao": "Mundo",
-     "titulo": "CineFé em Fátima: três dias dedicados ao cinema, à cultura e à fé"
+     "titulo": "Leão XIV: sem os santos, a história do mundo seria mais pobre e menos humana",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-audiencia-congresso-santidade-historia-santos-2026.html",
+     "data": "2026-10-21T07:35:00Z",
+     "secao": "Papa"
     },
     {
-     "data": "2026-10-19T14:29:00Z",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/inteligencia-consciencia-liberdade-luz-verdade.html",
-     "resumo": "Reflexão sobre liberdade e tecnologia a serviço da dignidade humana.",
-     "secao": "Igreja",
-     "titulo": "Inteligência, consciência e liberdade à Luz da Verdade"
+     "titulo": "Evangelho de 21 de outubro",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/evangelho-21-de-outubro-dom-mario-spaki.html",
+     "data": "2026-10-21T06:32:00Z",
+     "secao": "Evangelho"
     },
     {
-     "data": "2026-10-19T14:24:00Z",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/franca-cardeal-jean-marc-aveline-apelos-paz-violencia-protestos.html",
-     "resumo": "Arcebispo de Marselha pede paz após dias de protestos e tumultos na França.",
-     "secao": "Igreja",
-     "titulo": "França: não nos deixemos ser arrastados pela violência, afirma cardeal Aveline"
+     "titulo": "Santa Sé na ONU: hoje é “ainda mais urgente” eliminar as armas nucleares",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/santa-se-onu-arcebispo-el-kassis-eliminar-armas-nucleares.html",
+     "data": "2026-10-20T17:12:00Z",
+     "secao": "Vaticano"
     },
     {
-     "data": "2026-10-19T14:21:00Z",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/cirio-maraba-entrou-historia-450-mil-participantes.html",
-     "resumo": "Círio de Marabá bate recorde de público em suas celebrações.",
-     "secao": "Igreja",
-     "titulo": "O 46º Círio de Marabá entrou para a história: mais de 450 mil participantes"
+     "titulo": "África Austral: Igreja denuncia impactos da exploração mineira descontrolada",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/imbisa-justica-paz-exploracao-mineira-ambiente-conflitos.html",
+     "data": "2026-10-20T15:17:00Z",
+     "secao": "África"
     },
     {
-     "data": "2026-10-19T12:02:00Z",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-nomeaco-comissao-teologica-internacional-pucrs-bra.html",
-     "resumo": "Leão XIV nomeia novos membros da Comissão Teológica Internacional, entre eles um teólogo da PUCRS.",
-     "secao": "Papa",
-     "titulo": "Papa: Comissão Teológica tem novos membros nomeados, inclusive um brasileiro"
+     "titulo": "“Igreja dos Feixes” - Colóquio sobre os frutos das missões",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/igreja-dos-feixes-coloquio-sobre-os-frutos-das-missoes.html",
+     "data": "2026-10-20T15:05:00Z",
+     "secao": "África"
     },
     {
-     "data": "2026-10-19T11:00:00Z",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/koovakad-londres-dialogo-inter-religioso-assis-oracao-paz.html",
-     "resumo": "Cardeal fala das religiões como construtoras de paz no espírito de Assis.",
-     "secao": "Vaticano",
-     "titulo": "Koovakad: de Assis, que a unidade entre as religiões se torne um farol de esperança"
+     "titulo": "Comece, \"A inteligência artificial deve permanecer um instrumento a serviço da pessoa humana\"",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/comece-bispos-europa-inteligencia-artificial.html",
+     "data": "2026-10-20T14:35:00Z",
+     "secao": "Igreja"
     },
     {
-     "data": "2026-10-19T10:43:00Z",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/cardeal-dziwisz-45-anos-fundacao-joao-paulo-ii-oracoes-leao-xiv.html",
-     "resumo": "Missa marca os 45 anos da Fundação João Paulo II, com orações pelo Papa.",
-     "secao": "Vaticano",
-     "titulo": "Cardeal Dziwisz: monumento mais duradouro de João Paulo II são as pessoas"
+     "titulo": "Fé, estudos e missão: a experiência de um brasileiro em Roma e Moçambique",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/fe-estudos-missao-experiencia-brasileiro-roma-mocambique.html",
+     "data": "2026-10-20T14:04:00Z",
+     "secao": "Igreja"
     },
     {
-     "data": "2026-10-19T09:44:00Z",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-recuperacao-vaticano-castel-gandolfo-audiencia-geral.html",
-     "resumo": "Em recuperação no Vaticano, o Papa manterá a Audiência Geral na Praça São Pedro.",
-     "secao": "Papa",
-     "titulo": "O Papa continua sua recuperação no Vaticano. Fará a Audiência Geral na Praça São Pedro"
+     "titulo": "PUCRS realiza 2ª edição de formação sobre governança para instituições religiosas",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/pucrs-promove-2-edicao-de-formacao-para-instituicoes-religiosas.html",
+     "data": "2026-10-20T13:48:00Z",
+     "secao": "Igreja"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-10-20T08:51:59Z",
+   "atualizadoEm": "2026-10-21T14:08:54Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
-     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-esta-no-top-10-do-premio-ibest-2026-na-categoria-influenciador-de-religiao/",
-     "titulo": "Padre Reginaldo Manzotti está no TOP 10 do Prêmio iBest 2026 na categoria Influenciador de Religião"
+     "titulo": "Papa João Paulo II e Santo Padre Pio de Pietrelcina, o encontro em vida, de dois santos da Igreja Católica",
+     "link": "https://padrereginaldomanzotti.com.br/blog/papa-joao-paulo-ii-e-santo-padre-pio-de-pietrelcina-o-encontro-em-vida-de-dois-santos-da-igreja-catolica/"
     },
     {
-     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-chega-a-cracovia-na-polonia-com-grupo-de-peregrinos/",
-     "titulo": "Padre Reginaldo Manzotti chega a Cracóvia, na Polônia, com grupo de peregrinos"
+     "titulo": "Padre Reginaldo Manzotti está no TOP 10 do Prêmio iBest 2026 na categoria Influenciador de Religião",
+     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-esta-no-top-10-do-premio-ibest-2026-na-categoria-influenciador-de-religiao/"
     },
     {
-     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-conclui-etapa-da-peregrinacao-em-viena-e-segue-para-olomouc-na-tchequia/",
-     "titulo": "Padre Reginaldo Manzotti concluiu etapa da peregrinação em Viena e seguiu para Olomouc, na Tchéquia"
+     "titulo": "Padre Reginaldo Manzotti chega a Cracóvia, na Polônia, com grupo de peregrinos",
+     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-chega-a-cracovia-na-polonia-com-grupo-de-peregrinos/"
     },
     {
-     "link": "https://padrereginaldomanzotti.com.br/blog/sou-um-milagre-de-nossa-senhora-aparecida/",
-     "titulo": "Sou um milagre de Nossa Senhora Aparecida"
+     "titulo": "Padre Reginaldo Manzotti concluiu etapa da peregrinação em Viena e seguiu para Olomouc, na Tchéquia",
+     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-conclui-etapa-da-peregrinacao-em-viena-e-segue-para-olomouc-na-tchequia/"
     },
     {
-     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-preside-santa-missa-pelos-casais-em-budapeste/",
-     "titulo": "Padre Reginaldo Manzotti preside Santa Missa pelos casais em Budapeste"
+     "titulo": "Sou um milagre de Nossa Senhora Aparecida",
+     "link": "https://padrereginaldomanzotti.com.br/blog/sou-um-milagre-de-nossa-senhora-aparecida/"
     },
     {
-     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-inicia-peregrinacao-passos-da-misericordia-pela-europa/",
-     "titulo": "Padre Reginaldo Manzotti inicia peregrinação \"Passos da Misericórdia\" pela Europa"
+     "titulo": "Padre Reginaldo Manzotti preside Santa Missa pelos casais em Budapeste",
+     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-preside-santa-missa-pelos-casais-em-budapeste/"
     },
     {
-     "link": "https://padrereginaldomanzotti.com.br/blog/ide-esta-e-a-missao/",
-     "titulo": "Ide, esta é a missão!"
+     "titulo": "Padre Reginaldo Manzotti inicia peregrinação “Passos da Misericórdia” pela Europa",
+     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-inicia-peregrinacao-passos-da-misericordia-pela-europa/"
     },
     {
-     "link": "https://padrereginaldomanzotti.com.br/blog/associacao-evangelizar-e-preciso-celebra-21-anos-de-missao-fe-e-transformacao/",
-     "titulo": "Associação Evangelizar É Preciso celebra 21 anos de missão, fé e transformação"
+     "titulo": "Ide, esta é a missão!",
+     "link": "https://padrereginaldomanzotti.com.br/blog/ide-esta-e-a-missao/"
     },
     {
-     "link": "https://padrereginaldomanzotti.com.br/blog/mais-de-50-mil-pessoas-participaram-da-xi-festa-de-jesus-das-santas-chagas-em-curitiba/",
-     "titulo": "Mais de 50 mil pessoas participaram da XI Festa de Jesus das Santas Chagas em Curitiba"
+     "titulo": "Associação Evangelizar É Preciso celebra 21 anos de missão, fé e transformação",
+     "link": "https://padrereginaldomanzotti.com.br/blog/associacao-evangelizar-e-preciso-celebra-21-anos-de-missao-fe-e-transformacao/"
     },
     {
-     "link": "https://padrereginaldomanzotti.com.br/blog/celebrar-os-arcanjos-e-celebrar-o-amor-de-deus-por-toda-criacao/",
-     "titulo": "Celebrar os Arcanjos é celebrar o amor de Deus por toda criação"
+     "titulo": "Mais de 50 mil pessoas participaram da XI Festa de Jesus das Santas Chagas em Curitiba",
+     "link": "https://padrereginaldomanzotti.com.br/blog/mais-de-50-mil-pessoas-participaram-da-xi-festa-de-jesus-das-santas-chagas-em-curitiba/"
     }
    ]
   }
  },
  "liturgia": {
-  "atualizadoEm": "2026-10-20T08:51:59Z",
-  "celebracao": "Terça-feira da 29ª Semana do Tempo Comum · Santa Maria Bertilla Boscardin, virgem",
-  "cor": "verde",
-  "data": "2026-10-20",
-  "leituras": [
-   {
-    "ref": "Ef 2,12-22",
-    "tipo": "1ª Leitura"
-   },
-   {
-    "ref": "Sl 84(85),9ab-10.11-12.13-14 · O Senhor anunciará a paz",
-    "tipo": "Salmo"
-   },
-   {
-    "ref": "Lc 12,35-38",
-    "tipo": "Evangelho"
-   }
-  ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/29a-semana-do-tempo-comum-terca-feira-20-de-outubro-de-2026/",
-  "reflexao": "Paulo anuncia que Cristo é a nossa paz: pela cruz Ele derrubou o muro que separava os povos e fez de todos um só corpo, morada de Deus no Espírito. No Evangelho, Jesus pede que estejamos vigilantes, de lâmpadas acesas, e surpreende ao revelar um Senhor que, ao voltar, se põe a servir os seus servos.",
-  "tempo": "Tempo Comum"
+  "data": "2026-10-21",
+  "celebracao": "Ver leituras de hoje",
+  "leituras": [],
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/29a-semana-do-tempo-comum-quarta-feira-21-de-outubro-de-2026/",
+  "atualizadoEm": "2026-10-21T14:08:55Z"
  },
  "santo": {
-  "atualizadoEm": "2026-10-20T08:51:59Z",
-  "data": "2026-10-20",
-  "link": "https://www.vaticannews.va/en/saints/10/20.html",
-  "nome": "Santa Maria Bertilla Boscardin, virgem",
-  "resumo": "Anna Francesca Boscardin nasceu em Brendola, no Vêneto (Itália), em 1888, e entrou em 1904 para as Irmãs Mestras de Santa Doroteia, Filhas dos Sagrados Corações, em Vicenza. Como enfermeira no hospital de Treviso, dedicou-se com humildade às crianças doentes, como as vítimas de difteria, e aos feridos da Primeira Guerra Mundial. Morreu em 20 de outubro de 1922, aos 34 anos, e foi canonizada por São João XXIII em 1961."
+  "data": "2026-10-21",
+  "nome": "Santo do Dia e a sua história - Calendário dos Santos 21/10",
+  "resumo": "",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/21.html",
+  "atualizadoEm": "2026-10-21T14:08:56Z"
  },
  "catequese": {
-  "atualizadoEm": "2026-10-20T08:51:59Z",
-  "cic": "CIC 2623-2649",
-  "data": "2026-10-20",
+  "data": "2026-10-21",
+  "parte": "A celebração do mistério cristão",
+  "tema": "A Eucaristia",
+  "texto": "A Eucaristia é fonte e ápice de toda a vida cristã. Nela, Cristo está verdadeiramente presente, com seu Corpo, Sangue, alma e divindade, sob as aparências do pão e do vinho. Na Missa, o sacrifício da cruz se torna presente, e na comunhão recebemos o próprio Senhor.",
+  "cic": "CIC 1322-1419",
+  "pergunta": "Como você se prepara para receber a comunhão?",
+  "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
   "historico": [
+   {
+    "atualizadoEm": "2026-10-20T08:51:59Z",
+    "cic": "CIC 2623-2649",
+    "data": "2026-10-20",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
+    "parte": "A oração cristã",
+    "pergunta": "Na sua oração de hoje, que tal incluir as cinco formas: adorar, pedir perdão, interceder por alguém, agradecer e louvar?",
+    "tema": "Quais são as formas de oração na Igreja?",
+    "texto": "O Catecismo ensina que, guiada pelo Espírito Santo, a Igreja reza de várias formas, todas presentes na Sagrada Escritura. A bênção e a adoração reconhecem que Deus é o Criador e que tudo recebemos d'Ele; a petição pede o perdão e os bens de que precisamos, e a intercessão pede pelos outros, até pelos inimigos. A ação de graças agradece cada dom, e o louvor glorifica a Deus simplesmente porque Ele é Deus. A Eucaristia reúne e expressa todas essas formas de oração."
+   },
    {
     "atualizadoEm": "2026-10-19T08:52:15Z",
     "cic": "CIC 2617-2622",
@@ -235,10 +218,6 @@
     "texto": "O Catecismo ensina que a oração é a elevação da alma a Deus, ou o pedido a Deus dos bens de que precisamos. Ela não começa em nós: é Deus quem primeiro nos procura, e a oração é a nossa resposta a esse chamado. Por isso, rezar exige humildade, como quem se põe diante de Deus de mãos vazias. A oração é um encontro pessoal e vivo com Deus, e não só uma fórmula repetida."
    }
   ],
-  "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
-  "parte": "A oração cristã",
-  "pergunta": "Na sua oração de hoje, que tal incluir as cinco formas: adorar, pedir perdão, interceder por alguém, agradecer e louvar?",
-  "tema": "Quais são as formas de oração na Igreja?",
-  "texto": "O Catecismo ensina que, guiada pelo Espírito Santo, a Igreja reza de várias formas, todas presentes na Sagrada Escritura. A bênção e a adoração reconhecem que Deus é o Criador e que tudo recebemos d'Ele; a petição pede o perdão e os bens de que precisamos, e a intercessão pede pelos outros, até pelos inimigos. A ação de graças agradece cada dom, e o louvor glorifica a Deus simplesmente porque Ele é Deus. A Eucaristia reúne e expressa todas essas formas de oração."
+  "atualizadoEm": "2026-10-21T14:08:56Z"
  }
 }
