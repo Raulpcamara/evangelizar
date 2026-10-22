@@ -1,10 +1,76 @@
 {
- "geradoEm": "2026-10-21T14:08:56Z",
+ "geradoEm": "2026-10-22T14:07:05Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-10-21T14:08:51Z",
+   "atualizadoEm": "2026-10-22T14:06:55Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
+    {
+     "titulo": "Leão XIV: ajudem os jovens a serem protagonistas de uma nova maneira de habitar o mundo",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-congresso-pastoral-escolar-universitaria.html",
+     "data": "2026-10-22T10:35:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Papa: \"Estou ansioso para vê-los em Seul\". Incrições abertas para a JMJ 2027",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-videomensagem-inicio-inscricoes-jmj-seul-2027.html",
+     "data": "2026-10-22T10:07:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Um encontro que atrai e fascina",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/editorial-tornielli-documento-vinde-a-mim-doutrina-da-fe.html",
+     "data": "2026-10-22T10:06:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Doutrina da Fé: na crise da transmissão da fé, recomeçar a partir do Kerygma",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/doutrina-da-fe-documento-vinde-a-mim-transmissao-da-fe.html",
+     "data": "2026-10-22T10:02:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Cultura da Vida: a educação para o amor é a base da cultura vida",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/cultura-vida-educacao-amor-familia-amoris-laetitia-casamento.html",
+     "data": "2026-10-22T09:08:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Leão XIV: divergências de opinião não devem alimentar preconceito e hostilidade",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-ao-comite-judaico-americano-rejeitar-toda-forma-de-odio.html",
+     "data": "2026-10-22T08:36:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Eleições 2026: Mensagem do Conselho Permanente da CNBB ao povo brasileiro",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/mensagem-conselho-permanente-cnbb-povo-brasileiro.html",
+     "data": "2026-10-22T07:33:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Evangelho de 22 de outubro",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/evangelho-22-de-outubro-dom-mario-spaki.html",
+     "data": "2026-10-22T06:41:00Z",
+     "secao": "Evangelho"
+    },
+    {
+     "titulo": "Papa Leão, resultado dos exames histológicos: não é necessária nenhuma terapia",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-resultado-dos-exames-nao-e-necessario-terapia.html",
+     "data": "2026-10-21T19:18:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Autoridade Sinodal: aprender com o Bom Pastor",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/autoridade-sinodal-aprender-bom-pastor.html",
+     "data": "2026-10-21T14:13:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Um percurso pela espiritualidade das cores",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/segredo-das-cores-padre-jose-miguel-cardoso.html",
+     "data": "2026-10-21T14:05:08Z",
+     "secao": "Igreja"
+    },
     {
      "titulo": "Hospital do Papa tem primeiro consultório da Itália para crianças dedicado à miopia",
      "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/hospital-do-papa-pediatrico-bambino-gesu-roma-miopia-ambulatorio.html",
@@ -28,77 +94,11 @@
      "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-audiencia-geral-gaudium-et-spes-matrimonio-familia.html",
      "data": "2026-10-21T08:27:27Z",
      "secao": "Papa"
-    },
-    {
-     "titulo": "Cardeal Parolin: que o direito governe a IA, eliminando as desigualdades",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/cardeal-parolin-inteligencia-artificial-magnifica-humanitas-2026.html",
-     "data": "2026-10-21T08:05:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Diocese de Bafatá aprova 1° projeto pastoral trienal do Episcopado de D. Quematcha",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/bafata-pastoral-fraternidade-dialogo-familias-religioes-paz.html",
-     "data": "2026-10-21T07:57:11Z",
-     "secao": "África"
-    },
-    {
-     "titulo": "D. Rui Valério tem convicção reforçada sobre a vinda do Papa a Portugal",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/portugal-papa-leao-patriarca-evangelizacao-acolhimento-habitacao.html",
-     "data": "2026-10-21T07:38:22Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Leão XIV: sem os santos, a história do mundo seria mais pobre e menos humana",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-audiencia-congresso-santidade-historia-santos-2026.html",
-     "data": "2026-10-21T07:35:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Evangelho de 21 de outubro",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/evangelho-21-de-outubro-dom-mario-spaki.html",
-     "data": "2026-10-21T06:32:00Z",
-     "secao": "Evangelho"
-    },
-    {
-     "titulo": "Santa Sé na ONU: hoje é “ainda mais urgente” eliminar as armas nucleares",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/santa-se-onu-arcebispo-el-kassis-eliminar-armas-nucleares.html",
-     "data": "2026-10-20T17:12:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "África Austral: Igreja denuncia impactos da exploração mineira descontrolada",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/imbisa-justica-paz-exploracao-mineira-ambiente-conflitos.html",
-     "data": "2026-10-20T15:17:00Z",
-     "secao": "África"
-    },
-    {
-     "titulo": "“Igreja dos Feixes” - Colóquio sobre os frutos das missões",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/igreja-dos-feixes-coloquio-sobre-os-frutos-das-missoes.html",
-     "data": "2026-10-20T15:05:00Z",
-     "secao": "África"
-    },
-    {
-     "titulo": "Comece, \"A inteligência artificial deve permanecer um instrumento a serviço da pessoa humana\"",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/comece-bispos-europa-inteligencia-artificial.html",
-     "data": "2026-10-20T14:35:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Fé, estudos e missão: a experiência de um brasileiro em Roma e Moçambique",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/fe-estudos-missao-experiencia-brasileiro-roma-mocambique.html",
-     "data": "2026-10-20T14:04:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "PUCRS realiza 2ª edição de formação sobre governança para instituições religiosas",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/pucrs-promove-2-edicao-de-formacao-para-instituicoes-religiosas.html",
-     "data": "2026-10-20T13:48:00Z",
-     "secao": "Igreja"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-10-21T14:08:54Z",
+   "atualizadoEm": "2026-10-22T14:06:57Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
@@ -145,41 +145,47 @@
   }
  },
  "liturgia": {
-  "data": "2026-10-21",
-  "celebracao": "Quarta-feira da 29ª Semana do Tempo Comum",
+  "data": "2026-10-22",
+  "celebracao": "Quinta-feira da 29ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Carta de São Paulo aos Efésios 3,2-12"
-   },
-   {
-    "tipo": "Salmo",
-    "ref": "Is 12,2-3.4bcd.5-6"
+    "ref": "Carta de São Paulo aos Efésios 3,14-21"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Lucas 12,39-48"
+    "ref": "Lucas 12,49-53"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/29a-semana-do-tempo-comum-quarta-feira-21-de-outubro-de-2026/",
-  "atualizadoEm": "2026-10-21T14:08:55Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/29a-semana-do-tempo-comum-quinta-feira-22-de-outubro-de-2026/",
+  "atualizadoEm": "2026-10-22T14:07:00Z"
  },
  "santo": {
-  "data": "2026-10-21",
-  "nome": "S. Gaspar del Búfalo, presbítero, fundador dos Missionários do Preciosíssimo Sangue de Cristo",
-  "resumo": "Também lembrados hoje: S. Hilarião, abade; Santa Úrsula.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/21.html",
-  "atualizadoEm": "2026-10-21T14:08:56Z"
+  "data": "2026-10-22",
+  "nome": "Menu",
+  "resumo": "Também lembrados hoje: Busca; S. João Paulo II, papa; S. Marcos, bispo de Jerusalém.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/22.html",
+  "atualizadoEm": "2026-10-22T14:07:00Z"
  },
  "catequese": {
-  "data": "2026-10-21",
+  "data": "2026-10-22",
   "parte": "A celebração do mistério cristão",
-  "tema": "A Eucaristia",
-  "texto": "A Eucaristia é fonte e ápice de toda a vida cristã. Nela, Cristo está verdadeiramente presente, com seu Corpo, Sangue, alma e divindade, sob as aparências do pão e do vinho. Na Missa, o sacrifício da cruz se torna presente, e na comunhão recebemos o próprio Senhor.",
-  "cic": "CIC 1322-1419",
-  "pergunta": "Como você se prepara para receber a comunhão?",
+  "tema": "A Confissão",
+  "texto": "No sacramento da Penitência, também chamado de Reconciliação ou Confissão, Deus perdoa os pecados cometidos depois do Batismo. Ele pede arrependimento sincero, confissão ao sacerdote, absolvição e o cumprimento da penitência. É um encontro com a misericórdia que restaura a paz.",
+  "cic": "CIC 1422-1498",
+  "pergunta": "Há quanto tempo você não se confessa? O que o impede de procurar esse encontro?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
   "historico": [
+   {
+    "data": "2026-10-21",
+    "parte": "A celebração do mistério cristão",
+    "tema": "A Eucaristia",
+    "texto": "A Eucaristia é fonte e ápice de toda a vida cristã. Nela, Cristo está verdadeiramente presente, com seu Corpo, Sangue, alma e divindade, sob as aparências do pão e do vinho. Na Missa, o sacrifício da cruz se torna presente, e na comunhão recebemos o próprio Senhor.",
+    "cic": "CIC 1322-1419",
+    "pergunta": "Como você se prepara para receber a comunhão?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
+    "atualizadoEm": "2026-10-21T14:08:56Z"
+   },
    {
     "atualizadoEm": "2026-10-20T08:51:59Z",
     "cic": "CIC 2623-2649",
@@ -231,26 +237,26 @@
     "texto": "O Catecismo ensina que a oração é a elevação da alma a Deus, ou o pedido a Deus dos bens de que precisamos. Ela não começa em nós: é Deus quem primeiro nos procura, e a oração é a nossa resposta a esse chamado. Por isso, rezar exige humildade, como quem se põe diante de Deus de mãos vazias. A oração é um encontro pessoal e vivo com Deus, e não só uma fórmula repetida."
    }
   ],
-  "atualizadoEm": "2026-10-21T14:08:56Z"
+  "atualizadoEm": "2026-10-22T14:07:00Z"
  },
  "folheto": {
-  "titulo": "30º Domingo do Tempo Comum",
+  "titulo": "Folheto da próxima missa",
   "data": "2026-10-25",
   "versoes": [
    {
-    "nome": "Assembleia",
+    "nome": "Ano A - nº 59 - 30º Domingo do Tempo Comum (Assembléia)",
     "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6763f1657da1fd3|24cddaR33eb|4|2dcf8e"
    },
    {
-    "nome": "Celular",
+    "nome": "Ano A - nº 59 - 30º Domingo do Tempo Comum (Celular)",
     "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6763f1657da1fd3|24cddaR33eb|4|2dcf9e"
    },
    {
-    "nome": "Celebrante",
+    "nome": "Ano A - nº 59 - 30º Domingo do Tempo Comum (Celebrante)",
     "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf0e"
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-10-21T19:25:00Z"
+  "atualizadoEm": "2026-10-22T14:07:05Z"
  }
 }
