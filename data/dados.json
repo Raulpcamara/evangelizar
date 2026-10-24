@@ -1,12 +1,78 @@
 {
- "geradoEm": "2026-10-23T13:50:21Z",
+ "geradoEm": "2026-10-24T12:56:27Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-10-23T13:50:14Z",
+   "atualizadoEm": "2026-10-24T12:56:17Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "Disparos contra cortejo fúnebre na Jordânia: pelo menos sete mortos em Karak",
+     "titulo": "A Igreja tem 6 novos veneráveis, entre eles, dois bispos missionários",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-6-novos-veneraveis-cardeal-semeraro-2026.html",
+     "data": "2026-10-24T10:08:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Papa a \"Jesus Youth\" da Índia: testemunhar com coragem a fé e promover o matrimônio",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-jesus-youth-india-outubro-2026.html",
+     "data": "2026-10-24T09:43:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Anunciada uma trégua humanitária para a cidade ucraniana de Oleshky",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/anuncio-tregua-humanitaria-cidade-oleshky-ucrania-russia-acordo.html",
+     "data": "2026-10-24T07:04:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "Antonio Cardoso na Canção e a Prece: \"Amar como Jesus Amou\"",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/antonio-cardoso-cancao-prece-amar-como-jesus.html",
+     "data": "2026-10-24T06:00:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Reflexão para o XXX Domingo do Tempo Comum",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/reflexao-xxx-domingo-tempo-comum.html",
+     "data": "2026-10-24T06:00:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Centro San Lorenzo em Roma celebra São João Paulo II",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/centro-san-lorenzo-roma-celebra-sao-joao-paulo-ii.html",
+     "data": "2026-10-23T16:59:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Shevchuk leva ao Papa “a oração da Ucrânia” e uma lista com nomes dos prisioneiros",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/ucrania-shevchuk-igreja-greco-catolica-audiencia-papa-leao-xiv.html",
+     "data": "2026-10-23T16:58:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Educação católica e humanização: brasileiros em encontro no Vaticano",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/educacao-catolica-humanizacao-participacao-brasileira-vaticano.html",
+     "data": "2026-10-23T16:16:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Moçambique. Igreja defende transição justa para abandonar combustíveis fósseis",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/igreja-combustiveis-fosseis-crise-climatica-laudato-si-ambiente.html",
+     "data": "2026-10-23T15:25:00Z",
+     "secao": "África"
+    },
+    {
+     "titulo": "Curiosidades sobre a Igreja Católica: como nasceu a Igreja Católica",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/curiosidades-sobre-igreja-nasceu-catolica.html",
+     "data": "2026-10-23T15:02:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Esmoleiro do Papa na Ucrânia para levar proximidade a quem sofre com a guerra",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/esmoleiro-do-papa-com-san-martin-ucrania-27-a-30-outubro-2026.html",
+     "data": "2026-10-23T13:57:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Disparos contra cortejo fúnebre na Jordânia: pelo menos 7 mortos em Karak",
      "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/jordania-tiroteio-contra-funeral-karak-igreja-hammoud-2026.html",
      "data": "2026-10-23T13:28:00Z",
      "secao": "Mundo"
@@ -18,89 +84,27 @@
      "secao": "Papa"
     },
     {
-     "titulo": "Pe. Wesley Barros: \"precisamos de um milagre\" para a canonização da Beata Benigna",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/23-romaria-da-bem-aventurada-benigna-cardoso-outubro-2026.html",
-     "data": "2026-10-23T11:23:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Gugerotti: para compreender o mundo, recoloquemos a questão religiosa no centro",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/gugerotti-massolo-mundo-geopolitica-vaticano-cristaos-guerra-paz.html",
-     "data": "2026-10-23T11:11:00Z",
+     "titulo": "Terremoto no Tibete: equipes de resgate trabalham entre os escombros",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/terremoto-magnitude-7-regiao-naggu-tibete-regiao-china-2026.html",
+     "data": "2026-10-23T12:50:00Z",
      "secao": "Mundo"
     },
     {
-     "titulo": "Santa Sé na ONU: garantir a segurança das usinas nucleares em zonas de guerra",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/santa-se-onu-arcebispo-el-kassis-seguranca-das-usinas-nucleares.html",
-     "data": "2026-10-23T10:15:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Testemunhar e ouvir: o Congresso sobre a Pastoral Escolar e Universitária",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/pastoral-escolar-universitaria-congresso-internacional-tolentino.html",
-     "data": "2026-10-23T09:24:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Igreja chamada a defender justiça, direitos humanos e comunidades vulneráveis",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/justica-direitos-humanos-xenofobia-migrantes-trafico-humanos.html",
-     "data": "2026-10-23T09:15:00Z",
-     "secao": "África"
-    },
-    {
-     "titulo": "CEAST denuncia impacto da exploração mineira e apela à defesa dos direitos humanos",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/ceast-pobreza-recursos-naturais-justica-ambiente-direitos-humano.html",
-     "data": "2026-10-23T08:45:00Z",
-     "secao": "África"
-    },
-    {
-     "titulo": "Koovakad sobre cristãos e sikhs: a devoção é inseparável ao cuidado às pessoas",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/cardeal-koovakad-sikhs-cristaos-devocao-inseparavel-homem-2026.html",
-     "data": "2026-10-23T08:12:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Papa: a verdadeira justiça nunca está separada da verdade e da misericórdia",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-a-verdadeira-justica-nunca-esta-separada-da-verdade.html",
-     "data": "2026-10-23T08:05:55Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Leão XIV não irá a Assis para favorecer a recuperação após a cirurgia",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/leao-xiv-nao-ira-a-assis-para-favorecer-recuperacao-da-cirurgia.html",
-     "data": "2026-10-23T07:37:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Cardeal Parolin: peçamos o dom da paz por intercessão de João Paulo II",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/cardeal-parolin-dom-da-paz-interecessao-joao-paulo-ii-2026.html",
-     "data": "2026-10-23T07:34:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Evangelho de 23 de outubro",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/evangelho-23-de-outubro-dom-mario-spaki.html",
-     "data": "2026-10-23T06:45:00Z",
-     "secao": "Evangelho"
-    },
-    {
-     "titulo": "Padre Crésio Rodrigues: Tribunais Eclesiásticos mais próximos do povo",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/padre-cresio-rodrigues-tribunais-eclesiasticos-proximos-povo.html",
-     "data": "2026-10-22T15:20:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Os novos tempos da Amazônia: a ótica do professor Virgílio Viana",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/novos-tempos-amazonia-otica-professor-virgilio-viana.html",
-     "data": "2026-10-22T15:02:00Z",
-     "secao": "Vaticano"
+     "titulo": "Palermo: os depósitos da Caritas diocesana também correm o risco de ficar vazios",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/palermo-manifestacao-caminhoneiros-italia-caritas-diocesana-2026.html",
+     "data": "2026-10-23T11:46:00Z",
+     "secao": "Igreja"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-10-23T13:50:16Z",
+   "atualizadoEm": "2026-10-24T12:56:19Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
+    {
+     "titulo": "XIX Evangelizar É Preciso Fortaleza acontece no próximo sábado com programação especial de fé, música e oração",
+     "link": "https://padrereginaldomanzotti.com.br/blog/xix-evangelizar-e-preciso-fortaleza-acontece-no-proximo-sabado-com-programacao-especial-de-fe-musica-e-oracao/"
+    },
     {
      "titulo": "Papa João Paulo II e Santo Padre Pio de Pietrelcina, o encontro em vida, de dois santos da Igreja Católica",
      "link": "https://padrereginaldomanzotti.com.br/blog/papa-joao-paulo-ii-e-santo-padre-pio-de-pietrelcina-o-encontro-em-vida-de-dois-santos-da-igreja-catolica/"
@@ -136,46 +140,52 @@
     {
      "titulo": "Associação Evangelizar É Preciso celebra 21 anos de missão, fé e transformação",
      "link": "https://padrereginaldomanzotti.com.br/blog/associacao-evangelizar-e-preciso-celebra-21-anos-de-missao-fe-e-transformacao/"
-    },
-    {
-     "titulo": "Mais de 50 mil pessoas participaram da XI Festa de Jesus das Santas Chagas em Curitiba",
-     "link": "https://padrereginaldomanzotti.com.br/blog/mais-de-50-mil-pessoas-participaram-da-xi-festa-de-jesus-das-santas-chagas-em-curitiba/"
     }
    ]
   }
  },
  "liturgia": {
-  "data": "2026-10-23",
-  "celebracao": "Sexta-feira da 29ª Semana do Tempo Comum",
+  "data": "2026-10-24",
+  "celebracao": "Sábado da 29ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Carta de São Paulo aos Efésios 4,1-6"
+    "ref": "Carta de São Paulo aos Efésios 4,7-16"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Lucas 12,54-59"
+    "ref": "Lucas 13,1-9"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/29a-semana-do-tempo-comum-sexta-feira-23-de-outubro-de-2026/",
-  "atualizadoEm": "2026-10-23T13:50:19Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/29a-semana-do-tempo-comum-sabado-24-de-outubro-de-2026/",
+  "atualizadoEm": "2026-10-24T12:56:24Z"
  },
  "santo": {
-  "data": "2026-10-23",
+  "data": "2026-10-24",
   "nome": "Menu",
-  "resumo": "Também lembrados hoje: Busca; S. João de Capistrano, presbítero franciscano, padroeiro dos capelães militares; S. Severino Boécio, filósofo romano e mártir.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/23.html",
-  "atualizadoEm": "2026-10-23T13:50:19Z"
+  "resumo": "Também lembrados hoje: Busca; S. Antônio Maria Claret, bispo, fundador da Congregação dos Missionários Filhos do Coração Imaculado da Virgem Maria.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/24.html",
+  "atualizadoEm": "2026-10-24T12:56:24Z"
  },
  "catequese": {
-  "data": "2026-10-23",
+  "data": "2026-10-24",
   "parte": "A celebração do mistério cristão",
-  "tema": "A Unção dos Enfermos",
-  "texto": "A Unção dos Enfermos é o sacramento que dá força, paz e coragem a quem enfrenta doença grave ou a fragilidade da idade avançada. Não é só para o momento da morte. Pela unção, o doente une seu sofrimento ao de Cristo e recebe a graça do Espírito Santo.",
-  "cic": "CIC 1499-1532",
-  "pergunta": "Você conhece alguém doente que poderia receber esse sacramento ou uma visita sua?",
+  "tema": "O sacramento da Ordem",
+  "texto": "Pela Ordem, Cristo continua a cuidar do seu povo por meio de bispos, presbíteros e diáconos. Eles são consagrados para servir a Igreja anunciando a Palavra, celebrando os sacramentos e guiando a comunidade. É um ministério de serviço, não de poder.",
+  "cic": "CIC 1536-1600",
+  "pergunta": "Você tem rezado pelos padres da sua paróquia e pelas vocações?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
   "historico": [
+   {
+    "data": "2026-10-23",
+    "parte": "A celebração do mistério cristão",
+    "tema": "A Unção dos Enfermos",
+    "texto": "A Unção dos Enfermos é o sacramento que dá força, paz e coragem a quem enfrenta doença grave ou a fragilidade da idade avançada. Não é só para o momento da morte. Pela unção, o doente une seu sofrimento ao de Cristo e recebe a graça do Espírito Santo.",
+    "cic": "CIC 1499-1532",
+    "pergunta": "Você conhece alguém doente que poderia receber esse sacramento ou uma visita sua?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
+    "atualizadoEm": "2026-10-23T13:50:19Z"
+   },
    {
     "data": "2026-10-22",
     "parte": "A celebração do mistério cristão",
@@ -247,7 +257,7 @@
     "texto": "O Catecismo ensina que a oração é a elevação da alma a Deus, ou o pedido a Deus dos bens de que precisamos. Ela não começa em nós: é Deus quem primeiro nos procura, e a oração é a nossa resposta a esse chamado. Por isso, rezar exige humildade, como quem se põe diante de Deus de mãos vazias. A oração é um encontro pessoal e vivo com Deus, e não só uma fórmula repetida."
    }
   ],
-  "atualizadoEm": "2026-10-23T13:50:19Z"
+  "atualizadoEm": "2026-10-24T12:56:24Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
@@ -267,6 +277,6 @@
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-10-23T13:50:21Z"
+  "atualizadoEm": "2026-10-24T12:56:27Z"
  }
 }
