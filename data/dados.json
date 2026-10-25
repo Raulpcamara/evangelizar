@@ -1,10 +1,46 @@
 {
- "geradoEm": "2026-10-24T12:56:27Z",
+ "geradoEm": "2026-10-25T13:22:32Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-10-24T12:56:17Z",
+   "atualizadoEm": "2026-10-25T13:22:25Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
+    {
+     "titulo": "Apelos do Papa pelos povos do Iêmen e Jordânia: todos têm direito de viver em paz",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-apelo-paz-iemen-jordania-encontro-assis-outubro-26.html",
+     "data": "2026-10-25T11:24:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Papa: não se pode amar a Deus sem que esse amor transborde ao nosso irmão",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-angelus-25-outubro-2026.html",
+     "data": "2026-10-25T11:15:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Igrejas na Jordânia: “convivência entre cristãos e muçulmanos não está em perigo”",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/igrejas-jordania-convivencia-cristaos-muculmanos-outubro-26.html",
+     "data": "2026-10-25T08:11:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Cardeal Parolin: Santa Sé condena o antissemitismo em todas as suas formas",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/cardeal-parolin-santa-se-condena-antissemitismo-comite-judaico.html",
+     "data": "2026-10-24T15:37:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Papa Leão XIV recebe bispos do Panamá em visita ad limina",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-visita-ad-limina-panama-outubro-206.html",
+     "data": "2026-10-24T15:13:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Hebdomada Papae, o noticiário em latim da Rádio Vaticano deste 24 de outubro",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/hebdomada-papae-noticiario-latim-24-outubro-2026.html",
+     "data": "2026-10-24T10:30:00Z",
+     "secao": "Vaticano"
+    },
     {
      "titulo": "A Igreja tem 6 novos veneráveis, entre eles, dois bispos missionários",
      "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-6-novos-veneraveis-cardeal-semeraro-2026.html",
@@ -58,47 +94,11 @@
      "link": "https://www.vaticannews.va/pt/africa/news/2026-10/igreja-combustiveis-fosseis-crise-climatica-laudato-si-ambiente.html",
      "data": "2026-10-23T15:25:00Z",
      "secao": "África"
-    },
-    {
-     "titulo": "Curiosidades sobre a Igreja Católica: como nasceu a Igreja Católica",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/curiosidades-sobre-igreja-nasceu-catolica.html",
-     "data": "2026-10-23T15:02:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Esmoleiro do Papa na Ucrânia para levar proximidade a quem sofre com a guerra",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/esmoleiro-do-papa-com-san-martin-ucrania-27-a-30-outubro-2026.html",
-     "data": "2026-10-23T13:57:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Disparos contra cortejo fúnebre na Jordânia: pelo menos 7 mortos em Karak",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/jordania-tiroteio-contra-funeral-karak-igreja-hammoud-2026.html",
-     "data": "2026-10-23T13:28:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Papa recebe o título de confrade da Capela de São Jorge, em Windsor",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-recebe-o-titulo-de-confrade-da-capela-de-sao-jorge.html",
-     "data": "2026-10-23T13:23:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Terremoto no Tibete: equipes de resgate trabalham entre os escombros",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/terremoto-magnitude-7-regiao-naggu-tibete-regiao-china-2026.html",
-     "data": "2026-10-23T12:50:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Palermo: os depósitos da Caritas diocesana também correm o risco de ficar vazios",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/palermo-manifestacao-caminhoneiros-italia-caritas-diocesana-2026.html",
-     "data": "2026-10-23T11:46:00Z",
-     "secao": "Igreja"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-10-24T12:56:19Z",
+   "atualizadoEm": "2026-10-25T13:22:27Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
@@ -145,37 +145,51 @@
   }
  },
  "liturgia": {
-  "data": "2026-10-24",
-  "celebracao": "Sábado da 29ª Semana do Tempo Comum",
+  "data": "2026-10-25",
+  "celebracao": "30º Domingo do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Carta de São Paulo aos Efésios 4,7-16"
+    "ref": "Livro do Êxodo 22,20-26"
+   },
+   {
+    "tipo": "2ª Leitura",
+    "ref": "Primeira Carta de São Paulo aos Tessalonicenses 1,5c-10"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Lucas 13,1-9"
+    "ref": "Mateus 22,34-40"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/29a-semana-do-tempo-comum-sabado-24-de-outubro-de-2026/",
-  "atualizadoEm": "2026-10-24T12:56:24Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/30o-domingo-do-tempo-comum-domingo-25-de-outubro-de-2026/",
+  "atualizadoEm": "2026-10-25T13:22:29Z"
  },
  "santo": {
-  "data": "2026-10-24",
+  "data": "2026-10-25",
   "nome": "Menu",
-  "resumo": "Também lembrados hoje: Busca; S. Antônio Maria Claret, bispo, fundador da Congregação dos Missionários Filhos do Coração Imaculado da Virgem Maria.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/24.html",
-  "atualizadoEm": "2026-10-24T12:56:24Z"
+  "resumo": "Também lembrados hoje: Busca; SS. Crisanto e Daria, mártires, na via Salária Nova; SS. Crispim e Crispiniano, mártires.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/25.html",
+  "atualizadoEm": "2026-10-25T13:22:29Z"
  },
  "catequese": {
-  "data": "2026-10-24",
+  "data": "2026-10-25",
   "parte": "A celebração do mistério cristão",
-  "tema": "O sacramento da Ordem",
-  "texto": "Pela Ordem, Cristo continua a cuidar do seu povo por meio de bispos, presbíteros e diáconos. Eles são consagrados para servir a Igreja anunciando a Palavra, celebrando os sacramentos e guiando a comunidade. É um ministério de serviço, não de poder.",
-  "cic": "CIC 1536-1600",
-  "pergunta": "Você tem rezado pelos padres da sua paróquia e pelas vocações?",
+  "tema": "O Matrimônio",
+  "texto": "No Matrimônio, um homem e uma mulher se unem por toda a vida numa aliança de amor fiel e fecundo. Cristo elevou essa união à dignidade de sacramento e dá aos esposos a graça para se amarem como Ele ama a Igreja. A família nascida do matrimônio é chamada de Igreja doméstica.",
+  "cic": "CIC 1601-1666",
+  "pergunta": "Como a sua família pode se tornar mais uma pequena Igreja, com oração e perdão?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
   "historico": [
+   {
+    "data": "2026-10-24",
+    "parte": "A celebração do mistério cristão",
+    "tema": "O sacramento da Ordem",
+    "texto": "Pela Ordem, Cristo continua a cuidar do seu povo por meio de bispos, presbíteros e diáconos. Eles são consagrados para servir a Igreja anunciando a Palavra, celebrando os sacramentos e guiando a comunidade. É um ministério de serviço, não de poder.",
+    "cic": "CIC 1536-1600",
+    "pergunta": "Você tem rezado pelos padres da sua paróquia e pelas vocações?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
+    "atualizadoEm": "2026-10-24T12:56:24Z"
+   },
    {
     "data": "2026-10-23",
     "parte": "A celebração do mistério cristão",
@@ -257,7 +271,7 @@
     "texto": "O Catecismo ensina que a oração é a elevação da alma a Deus, ou o pedido a Deus dos bens de que precisamos. Ela não começa em nós: é Deus quem primeiro nos procura, e a oração é a nossa resposta a esse chamado. Por isso, rezar exige humildade, como quem se põe diante de Deus de mãos vazias. A oração é um encontro pessoal e vivo com Deus, e não só uma fórmula repetida."
    }
   ],
-  "atualizadoEm": "2026-10-24T12:56:24Z"
+  "atualizadoEm": "2026-10-25T13:22:29Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
@@ -277,6 +291,6 @@
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-10-24T12:56:27Z"
+  "atualizadoEm": "2026-10-25T13:22:32Z"
  }
 }
