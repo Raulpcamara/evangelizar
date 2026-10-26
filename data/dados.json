@@ -1,10 +1,58 @@
 {
- "geradoEm": "2026-10-25T13:22:32Z",
+ "geradoEm": "2026-10-26T15:29:31Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-10-25T13:22:25Z",
+   "atualizadoEm": "2026-10-26T15:29:23Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
+    {
+     "titulo": "Lula é reeleito presidente do Brasil no segundo turno com 51,79% dos votos válidos",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/lula-reeleito-presidente-brasil-segundo-turno.html",
+     "data": "2026-10-26T13:10:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "Leão XIV recorda cardeal Romeo: serviu generosamente à Igreja",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-telegrama-recorda-cardeal-paolo-romeo-26-10.html",
+     "data": "2026-10-26T11:12:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "O Papa: numa sociedade como a nossa, a dimensão da caridade é fundamental",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-irmas-sociedade-dimensao-caridade-fundamental-joana-thouret.html",
+     "data": "2026-10-26T11:05:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Papa recebe em audiência a presidente da Eslovênia",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-recebe-em-audiencia-presidente-da-eslovenia.html",
+     "data": "2026-10-26T10:16:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Evangelho de 26 de outubro",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/evangelho-26-de-outubro-dom-mario-spaki.html",
+     "data": "2026-10-26T08:17:00Z",
+     "secao": "Evangelho"
+    },
+    {
+     "titulo": "Pe. Burgio em Milão: adultos devem voltar a ser confiáveis",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/milao-italia-manifestacao-jovens-padre-burgio-outubro-2026.html",
+     "data": "2026-10-25T15:37:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Iêmen: emergência humanitária em rápida escalada em Taiz, afirma ONU",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/iemen-onu-emergencia-humanitaria-cidade-taiz-outubro-2026.html",
+     "data": "2026-10-25T14:15:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "Itália: morre o cardeal Romeo, arcebispo emérito de Palermo",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/morre-cardeal-paolo-romeo-arcebispo-emerito-palermo-italia-88-26.html",
+     "data": "2026-10-25T12:03:00Z",
+     "secao": "Vaticano"
+    },
     {
      "titulo": "Apelos do Papa pelos povos do Iêmen e Jordânia: todos têm direito de viver em paz",
      "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-apelo-paz-iemen-jordania-encontro-assis-outubro-26.html",
@@ -16,6 +64,12 @@
      "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-angelus-25-outubro-2026.html",
      "data": "2026-10-25T11:15:00Z",
      "secao": "Papa"
+    },
+    {
+     "titulo": "Patriarca Bartolomeu I em peregrinação pela Itália: entre Roma, Loreto e Assis",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/patriarca-bartolomeu-i-peregrinacao-italia-audiencia-papa-leao.html",
+     "data": "2026-10-25T09:29:00Z",
+     "secao": "Igreja"
     },
     {
      "titulo": "Igrejas na Jordânia: “convivência entre cristãos e muçulmanos não está em perigo”",
@@ -40,67 +94,21 @@
      "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/hebdomada-papae-noticiario-latim-24-outubro-2026.html",
      "data": "2026-10-24T10:30:00Z",
      "secao": "Vaticano"
-    },
-    {
-     "titulo": "A Igreja tem 6 novos veneráveis, entre eles, dois bispos missionários",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-6-novos-veneraveis-cardeal-semeraro-2026.html",
-     "data": "2026-10-24T10:08:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Papa a \"Jesus Youth\" da Índia: testemunhar com coragem a fé e promover o matrimônio",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-jesus-youth-india-outubro-2026.html",
-     "data": "2026-10-24T09:43:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Anunciada uma trégua humanitária para a cidade ucraniana de Oleshky",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/anuncio-tregua-humanitaria-cidade-oleshky-ucrania-russia-acordo.html",
-     "data": "2026-10-24T07:04:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Antonio Cardoso na Canção e a Prece: \"Amar como Jesus Amou\"",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/antonio-cardoso-cancao-prece-amar-como-jesus.html",
-     "data": "2026-10-24T06:00:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Reflexão para o XXX Domingo do Tempo Comum",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/reflexao-xxx-domingo-tempo-comum.html",
-     "data": "2026-10-24T06:00:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Centro San Lorenzo em Roma celebra São João Paulo II",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/centro-san-lorenzo-roma-celebra-sao-joao-paulo-ii.html",
-     "data": "2026-10-23T16:59:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Shevchuk leva ao Papa “a oração da Ucrânia” e uma lista com nomes dos prisioneiros",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/ucrania-shevchuk-igreja-greco-catolica-audiencia-papa-leao-xiv.html",
-     "data": "2026-10-23T16:58:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Educação católica e humanização: brasileiros em encontro no Vaticano",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/educacao-catolica-humanizacao-participacao-brasileira-vaticano.html",
-     "data": "2026-10-23T16:16:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Moçambique. Igreja defende transição justa para abandonar combustíveis fósseis",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/igreja-combustiveis-fosseis-crise-climatica-laudato-si-ambiente.html",
-     "data": "2026-10-23T15:25:00Z",
-     "secao": "África"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-10-25T13:22:27Z",
+   "atualizadoEm": "2026-10-26T15:29:25Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
+    {
+     "titulo": "Padre Reginaldo Manzotti mobiliza fiéis para Dia D de doação de sangue em Fortaleza",
+     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-mobiliza-fieis-para-dia-d-de-doacao-de-sangue-em-fortaleza/"
+    },
+    {
+     "titulo": "Evangelizar é preciso?",
+     "link": "https://padrereginaldomanzotti.com.br/blog/evangelizar-e-preciso/"
+    },
     {
      "titulo": "XIX Evangelizar É Preciso Fortaleza acontece no próximo sábado com programação especial de fé, música e oração",
      "link": "https://padrereginaldomanzotti.com.br/blog/xix-evangelizar-e-preciso-fortaleza-acontece-no-proximo-sabado-com-programacao-especial-de-fe-musica-e-oracao/"
@@ -132,54 +140,56 @@
     {
      "titulo": "Padre Reginaldo Manzotti inicia peregrinação “Passos da Misericórdia” pela Europa",
      "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-inicia-peregrinacao-passos-da-misericordia-pela-europa/"
-    },
-    {
-     "titulo": "Ide, esta é a missão!",
-     "link": "https://padrereginaldomanzotti.com.br/blog/ide-esta-e-a-missao/"
-    },
-    {
-     "titulo": "Associação Evangelizar É Preciso celebra 21 anos de missão, fé e transformação",
-     "link": "https://padrereginaldomanzotti.com.br/blog/associacao-evangelizar-e-preciso-celebra-21-anos-de-missao-fe-e-transformacao/"
     }
    ]
   }
  },
  "liturgia": {
-  "data": "2026-10-25",
-  "celebracao": "30º Domingo do Tempo Comum",
+  "data": "2026-10-26",
+  "celebracao": "Segunda-feira da 30ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Livro do Êxodo 22,20-26"
+    "ref": "Carta de São Paulo aos Efésios 4,32-5,8"
    },
    {
-    "tipo": "2ª Leitura",
-    "ref": "Primeira Carta de São Paulo aos Tessalonicenses 1,5c-10"
+    "tipo": "Salmo",
+    "ref": "Sl 1,1-2.3.4.6"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Mateus 22,34-40"
+    "ref": "Lucas 13,10-17"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/30o-domingo-do-tempo-comum-domingo-25-de-outubro-de-2026/",
-  "atualizadoEm": "2026-10-25T13:22:29Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/30a-semana-do-tempo-comum-segunda-feira-26-de-outubro-de-2026/",
+  "atualizadoEm": "2026-10-26T15:29:28Z"
  },
  "santo": {
-  "data": "2026-10-25",
+  "data": "2026-10-26",
   "nome": "Menu",
-  "resumo": "Também lembrados hoje: Busca; SS. Crisanto e Daria, mártires, na via Salária Nova; SS. Crispim e Crispiniano, mártires.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/25.html",
-  "atualizadoEm": "2026-10-25T13:22:29Z"
+  "resumo": "Também lembrados hoje: Busca; S. Demétrio, mártir; São Beano, Bispo.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/26.html",
+  "atualizadoEm": "2026-10-26T15:29:28Z"
  },
  "catequese": {
-  "data": "2026-10-25",
-  "parte": "A celebração do mistério cristão",
-  "tema": "O Matrimônio",
-  "texto": "No Matrimônio, um homem e uma mulher se unem por toda a vida numa aliança de amor fiel e fecundo. Cristo elevou essa união à dignidade de sacramento e dá aos esposos a graça para se amarem como Ele ama a Igreja. A família nascida do matrimônio é chamada de Igreja doméstica.",
-  "cic": "CIC 1601-1666",
-  "pergunta": "Como a sua família pode se tornar mais uma pequena Igreja, com oração e perdão?",
-  "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
+  "data": "2026-10-26",
+  "parte": "A vida em Cristo",
+  "tema": "A dignidade da pessoa humana",
+  "texto": "Toda pessoa foi criada à imagem e semelhança de Deus e, por isso, tem uma dignidade que ninguém pode tirar. Dotada de razão e liberdade, ela é chamada à felicidade eterna. Respeitar a vida e a dignidade de cada pessoa é o fundamento de toda a moral cristã.",
+  "cic": "CIC 1700-1715",
+  "pergunta": "Há alguém que você tem tratado sem reconhecer a dignidade de filho de Deus?",
+  "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-10-25",
+    "parte": "A celebração do mistério cristão",
+    "tema": "O Matrimônio",
+    "texto": "No Matrimônio, um homem e uma mulher se unem por toda a vida numa aliança de amor fiel e fecundo. Cristo elevou essa união à dignidade de sacramento e dá aos esposos a graça para se amarem como Ele ama a Igreja. A família nascida do matrimônio é chamada de Igreja doméstica.",
+    "cic": "CIC 1601-1666",
+    "pergunta": "Como a sua família pode se tornar mais uma pequena Igreja, com oração e perdão?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
+    "atualizadoEm": "2026-10-25T13:22:29Z"
+   },
    {
     "data": "2026-10-24",
     "parte": "A celebração do mistério cristão",
@@ -271,7 +281,7 @@
     "texto": "O Catecismo ensina que a oração é a elevação da alma a Deus, ou o pedido a Deus dos bens de que precisamos. Ela não começa em nós: é Deus quem primeiro nos procura, e a oração é a nossa resposta a esse chamado. Por isso, rezar exige humildade, como quem se põe diante de Deus de mãos vazias. A oração é um encontro pessoal e vivo com Deus, e não só uma fórmula repetida."
    }
   ],
-  "atualizadoEm": "2026-10-25T13:22:29Z"
+  "atualizadoEm": "2026-10-26T15:29:28Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
