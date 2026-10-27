@@ -1,104 +1,104 @@
 {
- "geradoEm": "2026-10-26T15:29:31Z",
+ "geradoEm": "2026-10-27T14:56:13Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-10-26T15:29:23Z",
+   "atualizadoEm": "2026-10-27T14:56:05Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "Lula é reeleito presidente do Brasil no segundo turno com 51,79% dos votos válidos",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/lula-reeleito-presidente-brasil-segundo-turno.html",
-     "data": "2026-10-26T13:10:00Z",
+     "titulo": "Comunidade Cabo-verdiana de Brockton traça caminhos de Evangelização para 2026-2027",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/cabo-verde-igreja-evangelizacao-pastoral-estados-unidos.html",
+     "data": "2026-10-27T14:10:00Z",
+     "secao": "África"
+    },
+    {
+     "titulo": "Autoridade Sinodal: Aprender com o Bom Pastor",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/autoridade-sinodal-aprender-com-o-bom-pastor-pe-wladimir-porreca.html",
+     "data": "2026-10-27T13:27:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Santa Sé na ONU: redirecionar recursos para armas ao desenvolvimento humano integral",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/santa-se-onu-arcebispo-el-kassis-redirecionar-recursos-armas.html",
+     "data": "2026-10-27T12:59:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Testemunho de missionário italiano em Cusco, uma das etapas de Leão no Peru",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-viagem-internacional-america-latina-peru-corsini.html",
+     "data": "2026-10-27T12:37:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "De João Paulo II a Leão XIV, quarenta anos do \"Espírito de Assis\"",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/assis-1986-oracao-paz-quatro-pontificados-espirito.html",
+     "data": "2026-10-27T11:15:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "As celebrações presididas pelo Papa Leão XIV em novembro e dezembro",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-celebracoes-presididas-novembro-dezembro-2026.html",
+     "data": "2026-10-27T11:10:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Trégua entra em vigor em Oleshky para permitir ajuda humanitária e retirada de civis",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/tregua-oleshky-entrada-ajuda-humanitaria-retirada-civis.html",
+     "data": "2026-10-27T09:42:00Z",
      "secao": "Mundo"
     },
     {
-     "titulo": "Leão XIV recorda cardeal Romeo: serviu generosamente à Igreja",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-telegrama-recorda-cardeal-paolo-romeo-26-10.html",
-     "data": "2026-10-26T11:12:00Z",
-     "secao": "Papa"
+     "titulo": "Israel: eleições começam em um clima de forte instabilidade regional",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/israel-eleicoes-comecam-clima-forte-instabilidade-regional.html",
+     "data": "2026-10-27T09:02:00Z",
+     "secao": "Mundo"
     },
     {
-     "titulo": "O Papa: numa sociedade como a nossa, a dimensão da caridade é fundamental",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-irmas-sociedade-dimensao-caridade-fundamental-joana-thouret.html",
-     "data": "2026-10-26T11:05:00Z",
-     "secao": "Papa"
+     "titulo": "Santuários do Brasil e do México celebram termo de irmandade em honra a São Miguel Arcanjo",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/santuarios-brasil-mexico-celebram-irmandade-sao-miguel-arcanjo.html",
+     "data": "2026-10-27T08:32:00Z",
+     "secao": "Igreja"
     },
     {
-     "titulo": "Papa recebe em audiência a presidente da Eslovênia",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-recebe-em-audiencia-presidente-da-eslovenia.html",
-     "data": "2026-10-26T10:16:00Z",
-     "secao": "Papa"
+     "titulo": "Itália: Cortona franciscana, nas pegadas do Pobrezinho de Assis",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/800-anos-morte-sao-francisco-assis-cortona-franciscana-italia-26.html",
+     "data": "2026-10-27T08:31:00Z",
+     "secao": "Igreja"
     },
     {
-     "titulo": "Evangelho de 26 de outubro",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/evangelho-26-de-outubro-dom-mario-spaki.html",
-     "data": "2026-10-26T08:17:00Z",
+     "titulo": "Concerto pela Paz, em Roma, inspirado no Papa João Paulo II",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/concerto-pela-paz-roma-inspirado-papa-joao-paulo-ii-outubro-26.html",
+     "data": "2026-10-27T08:21:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Ataque russo atinge universidade em Kiev, mata uma pessoa e deixa estudantes feridos",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/ucrania-ataque-russo-universidade-kiev.html",
+     "data": "2026-10-27T08:10:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "Evangelho de 27 de outubro",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/evangelho-27-de-outubro-dom-mario-spaki.html",
+     "data": "2026-10-27T07:23:00Z",
      "secao": "Evangelho"
     },
     {
-     "titulo": "Pe. Burgio em Milão: adultos devem voltar a ser confiáveis",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/milao-italia-manifestacao-jovens-padre-burgio-outubro-2026.html",
-     "data": "2026-10-25T15:37:00Z",
+     "titulo": "Dom Magnus: memória de Menina Benigna deve inquietar as consciências pela proteção às crianças",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/23-romaria-4-festa-beata-menina-benigna-ceara-24-outubro-2026.html",
+     "data": "2026-10-27T07:02:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Iêmen: emergência humanitária em rápida escalada em Taiz, afirma ONU",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/iemen-onu-emergencia-humanitaria-cidade-taiz-outubro-2026.html",
-     "data": "2026-10-25T14:15:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Itália: morre o cardeal Romeo, arcebispo emérito de Palermo",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/morre-cardeal-paolo-romeo-arcebispo-emerito-palermo-italia-88-26.html",
-     "data": "2026-10-25T12:03:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Apelos do Papa pelos povos do Iêmen e Jordânia: todos têm direito de viver em paz",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-apelo-paz-iemen-jordania-encontro-assis-outubro-26.html",
-     "data": "2026-10-25T11:24:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Papa: não se pode amar a Deus sem que esse amor transborde ao nosso irmão",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-angelus-25-outubro-2026.html",
-     "data": "2026-10-25T11:15:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Patriarca Bartolomeu I em peregrinação pela Itália: entre Roma, Loreto e Assis",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/patriarca-bartolomeu-i-peregrinacao-italia-audiencia-papa-leao.html",
-     "data": "2026-10-25T09:29:00Z",
+     "titulo": "Eslováquia: a evangelização assume hoje a forma de presença",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/projeto-sisters-filhas-caridade-bratislava-eslovaquia-26.html",
+     "data": "2026-10-27T07:00:00Z",
      "secao": "Igreja"
-    },
-    {
-     "titulo": "Igrejas na Jordânia: “convivência entre cristãos e muçulmanos não está em perigo”",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/igrejas-jordania-convivencia-cristaos-muculmanos-outubro-26.html",
-     "data": "2026-10-25T08:11:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Cardeal Parolin: Santa Sé condena o antissemitismo em todas as suas formas",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/cardeal-parolin-santa-se-condena-antissemitismo-comite-judaico.html",
-     "data": "2026-10-24T15:37:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Papa Leão XIV recebe bispos do Panamá em visita ad limina",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-visita-ad-limina-panama-outubro-206.html",
-     "data": "2026-10-24T15:13:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Hebdomada Papae, o noticiário em latim da Rádio Vaticano deste 24 de outubro",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/hebdomada-papae-noticiario-latim-24-outubro-2026.html",
-     "data": "2026-10-24T10:30:00Z",
-     "secao": "Vaticano"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-10-26T15:29:25Z",
+   "atualizadoEm": "2026-10-27T14:56:07Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
@@ -145,41 +145,47 @@
   }
  },
  "liturgia": {
-  "data": "2026-10-26",
-  "celebracao": "Segunda-feira da 30ª Semana do Tempo Comum",
+  "data": "2026-10-27",
+  "celebracao": "Terça-feira da 30ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Carta de São Paulo aos Efésios 4,32-5,8"
-   },
-   {
-    "tipo": "Salmo",
-    "ref": "Sl 1,1-2.3.4.6"
+    "ref": "Carta de São Paulo aos Efésios 5,21-33"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Lucas 13,10-17"
+    "ref": "Lucas 13,18-21"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/30a-semana-do-tempo-comum-segunda-feira-26-de-outubro-de-2026/",
-  "atualizadoEm": "2026-10-26T15:29:28Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/30a-semana-do-tempo-comum-terca-feira-27-de-outubro-de-2026/",
+  "atualizadoEm": "2026-10-27T14:56:10Z"
  },
  "santo": {
-  "data": "2026-10-26",
+  "data": "2026-10-27",
   "nome": "Menu",
-  "resumo": "Também lembrados hoje: Busca; S. Demétrio, mártir; São Beano, Bispo.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/26.html",
-  "atualizadoEm": "2026-10-26T15:29:28Z"
+  "resumo": "Também lembrados hoje: Busca; S. Evaristo, papa; S. Frumêncio, bispo, apóstolo da Etiópia.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/27.html",
+  "atualizadoEm": "2026-10-27T14:56:10Z"
  },
  "catequese": {
-  "data": "2026-10-26",
+  "data": "2026-10-27",
   "parte": "A vida em Cristo",
-  "tema": "A dignidade da pessoa humana",
-  "texto": "Toda pessoa foi criada à imagem e semelhança de Deus e, por isso, tem uma dignidade que ninguém pode tirar. Dotada de razão e liberdade, ela é chamada à felicidade eterna. Respeitar a vida e a dignidade de cada pessoa é o fundamento de toda a moral cristã.",
-  "cic": "CIC 1700-1715",
-  "pergunta": "Há alguém que você tem tratado sem reconhecer a dignidade de filho de Deus?",
+  "tema": "As Bem-aventuranças",
+  "texto": "As Bem-aventuranças, proclamadas por Jesus no Sermão da Montanha, são o coração da sua pregação. Elas mostram o caminho da verdadeira felicidade: pobreza de espírito, mansidão, misericórdia, pureza de coração e busca da justiça e da paz. Revelam o rosto do próprio Cristo.",
+  "cic": "CIC 1716-1729",
+  "pergunta": "Qual das Bem-aventuranças é mais difícil para você viver hoje?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-10-26",
+    "parte": "A vida em Cristo",
+    "tema": "A dignidade da pessoa humana",
+    "texto": "Toda pessoa foi criada à imagem e semelhança de Deus e, por isso, tem uma dignidade que ninguém pode tirar. Dotada de razão e liberdade, ela é chamada à felicidade eterna. Respeitar a vida e a dignidade de cada pessoa é o fundamento de toda a moral cristã.",
+    "cic": "CIC 1700-1715",
+    "pergunta": "Há alguém que você tem tratado sem reconhecer a dignidade de filho de Deus?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
+    "atualizadoEm": "2026-10-26T15:29:28Z"
+   },
    {
     "data": "2026-10-25",
     "parte": "A celebração do mistério cristão",
@@ -281,7 +287,7 @@
     "texto": "O Catecismo ensina que a oração é a elevação da alma a Deus, ou o pedido a Deus dos bens de que precisamos. Ela não começa em nós: é Deus quem primeiro nos procura, e a oração é a nossa resposta a esse chamado. Por isso, rezar exige humildade, como quem se põe diante de Deus de mãos vazias. A oração é um encontro pessoal e vivo com Deus, e não só uma fórmula repetida."
    }
   ],
-  "atualizadoEm": "2026-10-26T15:29:28Z"
+  "atualizadoEm": "2026-10-27T14:56:10Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
