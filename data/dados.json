@@ -1,106 +1,110 @@
 {
- "geradoEm": "2026-10-27T14:56:13Z",
+ "geradoEm": "2026-10-28T15:29:11Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-10-27T14:56:05Z",
+   "atualizadoEm": "2026-10-28T15:29:02Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "Comunidade Cabo-verdiana de Brockton traça caminhos de Evangelização para 2026-2027",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/cabo-verde-igreja-evangelizacao-pastoral-estados-unidos.html",
-     "data": "2026-10-27T14:10:00Z",
+     "titulo": "Moçambique. UCM apela à investigação científica ao serviço das Comunidades",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/ucm-igreja-educacao-comunidades-desenvolvimento-solidariedade.html",
+     "data": "2026-10-28T12:40:56Z",
      "secao": "África"
     },
     {
-     "titulo": "Autoridade Sinodal: Aprender com o Bom Pastor",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/autoridade-sinodal-aprender-com-o-bom-pastor-pe-wladimir-porreca.html",
-     "data": "2026-10-27T13:27:00Z",
+     "titulo": "Cabo Delgado: “Não ficamos calados”, diz o bispo de Pemba",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/igreja-violencia-martires-terrorismo-criancas-ma-nutricao.html",
+     "data": "2026-10-28T11:03:21Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Santa Sé na ONU: redirecionar recursos para armas ao desenvolvimento humano integral",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/santa-se-onu-arcebispo-el-kassis-redirecionar-recursos-armas.html",
-     "data": "2026-10-27T12:59:00Z",
-     "secao": "Vaticano"
+     "titulo": "Reitor-mor dos Salesianos acolhe na Itália veteranos ucranianos",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/reitor-mor-salesianos-acolhe-italia-veteranos-ucranianos.html",
+     "data": "2026-10-28T10:53:00Z",
+     "secao": "Igreja"
     },
     {
-     "titulo": "Testemunho de missionário italiano em Cusco, uma das etapas de Leão no Peru",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-viagem-internacional-america-latina-peru-corsini.html",
-     "data": "2026-10-27T12:37:00Z",
+     "titulo": "Papa aos fiéis do Brasil: anunciar o Evangelho também no mundo da cultura",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-anuncio-evangelho-na-cultura-peregrinos-brasil-26.html",
+     "data": "2026-10-28T10:28:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "De João Paulo II a Leão XIV, quarenta anos do \"Espírito de Assis\"",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/assis-1986-oracao-paz-quatro-pontificados-espirito.html",
-     "data": "2026-10-27T11:15:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "As celebrações presididas pelo Papa Leão XIV em novembro e dezembro",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-celebracoes-presididas-novembro-dezembro-2026.html",
-     "data": "2026-10-27T11:10:00Z",
+     "titulo": "Papa: a fé é chamada a se tornar cultura para alcançar todas as pessoas",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-audiencia-geral-gaudium-et-spes-cultura.html",
+     "data": "2026-10-28T09:27:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Trégua entra em vigor em Oleshky para permitir ajuda humanitária e retirada de civis",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/tregua-oleshky-entrada-ajuda-humanitaria-retirada-civis.html",
-     "data": "2026-10-27T09:42:00Z",
-     "secao": "Mundo"
+     "titulo": "Leão XIV: o papamóvel tornou-se um instrumento de encontro",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-audiencia-executivos-mercedes-benz.html",
+     "data": "2026-10-28T08:55:00Z",
+     "secao": "Papa"
     },
     {
-     "titulo": "Israel: eleições começam em um clima de forte instabilidade regional",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/israel-eleicoes-comecam-clima-forte-instabilidade-regional.html",
-     "data": "2026-10-27T09:02:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Santuários do Brasil e do México celebram termo de irmandade em honra a São Miguel Arcanjo",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/santuarios-brasil-mexico-celebram-irmandade-sao-miguel-arcanjo.html",
-     "data": "2026-10-27T08:32:00Z",
+     "titulo": "Em Roma, FTD Educação e OIEC firmam acordo em favor da educação",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/ftd-oiec-parceria-internacional-fortalecimento-educacao-catolica.html",
+     "data": "2026-10-28T08:03:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Itália: Cortona franciscana, nas pegadas do Pobrezinho de Assis",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/800-anos-morte-sao-francisco-assis-cortona-franciscana-italia-26.html",
-     "data": "2026-10-27T08:31:00Z",
+     "titulo": "Pe. Mykhaylo Chaban: “Educar os jovens hoje é construir a Ucrânia de amanhã”",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/ucrania-salesianos-educacao-jovens-esperanca-futuro-pe-mykhaylo.html",
+     "data": "2026-10-28T07:42:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Concerto pela Paz, em Roma, inspirado no Papa João Paulo II",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/concerto-pela-paz-roma-inspirado-papa-joao-paulo-ii-outubro-26.html",
-     "data": "2026-10-27T08:21:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Ataque russo atinge universidade em Kiev, mata uma pessoa e deixa estudantes feridos",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/ucrania-ataque-russo-universidade-kiev.html",
-     "data": "2026-10-27T08:10:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Evangelho de 27 de outubro",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/evangelho-27-de-outubro-dom-mario-spaki.html",
-     "data": "2026-10-27T07:23:00Z",
+     "titulo": "Evangelho de 28 de outubro",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/evangelho-28-de-outubro-dom-mario-spaki.html",
+     "data": "2026-10-28T07:28:00Z",
      "secao": "Evangelho"
     },
     {
-     "titulo": "Dom Magnus: memória de Menina Benigna deve inquietar as consciências pela proteção às crianças",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/23-romaria-4-festa-beata-menina-benigna-ceara-24-outubro-2026.html",
-     "data": "2026-10-27T07:02:00Z",
+     "titulo": "O Papa se encontrará na América Latina com algumas vítimas de abusos",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-encontro-vitimas-abusos-viagem-america-latina.html",
+     "data": "2026-10-27T17:59:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Quem é a pessoa humana perante a autêntica Face de Cristo?",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/pessoa-humana-perante-autentica-face-cristo.html",
+     "data": "2026-10-27T16:20:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Eslováquia: a evangelização assume hoje a forma de presença",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/projeto-sisters-filhas-caridade-bratislava-eslovaquia-26.html",
-     "data": "2026-10-27T07:00:00Z",
+     "titulo": "Por que falamos muito e somos pouco escutados?",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/por-que-falamos-muito-pouco-escutados.html",
+     "data": "2026-10-27T15:46:00Z",
      "secao": "Igreja"
+    },
+    {
+     "titulo": "A morte é um Canto Gregoriano: é preciso entendê-la para não temê-la",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/morte-canto-gregoriano-preciso-entende-la-nao-temer.html",
+     "data": "2026-10-27T15:40:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "Pequenas Irmãs da Sagrada Família: 50 anos de missão no Brasil",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/raizes-italianas-50-anos-missao-brasil-fe-dedicacao.html",
+     "data": "2026-10-27T15:30:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "D. Teodoro M. Tavares faz balanço dos 5 meses à frente da Diocese de Santiago",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/cabo-verde-igreja-bispos-santiago-missao-pastoral-diaconos.html",
+     "data": "2026-10-27T15:24:00Z",
+     "secao": "África"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-10-27T14:56:07Z",
+   "atualizadoEm": "2026-10-28T15:29:04Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
+    {
+     "titulo": "O maior evento católico do Brasil reúne fé, música e oração em Fortaleza",
+     "link": "https://padrereginaldomanzotti.com.br/blog/o-maior-evento-catolico-do-brasil-reune-fe-musica-e-oracao-em-fortaleza/"
+    },
     {
      "titulo": "Padre Reginaldo Manzotti mobiliza fiéis para Dia D de doação de sangue em Fortaleza",
      "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-mobiliza-fieis-para-dia-d-de-doacao-de-sangue-em-fortaleza/"
@@ -136,46 +140,52 @@
     {
      "titulo": "Padre Reginaldo Manzotti preside Santa Missa pelos casais em Budapeste",
      "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-preside-santa-missa-pelos-casais-em-budapeste/"
-    },
-    {
-     "titulo": "Padre Reginaldo Manzotti inicia peregrinação “Passos da Misericórdia” pela Europa",
-     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-inicia-peregrinacao-passos-da-misericordia-pela-europa/"
     }
    ]
   }
  },
  "liturgia": {
-  "data": "2026-10-27",
-  "celebracao": "Terça-feira da 30ª Semana do Tempo Comum",
+  "data": "2026-10-28",
+  "celebracao": "Quarta-feira da 30ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Carta de São Paulo aos Efésios 5,21-33"
+    "ref": "Carta de São Paulo aos Efésios 2,19-22"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Lucas 13,18-21"
+    "ref": "Lucas 6,12-19"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/30a-semana-do-tempo-comum-terca-feira-27-de-outubro-de-2026/",
-  "atualizadoEm": "2026-10-27T14:56:10Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/30a-semana-do-tempo-comum-quarta-feira-28-de-outubro-de-2026/",
+  "atualizadoEm": "2026-10-28T15:29:07Z"
  },
  "santo": {
-  "data": "2026-10-27",
+  "data": "2026-10-28",
   "nome": "Menu",
-  "resumo": "Também lembrados hoje: Busca; S. Evaristo, papa; S. Frumêncio, bispo, apóstolo da Etiópia.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/27.html",
-  "atualizadoEm": "2026-10-27T14:56:10Z"
+  "resumo": "Também lembrados hoje: Busca; SS. Simão e Judas (Tadeu), apóstolos.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/28.html",
+  "atualizadoEm": "2026-10-28T15:29:07Z"
  },
  "catequese": {
-  "data": "2026-10-27",
+  "data": "2026-10-28",
   "parte": "A vida em Cristo",
-  "tema": "As Bem-aventuranças",
-  "texto": "As Bem-aventuranças, proclamadas por Jesus no Sermão da Montanha, são o coração da sua pregação. Elas mostram o caminho da verdadeira felicidade: pobreza de espírito, mansidão, misericórdia, pureza de coração e busca da justiça e da paz. Revelam o rosto do próprio Cristo.",
-  "cic": "CIC 1716-1729",
-  "pergunta": "Qual das Bem-aventuranças é mais difícil para você viver hoje?",
+  "tema": "A consciência",
+  "texto": "A consciência é o lugar mais íntimo da pessoa, onde ela está a sós com Deus e escuta a sua voz. Ela nos ajuda a discernir o bem e o mal em cada situação. Por isso precisa ser formada continuamente pela Palavra de Deus, pelo ensinamento da Igreja e pela oração.",
+  "cic": "CIC 1776-1802",
+  "pergunta": "Você costuma fazer um exame de consciência no fim do dia?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-10-27",
+    "parte": "A vida em Cristo",
+    "tema": "As Bem-aventuranças",
+    "texto": "As Bem-aventuranças, proclamadas por Jesus no Sermão da Montanha, são o coração da sua pregação. Elas mostram o caminho da verdadeira felicidade: pobreza de espírito, mansidão, misericórdia, pureza de coração e busca da justiça e da paz. Revelam o rosto do próprio Cristo.",
+    "cic": "CIC 1716-1729",
+    "pergunta": "Qual das Bem-aventuranças é mais difícil para você viver hoje?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
+    "atualizadoEm": "2026-10-27T14:56:10Z"
+   },
    {
     "data": "2026-10-26",
     "parte": "A vida em Cristo",
@@ -287,26 +297,30 @@
     "texto": "O Catecismo ensina que a oração é a elevação da alma a Deus, ou o pedido a Deus dos bens de que precisamos. Ela não começa em nós: é Deus quem primeiro nos procura, e a oração é a nossa resposta a esse chamado. Por isso, rezar exige humildade, como quem se põe diante de Deus de mãos vazias. A oração é um encontro pessoal e vivo com Deus, e não só uma fórmula repetida."
    }
   ],
-  "atualizadoEm": "2026-10-27T14:56:10Z"
+  "atualizadoEm": "2026-10-28T15:29:07Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
-  "data": "2026-10-25",
+  "data": "2026-11-01",
   "versoes": [
    {
-    "nome": "Ano A - nº 59 - 30º Domingo do Tempo Comum (Assembléia)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6763f1657da1fd3|24cddaR33eb|4|2dcf8e"
+    "nome": "Ano A - nº 60 - Todos os Santos e Santas de Deus (Celular)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf2e"
    },
    {
-    "nome": "Ano A - nº 59 - 30º Domingo do Tempo Comum (Celular)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6763f1657da1fd3|24cddaR33eb|4|2dcf9e"
+    "nome": "Ano A - nº 60 - Todos os Santos e Santas de Deus (Celebrante)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf3e"
    },
    {
-    "nome": "Ano A - nº 59 - 30º Domingo do Tempo Comum (Celebrante)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf0e"
+    "nome": "Ano A - nº 60 - Todos os Santos e Santas de Deus (Assembléia)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf7e"
+   },
+   {
+    "nome": "Ano A - nº 61 - Finados (Assembléia)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf4e"
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-10-25T13:22:32Z"
+  "atualizadoEm": "2026-10-28T15:29:11Z"
  }
 }
