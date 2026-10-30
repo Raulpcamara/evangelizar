@@ -1,106 +1,110 @@
 {
- "geradoEm": "2026-10-29T15:34:43Z",
+ "geradoEm": "2026-10-30T15:21:34Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-10-29T15:34:33Z",
+   "atualizadoEm": "2026-10-30T15:21:27Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "Irmã García: a presença do Papa dará novo impulso à Igreja no Peru",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/papa-leao-xiv-peru-franciscanas-imaculada-conceicao-preparacao.html",
-     "data": "2026-10-29T15:09:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Leão XIV: contemplar os santos, sinal profético da vida futura",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-audiencia-geral-dia-todos-os-santos-1-novembro-26.html",
-     "data": "2026-10-29T14:18:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Santa Sé na ONU: a exploração espacial deve beneficiar todos os povos",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/santa-se-onu-dom-el-kassis-espaco-tecnologia-desenvolvimento.html",
-     "data": "2026-10-29T14:12:00Z",
+     "titulo": "Dicastério para a Comunicação se despede de Ruffini: \"Obrigado por seu exemplo\"",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/dicasterio-comunicacao-ruffini-prefeita-montserrat-alvarado.html",
+     "data": "2026-10-30T14:37:00Z",
      "secao": "Vaticano"
     },
     {
-     "titulo": "Papa no Peru: tecendo um fio de esperança a partir da prisão feminina de Chorrillos",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/papa-leao-xiv-peru-prisao-feminina-chorrillos-lima-peru-2026.html",
-     "data": "2026-10-29T13:58:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Estação ferroviária de Dnipro atingida por ataque russo. Mortos são ao menos 14",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/ucrania-guerra-russa-ataque-estacao-trens-dnipro.html",
-     "data": "2026-10-29T13:14:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Leão XIV recebe presidente da Costa Rica no Vaticano",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-audiencia-presidente-costa-rica-laura-fernandez-26.html",
-     "data": "2026-10-29T13:13:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "O Papa retorna às paróquias romanas, com visitas nos domingos do Advento",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-visitas-paroquias-diocese-de-roma-domingos-advento.html",
-     "data": "2026-10-29T12:35:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Cultura da Vida: amor matrimonial fecundo e que valoriza a vida",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/cultura-vida-amor-familia-gaudium-et-spes-casamento-filhos.html",
-     "data": "2026-10-29T11:33:00Z",
+     "titulo": "Na PUC-SP, um encontro sobre os 200 anos das relações entre Brasil e Santa Sé",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/pucsp-encontro-200-anos-relacoes-diplomaticas-brasil-santa-se.html",
+     "data": "2026-10-30T14:25:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Dom Quematcha e Imame de Mansoa apelam à reconciliação na Guiné-Bissau",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-10/lideres-religiosos-apelo-dialogo-reconciliacao-paz-esperanca.html",
-     "data": "2026-10-29T11:10:00Z",
-     "secao": "África"
-    },
-    {
-     "titulo": "Leão XIV à Jordânia, após atentado: perseverar na fé, testemunhando Cristo",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-audiencia-geral-saudaco-jordania-fe-26.html",
-     "data": "2026-10-29T10:29:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Papa “profundamente consternado” com a tragédia ferroviária na Espanha",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-profundamente-consternado-tragedia-ferroviaria-espanha.html",
-     "data": "2026-10-29T10:03:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Fr. Philip Larrey: vida monástica poderia se beneficiar do uso da IA",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/vida-monastica-beneficio-uso-ia-frei-philip-larrey.html",
-     "data": "2026-10-29T09:25:00Z",
+     "titulo": "A Corrida dos Santos: quando a solidariedade percorre as ruas de Roma",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/corrida-santos-solidariedade-missoes-dom-bosco-pocos-agua-congo.html",
+     "data": "2026-10-30T13:45:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "O esmoleiro na Ucrânia para levar o conforto do Papa",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/ucrania-esmoleiro-papa-leao-missao-caridade.html",
-     "data": "2026-10-29T08:50:00Z",
+     "titulo": "Teve início a evacuação humanitária em Oleshky",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/ucrania-tregua-humanitaria-oleshky-chegada-ajudas.html",
+     "data": "2026-10-30T13:30:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "Curiosidades sobre a Igreja Católica: Por que o latim é a língua oficial da Igreja?",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/curiosidades-sobre-igreja-catolica-latim-lingua-oficial.html",
+     "data": "2026-10-30T13:09:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Papa Leão XIV votou pelo correio nas eleições de meio de mandato",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/leao-xiv-voto-midterm-estados-unidos-sala-imprensa-santa-se.html",
+     "data": "2026-10-30T12:55:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Leão XIV: a IA jamais deve decidir sobre a vida humana",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-audiencia-academia-vida-inteligencia-artificial.html",
+     "data": "2026-10-30T11:55:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Mediterrâneo: em Malta, a Igreja impulsiona a ação das mulheres",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/malta-mulheres-mediterraneo-oriente-medio-paz-igreja-umofc.html",
+     "data": "2026-10-30T11:45:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Novas garantias para os trabalhadores da Santa Sé",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/rescriptum-papa-leao-garantias-trabalho-santa-se.html",
+     "data": "2026-10-30T11:40:00Z",
      "secao": "Vaticano"
     },
     {
-     "titulo": "Aberta fase diocesana da causa de beatificação e canonização de frei Ignacio Larrañaga",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/abertura-fase-diocesana-beatificacao-frei-inacio-larranaga.html",
-     "data": "2026-10-29T08:01:00Z",
+     "titulo": "Papa Leão XIV concede título de Basílica Menor a Santuário no Paraná",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/santuario-parana-leao-xov-basilica-menor-cardeal-odilo-scherer.html",
+     "data": "2026-10-30T11:13:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Evangelho de 29 de outubro",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/evangelho-29-de-outubro-dom-mario-spaki.html",
-     "data": "2026-10-29T07:33:00Z",
+     "titulo": "Secretaria Geral do Sínodo: nomeados dois novos subsecretários",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/secreteria-geral-sinodo-nomeacao-dois-novos-subsecretarios.html",
+     "data": "2026-10-30T11:05:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "No \"espírito de Assis\", hinduístas e cristãos podem juntos trilhar caminhos de paz",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/dialogo-inter-religioso-hinduistas-cristaos-festa-deepavali-paz.html",
+     "data": "2026-10-30T09:51:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "\"Um cristão no corredor da morte\": livro com prefácio do Papa Francisco",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/livro-vaticano-papafrancisco.html",
+     "data": "2026-10-30T08:56:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Ucrânia: a caridade do Papa entre crianças sozinhas na fila para receber pão",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/ucraina-solidarieta-elemosiniere-carita-guerra.html",
+     "data": "2026-10-30T07:42:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Evangelho de 30 de outubro",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/evangelho-30-de-outubro-dom-mario-spaki.html",
+     "data": "2026-10-30T07:38:00Z",
      "secao": "Evangelho"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-10-29T15:34:36Z",
+   "atualizadoEm": "2026-10-30T15:21:29Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
+    {
+     "titulo": "Padre Reginaldo Manzotti abre agenda em Fortaleza com coletiva de imprensa sobre o XIX Evangelizar É Preciso",
+     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-abre-agenda-em-fortaleza-com-coletiva-de-imprensa-sobre-o-xix-evangelizar-e-preciso/"
+    },
     {
      "titulo": "O maior evento católico do Brasil reúne fé, música e oração em Fortaleza",
      "link": "https://padrereginaldomanzotti.com.br/blog/o-maior-evento-catolico-do-brasil-reune-fe-musica-e-oracao-em-fortaleza/"
@@ -136,46 +140,48 @@
     {
      "titulo": "Sou um milagre de Nossa Senhora Aparecida",
      "link": "https://padrereginaldomanzotti.com.br/blog/sou-um-milagre-de-nossa-senhora-aparecida/"
-    },
-    {
-     "titulo": "Padre Reginaldo Manzotti preside Santa Missa pelos casais em Budapeste",
-     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-preside-santa-missa-pelos-casais-em-budapeste/"
     }
    ]
   }
  },
  "liturgia": {
-  "data": "2026-10-29",
-  "celebracao": "Quinta-feira da 30ª Semana do Tempo Comum",
+  "data": "2026-10-30",
+  "celebracao": "Sexta-feira da 30ª Semana do Tempo Comum",
   "leituras": [
    {
-    "tipo": "1ª Leitura",
-    "ref": "Carta de São Paulo aos Efésios 6,10-20"
-   },
-   {
     "tipo": "Evangelho",
-    "ref": "Lucas 13,31-35"
+    "ref": "Lucas 14,1-6"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/30a-semana-do-tempo-comum-quinta-feira-29-de-outubro-de-2026/",
-  "atualizadoEm": "2026-10-29T15:34:39Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/30a-semana-do-tempo-comum-sexta-feira-30-de-outubro-de-2026/",
+  "atualizadoEm": "2026-10-30T15:21:31Z"
  },
  "santo": {
-  "data": "2026-10-29",
+  "data": "2026-10-30",
   "nome": "Menu",
-  "resumo": "Também lembrados hoje: Busca; S. Feliciano, mártir de Cartago.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/29.html",
-  "atualizadoEm": "2026-10-29T15:34:39Z"
+  "resumo": "Também lembrados hoje: Busca; S. Germano, bispo de Cápua.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/30.html",
+  "atualizadoEm": "2026-10-30T15:21:31Z"
  },
  "catequese": {
-  "data": "2026-10-29",
+  "data": "2026-10-30",
   "parte": "A vida em Cristo",
-  "tema": "Fé, esperança e caridade",
-  "texto": "As virtudes teologais são dons de Deus que nos ligam diretamente a Ele. A fé nos faz crer em Deus, a esperança nos faz confiar nas suas promessas, e a caridade nos faz amar a Deus acima de tudo e o próximo como a nós mesmos. A maior delas é a caridade.",
-  "cic": "CIC 1812-1829",
-  "pergunta": "Qual dessas três virtudes você mais precisa pedir a Deus hoje?",
+  "tema": "Os Dez Mandamentos",
+  "texto": "Os Dez Mandamentos, dados por Deus a Moisés, resumem os deveres para com Deus e para com o próximo. Jesus não os aboliu, mas os levou à plenitude no mandamento do amor. Eles não são um peso, mas um caminho de liberdade e de vida.",
+  "cic": "CIC 2052-2082",
+  "pergunta": "Qual mandamento você sente que precisa viver com mais fidelidade?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-10-29",
+    "parte": "A vida em Cristo",
+    "tema": "Fé, esperança e caridade",
+    "texto": "As virtudes teologais são dons de Deus que nos ligam diretamente a Ele. A fé nos faz crer em Deus, a esperança nos faz confiar nas suas promessas, e a caridade nos faz amar a Deus acima de tudo e o próximo como a nós mesmos. A maior delas é a caridade.",
+    "cic": "CIC 1812-1829",
+    "pergunta": "Qual dessas três virtudes você mais precisa pedir a Deus hoje?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
+    "atualizadoEm": "2026-10-29T15:34:39Z"
+   },
    {
     "data": "2026-10-28",
     "parte": "A vida em Cristo",
@@ -307,7 +313,7 @@
     "texto": "O Catecismo ensina que a oração é a elevação da alma a Deus, ou o pedido a Deus dos bens de que precisamos. Ela não começa em nós: é Deus quem primeiro nos procura, e a oração é a nossa resposta a esse chamado. Por isso, rezar exige humildade, como quem se põe diante de Deus de mãos vazias. A oração é um encontro pessoal e vivo com Deus, e não só uma fórmula repetida."
    }
   ],
-  "atualizadoEm": "2026-10-29T15:34:39Z"
+  "atualizadoEm": "2026-10-30T15:21:31Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
@@ -331,6 +337,6 @@
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-10-29T15:34:43Z"
+  "atualizadoEm": "2026-10-30T15:21:34Z"
  }
 }
