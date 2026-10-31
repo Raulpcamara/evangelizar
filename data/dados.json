@@ -1,18 +1,84 @@
 {
- "geradoEm": "2026-10-30T15:21:34Z",
+ "geradoEm": "2026-10-31T14:46:43Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-10-30T15:21:27Z",
+   "atualizadoEm": "2026-10-31T14:46:34Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "Dicastério para a Comunicação se despede de Ruffini: \"Obrigado por seu exemplo\"",
+     "titulo": "Leão XIV: o esporte é mestre em cooperação e partilha",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-basquete-universitario-eua-villanova-notre-dame-26.html",
+     "data": "2026-10-31T12:00:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Papa: reconstrução urgente na região central da Itália, após 10 anos de terremoto",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-atingidos-eventos-sismicos-italia-31-outubro-26.html",
+     "data": "2026-10-31T11:00:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Esmoleiro do Papa termina visita ao povo ferido da Ucrânia",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/esmoleiro-papa-leao-xiv-missao-ucrania-doacoes-visita-concluida.html",
+     "data": "2026-10-31T09:43:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Peru: arcebispo de Cusco, dom Richard Urrutia, morre aos 74 anos",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/arcebispo-cusco-peru-richard-urrutia-outubro-2026.html",
+     "data": "2026-10-31T09:31:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Antonio Cardoso na Canção e a Prece: \"Uma folha que caiu\"",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/porque-sera-grande-a-vossa-recompensa.html",
+     "data": "2026-10-31T07:00:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Solenidade de Todos os Santos",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/solenidade-todos-santos.html",
+     "data": "2026-10-31T07:00:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Novo guia sobre saúde mental e acompanhamento pastoral é apresentado em Roma",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/novo-guia-sobre-saude-mental-acompanhamento-pastoral.html",
+     "data": "2026-10-30T18:03:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Do Vaticano, o pedido de regras e responsabilidade humana no uso da IA",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/ia-vaticano-dialogo-cientistas-seguranca-responsabilidade-humana.html",
+     "data": "2026-10-30T15:42:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "De Lisboa a Seul: conferência debate o papel da JMJ na construção da paz",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/embaixada-lisboa-seul.html",
+     "data": "2026-10-30T15:34:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Carriquiry: visita do Papa revitalizará raízes católicas do Uruguai",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-uruguai-entrevista-guzman-carriquiry.html",
+     "data": "2026-10-30T15:09:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Dicastério para a Comunicação se despede de Ruffini: \"Obrigado\"",
      "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/dicasterio-comunicacao-ruffini-prefeita-montserrat-alvarado.html",
      "data": "2026-10-30T14:37:00Z",
      "secao": "Vaticano"
     },
     {
-     "titulo": "Na PUC-SP, um encontro sobre os 200 anos das relações entre Brasil e Santa Sé",
+     "titulo": "Tawadros II assina protocolo de cooperação com a Fundação Fraternidade Humana",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/tawadros-protocolo-cooperacao-fundacao-fraternidade-humana.html",
+     "data": "2026-10-30T14:27:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Na PUC-SP, encontro sobre os 200 anos das relações entre Brasil e Santa Sé",
      "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/pucsp-encontro-200-anos-relacoes-diplomaticas-brasil-santa-se.html",
      "data": "2026-10-30T14:25:00Z",
      "secao": "Igreja"
@@ -28,86 +94,20 @@
      "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/ucrania-tregua-humanitaria-oleshky-chegada-ajudas.html",
      "data": "2026-10-30T13:30:00Z",
      "secao": "Mundo"
-    },
-    {
-     "titulo": "Curiosidades sobre a Igreja Católica: Por que o latim é a língua oficial da Igreja?",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/curiosidades-sobre-igreja-catolica-latim-lingua-oficial.html",
-     "data": "2026-10-30T13:09:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Papa Leão XIV votou pelo correio nas eleições de meio de mandato",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/leao-xiv-voto-midterm-estados-unidos-sala-imprensa-santa-se.html",
-     "data": "2026-10-30T12:55:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Leão XIV: a IA jamais deve decidir sobre a vida humana",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-audiencia-academia-vida-inteligencia-artificial.html",
-     "data": "2026-10-30T11:55:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Mediterrâneo: em Malta, a Igreja impulsiona a ação das mulheres",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/malta-mulheres-mediterraneo-oriente-medio-paz-igreja-umofc.html",
-     "data": "2026-10-30T11:45:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Novas garantias para os trabalhadores da Santa Sé",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/rescriptum-papa-leao-garantias-trabalho-santa-se.html",
-     "data": "2026-10-30T11:40:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Papa Leão XIV concede título de Basílica Menor a Santuário no Paraná",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/santuario-parana-leao-xov-basilica-menor-cardeal-odilo-scherer.html",
-     "data": "2026-10-30T11:13:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Secretaria Geral do Sínodo: nomeados dois novos subsecretários",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/secreteria-geral-sinodo-nomeacao-dois-novos-subsecretarios.html",
-     "data": "2026-10-30T11:05:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "No \"espírito de Assis\", hinduístas e cristãos podem juntos trilhar caminhos de paz",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/dialogo-inter-religioso-hinduistas-cristaos-festa-deepavali-paz.html",
-     "data": "2026-10-30T09:51:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "\"Um cristão no corredor da morte\": livro com prefácio do Papa Francisco",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/livro-vaticano-papafrancisco.html",
-     "data": "2026-10-30T08:56:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Ucrânia: a caridade do Papa entre crianças sozinhas na fila para receber pão",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/ucraina-solidarieta-elemosiniere-carita-guerra.html",
-     "data": "2026-10-30T07:42:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Evangelho de 30 de outubro",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/evangelho-30-de-outubro-dom-mario-spaki.html",
-     "data": "2026-10-30T07:38:00Z",
-     "secao": "Evangelho"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-10-30T15:21:29Z",
+   "atualizadoEm": "2026-10-31T14:46:36Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
-     "titulo": "Padre Reginaldo Manzotti abre agenda em Fortaleza com coletiva de imprensa sobre o XIX Evangelizar É Preciso",
-     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-abre-agenda-em-fortaleza-com-coletiva-de-imprensa-sobre-o-xix-evangelizar-e-preciso/"
-    },
-    {
      "titulo": "O maior evento católico do Brasil reúne fé, música e oração em Fortaleza",
      "link": "https://padrereginaldomanzotti.com.br/blog/o-maior-evento-catolico-do-brasil-reune-fe-musica-e-oracao-em-fortaleza/"
+    },
+    {
+     "titulo": "Padre Reginaldo Manzotti abre agenda em Fortaleza com coletiva de imprensa sobre o XIX Evangelizar É Preciso",
+     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-abre-agenda-em-fortaleza-com-coletiva-de-imprensa-sobre-o-xix-evangelizar-e-preciso/"
     },
     {
      "titulo": "Padre Reginaldo Manzotti mobiliza fiéis para Dia D de doação de sangue em Fortaleza",
@@ -145,33 +145,47 @@
   }
  },
  "liturgia": {
-  "data": "2026-10-30",
-  "celebracao": "Sexta-feira da 30ª Semana do Tempo Comum",
+  "data": "2026-10-31",
+  "celebracao": "Sábado da 30ª Semana do Tempo Comum",
   "leituras": [
    {
+    "tipo": "1ª Leitura",
+    "ref": "Carta de São Paulo aos Filipenses 1,18b-26"
+   },
+   {
     "tipo": "Evangelho",
-    "ref": "Lucas 14,1-6"
+    "ref": "Lucas 14,1.7-11"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/30a-semana-do-tempo-comum-sexta-feira-30-de-outubro-de-2026/",
-  "atualizadoEm": "2026-10-30T15:21:31Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/30a-semana-do-tempo-comum-sabado-31-de-outubro-de-2026/",
+  "atualizadoEm": "2026-10-31T14:46:39Z"
  },
  "santo": {
-  "data": "2026-10-30",
+  "data": "2026-10-31",
   "nome": "Menu",
-  "resumo": "Também lembrados hoje: Busca; S. Germano, bispo de Cápua.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/30.html",
-  "atualizadoEm": "2026-10-30T15:21:31Z"
+  "resumo": "Também lembrados hoje: Busca; S. Afonso Rodriguez, religioso jesuíta.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/31.html",
+  "atualizadoEm": "2026-10-31T14:46:39Z"
  },
  "catequese": {
-  "data": "2026-10-30",
+  "data": "2026-10-31",
   "parte": "A vida em Cristo",
-  "tema": "Os Dez Mandamentos",
-  "texto": "Os Dez Mandamentos, dados por Deus a Moisés, resumem os deveres para com Deus e para com o próximo. Jesus não os aboliu, mas os levou à plenitude no mandamento do amor. Eles não são um peso, mas um caminho de liberdade e de vida.",
-  "cic": "CIC 2052-2082",
-  "pergunta": "Qual mandamento você sente que precisa viver com mais fidelidade?",
+  "tema": "Guardar o Dia do Senhor",
+  "texto": "O domingo é o dia da Ressurreição de Cristo e o dia do Senhor. Os católicos são chamados a participar da Missa dominical e a dedicar esse dia ao descanso, à família e às obras de caridade. Celebrar o domingo é lembrar que a nossa vida pertence a Deus.",
+  "cic": "CIC 2168-2195",
+  "pergunta": "O seu domingo tem sido realmente um dia do Senhor?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-10-30",
+    "parte": "A vida em Cristo",
+    "tema": "Os Dez Mandamentos",
+    "texto": "Os Dez Mandamentos, dados por Deus a Moisés, resumem os deveres para com Deus e para com o próximo. Jesus não os aboliu, mas os levou à plenitude no mandamento do amor. Eles não são um peso, mas um caminho de liberdade e de vida.",
+    "cic": "CIC 2052-2082",
+    "pergunta": "Qual mandamento você sente que precisa viver com mais fidelidade?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
+    "atualizadoEm": "2026-10-30T15:21:31Z"
+   },
    {
     "data": "2026-10-29",
     "parte": "A vida em Cristo",
@@ -301,19 +315,9 @@
     "pergunta": "Com qual desses personagens a sua oração mais se parece hoje: a confiança de Abraão, a intercessão de Moisés ou o louvor e o arrependimento de Davi?",
     "tema": "Como rezavam Abraão, Moisés e Davi?",
     "texto": "O Catecismo mostra que Deus chama todas as pessoas à oração, e que a Bíblia é uma grande escola onde aprendemos a rezar. Abraão reza ouvindo e confiando: põe-se a caminho e até intercede por Sodoma. Moisés conversa com Deus “face a face, como um amigo” e se torna o grande intercessor do seu povo. Davi, pastor e rei, ensina a louvar e a pedir perdão nos Salmos, que se tornaram a oração do povo de Deus e da Igreja."
-   },
-   {
-    "atualizadoEm": "2026-10-16T18:40:00Z",
-    "cic": "CIC 2558-2565",
-    "data": "2026-10-16",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
-    "parte": "A oração cristã",
-    "pergunta": "Hoje, em que momento do dia você pode parar alguns minutos só para estar diante de Deus?",
-    "tema": "O que é a oração?",
-    "texto": "O Catecismo ensina que a oração é a elevação da alma a Deus, ou o pedido a Deus dos bens de que precisamos. Ela não começa em nós: é Deus quem primeiro nos procura, e a oração é a nossa resposta a esse chamado. Por isso, rezar exige humildade, como quem se põe diante de Deus de mãos vazias. A oração é um encontro pessoal e vivo com Deus, e não só uma fórmula repetida."
    }
   ],
-  "atualizadoEm": "2026-10-30T15:21:31Z"
+  "atualizadoEm": "2026-10-31T14:46:39Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
@@ -337,6 +341,6 @@
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-10-30T15:21:34Z"
+  "atualizadoEm": "2026-10-31T14:46:43Z"
  }
 }
