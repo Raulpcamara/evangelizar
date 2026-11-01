@@ -1,10 +1,82 @@
 {
- "geradoEm": "2026-10-31T14:46:43Z",
+ "geradoEm": "2026-11-01T15:28:50Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-10-31T14:46:34Z",
+   "atualizadoEm": "2026-11-01T15:28:43Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
+    {
+     "titulo": "Barricadas em Paris, incêndios em Tirana e milhares nas ruas na Alemanha e Portugal",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/manifestacao-franca-albania-alemana-portugal-outubro-2026.html",
+     "data": "2026-11-01T13:26:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "Leão aos atletas dos Jogos Olímpicos de Dakar: do esporte, sinais de esperança",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-atletas-jogos-olimpicos-dakar-africa-finados-2026.html",
+     "data": "2026-11-01T11:54:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Leão XIV: do gesto de humanidade de Oleshky a iniciativas concretas de paz",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-angelus-tregua-oleshky-ucrania-paz-russia-2026.html",
+     "data": "2026-11-01T11:26:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Papa no dia de Todos os Santos: vocação que nos interpela por escolhas de amor",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-reflexao-angelus-1-novembro-2026-todos-os-santos.html",
+     "data": "2026-11-01T11:25:21Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Irmãs Hospitaleiras, pela pessoa humana em suas fragilidades e potencialidades",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/hospitaleiras-saude-mental-cuidados-pessoa-prevencao-solidarios.html",
+     "data": "2026-11-01T11:15:59Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Luzes de paz na Basílica de Santa Maria Maior, em Roma",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/luzes-de-paz-final-mes-mariano-basilica-santa-maria-maior-roma.html",
+     "data": "2026-11-01T10:44:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Missionários franciscanos, “mártires da Geórgia”, são beatificados nos EUA",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/beatificacao-missionarios-franciscanos-martires-da-georgia-eua.html",
+     "data": "2026-11-01T09:55:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Papa recorda o arcebispo de Cusco: pastor altruísta de fidelidade inabalável",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-mensagem-morte-arcebispo-cusco-richard-urrutia-26.html",
+     "data": "2026-11-01T07:31:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Ucrânia: concluída a evacuação da cidade de Oleshky",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/ucrania-evacuacao-oleshky-concluida-2-mil-habitantes-outubro-26.html",
+     "data": "2026-10-31T16:30:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "“O amor de Cristo envia-nos”, tema do Dia Mundial das Missões 2027",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/tema-dia-mundial-missoes-2027-amor-cristo-envia-nos-papa-leao.html",
+     "data": "2026-10-31T16:11:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "A partida da inclusão: estrelas da NBA em Roma com atletas do \"Special Olympics\"",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/jogo-basquete-universitario-eua-inclusao-stars-nba-roma-2026.html",
+     "data": "2026-10-31T15:56:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Nomeações do Papa: bispo Cavina é o novo visitador apostólico de Medjugorje",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/papa-leao-xiv-nomeacoes-visitador-apostolico-medjugorje-cavina.html",
+     "data": "2026-10-31T15:45:00Z",
+     "secao": "Vaticano"
+    },
     {
      "titulo": "Leão XIV: o esporte é mestre em cooperação e partilha",
      "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-basquete-universitario-eua-villanova-notre-dame-26.html",
@@ -18,87 +90,15 @@
      "secao": "Papa"
     },
     {
-     "titulo": "Esmoleiro do Papa termina visita ao povo ferido da Ucrânia",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/esmoleiro-papa-leao-xiv-missao-ucrania-doacoes-visita-concluida.html",
-     "data": "2026-10-31T09:43:00Z",
+     "titulo": "Hebdomada Papae: o boletim de notícias em latim deste 31 de outubro",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/hebdomada-papae-boletim-noticias-31-outubro-2026-vatican-news.html",
+     "data": "2026-10-31T11:00:00Z",
      "secao": "Vaticano"
-    },
-    {
-     "titulo": "Peru: arcebispo de Cusco, dom Richard Urrutia, morre aos 74 anos",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/arcebispo-cusco-peru-richard-urrutia-outubro-2026.html",
-     "data": "2026-10-31T09:31:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Antonio Cardoso na Canção e a Prece: \"Uma folha que caiu\"",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/porque-sera-grande-a-vossa-recompensa.html",
-     "data": "2026-10-31T07:00:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Solenidade de Todos os Santos",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/solenidade-todos-santos.html",
-     "data": "2026-10-31T07:00:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Novo guia sobre saúde mental e acompanhamento pastoral é apresentado em Roma",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/novo-guia-sobre-saude-mental-acompanhamento-pastoral.html",
-     "data": "2026-10-30T18:03:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Do Vaticano, o pedido de regras e responsabilidade humana no uso da IA",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/ia-vaticano-dialogo-cientistas-seguranca-responsabilidade-humana.html",
-     "data": "2026-10-30T15:42:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "De Lisboa a Seul: conferência debate o papel da JMJ na construção da paz",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/embaixada-lisboa-seul.html",
-     "data": "2026-10-30T15:34:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Carriquiry: visita do Papa revitalizará raízes católicas do Uruguai",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-uruguai-entrevista-guzman-carriquiry.html",
-     "data": "2026-10-30T15:09:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Dicastério para a Comunicação se despede de Ruffini: \"Obrigado\"",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/dicasterio-comunicacao-ruffini-prefeita-montserrat-alvarado.html",
-     "data": "2026-10-30T14:37:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Tawadros II assina protocolo de cooperação com a Fundação Fraternidade Humana",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/tawadros-protocolo-cooperacao-fundacao-fraternidade-humana.html",
-     "data": "2026-10-30T14:27:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Na PUC-SP, encontro sobre os 200 anos das relações entre Brasil e Santa Sé",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/pucsp-encontro-200-anos-relacoes-diplomaticas-brasil-santa-se.html",
-     "data": "2026-10-30T14:25:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "A Corrida dos Santos: quando a solidariedade percorre as ruas de Roma",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-10/corrida-santos-solidariedade-missoes-dom-bosco-pocos-agua-congo.html",
-     "data": "2026-10-30T13:45:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Teve início a evacuação humanitária em Oleshky",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/ucrania-tregua-humanitaria-oleshky-chegada-ajudas.html",
-     "data": "2026-10-30T13:30:00Z",
-     "secao": "Mundo"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-10-31T14:46:36Z",
+   "atualizadoEm": "2026-11-01T15:28:45Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
@@ -145,37 +145,51 @@
   }
  },
  "liturgia": {
-  "data": "2026-10-31",
-  "celebracao": "Sábado da 30ª Semana do Tempo Comum",
+  "data": "2026-11-01",
+  "celebracao": "31ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Carta de São Paulo aos Filipenses 1,18b-26"
+    "ref": "Livro do Apocalipse de São João 7,2-4.9-14"
+   },
+   {
+    "tipo": "2ª Leitura",
+    "ref": "Primeira Carta de São João 3,1-3"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Lucas 14,1.7-11"
+    "ref": "Mateus 5,1-12a"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/30a-semana-do-tempo-comum-sabado-31-de-outubro-de-2026/",
-  "atualizadoEm": "2026-10-31T14:46:39Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/31a-semana-do-tempo-comum-domingo-1-de-novembro-de-2026/",
+  "atualizadoEm": "2026-11-01T15:28:48Z"
  },
  "santo": {
-  "data": "2026-10-31",
+  "data": "2026-11-01",
   "nome": "Menu",
-  "resumo": "Também lembrados hoje: Busca; S. Afonso Rodriguez, religioso jesuíta.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/10/31.html",
-  "atualizadoEm": "2026-10-31T14:46:39Z"
+  "resumo": "Também lembrados hoje: Busca; TODOS OS SANTOS.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/01.html",
+  "atualizadoEm": "2026-11-01T15:28:48Z"
  },
  "catequese": {
-  "data": "2026-10-31",
-  "parte": "A vida em Cristo",
-  "tema": "Guardar o Dia do Senhor",
-  "texto": "O domingo é o dia da Ressurreição de Cristo e o dia do Senhor. Os católicos são chamados a participar da Missa dominical e a dedicar esse dia ao descanso, à família e às obras de caridade. Celebrar o domingo é lembrar que a nossa vida pertence a Deus.",
-  "cic": "CIC 2168-2195",
-  "pergunta": "O seu domingo tem sido realmente um dia do Senhor?",
-  "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
+  "data": "2026-11-01",
+  "parte": "A oração cristã",
+  "tema": "O Pai-Nosso, resumo do Evangelho",
+  "texto": "O Pai-Nosso é a oração que o próprio Jesus ensinou aos discípulos. Nela chamamos Deus de Pai e fazemos sete pedidos: os três primeiros voltados para a glória de Deus e os quatro últimos para as nossas necessidades. Por isso a Igreja a chama de resumo de todo o Evangelho.",
+  "cic": "CIC 2759-2865",
+  "pergunta": "Que frase do Pai-Nosso você quer rezar com mais atenção hoje?",
+  "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
   "historico": [
+   {
+    "data": "2026-10-31",
+    "parte": "A vida em Cristo",
+    "tema": "Guardar o Dia do Senhor",
+    "texto": "O domingo é o dia da Ressurreição de Cristo e o dia do Senhor. Os católicos são chamados a participar da Missa dominical e a dedicar esse dia ao descanso, à família e às obras de caridade. Celebrar o domingo é lembrar que a nossa vida pertence a Deus.",
+    "cic": "CIC 2168-2195",
+    "pergunta": "O seu domingo tem sido realmente um dia do Senhor?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
+    "atualizadoEm": "2026-10-31T14:46:39Z"
+   },
    {
     "data": "2026-10-30",
     "parte": "A vida em Cristo",
@@ -305,19 +319,9 @@
     "pergunta": "Antes da próxima decisão importante da sua vida, você vai reservar um tempo para rezar a sós, como Jesus fazia?",
     "tema": "Como Jesus rezou e nos ensinou a rezar?",
     "texto": "O Catecismo mostra que Jesus, verdadeiro Deus e verdadeiro homem, aprendeu a rezar com Maria e na tradição do seu povo, e rezava muitas vezes a sós, sobretudo antes dos momentos decisivos da sua missão. Sua oração é uma relação filial de confiança total com o Pai, que chega ao auge na agonia e na cruz: “Pai, não se faça a minha vontade, mas a tua”. Jesus também nos ensina a rezar com fé, perseverança e um coração convertido, pedindo em seu nome. Por isso, a oração cristã é sempre unir-se à oração de Jesus."
-   },
-   {
-    "atualizadoEm": "2026-10-17T08:51:08Z",
-    "cic": "CIC 2566-2589",
-    "data": "2026-10-17",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
-    "parte": "A oração cristã",
-    "pergunta": "Com qual desses personagens a sua oração mais se parece hoje: a confiança de Abraão, a intercessão de Moisés ou o louvor e o arrependimento de Davi?",
-    "tema": "Como rezavam Abraão, Moisés e Davi?",
-    "texto": "O Catecismo mostra que Deus chama todas as pessoas à oração, e que a Bíblia é uma grande escola onde aprendemos a rezar. Abraão reza ouvindo e confiando: põe-se a caminho e até intercede por Sodoma. Moisés conversa com Deus “face a face, como um amigo” e se torna o grande intercessor do seu povo. Davi, pastor e rei, ensina a louvar e a pedir perdão nos Salmos, que se tornaram a oração do povo de Deus e da Igreja."
    }
   ],
-  "atualizadoEm": "2026-10-31T14:46:39Z"
+  "atualizadoEm": "2026-11-01T15:28:48Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
@@ -341,6 +345,6 @@
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-10-31T14:46:43Z"
+  "atualizadoEm": "2026-11-01T15:28:50Z"
  }
 }
