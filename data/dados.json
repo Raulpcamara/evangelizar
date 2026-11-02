@@ -1,106 +1,110 @@
 {
- "geradoEm": "2026-11-01T15:28:50Z",
+ "geradoEm": "2026-11-02T18:51:22Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-01T15:28:43Z",
+   "atualizadoEm": "2026-11-02T18:51:15Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "Barricadas em Paris, incêndios em Tirana e milhares nas ruas na Alemanha e Portugal",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/manifestacao-franca-albania-alemana-portugal-outubro-2026.html",
-     "data": "2026-11-01T13:26:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Leão aos atletas dos Jogos Olímpicos de Dakar: do esporte, sinais de esperança",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-atletas-jogos-olimpicos-dakar-africa-finados-2026.html",
-     "data": "2026-11-01T11:54:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Leão XIV: do gesto de humanidade de Oleshky a iniciativas concretas de paz",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-angelus-tregua-oleshky-ucrania-paz-russia-2026.html",
-     "data": "2026-11-01T11:26:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Papa no dia de Todos os Santos: vocação que nos interpela por escolhas de amor",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-reflexao-angelus-1-novembro-2026-todos-os-santos.html",
-     "data": "2026-11-01T11:25:21Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Irmãs Hospitaleiras, pela pessoa humana em suas fragilidades e potencialidades",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/hospitaleiras-saude-mental-cuidados-pessoa-prevencao-solidarios.html",
-     "data": "2026-11-01T11:15:59Z",
+     "titulo": "Cardeal Barreto: continuidade entre Francisco e Leão XIV é um dom do Espírito Santo",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/cardeal-barreto-continuidade-papa-francisco-leao-xiv-peru-amazon.html",
+     "data": "2026-11-02T16:09:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Luzes de paz na Basílica de Santa Maria Maior, em Roma",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/luzes-de-paz-final-mes-mariano-basilica-santa-maria-maior-roma.html",
-     "data": "2026-11-01T10:44:00Z",
+     "titulo": "Cada vez mais jovens candidatos às honras dos altares",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/santos-beatos-jovens-candodatos-honra-altares.html",
+     "data": "2026-11-02T15:58:00Z",
      "secao": "Vaticano"
     },
     {
-     "titulo": "Missionários franciscanos, “mártires da Geórgia”, são beatificados nos EUA",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/beatificacao-missionarios-franciscanos-martires-da-georgia-eua.html",
-     "data": "2026-11-01T09:55:00Z",
+     "titulo": "Manuel de los Ríos, o escravo que encontrou a liberdade a serviço de Maria",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/manuel-de-los-rios-escravo-liberdade-negro-manuel-cabo-verde-26.html",
+     "data": "2026-11-02T15:57:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Conferência internacional em Roma: 100 anos dos primeiros seis bispos chineses",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/conferencia-internacional-100-anos-primeiros-6-bispos-chineses.html",
+     "data": "2026-11-02T15:47:00Z",
      "secao": "Vaticano"
     },
     {
-     "titulo": "Papa recorda o arcebispo de Cusco: pastor altruísta de fidelidade inabalável",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-mensagem-morte-arcebispo-cusco-richard-urrutia-26.html",
-     "data": "2026-11-01T07:31:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Ucrânia: concluída a evacuação da cidade de Oleshky",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-10/ucrania-evacuacao-oleshky-concluida-2-mil-habitantes-outubro-26.html",
-     "data": "2026-10-31T16:30:00Z",
+     "titulo": "Brasil terá primeira Universidade Federal Indígena, com início das aulas previsto para 2027",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/brasil-universidade-indigenas-cultura-tradicoes.html",
+     "data": "2026-11-02T15:44:00Z",
      "secao": "Mundo"
     },
     {
-     "titulo": "“O amor de Cristo envia-nos”, tema do Dia Mundial das Missões 2027",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/tema-dia-mundial-missoes-2027-amor-cristo-envia-nos-papa-leao.html",
-     "data": "2026-10-31T16:11:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "A partida da inclusão: estrelas da NBA em Roma com atletas do \"Special Olympics\"",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/jogo-basquete-universitario-eua-inclusao-stars-nba-roma-2026.html",
-     "data": "2026-10-31T15:56:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Nomeações do Papa: bispo Cavina é o novo visitador apostólico de Medjugorje",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/papa-leao-xiv-nomeacoes-visitador-apostolico-medjugorje-cavina.html",
-     "data": "2026-10-31T15:45:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Leão XIV: o esporte é mestre em cooperação e partilha",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-basquete-universitario-eua-villanova-notre-dame-26.html",
-     "data": "2026-10-31T12:00:00Z",
+     "titulo": "Papa: rezemos pelos falecidos e por quem hoje chora as dores da guerra",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-missa-finados-cemiterio-verano-roma-rezemos-pelos-falecidos.html",
+     "data": "2026-11-02T15:28:50Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Papa: reconstrução urgente na região central da Itália, após 10 anos de terremoto",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-atingidos-eventos-sismicos-italia-31-outubro-26.html",
-     "data": "2026-10-31T11:00:00Z",
+     "titulo": "Manaus: 1500 mães reunidas para rezar pelos filhos e aprofundar a fé na Eucaristia",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/encontro-maes-que-rezam-pelos-filhos-amazonia-outubro-26.html",
+     "data": "2026-11-02T14:43:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Arquieparquia de Haifa condena vandalismo contra local de oração no norte de Israel",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/arquieparquia-haifa-condena-ataque-local-de-oracao-nahariya.html",
+     "data": "2026-11-02T14:39:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "O legado missionário de 450 anos de Macau encontra a era digital",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/diocese-macau-legado-missionario-celebracoes-era-digital.html",
+     "data": "2026-11-02T14:27:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Arcebispo de Campo Grande apresenta ao Papa primeiro santuário dedicado a Carlo Acutis",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/dom-dimas-lara-barbosa-arcebispo-campo-grande-audiencia-papa.html",
+     "data": "2026-11-02T13:50:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "O Papa será uma voz de unidade e diálogo na Argentina, diz agostiniano",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-argentina-agostinianos-paz-unidade-dialogo-pe-alejandro.html",
+     "data": "2026-11-02T10:29:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Hebdomada Papae: o boletim de notícias em latim deste 31 de outubro",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-10/hebdomada-papae-boletim-noticias-31-outubro-2026-vatican-news.html",
-     "data": "2026-10-31T11:00:00Z",
-     "secao": "Vaticano"
+     "titulo": "Religiosas de diferentes países compartilham experiências sobre o cuidado com irmãs idosas",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/vida-consacrada-irmas-idosas-the-anna-trust.html",
+     "data": "2026-11-02T10:25:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Dom Herrera: Leão, entre as alegrias e fragilidades do Peru, é para os latino-americanos \"um deles\"",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/peru-cuzco-arcebispo-estrada-herrera-viagem-papa-leao.html",
+     "data": "2026-11-02T09:08:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Uruguai: sociólogo afirma que Leão XIV ajudará a redescobrir a fé em uma sociedade secularizada",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/uruguai-visita-papa-sociedade-secularizada-sociologo-religiao.html",
+     "data": "2026-11-02T08:46:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Os gestos que acendem a esperança: o legado de Francisco e o Dia Mundial dos Pobres",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/legado-papa-francisco-dia-mundial-dos-pobres-gestos-esperanca.html",
+     "data": "2026-11-02T08:40:00Z",
+     "secao": "Igreja"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-01T15:28:45Z",
+   "atualizadoEm": "2026-11-02T18:51:16Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
+    {
+     "titulo": "Comunhão dos Santos: Um Só Corpo, Uma Só Igreja",
+     "link": "https://padrereginaldomanzotti.com.br/blog/comunhao-dos-santos-um-so-corpo-uma-so-igreja/"
+    },
     {
      "titulo": "O maior evento católico do Brasil reúne fé, música e oração em Fortaleza",
      "link": "https://padrereginaldomanzotti.com.br/blog/o-maior-evento-catolico-do-brasil-reune-fe-musica-e-oracao-em-fortaleza/"
@@ -136,50 +140,56 @@
     {
      "titulo": "Padre Reginaldo Manzotti concluiu etapa da peregrinação em Viena e seguiu para Olomouc, na Tchéquia",
      "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-conclui-etapa-da-peregrinacao-em-viena-e-segue-para-olomouc-na-tchequia/"
-    },
-    {
-     "titulo": "Sou um milagre de Nossa Senhora Aparecida",
-     "link": "https://padrereginaldomanzotti.com.br/blog/sou-um-milagre-de-nossa-senhora-aparecida/"
     }
    ]
   }
  },
  "liturgia": {
-  "data": "2026-11-01",
-  "celebracao": "31ª Semana do Tempo Comum",
+  "data": "2026-11-02",
+  "celebracao": "Segunda-feira da Comemoracao de Todos Os Fieis Defuntos",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Livro do Apocalipse de São João 7,2-4.9-14"
+    "ref": "Livro de Jó 19,1.23-27a"
    },
    {
     "tipo": "2ª Leitura",
-    "ref": "Primeira Carta de São João 3,1-3"
+    "ref": "Primeira Carta de São Paulo aos Coríntios 15,20-24a.25-28"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Mateus 5,1-12a"
+    "ref": "Lucas 12,35-40"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/31a-semana-do-tempo-comum-domingo-1-de-novembro-de-2026/",
-  "atualizadoEm": "2026-11-01T15:28:48Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/comemoracao-de-todos-os-fieis-defuntos-segunda-feira-2-de-novembro-de-2026/",
+  "atualizadoEm": "2026-11-02T18:51:19Z"
  },
  "santo": {
-  "data": "2026-11-01",
+  "data": "2026-11-02",
   "nome": "Menu",
-  "resumo": "Também lembrados hoje: Busca; TODOS OS SANTOS.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/01.html",
-  "atualizadoEm": "2026-11-01T15:28:48Z"
+  "resumo": "Também lembrados hoje: Busca; COMEMORAÇÃO DE TODOS OS FIÉIS DEFUNTOS.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/02.html",
+  "atualizadoEm": "2026-11-02T18:51:19Z"
  },
  "catequese": {
-  "data": "2026-11-01",
+  "data": "2026-11-02",
   "parte": "A oração cristã",
-  "tema": "O Pai-Nosso, resumo do Evangelho",
-  "texto": "O Pai-Nosso é a oração que o próprio Jesus ensinou aos discípulos. Nela chamamos Deus de Pai e fazemos sete pedidos: os três primeiros voltados para a glória de Deus e os quatro últimos para as nossas necessidades. Por isso a Igreja a chama de resumo de todo o Evangelho.",
-  "cic": "CIC 2759-2865",
-  "pergunta": "Que frase do Pai-Nosso você quer rezar com mais atenção hoje?",
+  "tema": "Meditação e contemplação",
+  "texto": "A Igreja ensina três expressões da oração: a vocal, a meditação e a contemplação. Meditar é refletir com calma sobre a Palavra de Deus para aplicá-la à vida. Contemplar é estar diante de Deus em silêncio amoroso, como quem simplesmente olha e se deixa olhar por Ele.",
+  "cic": "CIC 2700-2724",
+  "pergunta": "Você consegue reservar alguns minutos de silêncio diante de Deus hoje?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-01",
+    "parte": "A oração cristã",
+    "tema": "O Pai-Nosso, resumo do Evangelho",
+    "texto": "O Pai-Nosso é a oração que o próprio Jesus ensinou aos discípulos. Nela chamamos Deus de Pai e fazemos sete pedidos: os três primeiros voltados para a glória de Deus e os quatro últimos para as nossas necessidades. Por isso a Igreja a chama de resumo de todo o Evangelho.",
+    "cic": "CIC 2759-2865",
+    "pergunta": "Que frase do Pai-Nosso você quer rezar com mais atenção hoje?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
+    "atualizadoEm": "2026-11-01T15:28:48Z"
+   },
    {
     "data": "2026-10-31",
     "parte": "A vida em Cristo",
@@ -309,42 +319,28 @@
     "pergunta": "Você consegue, hoje, dizer a Deus um “sim” confiante numa situação que não depende de você, como Maria fez?",
     "tema": "Como Maria rezou?",
     "texto": "O Catecismo apresenta Maria como modelo da oração cristã, porque ela se oferece inteiramente a Deus. Na Anunciação, ela responde com confiança: “Faça-se em mim segundo a tua palavra”, e esse “sim” é a forma mais pura de rezar, que é entregar-se a Deus. No Magnificat, Maria louva o Senhor pelas maravilhas que Ele faz pelos humildes e pelos pobres. Em Caná, ela intercede pelos noivos e nos ensina a confiar a Jesus as necessidades dos outros."
-   },
-   {
-    "atualizadoEm": "2026-10-18T08:51:20Z",
-    "cic": "CIC 2598-2616",
-    "data": "2026-10-18",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
-    "parte": "A oração cristã",
-    "pergunta": "Antes da próxima decisão importante da sua vida, você vai reservar um tempo para rezar a sós, como Jesus fazia?",
-    "tema": "Como Jesus rezou e nos ensinou a rezar?",
-    "texto": "O Catecismo mostra que Jesus, verdadeiro Deus e verdadeiro homem, aprendeu a rezar com Maria e na tradição do seu povo, e rezava muitas vezes a sós, sobretudo antes dos momentos decisivos da sua missão. Sua oração é uma relação filial de confiança total com o Pai, que chega ao auge na agonia e na cruz: “Pai, não se faça a minha vontade, mas a tua”. Jesus também nos ensina a rezar com fé, perseverança e um coração convertido, pedindo em seu nome. Por isso, a oração cristã é sempre unir-se à oração de Jesus."
    }
   ],
-  "atualizadoEm": "2026-11-01T15:28:48Z"
+  "atualizadoEm": "2026-11-02T18:51:19Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
-  "data": "2026-11-01",
+  "data": "2026-11-02",
   "versoes": [
-   {
-    "nome": "Ano A - nº 60 - Todos os Santos e Santas de Deus (Celular)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf2e"
-   },
-   {
-    "nome": "Ano A - nº 60 - Todos os Santos e Santas de Deus (Celebrante)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf3e"
-   },
-   {
-    "nome": "Ano A - nº 60 - Todos os Santos e Santas de Deus (Assembléia)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf7e"
-   },
    {
     "nome": "Ano A - nº 61 - Finados (Assembléia)",
     "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf4e"
+   },
+   {
+    "nome": "Ano A - nº 61 - Finados (Celular)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf5e"
+   },
+   {
+    "nome": "Ano A - nº 61 - Finados (Celebrante)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf6e"
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-11-01T15:28:50Z"
+  "atualizadoEm": "2026-11-02T18:51:22Z"
  }
 }
