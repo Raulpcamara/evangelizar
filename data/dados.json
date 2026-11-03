@@ -1,106 +1,110 @@
 {
- "geradoEm": "2026-11-02T18:51:22Z",
+ "geradoEm": "2026-11-03T16:36:51Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-02T18:51:15Z",
+   "atualizadoEm": "2026-11-03T16:36:44Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "Cardeal Barreto: continuidade entre Francisco e Leão XIV é um dom do Espírito Santo",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/cardeal-barreto-continuidade-papa-francisco-leao-xiv-peru-amazon.html",
-     "data": "2026-11-02T16:09:00Z",
-     "secao": "Igreja"
+     "titulo": "Igreja no Uruguai: o desafio pastoral no país mais laico da America Latina",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/uruguai-igreja-catolica-dados-estatisticos.html",
+     "data": "2026-11-03T16:11:00Z",
+     "secao": "Papa"
     },
     {
-     "titulo": "Cada vez mais jovens candidatos às honras dos altares",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/santos-beatos-jovens-candodatos-honra-altares.html",
-     "data": "2026-11-02T15:58:00Z",
-     "secao": "Vaticano"
+     "titulo": "Uruguai e o ouro azul do Guarani: irmã Rita destaca que visita do Papa pode impulsionar o cuidado com a Criação",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/uruguai-desigualdades-rio-de-la-plata-religiosas-papa.html",
+     "data": "2026-11-03T15:56:00Z",
+     "secao": "Papa"
     },
     {
-     "titulo": "Manuel de los Ríos, o escravo que encontrou a liberdade a serviço de Maria",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/manuel-de-los-rios-escravo-liberdade-negro-manuel-cabo-verde-26.html",
-     "data": "2026-11-02T15:57:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Conferência internacional em Roma: 100 anos dos primeiros seis bispos chineses",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/conferencia-internacional-100-anos-primeiros-6-bispos-chineses.html",
-     "data": "2026-11-02T15:47:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Brasil terá primeira Universidade Federal Indígena, com início das aulas previsto para 2027",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/brasil-universidade-indigenas-cultura-tradicoes.html",
-     "data": "2026-11-02T15:44:00Z",
+     "titulo": "Irã está pronto para novas negociações com os Estados Unidos",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/ira-pronto-para-novas-negociacoes-com-estados-unidos-diplomacia.html",
+     "data": "2026-11-03T14:15:00Z",
      "secao": "Mundo"
     },
     {
-     "titulo": "Papa: rezemos pelos falecidos e por quem hoje chora as dores da guerra",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-missa-finados-cemiterio-verano-roma-rezemos-pelos-falecidos.html",
-     "data": "2026-11-02T15:28:50Z",
+     "titulo": "Leão XIV: a santidade floresce do ensinamento católico e da escuta dos jovens",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/leao-xiv-bispos-franceses-ensinamento-catolico-santidade.html",
+     "data": "2026-11-03T14:08:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Manaus: 1500 mães reunidas para rezar pelos filhos e aprofundar a fé na Eucaristia",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/encontro-maes-que-rezam-pelos-filhos-amazonia-outubro-26.html",
-     "data": "2026-11-02T14:43:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Arquieparquia de Haifa condena vandalismo contra local de oração no norte de Israel",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/arquieparquia-haifa-condena-ataque-local-de-oracao-nahariya.html",
-     "data": "2026-11-02T14:39:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "O legado missionário de 450 anos de Macau encontra a era digital",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/diocese-macau-legado-missionario-celebracoes-era-digital.html",
-     "data": "2026-11-02T14:27:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Arcebispo de Campo Grande apresenta ao Papa primeiro santuário dedicado a Carlo Acutis",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/dom-dimas-lara-barbosa-arcebispo-campo-grande-audiencia-papa.html",
-     "data": "2026-11-02T13:50:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "O Papa será uma voz de unidade e diálogo na Argentina, diz agostiniano",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-argentina-agostinianos-paz-unidade-dialogo-pe-alejandro.html",
-     "data": "2026-11-02T10:29:00Z",
+     "titulo": "Leão XIV pede para fazer bom uso das riquezas",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-intencao-oracao-novembro-bom-uso-riquezas.html",
+     "data": "2026-11-03T14:00:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Religiosas de diferentes países compartilham experiências sobre o cuidado com irmãs idosas",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/vida-consacrada-irmas-idosas-the-anna-trust.html",
-     "data": "2026-11-02T10:25:00Z",
+     "titulo": "O “retorno” de Leão à América Latina: uma viagem de escuta e unidade",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/viagem-america-latina-papa-leao-xiv-briefing-matteo-bruni.html",
+     "data": "2026-11-03T13:30:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Cardeal Parolin e delegação da Villa Nazareth: que os jovens desenhem o futuro",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/cardeal-parolin-villa-nazareth-80-anos-presidente-italia-2026.html",
+     "data": "2026-11-03T11:58:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "CCEE, ao lado do Papa pela paz na Ucrânia e no mundo inteiro",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/igreja-europa-ccee-paz-sacerdotes.html",
+     "data": "2026-11-03T11:26:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Dom Herrera: Leão, entre as alegrias e fragilidades do Peru, é para os latino-americanos \"um deles\"",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/peru-cuzco-arcebispo-estrada-herrera-viagem-papa-leao.html",
-     "data": "2026-11-02T09:08:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Uruguai: sociólogo afirma que Leão XIV ajudará a redescobrir a fé em uma sociedade secularizada",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/uruguai-visita-papa-sociedade-secularizada-sociologo-religiao.html",
-     "data": "2026-11-02T08:46:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Os gestos que acendem a esperança: o legado de Francisco e o Dia Mundial dos Pobres",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/legado-papa-francisco-dia-mundial-dos-pobres-gestos-esperanca.html",
-     "data": "2026-11-02T08:40:00Z",
+     "titulo": "Leão e os jovens: recordar Espanha e França abre o coração para a América Latina",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/papa-leao-franca-jovens-mudancas-climaticas-america-latina.html",
+     "data": "2026-11-03T11:11:17Z",
      "secao": "Igreja"
+    },
+    {
+     "titulo": "Papa em mensagem aos jovens da JMJ: a coragem nasce da presença de Cristo",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-mensagem-jmj-jornada-mundial-juventude-coragem-27.html",
+     "data": "2026-11-03T11:00:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Dom Inácio Saúre exorta seminaristas à humildade e ao serviço dos outros",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/mocambique-igreja-seminario-humildade-vocacoes-anuncio.html",
+     "data": "2026-11-03T10:45:51Z",
+     "secao": "África"
+    },
+    {
+     "titulo": "Evangelho de 3 de novembro",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/evangelho-03-novembro-2026-dom-mario-spaki.html",
+     "data": "2026-11-03T07:30:00Z",
+     "secao": "Evangelho"
+    },
+    {
+     "titulo": "Vietnã: Irmãs Amantes da Santa Cruz ajudam na formação de jovens",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/projeto-sisters-vietna-formacao-irmas-amantes-santa-cruz-hanoi.html",
+     "data": "2026-11-03T07:00:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Bombardeio russo atinge escola utilizada como centro de ajuda humanitária",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/russia-bomardeia-escola-centro-ajuda-humanitaria-26-mortos.html",
+     "data": "2026-11-03T06:48:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "Uruguai: a expectativa pela chegada do Papa Leão XIV",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/uruguai-expectativa-chegada-papa-leao-xiv.html",
+     "data": "2026-11-02T21:45:00Z",
+     "secao": "Vaticano"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-02T18:51:16Z",
+   "atualizadoEm": "2026-11-03T16:36:46Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
+    {
+     "titulo": "Multidão toma conta da orla de Fortaleza em encontro histórico de fé com Padre Reginaldo Manzotti",
+     "link": "https://padrereginaldomanzotti.com.br/blog/multidao-toma-conta-da-orla-de-fortaleza-em-encontro-historico-de-fe-com-padre-reginaldo-manzotti/"
+    },
     {
      "titulo": "Comunhão dos Santos: Um Só Corpo, Uma Só Igreja",
      "link": "https://padrereginaldomanzotti.com.br/blog/comunhao-dos-santos-um-so-corpo-uma-so-igreja/"
@@ -136,50 +140,52 @@
     {
      "titulo": "Padre Reginaldo Manzotti chega a Cracóvia, na Polônia, com grupo de peregrinos",
      "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-chega-a-cracovia-na-polonia-com-grupo-de-peregrinos/"
-    },
-    {
-     "titulo": "Padre Reginaldo Manzotti concluiu etapa da peregrinação em Viena e seguiu para Olomouc, na Tchéquia",
-     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-conclui-etapa-da-peregrinacao-em-viena-e-segue-para-olomouc-na-tchequia/"
     }
    ]
   }
  },
  "liturgia": {
-  "data": "2026-11-02",
-  "celebracao": "Segunda-feira da Comemoracao de Todos Os Fieis Defuntos",
+  "data": "2026-11-03",
+  "celebracao": "Terça-feira da 31ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Livro de Jó 19,1.23-27a"
-   },
-   {
-    "tipo": "2ª Leitura",
-    "ref": "Primeira Carta de São Paulo aos Coríntios 15,20-24a.25-28"
+    "ref": "Carta de São Paulo aos Filipenses 2,5-11"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Lucas 12,35-40"
+    "ref": "Lucas 14,15-24"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/comemoracao-de-todos-os-fieis-defuntos-segunda-feira-2-de-novembro-de-2026/",
-  "atualizadoEm": "2026-11-02T18:51:19Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/31a-semana-do-tempo-comum-terca-feira-3-de-novembro-de-2026/",
+  "atualizadoEm": "2026-11-03T16:36:48Z"
  },
  "santo": {
-  "data": "2026-11-02",
+  "data": "2026-11-03",
   "nome": "Menu",
-  "resumo": "Também lembrados hoje: Busca; COMEMORAÇÃO DE TODOS OS FIÉIS DEFUNTOS.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/02.html",
-  "atualizadoEm": "2026-11-02T18:51:19Z"
+  "resumo": "Também lembrados hoje: Busca; S. Martinho de Porres, religioso dominicano; S. Sílvia, mãe de S. Gregório Magno.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/03.html",
+  "atualizadoEm": "2026-11-03T16:36:49Z"
  },
  "catequese": {
-  "data": "2026-11-02",
-  "parte": "A oração cristã",
-  "tema": "Meditação e contemplação",
-  "texto": "A Igreja ensina três expressões da oração: a vocal, a meditação e a contemplação. Meditar é refletir com calma sobre a Palavra de Deus para aplicá-la à vida. Contemplar é estar diante de Deus em silêncio amoroso, como quem simplesmente olha e se deixa olhar por Ele.",
-  "cic": "CIC 2700-2724",
-  "pergunta": "Você consegue reservar alguns minutos de silêncio diante de Deus hoje?",
-  "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
+  "data": "2026-11-03",
+  "parte": "A profissão da fé",
+  "tema": "Por que buscamos a Deus?",
+  "texto": "O Catecismo começa lembrando que o desejo de Deus está inscrito no coração de toda pessoa, porque fomos criados por Ele e para Ele. Por isso, mesmo quem não conhece a fé sente sede de sentido, de amor e de eternidade. Só em Deus o ser humano encontra a verdade e a felicidade que procura.",
+  "cic": "CIC 27-30",
+  "pergunta": "Que inquietações do seu coração podem ser, na verdade, sede de Deus?",
+  "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-02",
+    "parte": "A oração cristã",
+    "tema": "Meditação e contemplação",
+    "texto": "A Igreja ensina três expressões da oração: a vocal, a meditação e a contemplação. Meditar é refletir com calma sobre a Palavra de Deus para aplicá-la à vida. Contemplar é estar diante de Deus em silêncio amoroso, como quem simplesmente olha e se deixa olhar por Ele.",
+    "cic": "CIC 2700-2724",
+    "pergunta": "Você consegue reservar alguns minutos de silêncio diante de Deus hoje?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
+    "atualizadoEm": "2026-11-02T18:51:19Z"
+   },
    {
     "data": "2026-11-01",
     "parte": "A oração cristã",
@@ -309,19 +315,9 @@
     "pergunta": "Na sua oração de hoje, que tal incluir as cinco formas: adorar, pedir perdão, interceder por alguém, agradecer e louvar?",
     "tema": "Quais são as formas de oração na Igreja?",
     "texto": "O Catecismo ensina que, guiada pelo Espírito Santo, a Igreja reza de várias formas, todas presentes na Sagrada Escritura. A bênção e a adoração reconhecem que Deus é o Criador e que tudo recebemos d'Ele; a petição pede o perdão e os bens de que precisamos, e a intercessão pede pelos outros, até pelos inimigos. A ação de graças agradece cada dom, e o louvor glorifica a Deus simplesmente porque Ele é Deus. A Eucaristia reúne e expressa todas essas formas de oração."
-   },
-   {
-    "atualizadoEm": "2026-10-19T08:52:15Z",
-    "cic": "CIC 2617-2622",
-    "data": "2026-10-19",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
-    "parte": "A oração cristã",
-    "pergunta": "Você consegue, hoje, dizer a Deus um “sim” confiante numa situação que não depende de você, como Maria fez?",
-    "tema": "Como Maria rezou?",
-    "texto": "O Catecismo apresenta Maria como modelo da oração cristã, porque ela se oferece inteiramente a Deus. Na Anunciação, ela responde com confiança: “Faça-se em mim segundo a tua palavra”, e esse “sim” é a forma mais pura de rezar, que é entregar-se a Deus. No Magnificat, Maria louva o Senhor pelas maravilhas que Ele faz pelos humildes e pelos pobres. Em Caná, ela intercede pelos noivos e nos ensina a confiar a Jesus as necessidades dos outros."
    }
   ],
-  "atualizadoEm": "2026-11-02T18:51:19Z"
+  "atualizadoEm": "2026-11-03T16:36:49Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
