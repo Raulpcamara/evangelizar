@@ -279,6 +279,8 @@ async function main() {
 
   try { const h = await baixar("https://arqrio.org.br/folhetos");
     diag.cdf = [...h.matchAll(/<[^>]*(?:cdf|folheto)[^>]*>/gi)].map(m => m[0].slice(0, 300)).slice(0, 15);
+    const k = h.indexOf("container-folhetos"); diag.container = k >= 0 ? h.slice(k - 20, k + 3000).replace(/\s+/g, " ") : null;
+    const tr = h.indexOf("cdf-tracker-js-extra"); diag.tracker_extra = tr >= 0 ? h.slice(tr, tr + 800).replace(/\s+/g, " ") : null;
     const i = h.search(/\d{2}\/\d{2}\/\d{4}/); diag.primeira_data = i >= 0 ? h.slice(Math.max(0, i - 800), i + 1200).replace(/\s+/g, " ") : null;
     const r = await fetch("https://arqrio.org.br/wp-json/wp/v2/pages/788", { headers: UA }); diag.rest_status = r.status;
     if (r.ok) { const j = await r.json(); const c = j?.content?.rendered || ""; diag.rest_conteudo = c.replace(/\s+/g, " ").slice(0, 2500); }
