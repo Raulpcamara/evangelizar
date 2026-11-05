@@ -2,7 +2,7 @@ name: Atualizar conteúdo do dia
 
 on:
   schedule:
-    - cron: "47 8 * * *"   # todo dia às 5h47 (horário de Brasília)
+    - cron: "47 8,10,12 * * *"   # 5h47, 7h47 e 9h47 (Brasília): o GitHub às vezes atrasa ou pula execuções
   workflow_dispatch:        # permite rodar na mão pela aba Actions
 
 permissions:
@@ -24,6 +24,6 @@ jobs:
         run: |
           git config user.name "Fé Diária"
           git config user.email "actions@users.noreply.github.com"
-          git add data/dados.json
+          git add data/dados.json data/diagnostico.json
           git diff --cached --quiet || git commit -m "Conteúdo do dia $(TZ=America/Sao_Paulo date +%F)"
           git push

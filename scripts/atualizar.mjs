@@ -102,6 +102,7 @@ export function tituloDoSlug(slug) {
 export function leiturasDaPagina(html) {
   const txt = decod(html.replace(/<(script|style)[\s\S]*?<\/\1>/gi, " ").replace(/<\/(p|div|h\d|li|br|strong|b|span)>|<br\s*\/?>/gi, "\n").replace(/<[^>]+>/g, " "));
   const linhas = txt.split("\n").map(l => l.replace(/\s+/g, " ").trim()).filter(Boolean);
+  diag.liturgia_linhas = linhas.filter(l => /leitura|salmo|evangelho|segundo (mateus|marcos|lucas|jo)/i.test(l) && l.length < 160).slice(0, 25);
   const REF = /(\d+\s?,\s?\d[\w\-–.,; ]*)/;
   const limpa = r => r.replace(/\s*,\s*/g, ",").replace(/\s+/g, " ").replace(/[.;,]+$/, "").trim();
   const out = []; let leituras = 0;
@@ -129,9 +130,12 @@ export function santosDaPagina(html) {
   const nomes = [];
   for (const m of html.matchAll(/<h2\b[^>]*>([\s\S]*?)<\/h2>/gi)) {
     const t = texto(m[1]);
-    if (t && !/santo do dia|calend[aá]rio|vatican news|leia tamb[eé]m|newsletter|siga-nos/i.test(t) && t.length < 160) nomes.push(t);
+    if (t && t.length > 4 && t.length < 160 && !/^(menu|busca|pesquisa|idiomas?|navega[cç][aã]o)$/i.test(t) && !/santo do dia|calend[aá]rio|vatican news|leia tamb[eé]m|newsletter|siga-nos|r[aá]dio|podcast|v[ií]deo/i.test(t)) nomes.push(t);
   }
-  return [...new Set(nomes)];
+  const unicos = [...new Set(nomes)]; diag.santo_h2 = unicos.slice(0, 12);
+  const SANTO = /^(S\.|Ss\.|SS\.|Sto\.|Sta\.|Santo|Santa|Santos|Santas|São|Beat[oa]|Bem-aventurad|Nossa Senhora|N\. ?Sra|Dedica[cç][aã]o|Comemora[cç][aã]o|Todos os)/i;
+  const preferidos = unicos.filter(n => SANTO.test(n));
+  return preferidos.length ? preferidos : [];
 }
 async function santoVatican(iso) {
   const [, m, d] = iso.split("-");
@@ -144,6 +148,7 @@ async function santoVatican(iso) {
 }
 
 // ---------- Folheto "A Missa" (Arquidiocese do Rio) ----------
+export const diag = {};
 export function lerFolhetos(html) {
   const versoes = [];
   for (const m of html.matchAll(/<a\b[^>]*href="([^"]*amissa\.php[^"]*)"[^>]*>([\s\S]*?)<\/a>/gi)) {
@@ -151,11 +156,15 @@ export function lerFolhetos(html) {
     const nome = texto(m[2]) || "Folheto";
     if (!versoes.some(v => v.link === link)) versoes.push({ nome: nome.replace(/^Assembl[eé]ia$/i, "Assembleia"), link });
   }
+  diag.folheto_links = versoes.slice(0, 6);
   if (!versoes.length) return null;
-  const plano = decod(html.replace(/<[^>]+>/g, "\n")).split("\n").map(l => l.replace(/\s+/g, " ").trim()).filter(Boolean);
-  const linha = plano.find(l => /\d{2}\/\d{2}\/\d{4}/.test(l) && /domingo|solenidade|festa|ano [abc]|n[ºo°]/i.test(l)) || plano.find(l => /\d{2}\/\d{2}\/\d{4}/.test(l)) || "";
+  const primeiro = html.search(/amissa\.php/i);
+  const antes = decod(html.slice(Math.max(0, primeiro - 4000), primeiro).replace(/<[^>]+>/g, "\n")).split("\n").map(l => l.replace(/\s+/g, " ").trim()).filter(Boolean);
+  const comData = antes.filter(l => /\d{2}\/\d{2}\/\d{4}/.test(l));
+  const linha = comData.length ? comData[comData.length - 1] : "";
   const dm = linha.match(/(\d{2})\/(\d{2})\/(\d{4})/);
   const titulo = (linha.replace(/\d{2}\/\d{2}\/\d{4}\s*[:\-–]?\s*/, "").split(/\s+-\s+/).pop() || "").trim();
+  diag.folheto_linhas_com_data = comData.slice(-6); diag.folheto_linha_escolhida = linha;
   const ordem = ["assembleia", "celular", "celebrante"];
   versoes.sort((a, b) => (ordem.indexOf(a.nome.toLowerCase()) + 99) % 99 - (ordem.indexOf(b.nome.toLowerCase()) + 99) % 99);
   return { titulo: titulo || "Folheto da próxima missa", ...(dm ? { data: `${dm[3]}-${dm[2]}-${dm[1]}` } : {}), versoes: versoes.slice(0, 4), fonte: "https://arqrio.org.br/folhetos" };
@@ -267,6 +276,7 @@ async function main() {
 
   dados.geradoEm = agora();
   await writeFile(ARQ, JSON.stringify(dados, null, 1) + "\n");
+  await writeFile(new URL("../data/diagnostico.json", import.meta.url), JSON.stringify({ em: agora(), ...diag }, null, 1) + "\n");
   log("pronto:", iso, "·", dados.santo.nome, "·", dados.catequese.tema);
 }
 function linkParte(p = "") {
