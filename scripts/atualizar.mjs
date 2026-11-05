@@ -152,12 +152,7 @@ export const diag = {};
 export function lerFolhetos(html) {
   const versoes = [];
   diag.folheto_html_tamanho = html.length;
-  diag.folheto_iframes = [...html.matchAll(/<iframe\b[^>]*src=["']([^"']+)["']/gi)].map(m => decod(m[1])).slice(0, 10);
-  diag.folheto_arqrio_com = [...new Set([...html.matchAll(/https?:\/\/[a-z.]*arqrio\.com\.br[^"'\s<>)]*/gi)].map(m => decod(m[0])))].slice(0, 20);
-  diag.folheto_ajax = [...new Set([...html.matchAll(/(admin-ajax\.php|wp-json\/[^"'\s]+|\.json[^"'\s]*)/gi)].map(m => m[0]))].slice(0, 15);
-  diag.folheto_scripts = [...html.matchAll(/<script\b[^>]*src=["']([^"']+)["']/gi)].map(m => m[1]).filter(u => !/jquery|wp-includes|google|facebook|gtag|cookie/i.test(u)).slice(0, 15);
-  diag.folheto_hrefs = [...html.matchAll(/href=["']([^"']+)["'][^>]*>([\s\S]{0,120}?)<\/a>/gi)].map(m => [decod(m[1]), texto(m[2])]).filter(([h, t]) => /painel|amissa|folheto|\.pdf|drive\.google|download/i.test(h) || /assembl|celular|celebrante|folheto|baixar/i.test(t)).slice(0, 20);
-  diag.folheto_trecho = texto(html.slice(Math.max(0, html.search(/Ano [ABC]\s*-|Assembl/i) - 600), Math.max(0, html.search(/Ano [ABC]\s*-|Assembl/i)) + 900)).slice(0, 1500);
+  diag.folheto_site_com_erro = /N[aã]o foi poss[ií]vel carregar os folhetos/i.test(html);
   for (const m of html.matchAll(/<a\b[^>]*href=["']([^"']*(?:amissa\.php|\/app\/painel\/|\.pdf)[^"']*)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
     let link = decod(m[1]); if (link.startsWith("//")) link = "https:" + link; if (!https(link)) continue;
     const nome = texto(m[2]) || "Folheto";
@@ -277,14 +272,6 @@ async function main() {
     dados.catequese = { data: iso, ...c, historico, atualizadoEm: agora() };
   }
 
-  try { const h = await baixar("https://arqrio.org.br/folhetos");
-    diag.cdf = [...h.matchAll(/<[^>]*(?:cdf|folheto)[^>]*>/gi)].map(m => m[0].slice(0, 300)).slice(0, 15);
-    const k = h.indexOf("container-folhetos"); diag.container = k >= 0 ? h.slice(k - 20, k + 3000).replace(/\s+/g, " ") : null;
-    const tr = h.indexOf("cdf-tracker-js-extra"); diag.tracker_extra = tr >= 0 ? h.slice(tr, tr + 800).replace(/\s+/g, " ") : null;
-    const i = h.search(/\d{2}\/\d{2}\/\d{4}/); diag.primeira_data = i >= 0 ? h.slice(Math.max(0, i - 800), i + 1200).replace(/\s+/g, " ") : null;
-    const r = await fetch("https://arqrio.org.br/wp-json/wp/v2/pages/788", { headers: UA }); diag.rest_status = r.status;
-    if (r.ok) { const j = await r.json(); const c = j?.content?.rendered || ""; diag.rest_conteudo = c.replace(/\s+/g, " ").slice(0, 2500); }
-  } catch (e) { diag.cdf_erro = e.message; }
   try { const f = lerFolhetos(await baixar("https://arqrio.org.br/folhetos"));
     if (f) { dados.folheto = { ...f, atualizadoEm: agora() }; log("folheto:", f.titulo, f.data || "", f.versoes.length, "versões"); } }
   catch (e) { diag.folheto_erro = e.message; log("folheto falhou, mantendo o anterior:", e.message); }

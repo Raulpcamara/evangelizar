@@ -872,6 +872,7 @@ body{margin:0;padding-top:max(12px,env(safe-area-inset-top))}
   if(!$("evangeliza").hidden)veRender();
   // ---------- Folheto da Missa (Arquidiocese do Rio) ----------
   function renderFolheto(f){if(!f||!f.versoes||!f.versoes.length)return;
+    if(f.data&&f.data<todayISO){$("folheto-titulo").textContent="Folheto da próxima missa";$("folheto-sub").textContent="O folheto desta semana ainda não chegou ao app. Abra a lista no site da Arquidiocese.";return;}
     $("folheto-titulo").textContent=String(f.titulo||"Folheto da próxima missa");
     $("folheto-sub").textContent=f.data?"Para a missa de "+fmtCurta.format(new Date(f.data+"T12:00:00Z"))+". Escolha a versão:":"Escolha a versão:";
     const box=$("folheto-links");box.textContent="";
