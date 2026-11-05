@@ -277,6 +277,12 @@ async function main() {
     dados.catequese = { data: iso, ...c, historico, atualizadoEm: agora() };
   }
 
+  try { const h = await baixar("https://arqrio.org.br/folhetos");
+    diag.cdf = [...h.matchAll(/<[^>]*(?:cdf|folheto)[^>]*>/gi)].map(m => m[0].slice(0, 300)).slice(0, 15);
+    const i = h.search(/\d{2}\/\d{2}\/\d{4}/); diag.primeira_data = i >= 0 ? h.slice(Math.max(0, i - 800), i + 1200).replace(/\s+/g, " ") : null;
+    const r = await fetch("https://arqrio.org.br/wp-json/wp/v2/pages/788", { headers: UA }); diag.rest_status = r.status;
+    if (r.ok) { const j = await r.json(); const c = j?.content?.rendered || ""; diag.rest_conteudo = c.replace(/\s+/g, " ").slice(0, 2500); }
+  } catch (e) { diag.cdf_erro = e.message; }
   try { const f = lerFolhetos(await baixar("https://arqrio.org.br/folhetos"));
     if (f) { dados.folheto = { ...f, atualizadoEm: agora() }; log("folheto:", f.titulo, f.data || "", f.versoes.length, "versões"); } }
   catch (e) { diag.folheto_erro = e.message; log("folheto falhou, mantendo o anterior:", e.message); }
