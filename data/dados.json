@@ -1,8 +1,8 @@
 {
- "geradoEm": "2026-11-05T17:12:09Z",
+ "geradoEm": "2026-11-05T17:13:58Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-05T17:12:01Z",
+   "atualizadoEm": "2026-11-05T17:13:53Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
@@ -98,7 +98,7 @@
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-05T17:12:03Z",
+   "atualizadoEm": "2026-11-05T17:13:55Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
@@ -162,10 +162,10 @@
  },
  "santo": {
   "data": "2026-11-05",
-  "nome": "Menu",
-  "resumo": "Também lembrados hoje: Busca; SS. Donino, Teótimo e Companheiros, mártires.",
+  "nome": "SS. Donino, Teótimo e Companheiros, mártires",
+  "resumo": "",
   "link": "https://www.vaticannews.va/pt/santo-do-dia/11/05.html",
-  "atualizadoEm": "2026-11-05T17:10:27Z"
+  "atualizadoEm": "2026-11-05T17:13:55Z"
  },
  "catequese": {
   "data": "2026-11-05",
