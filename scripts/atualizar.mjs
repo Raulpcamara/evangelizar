@@ -152,6 +152,10 @@ export const diag = {};
 export function lerFolhetos(html) {
   const versoes = [];
   diag.folheto_html_tamanho = html.length;
+  diag.folheto_iframes = [...html.matchAll(/<iframe\b[^>]*src=["']([^"']+)["']/gi)].map(m => decod(m[1])).slice(0, 10);
+  diag.folheto_arqrio_com = [...new Set([...html.matchAll(/https?:\/\/[a-z.]*arqrio\.com\.br[^"'\s<>)]*/gi)].map(m => decod(m[0])))].slice(0, 20);
+  diag.folheto_ajax = [...new Set([...html.matchAll(/(admin-ajax\.php|wp-json\/[^"'\s]+|\.json[^"'\s]*)/gi)].map(m => m[0]))].slice(0, 15);
+  diag.folheto_scripts = [...html.matchAll(/<script\b[^>]*src=["']([^"']+)["']/gi)].map(m => m[1]).filter(u => !/jquery|wp-includes|google|facebook|gtag|cookie/i.test(u)).slice(0, 15);
   diag.folheto_hrefs = [...html.matchAll(/href=["']([^"']+)["'][^>]*>([\s\S]{0,120}?)<\/a>/gi)].map(m => [decod(m[1]), texto(m[2])]).filter(([h, t]) => /painel|amissa|folheto|\.pdf|drive\.google|download/i.test(h) || /assembl|celular|celebrante|folheto|baixar/i.test(t)).slice(0, 20);
   diag.folheto_trecho = texto(html.slice(Math.max(0, html.search(/Ano [ABC]\s*-|Assembl/i) - 600), Math.max(0, html.search(/Ano [ABC]\s*-|Assembl/i)) + 900)).slice(0, 1500);
   for (const m of html.matchAll(/<a\b[^>]*href=["']([^"']*(?:amissa\.php|\/app\/painel\/|\.pdf)[^"']*)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
