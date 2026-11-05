@@ -151,7 +151,10 @@ async function santoVatican(iso) {
 export const diag = {};
 export function lerFolhetos(html) {
   const versoes = [];
-  for (const m of html.matchAll(/<a\b[^>]*href="([^"]*amissa\.php[^"]*)"[^>]*>([\s\S]*?)<\/a>/gi)) {
+  diag.folheto_html_tamanho = html.length;
+  diag.folheto_hrefs = [...html.matchAll(/href=["']([^"']+)["'][^>]*>([\s\S]{0,120}?)<\/a>/gi)].map(m => [decod(m[1]), texto(m[2])]).filter(([h, t]) => /painel|amissa|folheto|\.pdf|drive\.google|download/i.test(h) || /assembl|celular|celebrante|folheto|baixar/i.test(t)).slice(0, 20);
+  diag.folheto_trecho = texto(html.slice(Math.max(0, html.search(/Ano [ABC]\s*-|Assembl/i) - 600), Math.max(0, html.search(/Ano [ABC]\s*-|Assembl/i)) + 900)).slice(0, 1500);
+  for (const m of html.matchAll(/<a\b[^>]*href=["']([^"']*(?:amissa\.php|\/app\/painel\/|\.pdf)[^"']*)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
     let link = decod(m[1]); if (link.startsWith("//")) link = "https:" + link; if (!https(link)) continue;
     const nome = texto(m[2]) || "Folheto";
     if (!versoes.some(v => v.link === link)) versoes.push({ nome: nome.replace(/^Assembl[eé]ia$/i, "Assembleia"), link });
@@ -258,7 +261,7 @@ async function main() {
   // Santo
   if (ia?.santo?.nome) {
     dados.santo = { data: iso, nome: ia.santo.nome, resumo: ia.santo.resumo || "", link: https(ia.santo.link) ? ia.santo.link : "https://www.vaticannews.va/pt/santo-do-dia.html", atualizadoEm: agora() };
-  } else if (dados.santo?.data !== iso || /santo do dia|calend[aá]rio/i.test(dados.santo?.nome || "")) {
+  } else if (dados.santo?.data !== iso || !/^(S\.|Ss\.|SS\.|Sto\.|Sta\.|Santo|Santa|Santos|Santas|São|Beat[oa]|Bem-aventurad|Nossa Senhora|N\. ?Sra|Dedica|Comemora|Todos os)/i.test(dados.santo?.nome || "")) {
     const s = await santoVatican(iso);
     dados.santo = { data: iso, nome: s?.nome || "Santo do dia", resumo: s ? s.resumo : "Toque em “Saiba mais” para conhecer o santo de hoje.", link: s?.link || "https://www.vaticannews.va/pt/santo-do-dia.html", atualizadoEm: agora() };
   }
@@ -272,7 +275,7 @@ async function main() {
 
   try { const f = lerFolhetos(await baixar("https://arqrio.org.br/folhetos"));
     if (f) { dados.folheto = { ...f, atualizadoEm: agora() }; log("folheto:", f.titulo, f.data || "", f.versoes.length, "versões"); } }
-  catch (e) { log("folheto falhou, mantendo o anterior:", e.message); }
+  catch (e) { diag.folheto_erro = e.message; log("folheto falhou, mantendo o anterior:", e.message); }
 
   dados.geradoEm = agora();
   await writeFile(ARQ, JSON.stringify(dados, null, 1) + "\n");
