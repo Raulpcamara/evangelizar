@@ -1,5 +1,5 @@
 {
- "em": "2026-11-05T17:13:58Z",
+ "em": "2026-11-05T17:14:42Z",
  "liturgia_linhas": [
   "Confira as leituras bíblicas, o Evangelho, o Salmo e o Santo do dia para abastecer sua alma com fé.",
   "1ª Leitura",
@@ -12,10 +12,35 @@
   "Aclamação ao Evangelho",
   "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
  ],
- "santo_h2": [
-  "SS. Donino, Teótimo e Companheiros, mártires"
- ],
  "folheto_html_tamanho": 121346,
+ "folheto_iframes": [],
+ "folheto_arqrio_com": [
+  "https://www.arqrio.com.br/curia/"
+ ],
+ "folheto_ajax": [
+  "wp-json/oembed/1.0/embed?url=https%3A%2F%2Farqrio.org.br%2Ffolhetos%2F",
+  "wp-json/oembed/1.0/embed?url=https%3A%2F%2Farqrio.org.br%2Ffolhetos%2F&#038;format=xml",
+  "wp-json/wp/v2/pages/788",
+  "admin-ajax.php",
+  ".json"
+ ],
+ "folheto_scripts": [
+  "https://arqrio.org.br/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.35.9",
+  "https://arqrio.org.br/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.5",
+  "https://arqrio.org.br/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.5",
+  "https://arqrio.org.br/wp-content/plugins/contador-folhetos/cdf-tracker.js?ver=1.1.0",
+  "https://arqrio.org.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.7",
+  "https://arqrio.org.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.35.9",
+  "https://arqrio.org.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.35.9",
+  "https://arqrio.org.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.35.9",
+  "https://arqrio.org.br/wp-content/plugins/happy-elementor-addons/assets/js/happy-addons.min.js?ver=3.10.3",
+  "https://arqrio.org.br/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.5",
+  "https://arqrio.org.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.35.1",
+  "https://arqrio.org.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.35.1",
+  "https://arqrio.org.br/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.35.1",
+  "https://arqrio.org.br/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.5.4",
+  "https://arqrio.org.br/wp-content/plugins/jet-blog/assets/js/jet-blog.min.js?ver=2.4.8"
+ ],
  "folheto_hrefs": [],
  "folheto_trecho": "Folhetos – Arquidiocese de São Sebastião do Rio de Janeiro <link rel=\"alternate\" title=\"oEmbed (XML)\" type=",
  "folheto_links": []
