@@ -1,5 +1,5 @@
 {
- "em": "2026-11-05T17:14:42Z",
+ "em": "2026-11-05T17:19:36Z",
  "liturgia_linhas": [
   "Confira as leituras bíblicas, o Evangelho, o Salmo e o Santo do dia para abastecer sua alma com fé.",
   "1ª Leitura",
@@ -12,6 +12,16 @@
   "Aclamação ao Evangelho",
   "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
  ],
+ "cdf": [
+  "<link rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://arqrio.org.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Farqrio.org.br%2Ffolhetos%2F\" />",
+  "<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://arqrio.org.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Farqrio.org.br%2Ffolhetos%2F&#038;format=xml\" />",
+  "<link rel=\"canonical\" href=\"https://arqrio.org.br/folhetos/\" />",
+  "<div class=\"container-folhetos\">",
+  "<script id=\"cdf-tracker-js-extra\">",
+  "<script id=\"cdf-tracker-js\" src=\"https://arqrio.org.br/wp-content/plugins/contador-folhetos/cdf-tracker.js?ver=1.1.0\">"
+ ],
+ "primeira_data": null,
+ "rest_status": 403,
  "folheto_html_tamanho": 121346,
  "folheto_iframes": [],
  "folheto_arqrio_com": [
