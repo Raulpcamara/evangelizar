@@ -1,10 +1,70 @@
 {
- "geradoEm": "2026-11-05T17:24:16Z",
+ "geradoEm": "2026-11-06T16:19:47Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-05T17:24:05Z",
+   "atualizadoEm": "2026-11-06T16:19:40Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
+    {
+     "titulo": "Moçambique. Seminário alerta para o uso inadequado da IA na formação sacerdotal",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/igreja-seminarios-jovens-vocacoes-ia-magnifica-humanitas-papa.html",
+     "data": "2026-11-06T15:16:52Z",
+     "secao": "África"
+    },
+    {
+     "titulo": "A visita histórica do Papa Leão XIV a Casavalle",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/visita-historica-papa-leao-xiv-casavalle.html",
+     "data": "2026-11-06T10:06:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "A segurança do Papa na sua viagem ao Uruguai",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/seguranca-papa-viagem-uruguai.html",
+     "data": "2026-11-06T09:22:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Brasileiros atravessam a fronteira para ver o Papa no Uruguai",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/brasileiros-atravessam-fronteira-para-ver-papa-leao-xiv-uruguai.html",
+     "data": "2026-11-06T08:25:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Evangelho de 6 de novembro",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/evangelho-06-novembro-2026-dom-mario-spaki.html",
+     "data": "2026-11-06T07:30:00Z",
+     "secao": "Evangelho"
+    },
+    {
+     "titulo": "Visita do Papa ao Uruguai: país tem um beato que foi batizado no Brasil",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/visita-do-papa-ao-uruguai-pais-tem-um-beato-que-foi-batizado.html",
+     "data": "2026-11-06T06:16:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Leão XIV parte para a América Latina: viagem de escuta, proximidade e unidade",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-viagem-apostolica-america-latina-partida-fiumicino.html",
+     "data": "2026-11-06T06:06:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Holywins 2026 celebrou a santidade e reuniu famílias em Santa Cruz do Sul",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/diocese-santa-cruz-sul-rs-holywins-2026.html",
+     "data": "2026-11-06T06:02:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "A chegada do Santo Padre: dom Tróccoli, momento de esperança e fé",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/chegada-santo-padre-dom-troccoli-momento-esperanca-fe.html",
+     "data": "2026-11-05T16:47:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Dom Alfonso Bauer: esperamos que o Papa traga renovação para nossa fé",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/dom-alfonso-bauer-esperamos-papa-traga-renovacao.html",
+     "data": "2026-11-05T16:27:00Z",
+     "secao": "Papa"
+    },
     {
      "titulo": "Doutorado em Direito Canônico através de Goiânia",
      "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/doutorado-em-direito-canonico-atraves-de-goiania.html",
@@ -12,7 +72,7 @@
      "secao": "Igreja"
     },
     {
-     "titulo": "Médicos de Corpos e Almas: ajudar os jovens a exercer a profissão como dom de Deus",
+     "titulo": "Médico de Corpo e Alma: ajudar os jovens a exercer a profissão como dom de Deus",
      "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/medcal-medicos-corpos-almas-jovens.html",
      "data": "2026-11-05T15:00:00Z",
      "secao": "Igreja"
@@ -24,83 +84,27 @@
      "secao": "África"
     },
     {
+     "titulo": "Dia Mundial dos Pobres: a escola na formação de uma comunidade mais solidária",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/dia-mundial-pobres-escola-formacao-comunidade.html",
+     "data": "2026-11-05T14:12:00Z",
+     "secao": "Igreja"
+    },
+    {
      "titulo": "Hospital Pediátrico do Papa é reconhecido por atender 4 mil crianças da Ucrânia",
      "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/hospital-pediatrico-bambino-gesu-papa-leao-xiv-criancas-ucrania.html",
      "data": "2026-11-05T13:25:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Hong Kong: mais dez anos de prisão para o ativista Joshua Wong",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/hong-kong-mais-dez-anos-prisao-ativista-joshua-wong.html",
-     "data": "2026-11-05T13:22:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Leão retorna a casa, Continente cheio de contradições e esperanças",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/editorial-tornielli-viagem-papa-leao-xiv-america-latina.html",
-     "data": "2026-11-05T13:00:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Papa nomeia dois subsecretários do Dicastério para o Desenvolvimento Humano Integral",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/nomeacao-subsecretarios-dicasterio-desenvolvimento-humano.html",
-     "data": "2026-11-05T12:56:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Guatemala: frei Augusto Ramírez será beatificado neste sábado, 7 de novembro",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/guatemala-episcopado-beatificacao-frei-augusto.html",
-     "data": "2026-11-05T12:54:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Agostinianos brasileiros no Uruguai à espera do Papa: um irmão nosso vem nos visitar",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/papa-leao-xiv-viagem-apostolica-agostinianos-brasil-uruguai-2026.html",
-     "data": "2026-11-05T12:32:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Dia do Doente 2027: o papel da comunidade no cuidado de cada pessoa",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/dia-mundial-do-doente-2027-papa-leao-xiv-comunidade-cuidados.html",
-     "data": "2026-11-05T12:02:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Parolin: o Papa na América Latina, testemunha de unidade e reconciliação",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/cardeal-parolin-comenta-viagem-papa-america-do-sul.html",
-     "data": "2026-11-05T12:00:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Cultura da Vida: o valor dos embriões humanos não pode ser medido pela IA",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/cultura-vida-magnifica-humanitas-inteligencia-artificial-vitro.html",
-     "data": "2026-11-05T11:54:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "“Corazonar, tecer e transformar”: REPAM, prioridades para ação pan-amazônica",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/corazonar-tecer-transformar-repam-prioridades-acao.html",
-     "data": "2026-11-05T11:42:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Visita do Papa: brasileiros ao encontro de Leão XIV",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/visita-papa-brasileiros-encontro-leao-xiv.html",
-     "data": "2026-11-05T11:21:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Parolin: após as eleições nos EUA, esperamos colaboração e paz",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/cardinal-parolin-urbaniana-voto-midterm-acordo-china-paz.html",
-     "data": "2026-11-05T11:18:00Z",
      "secao": "Vaticano"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-05T17:24:07Z",
+   "atualizadoEm": "2026-11-06T16:19:42Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
+    {
+     "titulo": "Padre Reginaldo Manzotti lamenta falecimento do Irmão Rogério Mateucci e participa de Missa de Exéquias",
+     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-lamenta-falecimento-do-irmao-rogerio-mateucci-e-participa-de-missa-de-exequias/"
+    },
     {
      "titulo": "Padre Reginaldo Manzotti é uma das atrações da 45ª Expovel, em Cascavel",
      "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-e-uma-das-atracoes-da-45a-expovel-em-cascavel/"
@@ -136,46 +140,52 @@
     {
      "titulo": "Papa João Paulo II e Santo Padre Pio de Pietrelcina, o encontro em vida, de dois santos da Igreja Católica",
      "link": "https://padrereginaldomanzotti.com.br/blog/papa-joao-paulo-ii-e-santo-padre-pio-de-pietrelcina-o-encontro-em-vida-de-dois-santos-da-igreja-catolica/"
-    },
-    {
-     "titulo": "Padre Reginaldo Manzotti está no TOP 10 do Prêmio iBest 2026 na categoria Influenciador de Religião",
-     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-esta-no-top-10-do-premio-ibest-2026-na-categoria-influenciador-de-religiao/"
     }
    ]
   }
  },
  "liturgia": {
-  "data": "2026-11-05",
-  "celebracao": "Quinta-feira da 31ª Semana do Tempo Comum",
+  "data": "2026-11-06",
+  "celebracao": "Sexta-feira da 31ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Carta de São Paulo aos Filipenses 3,3-8a"
+    "ref": "Carta de São Paulo aos Filipenses 3,17-4,1"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Lucas 15,1-10"
+    "ref": "Lucas 16,1-8"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/31a-semana-do-tempo-comum-quinta-feira-5-de-novembro-de-2026/",
-  "atualizadoEm": "2026-11-05T17:10:27Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/31a-semana-do-tempo-comum-sexta-feira-6-de-novembro-de-2026/",
+  "atualizadoEm": "2026-11-06T16:19:44Z"
  },
  "santo": {
-  "data": "2026-11-05",
-  "nome": "SS. Donino, Teótimo e Companheiros, mártires",
+  "data": "2026-11-06",
+  "nome": "S. Leonardo, eremita",
   "resumo": "",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/05.html",
-  "atualizadoEm": "2026-11-05T17:13:55Z"
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/06.html",
+  "atualizadoEm": "2026-11-06T16:19:44Z"
  },
  "catequese": {
-  "data": "2026-11-05",
+  "data": "2026-11-06",
   "parte": "A profissão da fé",
-  "tema": "Tradição e Sagrada Escritura",
-  "texto": "A Revelação de Deus chega até nós por dois caminhos unidos entre si: a Sagrada Escritura e a Tradição viva da Igreja. Ambas brotam da mesma fonte e formam um só tesouro da fé. Cabe ao Magistério, isto é, ao Papa e aos bispos em comunhão com ele, interpretá-las fielmente.",
-  "cic": "CIC 80-95",
-  "pergunta": "Você tem lido a Bíblia em comunhão com a Igreja, por exemplo seguindo as leituras da missa?",
+  "tema": "O que é a fé?",
+  "texto": "A fé é a resposta pessoal do ser humano a Deus que se revela. É ao mesmo tempo um dom da graça e um ato livre: confiamos em Deus e aceitamos a verdade que Ele nos mostra. A fé não é contrária à razão, e cresce quando é alimentada pela Palavra, pela oração e pela vida em comunidade.",
+  "cic": "CIC 142-165",
+  "pergunta": "O que você tem feito para que a sua fé cresça e não fique parada?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-05",
+    "parte": "A profissão da fé",
+    "tema": "Tradição e Sagrada Escritura",
+    "texto": "A Revelação de Deus chega até nós por dois caminhos unidos entre si: a Sagrada Escritura e a Tradição viva da Igreja. Ambas brotam da mesma fonte e formam um só tesouro da fé. Cabe ao Magistério, isto é, ao Papa e aos bispos em comunhão com ele, interpretá-las fielmente.",
+    "cic": "CIC 80-95",
+    "pergunta": "Você tem lido a Bíblia em comunhão com a Igreja, por exemplo seguindo as leituras da missa?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
+    "atualizadoEm": "2026-11-05T17:10:27Z"
+   },
    {
     "data": "2026-11-04",
     "parte": "A profissão da fé",
@@ -305,19 +315,9 @@
     "pergunta": "Você conhece alguém doente que poderia receber esse sacramento ou uma visita sua?",
     "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
     "atualizadoEm": "2026-10-23T13:50:19Z"
-   },
-   {
-    "data": "2026-10-22",
-    "parte": "A celebração do mistério cristão",
-    "tema": "A Confissão",
-    "texto": "No sacramento da Penitência, também chamado de Reconciliação ou Confissão, Deus perdoa os pecados cometidos depois do Batismo. Ele pede arrependimento sincero, confissão ao sacerdote, absolvição e o cumprimento da penitência. É um encontro com a misericórdia que restaura a paz.",
-    "cic": "CIC 1422-1498",
-    "pergunta": "Há quanto tempo você não se confessa? O que o impede de procurar esse encontro?",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
-    "atualizadoEm": "2026-10-22T14:07:00Z"
    }
   ],
-  "atualizadoEm": "2026-11-05T17:10:27Z"
+  "atualizadoEm": "2026-11-06T16:19:44Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",

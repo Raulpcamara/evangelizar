@@ -1,59 +1,20 @@
 {
- "em": "2026-11-05T17:24:16Z",
+ "em": "2026-11-06T16:19:47Z",
  "liturgia_linhas": [
   "Confira as leituras bíblicas, o Evangelho, o Salmo e o Santo do dia para abastecer sua alma com fé.",
   "1ª Leitura",
   "Salmo Responsorial",
   "2ª Leitura",
   "Evangelho",
-  "Leitura da Carta de São Paulo aos Filipenses 3,3-8a",
+  "Leitura da Carta de São Paulo aos Filipenses 3,17-4,1",
   "Salmo responsorial",
-  "2 Cantai, entoai salmos para ele, *",
   "Aclamação ao Evangelho",
   "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
  ],
- "cdf": [
-  "<link rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://arqrio.org.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Farqrio.org.br%2Ffolhetos%2F\" />",
-  "<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://arqrio.org.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Farqrio.org.br%2Ffolhetos%2F&#038;format=xml\" />",
-  "<link rel=\"canonical\" href=\"https://arqrio.org.br/folhetos/\" />",
-  "<div class=\"container-folhetos\">",
-  "<script id=\"cdf-tracker-js-extra\">",
-  "<script id=\"cdf-tracker-js\" src=\"https://arqrio.org.br/wp-content/plugins/contador-folhetos/cdf-tracker.js?ver=1.1.0\">"
+ "santo_h2": [
+  "S. Leonardo, eremita"
  ],
- "container": "iv> <style> .container-folhetos { max-width: 1200px; margin: 40px auto; padding: 0 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; font-family: 'Titillium Web', sans-serif; } .card-folheto { width: 300px; min-height: 250px; border: 2px solid #e6e8e3; border-radius: 20px; padding: 25px 15px; text-align: center; display: flex; flex-direction: column; align-items: center; box-shadow: 0 4px 10px rgba(0,0,0,0.05); transition: transform 0.3s ease, box-shadow 0.3s ease; } .card-folheto:hover { transform: translateY(-5px); box-shadow: 0 8px 20px rgba(0,0,0,0.1); } .data-folheto { font-size: 24px; margin: 0 0 20px 0; font-weight: bold; } .link-folheto { font-size: 18px; text-decoration: none; font-weight: 600; display: block; margin-bottom: 12px; padding: 8px 15px; border-radius: 8px; transition: background-color 0.3s, opacity 0.3s; } .link-folheto:hover { background-color: rgba(255, 255, 255, 0.2); opacity: 0.9; } .erro-api { text-align: center; width: 100%; padding: 40px; color: #666; } @media (max-width: 768px) { .card-folheto { width: 45%; } } @media (max-width: 480px) { .card-folheto { width: 100%; min-height: auto; } } </style> <div class=\"container-folhetos\"> <div class='erro-api'><h3>Não foi possível carregar os folhetos.</h3></div></div> <script> /** * Script para calcular o contraste do texto baseado na cor litúrgica de fundo */ document.addEventListener(\"DOMContentLoaded\", function() { var cards = document.querySelectorAll(\".card-folheto\"); cards.forEach(function(card) { // Pega a cor computada pelo navegador var backgroundColor = window.getComputedStyle(card).backgroundColor; // Extrai os valores RGB ignorando possível canal Alpha (rgba) var rgb = backgroundColor.match(/rgba?\\((\\d+),\\s*(\\d+),\\s*(\\d+)/); if (rgb) { // Fórmula de brilho perceptível var brightness = (rgb[1] * 299 + rgb[2] * 587 + rgb[3] * 114) / 1000; var textElements = card.querySelectorAll(\".texto-dinamico\"); textElements.forEach(function(textElement) { if (brightness > 125) { // Fundo claro = texto escuro textElement.style.color = \"#5f585a\"; } else { // Fundo escuro = texto branco textElement.style.color = \"#ffffff\"; } }); } }); }); </script> <footer data-elementor-type=\"footer\" data-elementor-id=\"",
- "tracker_extra": "cdf-tracker-js-extra\"> var CDF = {\"ajax_url\":\"https://arqrio.org.br/wp-admin/admin-ajax.php\",\"nonce\":\"8300194429\"}; //# sourceURL=cdf-tracker-js-extra </script> <script id=\"cdf-tracker-js\" src=\"https://arqrio.org.br/wp-content/plugins/contador-folhetos/cdf-tracker.js?ver=1.1.0\"></script> <script id=\"hello-theme-frontend-js\" src=\"https://arqrio.org.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.7\"></script> <script id=\"elementor-webpack-runtime-js\" src=\"https://arqrio.org.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.35.9\"></script> <script id=\"elementor-frontend-modules-js\" src=\"https://arqrio.org.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.35.9\"></script> <script id=\"jquery-ui-core-js\" src=\"https://arqrio.org.b",
- "primeira_data": null,
- "rest_status": 403,
  "folheto_html_tamanho": 121346,
- "folheto_iframes": [],
- "folheto_arqrio_com": [
-  "https://www.arqrio.com.br/curia/"
- ],
- "folheto_ajax": [
-  "wp-json/oembed/1.0/embed?url=https%3A%2F%2Farqrio.org.br%2Ffolhetos%2F",
-  "wp-json/oembed/1.0/embed?url=https%3A%2F%2Farqrio.org.br%2Ffolhetos%2F&#038;format=xml",
-  "wp-json/wp/v2/pages/788",
-  "admin-ajax.php",
-  ".json"
- ],
- "folheto_scripts": [
-  "https://arqrio.org.br/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.35.9",
-  "https://arqrio.org.br/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.5",
-  "https://arqrio.org.br/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.5",
-  "https://arqrio.org.br/wp-content/plugins/contador-folhetos/cdf-tracker.js?ver=1.1.0",
-  "https://arqrio.org.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.7",
-  "https://arqrio.org.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.35.9",
-  "https://arqrio.org.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.35.9",
-  "https://arqrio.org.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.35.9",
-  "https://arqrio.org.br/wp-content/plugins/happy-elementor-addons/assets/js/happy-addons.min.js?ver=3.10.3",
-  "https://arqrio.org.br/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.5",
-  "https://arqrio.org.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.35.1",
-  "https://arqrio.org.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.35.1",
-  "https://arqrio.org.br/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.35.1",
-  "https://arqrio.org.br/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.5.4",
-  "https://arqrio.org.br/wp-content/plugins/jet-blog/assets/js/jet-blog.min.js?ver=2.4.8"
- ],
- "folheto_hrefs": [],
- "folheto_trecho": "Folhetos – Arquidiocese de São Sebastião do Rio de Janeiro <link rel=\"alternate\" title=\"oEmbed (XML)\" type=",
+ "folheto_site_com_erro": true,
  "folheto_links": []
 }
