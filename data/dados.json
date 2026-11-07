@@ -1,104 +1,104 @@
 {
- "geradoEm": "2026-11-06T16:19:47Z",
+ "geradoEm": "2026-11-07T15:11:59Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-06T16:19:40Z",
+   "atualizadoEm": "2026-11-07T15:11:51Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "Moçambique. Seminário alerta para o uso inadequado da IA na formação sacerdotal",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/igreja-seminarios-jovens-vocacoes-ia-magnifica-humanitas-papa.html",
-     "data": "2026-11-06T15:16:52Z",
+     "titulo": "Dom Victor Luís Quematcha nomeado Bispo de Bissau",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/dom-victor-luis-quematcha-nomeado-bispo-de-bissau.html",
+     "data": "2026-11-07T14:31:00Z",
      "secao": "África"
     },
     {
-     "titulo": "A visita histórica do Papa Leão XIV a Casavalle",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/visita-historica-papa-leao-xiv-casavalle.html",
-     "data": "2026-11-06T10:06:00Z",
+     "titulo": "Leão XIV aos uruguaios: sede pontes, uma comunidade fraterna e de oração",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-missa-paysandu-uruguai-viagem-apostolica-07-11-26.html",
+     "data": "2026-11-07T13:40:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "A segurança do Papa na sua viagem ao Uruguai",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/seguranca-papa-viagem-uruguai.html",
-     "data": "2026-11-06T09:22:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Brasileiros atravessam a fronteira para ver o Papa no Uruguai",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/brasileiros-atravessam-fronteira-para-ver-papa-leao-xiv-uruguai.html",
-     "data": "2026-11-06T08:25:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Evangelho de 6 de novembro",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/evangelho-06-novembro-2026-dom-mario-spaki.html",
-     "data": "2026-11-06T07:30:00Z",
-     "secao": "Evangelho"
-    },
-    {
-     "titulo": "Visita do Papa ao Uruguai: país tem um beato que foi batizado no Brasil",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/visita-do-papa-ao-uruguai-pais-tem-um-beato-que-foi-batizado.html",
-     "data": "2026-11-06T06:16:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Leão XIV parte para a América Latina: viagem de escuta, proximidade e unidade",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-viagem-apostolica-america-latina-partida-fiumicino.html",
-     "data": "2026-11-06T06:06:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Holywins 2026 celebrou a santidade e reuniu famílias em Santa Cruz do Sul",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/diocese-santa-cruz-sul-rs-holywins-2026.html",
-     "data": "2026-11-06T06:02:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "A chegada do Santo Padre: dom Tróccoli, momento de esperança e fé",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/chegada-santo-padre-dom-troccoli-momento-esperanca-fe.html",
-     "data": "2026-11-05T16:47:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Dom Alfonso Bauer: esperamos que o Papa traga renovação para nossa fé",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/dom-alfonso-bauer-esperamos-papa-traga-renovacao.html",
-     "data": "2026-11-05T16:27:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Doutorado em Direito Canônico através de Goiânia",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/doutorado-em-direito-canonico-atraves-de-goiania.html",
-     "data": "2026-11-05T15:20:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Médico de Corpo e Alma: ajudar os jovens a exercer a profissão como dom de Deus",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/medcal-medicos-corpos-almas-jovens.html",
-     "data": "2026-11-05T15:00:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Seminaristas exortados à fidelidade no encerramento do ano académico e formativo",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/igreja-nampula-seminario-vocacoes-fidelidade-maturidade-servico.html",
-     "data": "2026-11-05T14:50:00Z",
-     "secao": "África"
-    },
-    {
-     "titulo": "Dia Mundial dos Pobres: a escola na formação de uma comunidade mais solidária",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/dia-mundial-pobres-escola-formacao-comunidade.html",
-     "data": "2026-11-05T14:12:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Hospital Pediátrico do Papa é reconhecido por atender 4 mil crianças da Ucrânia",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/hospital-pediatrico-bambino-gesu-papa-leao-xiv-criancas-ucrania.html",
-     "data": "2026-11-05T13:25:00Z",
+     "titulo": "Beatificados os mártires de Santander",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/beatificacao-martires-de-santander-cardeal-semeraro.html",
+     "data": "2026-11-07T11:20:30Z",
      "secao": "Vaticano"
+    },
+    {
+     "titulo": "O primeiro dia do Papa no Uruguai em um minuto!",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/o-primeiro-dia-do-papa-no-uruguai-em-um-minuto.html",
+     "data": "2026-11-07T09:58:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "O primeiro dia de Leão no Uruguai: uma recepção de braços aberto",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/primeiro-dia-leao-uruguai-recepcao-bracos-aberto.html",
+     "data": "2026-11-07T09:02:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Antonio Cardoso na Canção e a Prece: \"Confiança\"",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/antonio-cardoso-cancao-prece-confianca.html",
+     "data": "2026-11-07T07:00:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "XXXII Domingo do Tempo Comum",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/xxxii-domingo-tempo-comum.html",
+     "data": "2026-11-07T07:00:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Leão XIV pede oração e jejum pelo aumento das vocações sacerdotais e religiosas",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-uruguai-encontro-clero-catedral-imaculada-felipe-tiago.html",
+     "data": "2026-11-06T23:46:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "O Papa na Nunciatura: “vejo que o Uruguai é um país de jovens que têm fé”",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-nunciatura-vejo-uruguai-pais-jovens.html",
+     "data": "2026-11-06T22:28:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Papa: \"Vim ao Uruguai para me aproximar, com carinho, de todo o povo\"",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-discurso-autoridades-uruguai-viagem-apostolica.html",
+     "data": "2026-11-06T21:45:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Papa: nunca tive dúvidas sobre a viagem à América do Sul, estou feliz por realizá-la",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/palavras-do-papa-no-aviao-roma-montevideu.html",
+     "data": "2026-11-06T19:35:03Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Em viagem à América do Sul, Papa envia telegrama a 6 países, inclusive ao Brasil",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-telegramas-viagem-apostolica-roma-montevideu-26.html",
+     "data": "2026-11-06T19:30:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Papa Leão XIV chega ao Uruguai e inicia sua 6ª Viagem Apostólica",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-chega-ao-uruguai-e-inicia-6-viagem-apostolica.html",
+     "data": "2026-11-06T19:21:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Peregrinos de Pelotas cruzam a fronteira para encontrar o Papa Leão",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/peregrinos-pelotas-cruzam-fronteira-encontrar-papa.html",
+     "data": "2026-11-06T17:19:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Brasileiros da fronteira se mobilizam para encontrar o Papa Leão",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/brasileiros-fronteira-mobilizam-encontrar-papa-leao.html",
+     "data": "2026-11-06T16:20:00Z",
+     "secao": "Papa"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-06T16:19:42Z",
+   "atualizadoEm": "2026-11-07T15:11:53Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
@@ -145,37 +145,47 @@
   }
  },
  "liturgia": {
-  "data": "2026-11-06",
-  "celebracao": "Sexta-feira da 31ª Semana do Tempo Comum",
+  "data": "2026-11-07",
+  "celebracao": "Sábado da 31ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Carta de São Paulo aos Filipenses 3,17-4,1"
+    "ref": "Carta de São Paulo aos Filipenses 4,10-19"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Lucas 16,1-8"
+    "ref": "Lucas 16,9-15"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/31a-semana-do-tempo-comum-sexta-feira-6-de-novembro-de-2026/",
-  "atualizadoEm": "2026-11-06T16:19:44Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/31a-semana-do-tempo-comum-sabado-7-de-novembro-de-2026/",
+  "atualizadoEm": "2026-11-07T15:11:56Z"
  },
  "santo": {
-  "data": "2026-11-06",
-  "nome": "S. Leonardo, eremita",
-  "resumo": "",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/06.html",
-  "atualizadoEm": "2026-11-06T16:19:44Z"
+  "data": "2026-11-07",
+  "nome": "S. Prosdócimo, primeiro bispo de Pádua",
+  "resumo": "Também lembrados hoje: S. Vilibrordo, bispo na Europa do Norte.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/07.html",
+  "atualizadoEm": "2026-11-07T15:11:56Z"
  },
  "catequese": {
-  "data": "2026-11-06",
+  "data": "2026-11-07",
   "parte": "A profissão da fé",
-  "tema": "O que é a fé?",
-  "texto": "A fé é a resposta pessoal do ser humano a Deus que se revela. É ao mesmo tempo um dom da graça e um ato livre: confiamos em Deus e aceitamos a verdade que Ele nos mostra. A fé não é contrária à razão, e cresce quando é alimentada pela Palavra, pela oração e pela vida em comunidade.",
-  "cic": "CIC 142-165",
-  "pergunta": "O que você tem feito para que a sua fé cresça e não fique parada?",
+  "tema": "Um só Deus em três Pessoas",
+  "texto": "O mistério central da fé cristã é a Santíssima Trindade: um só Deus em três Pessoas distintas, o Pai, o Filho e o Espírito Santo. Não são três deuses, mas um único Deus que é comunhão de amor. Fomos batizados em nome da Trindade e somos chamados a participar dessa comunhão.",
+  "cic": "CIC 232-260",
+  "pergunta": "Quando você faz o sinal da cruz, lembra que está invocando a Trindade?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-06",
+    "parte": "A profissão da fé",
+    "tema": "O que é a fé?",
+    "texto": "A fé é a resposta pessoal do ser humano a Deus que se revela. É ao mesmo tempo um dom da graça e um ato livre: confiamos em Deus e aceitamos a verdade que Ele nos mostra. A fé não é contrária à razão, e cresce quando é alimentada pela Palavra, pela oração e pela vida em comunidade.",
+    "cic": "CIC 142-165",
+    "pergunta": "O que você tem feito para que a sua fé cresça e não fique parada?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
+    "atualizadoEm": "2026-11-06T16:19:44Z"
+   },
    {
     "data": "2026-11-05",
     "parte": "A profissão da fé",
@@ -305,38 +315,28 @@
     "pergunta": "Você tem rezado pelos padres da sua paróquia e pelas vocações?",
     "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
     "atualizadoEm": "2026-10-24T12:56:24Z"
-   },
-   {
-    "data": "2026-10-23",
-    "parte": "A celebração do mistério cristão",
-    "tema": "A Unção dos Enfermos",
-    "texto": "A Unção dos Enfermos é o sacramento que dá força, paz e coragem a quem enfrenta doença grave ou a fragilidade da idade avançada. Não é só para o momento da morte. Pela unção, o doente une seu sofrimento ao de Cristo e recebe a graça do Espírito Santo.",
-    "cic": "CIC 1499-1532",
-    "pergunta": "Você conhece alguém doente que poderia receber esse sacramento ou uma visita sua?",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
-    "atualizadoEm": "2026-10-23T13:50:19Z"
    }
   ],
-  "atualizadoEm": "2026-11-06T16:19:44Z"
+  "atualizadoEm": "2026-11-07T15:11:56Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
-  "data": "2026-11-02",
+  "data": "2026-11-08",
   "versoes": [
    {
-    "nome": "Ano A - nº 61 - Finados (Assembléia)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf4e"
+    "nome": "Ano A - nº 62 - 32º Domingo do Tempo Comum (Assembléia)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf8e"
    },
    {
-    "nome": "Ano A - nº 61 - Finados (Celular)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf5e"
+    "nome": "Ano A - nº 62 - 32º Domingo do Tempo Comum (Celular)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf9e"
    },
    {
-    "nome": "Ano A - nº 61 - Finados (Celebrante)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf6e"
+    "nome": "Ano A - nº 62 - 32º Domingo do Tempo Comum (Celebrante)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf0e"
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-11-02T18:51:22Z"
+  "atualizadoEm": "2026-11-07T15:11:59Z"
  }
 }
