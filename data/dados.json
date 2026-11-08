@@ -1,10 +1,76 @@
 {
- "geradoEm": "2026-11-07T15:11:59Z",
+ "geradoEm": "2026-11-08T15:36:33Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-07T15:11:51Z",
+   "atualizadoEm": "2026-11-08T15:36:28Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
+    {
+     "titulo": "Papa aos cristãos uruguaios: não se cansem de transmitir a fé",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-homilia-missa-santuario-virgem-trinta-tres-uruguai-maria.html",
+     "data": "2026-11-08T13:30:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Em vídeo, o segundo dia do Papa no Uruguai",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/em-video-o-segundo-dia-do-papa-no-uruguai.html",
+     "data": "2026-11-08T11:42:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "PAPA: “não tenham medo de dizer, sou católico, eu creio em Jesus\"",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-nao-tenham-medo-dizer-sou-catolico-creio-jesus-uruguai.html",
+     "data": "2026-11-08T11:01:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "A secularização e a luz refletida da pequena Belém",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/secularizacao-luz-refletida-pequena-belem-editorial.html",
+     "data": "2026-11-08T09:54:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Papa: um mundo sem Deus corre o risco de deixar o homem sem lugar",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-vigilia-de-oracao-uruguai-um-mundo-sem-deus.html",
+     "data": "2026-11-07T23:27:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Papa se reúne com universitários: colocar a pessoa antes do algoritmo",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-encontro-mundo-educacao-uruguai-viagem.html",
+     "data": "2026-11-07T22:00:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Leão XIV no Uruguai: a indiferença não é cristã!",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-realidade-social-casavalle-uruguai-viagem.html",
+     "data": "2026-11-07T21:00:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Cardeal Sturla: “ter o Papa entre nós é um golaço”",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/cardeal-sturla-ter-papa-um-golaco-uruguai.html",
+     "data": "2026-11-07T20:23:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Disparos em Cracóvia. Igreja: “O ódio não terá a última palavra”",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/polonia-cracovia-disparos-mortos-feridos-igreja-tragedia.html",
+     "data": "2026-11-07T17:57:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Guatemala: frei Monasterio é Beato. Cardeal Robles Ortega: que seu exemplo inspire a viver na solidariedade",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/guatemala-beatificacao-frei-monasterio-homilia-robles-ortega.html",
+     "data": "2026-11-07T17:00:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Papa aos 10 anos do Encontro \"Com Deus, Tem Jeito\": uma experiência de misericórdia divina",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-telegrama-com-deus-tem-jeito-7-novembro-2026.html",
+     "data": "2026-11-07T15:18:00Z",
+     "secao": "Papa"
+    },
     {
      "titulo": "Dom Victor Luís Quematcha nomeado Bispo de Bissau",
      "link": "https://www.vaticannews.va/pt/africa/news/2026-11/dom-victor-luis-quematcha-nomeado-bispo-de-bissau.html",
@@ -14,91 +80,25 @@
     {
      "titulo": "Leão XIV aos uruguaios: sede pontes, uma comunidade fraterna e de oração",
      "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-missa-paysandu-uruguai-viagem-apostolica-07-11-26.html",
-     "data": "2026-11-07T13:40:00Z",
+     "data": "2026-11-07T13:53:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Beatificados os mártires de Santander",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/beatificacao-martires-de-santander-cardeal-semeraro.html",
-     "data": "2026-11-07T11:20:30Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "O primeiro dia do Papa no Uruguai em um minuto!",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/o-primeiro-dia-do-papa-no-uruguai-em-um-minuto.html",
-     "data": "2026-11-07T09:58:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "O primeiro dia de Leão no Uruguai: uma recepção de braços aberto",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/primeiro-dia-leao-uruguai-recepcao-bracos-aberto.html",
-     "data": "2026-11-07T09:02:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Antonio Cardoso na Canção e a Prece: \"Confiança\"",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/antonio-cardoso-cancao-prece-confianca.html",
-     "data": "2026-11-07T07:00:00Z",
+     "titulo": "A missão da educação: conversa com o padre Anderson, Reitor PUC-Rio",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/missao-educacao-conversa-padre-anderson-pedroso-sj.html",
+     "data": "2026-11-07T13:02:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "XXXII Domingo do Tempo Comum",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/xxxii-domingo-tempo-comum.html",
-     "data": "2026-11-07T07:00:00Z",
+     "titulo": "Hallel Vale Som e Vida 2026",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/hallel-vale-som-e-vida-2026-sao-jose-dos-campos.html",
+     "data": "2026-11-07T11:54:00Z",
      "secao": "Igreja"
-    },
-    {
-     "titulo": "Leão XIV pede oração e jejum pelo aumento das vocações sacerdotais e religiosas",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-uruguai-encontro-clero-catedral-imaculada-felipe-tiago.html",
-     "data": "2026-11-06T23:46:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "O Papa na Nunciatura: “vejo que o Uruguai é um país de jovens que têm fé”",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-nunciatura-vejo-uruguai-pais-jovens.html",
-     "data": "2026-11-06T22:28:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Papa: \"Vim ao Uruguai para me aproximar, com carinho, de todo o povo\"",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-discurso-autoridades-uruguai-viagem-apostolica.html",
-     "data": "2026-11-06T21:45:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Papa: nunca tive dúvidas sobre a viagem à América do Sul, estou feliz por realizá-la",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/palavras-do-papa-no-aviao-roma-montevideu.html",
-     "data": "2026-11-06T19:35:03Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Em viagem à América do Sul, Papa envia telegrama a 6 países, inclusive ao Brasil",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-telegramas-viagem-apostolica-roma-montevideu-26.html",
-     "data": "2026-11-06T19:30:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Papa Leão XIV chega ao Uruguai e inicia sua 6ª Viagem Apostólica",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-chega-ao-uruguai-e-inicia-6-viagem-apostolica.html",
-     "data": "2026-11-06T19:21:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Peregrinos de Pelotas cruzam a fronteira para encontrar o Papa Leão",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/peregrinos-pelotas-cruzam-fronteira-encontrar-papa.html",
-     "data": "2026-11-06T17:19:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Brasileiros da fronteira se mobilizam para encontrar o Papa Leão",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/brasileiros-fronteira-mobilizam-encontrar-papa-leao.html",
-     "data": "2026-11-06T16:20:00Z",
-     "secao": "Papa"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-07T15:11:53Z",
+   "atualizadoEm": "2026-11-08T15:36:29Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
@@ -145,37 +145,51 @@
   }
  },
  "liturgia": {
-  "data": "2026-11-07",
-  "celebracao": "Sábado da 31ª Semana do Tempo Comum",
+  "data": "2026-11-08",
+  "celebracao": "32º Domingo do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Carta de São Paulo aos Filipenses 4,10-19"
+    "ref": "Livro da Sabedoria 6,12-16"
+   },
+   {
+    "tipo": "2ª Leitura",
+    "ref": "Primeira Carta de São Paulo aos Tessalonicenses 4,13-18"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Lucas 16,9-15"
+    "ref": "Mateus 25,1-13"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/31a-semana-do-tempo-comum-sabado-7-de-novembro-de-2026/",
-  "atualizadoEm": "2026-11-07T15:11:56Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/32o-domingo-do-tempo-comum-domingo-8-de-novembro-de-2026/",
+  "atualizadoEm": "2026-11-08T15:36:30Z"
  },
  "santo": {
-  "data": "2026-11-07",
-  "nome": "S. Prosdócimo, primeiro bispo de Pádua",
-  "resumo": "Também lembrados hoje: S. Vilibrordo, bispo na Europa do Norte.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/07.html",
-  "atualizadoEm": "2026-11-07T15:11:56Z"
+  "data": "2026-11-08",
+  "nome": "SS. Quatro Coroados, mártires",
+  "resumo": "Também lembrados hoje: S. Deodato I, papa.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/08.html",
+  "atualizadoEm": "2026-11-08T15:36:30Z"
  },
  "catequese": {
-  "data": "2026-11-07",
+  "data": "2026-11-08",
   "parte": "A profissão da fé",
-  "tema": "Um só Deus em três Pessoas",
-  "texto": "O mistério central da fé cristã é a Santíssima Trindade: um só Deus em três Pessoas distintas, o Pai, o Filho e o Espírito Santo. Não são três deuses, mas um único Deus que é comunhão de amor. Fomos batizados em nome da Trindade e somos chamados a participar dessa comunhão.",
-  "cic": "CIC 232-260",
-  "pergunta": "Quando você faz o sinal da cruz, lembra que está invocando a Trindade?",
+  "tema": "Deus, criador do céu e da terra",
+  "texto": "Deus criou o mundo livremente, por amor, e não por necessidade. Toda a criação é boa e reflete a sabedoria de quem a fez. O ser humano recebeu a missão de cuidar dela, como administrador e não como dono, para a glória de Deus e o bem de todos.",
+  "cic": "CIC 290-301",
+  "pergunta": "Que gesto concreto você pode fazer esta semana para cuidar da criação?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-07",
+    "parte": "A profissão da fé",
+    "tema": "Um só Deus em três Pessoas",
+    "texto": "O mistério central da fé cristã é a Santíssima Trindade: um só Deus em três Pessoas distintas, o Pai, o Filho e o Espírito Santo. Não são três deuses, mas um único Deus que é comunhão de amor. Fomos batizados em nome da Trindade e somos chamados a participar dessa comunhão.",
+    "cic": "CIC 232-260",
+    "pergunta": "Quando você faz o sinal da cruz, lembra que está invocando a Trindade?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
+    "atualizadoEm": "2026-11-07T15:11:56Z"
+   },
    {
     "data": "2026-11-06",
     "parte": "A profissão da fé",
@@ -305,19 +319,9 @@
     "pergunta": "Como a sua família pode se tornar mais uma pequena Igreja, com oração e perdão?",
     "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
     "atualizadoEm": "2026-10-25T13:22:29Z"
-   },
-   {
-    "data": "2026-10-24",
-    "parte": "A celebração do mistério cristão",
-    "tema": "O sacramento da Ordem",
-    "texto": "Pela Ordem, Cristo continua a cuidar do seu povo por meio de bispos, presbíteros e diáconos. Eles são consagrados para servir a Igreja anunciando a Palavra, celebrando os sacramentos e guiando a comunidade. É um ministério de serviço, não de poder.",
-    "cic": "CIC 1536-1600",
-    "pergunta": "Você tem rezado pelos padres da sua paróquia e pelas vocações?",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
-    "atualizadoEm": "2026-10-24T12:56:24Z"
    }
   ],
-  "atualizadoEm": "2026-11-07T15:11:56Z"
+  "atualizadoEm": "2026-11-08T15:36:30Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
@@ -337,6 +341,6 @@
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-11-07T15:11:59Z"
+  "atualizadoEm": "2026-11-08T15:36:33Z"
  }
 }
