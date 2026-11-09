@@ -1,106 +1,110 @@
 {
- "geradoEm": "2026-11-08T15:36:33Z",
+ "geradoEm": "2026-11-09T19:12:34Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-08T15:36:28Z",
+   "atualizadoEm": "2026-11-09T19:12:26Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "Papa aos cristãos uruguaios: não se cansem de transmitir a fé",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-homilia-missa-santuario-virgem-trinta-tres-uruguai-maria.html",
-     "data": "2026-11-08T13:30:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Em vídeo, o segundo dia do Papa no Uruguai",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/em-video-o-segundo-dia-do-papa-no-uruguai.html",
-     "data": "2026-11-08T11:42:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "PAPA: “não tenham medo de dizer, sou católico, eu creio em Jesus\"",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-nao-tenham-medo-dizer-sou-catolico-creio-jesus-uruguai.html",
-     "data": "2026-11-08T11:01:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "A secularização e a luz refletida da pequena Belém",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/secularizacao-luz-refletida-pequena-belem-editorial.html",
-     "data": "2026-11-08T09:54:00Z",
+     "titulo": "Turquia: inaugurada em Nicéia a Casa do Peregrino",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/inaugurada-niceia-casa-do-peregrino-fisichella-leao-xiv-turquia.html",
+     "data": "2026-11-09T18:15:00Z",
      "secao": "Vaticano"
     },
     {
-     "titulo": "Papa: um mundo sem Deus corre o risco de deixar o homem sem lugar",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-vigilia-de-oracao-uruguai-um-mundo-sem-deus.html",
-     "data": "2026-11-07T23:27:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Papa se reúne com universitários: colocar a pessoa antes do algoritmo",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-encontro-mundo-educacao-uruguai-viagem.html",
-     "data": "2026-11-07T22:00:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Leão XIV no Uruguai: a indiferença não é cristã!",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-realidade-social-casavalle-uruguai-viagem.html",
-     "data": "2026-11-07T21:00:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Cardeal Sturla: “ter o Papa entre nós é um golaço”",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/cardeal-sturla-ter-papa-um-golaco-uruguai.html",
-     "data": "2026-11-07T20:23:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Disparos em Cracóvia. Igreja: “O ódio não terá a última palavra”",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/polonia-cracovia-disparos-mortos-feridos-igreja-tragedia.html",
-     "data": "2026-11-07T17:57:00Z",
+     "titulo": "COP31: apelo das Igrejas: “Respeitar os compromissos em benefício dos países pobres”",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/cop31-ambiente-clima-igreja-estados-unidos-wcc.html",
+     "data": "2026-11-09T16:03:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Guatemala: frei Monasterio é Beato. Cardeal Robles Ortega: que seu exemplo inspire a viver na solidariedade",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/guatemala-beatificacao-frei-monasterio-homilia-robles-ortega.html",
-     "data": "2026-11-07T17:00:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Papa aos 10 anos do Encontro \"Com Deus, Tem Jeito\": uma experiência de misericórdia divina",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-telegrama-com-deus-tem-jeito-7-novembro-2026.html",
-     "data": "2026-11-07T15:18:00Z",
+     "titulo": "Leão XIV: família cristã, baluarte entre as muitas precariedades do nosso tempo",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-homilia-buenos-aires-familia-crista-balurte-tempo.html",
+     "data": "2026-11-09T14:30:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Dom Victor Luís Quematcha nomeado Bispo de Bissau",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/dom-victor-luis-quematcha-nomeado-bispo-de-bissau.html",
-     "data": "2026-11-07T14:31:00Z",
+     "titulo": "Leão XIV na Argentina: pessoas com deficiência não são um fardo, mas bênção",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-viagem-apostolica-argentina-cottolengo-claypole-26.html",
+     "data": "2026-11-09T13:00:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "O “Martín Fierro”, de Hernández, e o sonho de Borges",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/martin-fierro-hernandez-jorge-luis-borges-literatura-argentina.html",
+     "data": "2026-11-09T12:34:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "Conferência Episcopal de Moçambique lança novo Directório Nacional da Catequese",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/mocambique-igreja-cem-catequese-evangelizacao-pastoral-liturgia.html",
+     "data": "2026-11-09T12:13:00Z",
      "secao": "África"
     },
     {
-     "titulo": "Leão XIV aos uruguaios: sede pontes, uma comunidade fraterna e de oração",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-missa-paysandu-uruguai-viagem-apostolica-07-11-26.html",
-     "data": "2026-11-07T13:53:00Z",
-     "secao": "Papa"
+     "titulo": "Ataques russos destroem centro de reabilitação para crianças com deficiência",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/ucrania-kremenchuk-ataque-russo-centro-reabilitacao-criancas.html",
+     "data": "2026-11-09T11:56:00Z",
+     "secao": "Mundo"
     },
     {
-     "titulo": "A missão da educação: conversa com o padre Anderson, Reitor PUC-Rio",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/missao-educacao-conversa-padre-anderson-pedroso-sj.html",
-     "data": "2026-11-07T13:02:00Z",
+     "titulo": "Além de Roma: o elo histórico entre o Brasil e a Basílica do Latrão",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/latrao.html",
+     "data": "2026-11-09T09:19:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Hallel Vale Som e Vida 2026",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/hallel-vale-som-e-vida-2026-sao-jose-dos-campos.html",
-     "data": "2026-11-07T11:54:00Z",
+     "titulo": "A Igreja Católica na Argentina: tradição, desafios pastorais e uma fé que busca renovar-se",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/argentina-igreja-catolica-tradicao-desafios-pastorais-fe-renovar.html",
+     "data": "2026-11-09T07:55:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "COP31 começa na Turquia: transformar compromissos climáticos em ações concretas",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/cop31-turquia-desafio-transformar-compromissos-acoes-concretas.html",
+     "data": "2026-11-09T07:38:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "Evangelho de 9 de novembro",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/evangelho-09-novembro-2026-dom-mario-spaki.html",
+     "data": "2026-11-09T07:30:00Z",
+     "secao": "Evangelho"
+    },
+    {
+     "titulo": "Omã inaugura o Jubileu de Ouro da Igreja Católica dos Santos Pedro e Paulo",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/oma-jubileu-igreja-catolica-pedro-paulo.html",
+     "data": "2026-11-09T06:51:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Papa na Argentina: conheça os 5 santos do país e o beato que ajudou a criar a JMJ",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/argentina-5-santos-beato-que-ajudou-criar-jmj.html",
+     "data": "2026-11-09T06:00:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "\"Deus abençoe a Argentina\": Leão XIV discursa em Buenos Aires e lembra o Papa Francisco",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-discurso-autoridades-argentina.html",
+     "data": "2026-11-08T22:15:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Faleceu dom Berni, missionário no Peru por 47 anos",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/morto-monsignor-berni-missionario-peru-47-anni-prevost-amicizia.html",
+     "data": "2026-11-08T21:21:00Z",
      "secao": "Igreja"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-08T15:36:29Z",
+   "atualizadoEm": "2026-11-09T19:12:28Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
+    {
+     "titulo": "Educar na fé: o desafio de formar filhos sem afastá-los de Deus",
+     "link": "https://padrereginaldomanzotti.com.br/blog/educar-na-fe-o-desafio-de-formar-filhos-sem-afasta-los-de-deus/"
+    },
     {
      "titulo": "Padre Reginaldo Manzotti lamenta falecimento do Irmão Rogério Mateucci e participa de Missa de Exéquias",
      "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-lamenta-falecimento-do-irmao-rogerio-mateucci-e-participa-de-missa-de-exequias/"
@@ -136,50 +140,56 @@
     {
      "titulo": "XIX Evangelizar É Preciso Fortaleza acontece no próximo sábado com programação especial de fé, música e oração",
      "link": "https://padrereginaldomanzotti.com.br/blog/xix-evangelizar-e-preciso-fortaleza-acontece-no-proximo-sabado-com-programacao-especial-de-fe-musica-e-oracao/"
-    },
-    {
-     "titulo": "Papa João Paulo II e Santo Padre Pio de Pietrelcina, o encontro em vida, de dois santos da Igreja Católica",
-     "link": "https://padrereginaldomanzotti.com.br/blog/papa-joao-paulo-ii-e-santo-padre-pio-de-pietrelcina-o-encontro-em-vida-de-dois-santos-da-igreja-catolica/"
     }
    ]
   }
  },
  "liturgia": {
-  "data": "2026-11-08",
-  "celebracao": "32º Domingo do Tempo Comum",
+  "data": "2026-11-09",
+  "celebracao": "Segunda-feira da 32ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Livro da Sabedoria 6,12-16"
+    "ref": "Profecia de Ezequiel 47,1-2.8-9.12"
    },
    {
     "tipo": "2ª Leitura",
-    "ref": "Primeira Carta de São Paulo aos Tessalonicenses 4,13-18"
+    "ref": "Primeira Carta de São Paulo aos Coríntios 3,9c-11.16-17"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Mateus 25,1-13"
+    "ref": "João 2,13-22"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/32o-domingo-do-tempo-comum-domingo-8-de-novembro-de-2026/",
-  "atualizadoEm": "2026-11-08T15:36:30Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/32a-semana-do-tempo-comum-segunda-feira-9-de-novembro-de-2026/",
+  "atualizadoEm": "2026-11-09T19:12:31Z"
  },
  "santo": {
-  "data": "2026-11-08",
-  "nome": "SS. Quatro Coroados, mártires",
-  "resumo": "Também lembrados hoje: S. Deodato I, papa.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/08.html",
-  "atualizadoEm": "2026-11-08T15:36:30Z"
+  "data": "2026-11-09",
+  "nome": "S. Teodoro, soldado, mártir",
+  "resumo": "Também lembrados hoje: S. Maria e Néon, mártires, no cemitério de Calisto na via Ápia.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/09.html",
+  "atualizadoEm": "2026-11-09T19:12:31Z"
  },
  "catequese": {
-  "data": "2026-11-08",
+  "data": "2026-11-09",
   "parte": "A profissão da fé",
-  "tema": "Deus, criador do céu e da terra",
-  "texto": "Deus criou o mundo livremente, por amor, e não por necessidade. Toda a criação é boa e reflete a sabedoria de quem a fez. O ser humano recebeu a missão de cuidar dela, como administrador e não como dono, para a glória de Deus e o bem de todos.",
-  "cic": "CIC 290-301",
-  "pergunta": "Que gesto concreto você pode fazer esta semana para cuidar da criação?",
+  "tema": "O Filho de Deus se fez homem",
+  "texto": "Na Encarnação, o Filho eterno de Deus assumiu a nossa natureza humana no seio da Virgem Maria, pelo poder do Espírito Santo. Jesus é verdadeiro Deus e verdadeiro homem. Ele se fez um de nós para nos salvar, nos mostrar o amor do Pai e ser o modelo de santidade.",
+  "cic": "CIC 456-463",
+  "pergunta": "O que muda na sua vida saber que Deus quis viver como um de nós?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-08",
+    "parte": "A profissão da fé",
+    "tema": "Deus, criador do céu e da terra",
+    "texto": "Deus criou o mundo livremente, por amor, e não por necessidade. Toda a criação é boa e reflete a sabedoria de quem a fez. O ser humano recebeu a missão de cuidar dela, como administrador e não como dono, para a glória de Deus e o bem de todos.",
+    "cic": "CIC 290-301",
+    "pergunta": "Que gesto concreto você pode fazer esta semana para cuidar da criação?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
+    "atualizadoEm": "2026-11-08T15:36:30Z"
+   },
    {
     "data": "2026-11-07",
     "parte": "A profissão da fé",
@@ -309,19 +319,9 @@
     "pergunta": "Há alguém que você tem tratado sem reconhecer a dignidade de filho de Deus?",
     "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
     "atualizadoEm": "2026-10-26T15:29:28Z"
-   },
-   {
-    "data": "2026-10-25",
-    "parte": "A celebração do mistério cristão",
-    "tema": "O Matrimônio",
-    "texto": "No Matrimônio, um homem e uma mulher se unem por toda a vida numa aliança de amor fiel e fecundo. Cristo elevou essa união à dignidade de sacramento e dá aos esposos a graça para se amarem como Ele ama a Igreja. A família nascida do matrimônio é chamada de Igreja doméstica.",
-    "cic": "CIC 1601-1666",
-    "pergunta": "Como a sua família pode se tornar mais uma pequena Igreja, com oração e perdão?",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
-    "atualizadoEm": "2026-10-25T13:22:29Z"
    }
   ],
-  "atualizadoEm": "2026-11-08T15:36:30Z"
+  "atualizadoEm": "2026-11-09T19:12:31Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",

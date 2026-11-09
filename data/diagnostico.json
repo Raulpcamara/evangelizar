@@ -1,39 +1,22 @@
 {
- "em": "2026-11-08T15:36:33Z",
+ "em": "2026-11-09T19:12:34Z",
  "liturgia_linhas": [
   "Confira as leituras bíblicas, o Evangelho, o Salmo e o Santo do dia para abastecer sua alma com fé.",
   "1ª Leitura",
   "Salmo Responsorial",
   "2ª Leitura",
   "Evangelho",
-  "Leitura do Livro da Sabedoria 6,12-16",
+  "Leitura da Profecia de Ezequiel 47,1-2.8-9.12",
   "Salmo responsorial",
-  "Leitura da Primeira Carta de São Paulo aos Tessalonicenses 4,13-18",
+  "Leitura da Primeira Carta de São Paulo aos Coríntios 3,9c-11.16-17",
   "Aclamação ao Evangelho",
-  "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+  "Proclamação do Evangelho de Jesus Cristo segundo João"
  ],
  "santo_h2": [
-  "SS. Quatro Coroados, mártires",
-  "S. Deodato I, papa"
+  "S. Teodoro, soldado, mártir",
+  "S. Maria e Néon, mártires, no cemitério de Calisto na via Ápia"
  ],
- "folheto_html_tamanho": 123603,
- "folheto_site_com_erro": false,
- "folheto_links": [
-  {
-   "nome": "Ano A - nº 62 - 32º Domingo do Tempo Comum (Assembléia)",
-   "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf8e"
-  },
-  {
-   "nome": "Ano A - nº 62 - 32º Domingo do Tempo Comum (Celular)",
-   "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf9e"
-  },
-  {
-   "nome": "Ano A - nº 62 - 32º Domingo do Tempo Comum (Celebrante)",
-   "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf0e"
-  }
- ],
- "folheto_linhas_com_data": [
-  "08/11/2026"
- ],
- "folheto_linha_escolhida": "08/11/2026"
+ "folheto_html_tamanho": 121346,
+ "folheto_site_com_erro": true,
+ "folheto_links": []
 }
