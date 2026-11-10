@@ -1,104 +1,104 @@
 {
- "geradoEm": "2026-11-09T19:12:34Z",
+ "geradoEm": "2026-11-10T16:37:10Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-09T19:12:26Z",
+   "atualizadoEm": "2026-11-10T16:37:02Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "Turquia: inaugurada em Nicéia a Casa do Peregrino",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/inaugurada-niceia-casa-do-peregrino-fisichella-leao-xiv-turquia.html",
-     "data": "2026-11-09T18:15:00Z",
+     "titulo": "Enem aborda a Igreja e suscita reflexão sobre história e fé",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/o-que-o-enem-nao-contou-sobre-a-igreja.html",
+     "data": "2026-11-10T15:27:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "COP31: não apenas números, mas pessoas; mudança de rumo em Antália",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/cop31-nao-apenas-numeros-mas-pessoas-mudanca-de-rumo-antalia.html",
+     "data": "2026-11-10T15:10:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "São Francisco de Assis e os Papas da era contemporânea (1926–2026)",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/roma-simposio-sao-francisco-assis-papas-idade-contemporanea.html",
+     "data": "2026-11-10T14:51:00Z",
      "secao": "Vaticano"
     },
     {
-     "titulo": "COP31: apelo das Igrejas: “Respeitar os compromissos em benefício dos países pobres”",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/cop31-ambiente-clima-igreja-estados-unidos-wcc.html",
-     "data": "2026-11-09T16:03:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Leão XIV: família cristã, baluarte entre as muitas precariedades do nosso tempo",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-homilia-buenos-aires-familia-crista-balurte-tempo.html",
-     "data": "2026-11-09T14:30:00Z",
+     "titulo": "Papa em Córdoba: “Abram seus corações e sejam santos!”",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-missa-cordoba-santidade-testemunho-de-vida.html",
+     "data": "2026-11-10T13:52:47Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Leão XIV na Argentina: pessoas com deficiência não são um fardo, mas bênção",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-viagem-apostolica-argentina-cottolengo-claypole-26.html",
-     "data": "2026-11-09T13:00:00Z",
+     "titulo": "Dia Mundial dos Pobres: a décima edição será em 15 de novembro",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-dia-mundial-dos-pobres-caridade-luis-de-san-martin.html",
+     "data": "2026-11-10T13:23:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "O “Martín Fierro”, de Hernández, e o sonho de Borges",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/martin-fierro-hernandez-jorge-luis-borges-literatura-argentina.html",
-     "data": "2026-11-09T12:34:00Z",
-     "secao": "Mundo"
+     "titulo": "Leão XIV exorta a Igreja a cuidar das crianças deslocadas",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-videomensagem-comissao-catolica-migracoes.html",
+     "data": "2026-11-10T08:50:40Z",
+     "secao": "Papa"
     },
     {
-     "titulo": "Conferência Episcopal de Moçambique lança novo Directório Nacional da Catequese",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/mocambique-igreja-cem-catequese-evangelizacao-pastoral-liturgia.html",
-     "data": "2026-11-09T12:13:00Z",
-     "secao": "África"
-    },
-    {
-     "titulo": "Ataques russos destroem centro de reabilitação para crianças com deficiência",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/ucrania-kremenchuk-ataque-russo-centro-reabilitacao-criancas.html",
-     "data": "2026-11-09T11:56:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Além de Roma: o elo histórico entre o Brasil e a Basílica do Latrão",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/latrao.html",
-     "data": "2026-11-09T09:19:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "A Igreja Católica na Argentina: tradição, desafios pastorais e uma fé que busca renovar-se",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/argentina-igreja-catolica-tradicao-desafios-pastorais-fe-renovar.html",
-     "data": "2026-11-09T07:55:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "COP31 começa na Turquia: transformar compromissos climáticos em ações concretas",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/cop31-turquia-desafio-transformar-compromissos-acoes-concretas.html",
-     "data": "2026-11-09T07:38:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Evangelho de 9 de novembro",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/evangelho-09-novembro-2026-dom-mario-spaki.html",
-     "data": "2026-11-09T07:30:00Z",
+     "titulo": "Evangelho de 10 de novembro",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/evangelho-10-novembro-2026-dom-mario-spaki.html",
+     "data": "2026-11-10T07:30:00Z",
      "secao": "Evangelho"
     },
     {
-     "titulo": "Omã inaugura o Jubileu de Ouro da Igreja Católica dos Santos Pedro e Paulo",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/oma-jubileu-igreja-catolica-pedro-paulo.html",
-     "data": "2026-11-09T06:51:00Z",
-     "secao": "Igreja"
+     "titulo": "Inundações em Gaza agravam crise humanitária: mais de 400 mil deslocados em risco",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/gaza-inundacoesi-inverno-crise-humanitaria-israel-eisenkot.html",
+     "data": "2026-11-10T07:20:00Z",
+     "secao": "Mundo"
     },
     {
-     "titulo": "Papa na Argentina: conheça os 5 santos do país e o beato que ajudou a criar a JMJ",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/argentina-5-santos-beato-que-ajudou-criar-jmj.html",
-     "data": "2026-11-09T06:00:00Z",
-     "secao": "Igreja"
+     "titulo": "ONU alerta para aumento de mortes de civis na Ucrânia",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/ucrania-guerra-russia-aumento-morte-civis-2026-0nu8.html",
+     "data": "2026-11-10T06:05:00Z",
+     "secao": "Mundo"
     },
     {
-     "titulo": "\"Deus abençoe a Argentina\": Leão XIV discursa em Buenos Aires e lembra o Papa Francisco",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-discurso-autoridades-argentina.html",
-     "data": "2026-11-08T22:15:00Z",
+     "titulo": "Papa: “Obrigado, Argentina! Vivamos com a alegria de saber que Cristo nos ama”",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-obrigado-argentina-vivamos-com-a-alegria.html",
+     "data": "2026-11-10T00:35:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Faleceu dom Berni, missionário no Peru por 47 anos",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/morto-monsignor-berni-missionario-peru-47-anni-prevost-amicizia.html",
-     "data": "2026-11-08T21:21:00Z",
-     "secao": "Igreja"
+     "titulo": "O quarto dia de Leão XIV na América Latina, em um minuto",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/video-1-minuto-quatro-dia-leao-civ-america-latina.html",
+     "data": "2026-11-09T22:59:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Aos bispos argentinos, Leão XIV indica a atualidade do Documento de Aparecida",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-celebracao-vesperas-buenos-aires-argentina.html",
+     "data": "2026-11-09T22:35:45Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "A homenagem de Leão a Francisco, que recebe uma rosa de seus sobrinhos",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-homenagem-francisco-catedral-buenos-aires.html",
+     "data": "2026-11-09T22:30:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Papa: cada dia é tempo de se unir em oração pela paz, sem divisões e oposições",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-viagem-apostolica-lideres-comunidades-cristas-2026.html",
+     "data": "2026-11-09T21:15:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Trabalhadores argentinos: sonhamos com uma economia com rosto humano",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/argentina-movimentos-sociais-trabalhadores-economia-desemprego.html",
+     "data": "2026-11-09T21:13:00Z",
+     "secao": "Papa"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-09T19:12:28Z",
+   "atualizadoEm": "2026-11-10T16:37:04Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
@@ -145,41 +145,47 @@
   }
  },
  "liturgia": {
-  "data": "2026-11-09",
-  "celebracao": "Segunda-feira da 32ª Semana do Tempo Comum",
+  "data": "2026-11-10",
+  "celebracao": "Terça-feira da 32ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Profecia de Ezequiel 47,1-2.8-9.12"
-   },
-   {
-    "tipo": "2ª Leitura",
-    "ref": "Primeira Carta de São Paulo aos Coríntios 3,9c-11.16-17"
+    "ref": "Carta de São Paulo a Tito 2,1-8.11-14"
    },
    {
     "tipo": "Evangelho",
-    "ref": "João 2,13-22"
+    "ref": "Lucas 17,7-10"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/32a-semana-do-tempo-comum-segunda-feira-9-de-novembro-de-2026/",
-  "atualizadoEm": "2026-11-09T19:12:31Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/32a-semana-do-tempo-comum-terca-feira-10-de-novembro-de-2026/",
+  "atualizadoEm": "2026-11-10T16:37:07Z"
  },
  "santo": {
-  "data": "2026-11-09",
-  "nome": "S. Teodoro, soldado, mártir",
-  "resumo": "Também lembrados hoje: S. Maria e Néon, mártires, no cemitério de Calisto na via Ápia.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/09.html",
-  "atualizadoEm": "2026-11-09T19:12:31Z"
+  "data": "2026-11-10",
+  "nome": "S. Leão Magno, papa e doutor da Igreja",
+  "resumo": "Também lembrados hoje: S. André Avelino, presbítero teatino.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/10.html",
+  "atualizadoEm": "2026-11-10T16:37:07Z"
  },
  "catequese": {
-  "data": "2026-11-09",
+  "data": "2026-11-10",
   "parte": "A profissão da fé",
-  "tema": "O Filho de Deus se fez homem",
-  "texto": "Na Encarnação, o Filho eterno de Deus assumiu a nossa natureza humana no seio da Virgem Maria, pelo poder do Espírito Santo. Jesus é verdadeiro Deus e verdadeiro homem. Ele se fez um de nós para nos salvar, nos mostrar o amor do Pai e ser o modelo de santidade.",
-  "cic": "CIC 456-463",
-  "pergunta": "O que muda na sua vida saber que Deus quis viver como um de nós?",
+  "tema": "Por que Jesus morreu na cruz?",
+  "texto": "Jesus entregou livremente a sua vida na cruz por amor ao Pai e a nós. Sua morte é o sacrifício que nos reconcilia com Deus e nos liberta do pecado. A cruz, que parecia derrota, tornou-se o sinal maior do amor de Deus pela humanidade.",
+  "cic": "CIC 599-618",
+  "pergunta": "Que cruz você carrega hoje, e como pode uni-la à cruz de Cristo?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-09",
+    "parte": "A profissão da fé",
+    "tema": "O Filho de Deus se fez homem",
+    "texto": "Na Encarnação, o Filho eterno de Deus assumiu a nossa natureza humana no seio da Virgem Maria, pelo poder do Espírito Santo. Jesus é verdadeiro Deus e verdadeiro homem. Ele se fez um de nós para nos salvar, nos mostrar o amor do Pai e ser o modelo de santidade.",
+    "cic": "CIC 456-463",
+    "pergunta": "O que muda na sua vida saber que Deus quis viver como um de nós?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
+    "atualizadoEm": "2026-11-09T19:12:31Z"
+   },
    {
     "data": "2026-11-08",
     "parte": "A profissão da fé",
@@ -309,19 +315,9 @@
     "pergunta": "Qual das Bem-aventuranças é mais difícil para você viver hoje?",
     "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
     "atualizadoEm": "2026-10-27T14:56:10Z"
-   },
-   {
-    "data": "2026-10-26",
-    "parte": "A vida em Cristo",
-    "tema": "A dignidade da pessoa humana",
-    "texto": "Toda pessoa foi criada à imagem e semelhança de Deus e, por isso, tem uma dignidade que ninguém pode tirar. Dotada de razão e liberdade, ela é chamada à felicidade eterna. Respeitar a vida e a dignidade de cada pessoa é o fundamento de toda a moral cristã.",
-    "cic": "CIC 1700-1715",
-    "pergunta": "Há alguém que você tem tratado sem reconhecer a dignidade de filho de Deus?",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
-    "atualizadoEm": "2026-10-26T15:29:28Z"
    }
   ],
-  "atualizadoEm": "2026-11-09T19:12:31Z"
+  "atualizadoEm": "2026-11-10T16:37:07Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
