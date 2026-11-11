@@ -1,21 +1,50 @@
 {
- "em": "2026-11-10T16:37:10Z",
+ "em": "2026-11-11T16:38:53Z",
  "liturgia_linhas": [
   "Confira as leituras bíblicas, o Evangelho, o Salmo e o Santo do dia para abastecer sua alma com fé.",
   "1ª Leitura",
   "Salmo Responsorial",
   "2ª Leitura",
   "Evangelho",
-  "Leitura da Carta de São Paulo a Tito 2,1-8.11-14",
+  "Leitura da Carta de São Paulo a Tito 3,1-7",
   "Salmo responsorial",
   "Aclamação ao Evangelho",
   "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
  ],
  "santo_h2": [
-  "S. Leão Magno, papa e doutor da Igreja",
-  "S. André Avelino, presbítero teatino"
+  "S. Bartolomeu, abade de Grottaferrata",
+  "S. Martinho, bispo de Tours"
  ],
- "folheto_html_tamanho": 121346,
- "folheto_site_com_erro": true,
- "folheto_links": []
+ "folheto_html_tamanho": 128483,
+ "folheto_site_com_erro": false,
+ "folheto_links": [
+  {
+   "nome": "Ano A - nº 63 - 33º Domingo do Tempo Comum (Assembléia)",
+   "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf1e"
+  },
+  {
+   "nome": "Ano A - nº 63 - 33º Domingo do Tempo Comum (Celular)",
+   "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf2e"
+  },
+  {
+   "nome": "Ano A - nº 63 - 33º Domingo do Tempo Comum (Celebrante)",
+   "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf3e"
+  },
+  {
+   "nome": "Ano A - nº 64 - Solenidade de Nosso Senhor Jesus Cristo Rei do Universo (Assembléia)",
+   "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf4e"
+  },
+  {
+   "nome": "Ano A - nº 64 - Solenidade de Nosso Senhor Jesus Cristo Rei do Universo (Celular)",
+   "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf5e"
+  },
+  {
+   "nome": "Ano A - nº 64 - Solenidade de Nosso Senhor Jesus Cristo Rei do Universo (Celebrante)",
+   "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf6e"
+  }
+ ],
+ "folheto_linhas_com_data": [
+  "15/11/2026"
+ ],
+ "folheto_linha_escolhida": "15/11/2026"
 }

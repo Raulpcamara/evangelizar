@@ -1,104 +1,104 @@
 {
- "geradoEm": "2026-11-10T16:37:10Z",
+ "geradoEm": "2026-11-11T16:38:53Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-10T16:37:02Z",
+   "atualizadoEm": "2026-11-11T16:38:44Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "Enem aborda a Igreja e suscita reflexão sobre história e fé",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/o-que-o-enem-nao-contou-sobre-a-igreja.html",
-     "data": "2026-11-10T15:27:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "COP31: não apenas números, mas pessoas; mudança de rumo em Antália",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/cop31-nao-apenas-numeros-mas-pessoas-mudanca-de-rumo-antalia.html",
-     "data": "2026-11-10T15:10:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "São Francisco de Assis e os Papas da era contemporânea (1926–2026)",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/roma-simposio-sao-francisco-assis-papas-idade-contemporanea.html",
-     "data": "2026-11-10T14:51:00Z",
+     "titulo": "Papa na Argentina: significado especial não só para a Igreja, mas para toda a sociedade",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/papa-leao-visita-significado-argentina-testemunhos-missionarios.html",
+     "data": "2026-11-11T15:24:00Z",
      "secao": "Vaticano"
     },
     {
-     "titulo": "Papa em Córdoba: “Abram seus corações e sejam santos!”",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-missa-cordoba-santidade-testemunho-de-vida.html",
-     "data": "2026-11-10T13:52:47Z",
+     "titulo": "Leão XIV na Missa em Luján: Argentina, levanta-te e caminha",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-viagem-apostolica-argentina-missa-buenos-aires-lujan.html",
+     "data": "2026-11-11T14:20:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Dia Mundial dos Pobres: a décima edição será em 15 de novembro",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-dia-mundial-dos-pobres-caridade-luis-de-san-martin.html",
-     "data": "2026-11-10T13:23:00Z",
+     "titulo": "Mortos e feridos em ataque russo a mercado na região de Odessa",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/ataque-russo-a-mercado-na-regiao-de-odessa.html",
+     "data": "2026-11-11T14:07:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "Papa a detentos em Buenos Aires: nos limites da vida, Deus é conversão e reconciliação",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-viagem-apostolica-buenos-aires-prisao-devoto-2026.html",
+     "data": "2026-11-11T12:00:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Leão XIV exorta a Igreja a cuidar das crianças deslocadas",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-videomensagem-comissao-catolica-migracoes.html",
-     "data": "2026-11-10T08:50:40Z",
+     "titulo": "Leão XIV nomeia novo arcebispo de Barcelona",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/leao-xiv-nomeacao-metropolita-barcelona-octavi-vila-mayo.html",
+     "data": "2026-11-11T11:13:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Evangelho de 10 de novembro",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/evangelho-10-novembro-2026-dom-mario-spaki.html",
-     "data": "2026-11-10T07:30:00Z",
+     "titulo": "O Cardeal Gugerotti está na Terra Santa para levar o apoio do Papa",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/cardeal-gugerotti-terra-santa-cristaos.html",
+     "data": "2026-11-11T11:00:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Religiosa brasileira se prepara para ver o Papa em Chiclayo",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/religiosa-brasileira-papa-chiclayo.html",
+     "data": "2026-11-11T10:30:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Luján, a pequena Nossa Senhora e a grande basílica",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/argentina-basilica-lujan-nossa-senhora-fe-arte-arquitetura.html",
+     "data": "2026-11-11T08:30:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "O reitor do Santuário de Luján: “Com seu olhar, Maria transforma nossa vida”",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-santuario-lujan-nossa-senhora-devocao-missa.html",
+     "data": "2026-11-11T08:00:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Evangelho de 11 de novembro",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/evangelho-11-novembro-2026-dom-mario-spaki.html",
+     "data": "2026-11-11T07:30:00Z",
      "secao": "Evangelho"
     },
     {
-     "titulo": "Inundações em Gaza agravam crise humanitária: mais de 400 mil deslocados em risco",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/gaza-inundacoesi-inverno-crise-humanitaria-israel-eisenkot.html",
-     "data": "2026-11-10T07:20:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "ONU alerta para aumento de mortes de civis na Ucrânia",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/ucrania-guerra-russia-aumento-morte-civis-2026-0nu8.html",
-     "data": "2026-11-10T06:05:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Papa: “Obrigado, Argentina! Vivamos com a alegria de saber que Cristo nos ama”",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-obrigado-argentina-vivamos-com-a-alegria.html",
-     "data": "2026-11-10T00:35:00Z",
+     "titulo": "Em um minuto, o quinto dia de Leão na América Latina",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-america-latina-quinto-dia-video-1-minuto.html",
+     "data": "2026-11-11T02:08:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "O quarto dia de Leão XIV na América Latina, em um minuto",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/video-1-minuto-quatro-dia-leao-civ-america-latina.html",
-     "data": "2026-11-09T22:59:00Z",
+     "titulo": "O tango da esperança: um milhão de jovens em Buenos Aires para fazer “lío” com Leão",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/argentima-jovens-vigilia-papa-leao-xiv-cantos-oracao-musica.html",
+     "data": "2026-11-11T01:21:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Aos bispos argentinos, Leão XIV indica a atualidade do Documento de Aparecida",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-celebracao-vesperas-buenos-aires-argentina.html",
-     "data": "2026-11-09T22:35:45Z",
+     "titulo": "Leão XIV aos jovens: não vos ajoelheis diante do que não vos dá vida",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-homilia-vigilia-oracao-jovens-buenos-aires-cristo.html",
+     "data": "2026-11-10T23:30:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "A homenagem de Leão a Francisco, que recebe uma rosa de seus sobrinhos",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-homenagem-francisco-catedral-buenos-aires.html",
-     "data": "2026-11-09T22:30:00Z",
+     "titulo": "Leão XIV aos jovens: não percam a esperança, sigam Jesus",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/testemunhos-jovens-respostas-papa-leao-cristo-esperanca-fe-paz.html",
+     "data": "2026-11-10T23:30:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Papa: cada dia é tempo de se unir em oração pela paz, sem divisões e oposições",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-viagem-apostolica-lideres-comunidades-cristas-2026.html",
-     "data": "2026-11-09T21:15:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Trabalhadores argentinos: sonhamos com uma economia com rosto humano",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/argentina-movimentos-sociais-trabalhadores-economia-desemprego.html",
-     "data": "2026-11-09T21:13:00Z",
+     "titulo": "Horas de fé e expectativa: o Peru se prepara para o regresso do padre Robert",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/horas-expectativa-peru-prepara-regresso-prevost-papa.html",
+     "data": "2026-11-10T21:57:00Z",
      "secao": "Papa"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-10T16:37:04Z",
+   "atualizadoEm": "2026-11-11T16:38:46Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
@@ -145,37 +145,47 @@
   }
  },
  "liturgia": {
-  "data": "2026-11-10",
-  "celebracao": "Terça-feira da 32ª Semana do Tempo Comum",
+  "data": "2026-11-11",
+  "celebracao": "Quarta-feira da 32ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Carta de São Paulo a Tito 2,1-8.11-14"
+    "ref": "Carta de São Paulo a Tito 3,1-7"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Lucas 17,7-10"
+    "ref": "Lucas 17,11-19"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/32a-semana-do-tempo-comum-terca-feira-10-de-novembro-de-2026/",
-  "atualizadoEm": "2026-11-10T16:37:07Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/32a-semana-do-tempo-comum-quarta-feira-11-de-novembro-de-2026/",
+  "atualizadoEm": "2026-11-11T16:38:49Z"
  },
  "santo": {
-  "data": "2026-11-10",
-  "nome": "S. Leão Magno, papa e doutor da Igreja",
-  "resumo": "Também lembrados hoje: S. André Avelino, presbítero teatino.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/10.html",
-  "atualizadoEm": "2026-11-10T16:37:07Z"
+  "data": "2026-11-11",
+  "nome": "S. Bartolomeu, abade de Grottaferrata",
+  "resumo": "Também lembrados hoje: S. Martinho, bispo de Tours.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/11.html",
+  "atualizadoEm": "2026-11-11T16:38:49Z"
  },
  "catequese": {
-  "data": "2026-11-10",
+  "data": "2026-11-11",
   "parte": "A profissão da fé",
-  "tema": "Por que Jesus morreu na cruz?",
-  "texto": "Jesus entregou livremente a sua vida na cruz por amor ao Pai e a nós. Sua morte é o sacrifício que nos reconcilia com Deus e nos liberta do pecado. A cruz, que parecia derrota, tornou-se o sinal maior do amor de Deus pela humanidade.",
-  "cic": "CIC 599-618",
-  "pergunta": "Que cruz você carrega hoje, e como pode uni-la à cruz de Cristo?",
+  "tema": "Cristo ressuscitou",
+  "texto": "A Ressurreição de Jesus é a verdade culminante da nossa fé. Ele venceu a morte e vive com um corpo glorioso, como testemunharam os apóstolos. Por isso, a morte não tem a última palavra: Cristo ressuscitado é a garantia da nossa própria ressurreição.",
+  "cic": "CIC 638-658",
+  "pergunta": "Como a esperança da Ressurreição pode mudar a forma de você encarar as perdas?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-10",
+    "parte": "A profissão da fé",
+    "tema": "Por que Jesus morreu na cruz?",
+    "texto": "Jesus entregou livremente a sua vida na cruz por amor ao Pai e a nós. Sua morte é o sacrifício que nos reconcilia com Deus e nos liberta do pecado. A cruz, que parecia derrota, tornou-se o sinal maior do amor de Deus pela humanidade.",
+    "cic": "CIC 599-618",
+    "pergunta": "Que cruz você carrega hoje, e como pode uni-la à cruz de Cristo?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
+    "atualizadoEm": "2026-11-10T16:37:07Z"
+   },
    {
     "data": "2026-11-09",
     "parte": "A profissão da fé",
@@ -305,38 +315,32 @@
     "pergunta": "Você costuma fazer um exame de consciência no fim do dia?",
     "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
     "atualizadoEm": "2026-10-28T15:29:07Z"
-   },
-   {
-    "data": "2026-10-27",
-    "parte": "A vida em Cristo",
-    "tema": "As Bem-aventuranças",
-    "texto": "As Bem-aventuranças, proclamadas por Jesus no Sermão da Montanha, são o coração da sua pregação. Elas mostram o caminho da verdadeira felicidade: pobreza de espírito, mansidão, misericórdia, pureza de coração e busca da justiça e da paz. Revelam o rosto do próprio Cristo.",
-    "cic": "CIC 1716-1729",
-    "pergunta": "Qual das Bem-aventuranças é mais difícil para você viver hoje?",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
-    "atualizadoEm": "2026-10-27T14:56:10Z"
    }
   ],
-  "atualizadoEm": "2026-11-10T16:37:07Z"
+  "atualizadoEm": "2026-11-11T16:38:49Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
-  "data": "2026-11-08",
+  "data": "2026-11-15",
   "versoes": [
    {
-    "nome": "Ano A - nº 62 - 32º Domingo do Tempo Comum (Assembléia)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf8e"
+    "nome": "Ano A - nº 63 - 33º Domingo do Tempo Comum (Assembléia)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf1e"
    },
    {
-    "nome": "Ano A - nº 62 - 32º Domingo do Tempo Comum (Celular)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6863f1657da1fd3|24cddaR33eb|4|2dcf9e"
+    "nome": "Ano A - nº 63 - 33º Domingo do Tempo Comum (Celular)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf2e"
    },
    {
-    "nome": "Ano A - nº 62 - 32º Domingo do Tempo Comum (Celebrante)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf0e"
+    "nome": "Ano A - nº 63 - 33º Domingo do Tempo Comum (Celebrante)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf3e"
+   },
+   {
+    "nome": "Ano A - nº 64 - Solenidade de Nosso Senhor Jesus Cristo Rei do Universo (Assembléia)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf4e"
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-11-08T15:36:33Z"
+  "atualizadoEm": "2026-11-11T16:38:53Z"
  }
 }
