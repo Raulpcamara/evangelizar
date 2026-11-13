@@ -1,104 +1,104 @@
 {
- "geradoEm": "2026-11-12T17:06:39Z",
+ "geradoEm": "2026-11-13T16:45:12Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-12T17:06:31Z",
+   "atualizadoEm": "2026-11-13T16:45:05Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "Papa na Catedral de Lima: a paz depende de nós, \"aqui e agora\", pelo olhar, respeito e escuta ao próximo",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-viagem-apostolica-peru-hora-media-catedral-lima-26.html",
-     "data": "2026-11-12T16:00:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Papa aos bispos do Peru: a Igreja não nos pertence, é de Cristo",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-aos-bispos-do-peru-igreja-de-cristo-abusos-unidade.html",
-     "data": "2026-11-12T15:21:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Pastoral Rodoviária celebra 50 anos de apoio aos caminhoneiros",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/pastoral-rodoviaria-celebra-50-anos-de-apoio-aos-caminhoneiros.html",
-     "data": "2026-11-12T12:36:00Z",
+     "titulo": "JMJ Seul 2027 será um \"festival global de esperança\" e apresentará patrimônio espiritual coreano",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/jmj-papa.html",
+     "data": "2026-11-13T13:56:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Rabanal: o Papa no Peru vai renovar a esperança e o compromisso dos jovens",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/rabanal-papa-peru-renovar-esperanca-jovens.html",
-     "data": "2026-11-12T12:01:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Arquidiocese do Rio e Cristo Redentor recebem homenagens em Brasília",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/arquidiocese-rio-cristo-redentor-homenagem-brasilia.html",
-     "data": "2026-11-12T09:11:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "“Volto também à minha Pátria”: imprensa peruana celebra retorno do Papa Leão XIV",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/volto-tambem-minha-patria-imprensa-peruana-leao.html",
-     "data": "2026-11-12T08:56:00Z",
+     "titulo": "Leão XIV: vou a Chiclayo para viver a mesma alegria que vivemos aqui em Lima",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-peru-lima-nunciatura-apostolica-saudacao-bencao.html",
+     "data": "2026-11-13T13:27:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Mais de mil jovens preparam-se para a Jornada Arquidiocesana da Juventude em Angoche",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/igreja-mocambique-jornada-juventude-dialogo-esperanca-pastoral.html",
-     "data": "2026-11-12T08:53:59Z",
-     "secao": "África"
+     "titulo": "Brasileiros cruzam a fronteira para ver Leão XIV no Peru",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/papa-leao-xiv-peru-brasileiros-acre-amazonas.html",
+     "data": "2026-11-13T13:05:00Z",
+     "secao": "Igreja"
     },
     {
-     "titulo": "Gaza: ataque israelense ao Hospital Nasser deixa mortos e ferido",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/gaza-israel-ataque-hospital-nasser-mortos-feridos-tendas-eisenko.html",
-     "data": "2026-11-12T08:42:00Z",
+     "titulo": "COP31: financiamento climático, metano e transição energética no centro das negociações",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/cop31-turquia-financiamento-climatico-combustiveis-fosseis.html",
+     "data": "2026-11-13T11:29:00Z",
      "secao": "Mundo"
     },
     {
-     "titulo": "Portugal. CEP sobre abusos: “nenhuma compensação pode reparar o sofrimento”",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/portugal-igreja-bispos-cep-plenaria-abusos-familias-pastoral.html",
-     "data": "2026-11-12T08:33:24Z",
-     "secao": "Igreja"
+     "titulo": "Testemunhos de jovens do Peru ao Papa: Deus estendeu a Sua mão e nos sustentou",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/testemunhos-jovens-vigilia-papa-peru.html",
+     "data": "2026-11-13T10:52:00Z",
+     "secao": "Papa"
     },
     {
-     "titulo": "Moçambique: Santo Egídio reza por dois menores, um assassinado e outro sequestrado",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/mocambique-egidio-escola-paz-africa-criancas-mutiladas-bruxaria.html",
-     "data": "2026-11-12T07:35:00Z",
-     "secao": "Igreja"
+     "titulo": "Chiclayo em festa: “O Papa volta para casa!”",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-peru-viagem-apostolica-chiclayo.html",
+     "data": "2026-11-13T10:37:00Z",
+     "secao": "Papa"
     },
     {
-     "titulo": "Evangelho de 12 de novembro",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/evangelho-12-novembro-2026-dom-mario-spaki.html",
-     "data": "2026-11-12T07:30:00Z",
+     "titulo": "Testemunhos sobre os desafios e as esperanças do povo peruano apresentados ao Papa",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/testemunhos-desafios-esperancas-povo-peruano-papa.html",
+     "data": "2026-11-13T09:35:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Bispo de Chiclayo: Leão XIV retorna à terra que o fez pastor",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/bispo-chiclayo-leao-xiv-retorna-terra-pastor.html",
+     "data": "2026-11-13T09:16:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Ataques russos deixam regiões da Ucrânia sem energia e atingem hospital em Kiev",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/ucrania-guerra-ataques-russia-eletricidade-hospital.html",
+     "data": "2026-11-13T08:55:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "Papa Leão XIV já se encontra na sua querida Chiclayo",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-encontra-querida-chiclayo.html",
+     "data": "2026-11-13T08:38:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Dom Inácio Saúre manifesta preocupação com investigação do assassinato de Dom Osório Afonso",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/mocambique-igreja-bispos-violencia-criminalidade-justica-cem.html",
+     "data": "2026-11-13T08:34:39Z",
+     "secao": "África"
+    },
+    {
+     "titulo": "Leão XIV, a missão, a fraternidade agostiniana e a ligação com o povo peruano",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/leao-xiv-peru-missao-fraternidade-agostiniana.html",
+     "data": "2026-11-13T07:47:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Evangelho de 13 de novembro",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/evangelho-13-novembro-2026-dom-mario-spaki.html",
+     "data": "2026-11-13T07:30:00Z",
      "secao": "Evangelho"
     },
     {
-     "titulo": "Em um minuto, o sexto dia de Leão XIV na América Latina",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-viagem-apostolica-al-sexto-dia-video-um-minuto.html",
-     "data": "2026-11-12T02:05:00Z",
+     "titulo": "\"Papa peruano, aqui está o seu Vaticano!”: a explosão de alegria dos jovens em Lima",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/peru-lima-vigilia-jovens-estadio-nacional-viagem-papa-leao-xiv.html",
+     "data": "2026-11-13T01:48:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Leão XIV no Peru: amar um povo é desejar que todos possam viver com dignidade",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-encontro-autoridades-sociedade-civil-corpo-diplomatico-peru.html",
-     "data": "2026-11-12T01:57:46Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Papa Leão XIV no Peru: um reencontro de fé e esperança",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-peru-reencontro-fe-esperanca.html",
-     "data": "2026-11-12T01:24:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Papa Leão volta para casa: começa a visita ao Peru",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-chega-ao-peru-pouso-lima-terceira-etapa-viagem.html",
-     "data": "2026-11-11T22:40:50Z",
+     "titulo": "Em um minuto o sétimo dia de Leão XIV na América Latina",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/leao-xiv-viagem-apostolica-america-latina-setimo-dia-video-1-min.html",
+     "data": "2026-11-13T01:10:00Z",
      "secao": "Papa"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-12T17:06:33Z",
+   "atualizadoEm": "2026-11-13T16:45:07Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
@@ -145,37 +145,38 @@
   }
  },
  "liturgia": {
-  "data": "2026-11-12",
-  "celebracao": "Quinta-feira da 32ª Semana do Tempo Comum",
-  "leituras": [
-   {
-    "tipo": "1ª Leitura",
-    "ref": "Carta de São Paulo a Filêmon 1,7-20"
-   },
-   {
-    "tipo": "Evangelho",
-    "ref": "Lucas 17,20-25"
-   }
-  ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/32a-semana-do-tempo-comum-quinta-feira-12-de-novembro-de-2026/",
-  "atualizadoEm": "2026-11-12T17:06:36Z"
+  "data": "2026-11-13",
+  "celebracao": "Liturgia de hoje",
+  "leituras": [],
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/",
+  "atualizadoEm": "2026-11-13T16:45:08Z"
  },
  "santo": {
-  "data": "2026-11-12",
-  "nome": "S. Diego, leigo franciscano",
-  "resumo": "Também lembrados hoje: S. JOSAFÁ KUNCEWICZ, BISPO E MÁRTIR.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/12.html",
-  "atualizadoEm": "2026-11-12T17:06:36Z"
+  "data": "2026-11-13",
+  "nome": "S. Nicolau I, papa",
+  "resumo": "Também lembrados hoje: S. Agostinha Pietrantoni, virgem.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/13.html",
+  "atualizadoEm": "2026-11-13T16:45:09Z"
  },
  "catequese": {
-  "data": "2026-11-12",
+  "data": "2026-11-13",
   "parte": "A profissão da fé",
-  "tema": "O Espírito Santo",
-  "texto": "O Espírito Santo é a terceira Pessoa da Trindade, Senhor que dá a vida. Foi enviado à Igreja em Pentecostes e continua agindo nela e em cada batizado. É Ele quem nos ensina a rezar, nos lembra as palavras de Jesus e distribui dons para o bem de todos.",
-  "cic": "CIC 683-747",
-  "pergunta": "Você costuma pedir a luz do Espírito Santo antes de decisões importantes?",
+  "tema": "O que é a Igreja?",
+  "texto": "A Igreja é o povo que Deus reúne em Cristo, o Corpo de Cristo e o Templo do Espírito Santo. Ela é ao mesmo tempo visível e espiritual, formada por pessoas frágeis mas sustentada pela graça. Professamos que ela é una, santa, católica e apostólica.",
+  "cic": "CIC 748-870",
+  "pergunta": "De que forma você participa da vida da sua comunidade paroquial?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-12",
+    "parte": "A profissão da fé",
+    "tema": "O Espírito Santo",
+    "texto": "O Espírito Santo é a terceira Pessoa da Trindade, Senhor que dá a vida. Foi enviado à Igreja em Pentecostes e continua agindo nela e em cada batizado. É Ele quem nos ensina a rezar, nos lembra as palavras de Jesus e distribui dons para o bem de todos.",
+    "cic": "CIC 683-747",
+    "pergunta": "Você costuma pedir a luz do Espírito Santo antes de decisões importantes?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
+    "atualizadoEm": "2026-11-12T17:06:36Z"
+   },
    {
     "data": "2026-11-11",
     "parte": "A profissão da fé",
@@ -305,19 +306,9 @@
     "pergunta": "Qual mandamento você sente que precisa viver com mais fidelidade?",
     "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
     "atualizadoEm": "2026-10-30T15:21:31Z"
-   },
-   {
-    "data": "2026-10-29",
-    "parte": "A vida em Cristo",
-    "tema": "Fé, esperança e caridade",
-    "texto": "As virtudes teologais são dons de Deus que nos ligam diretamente a Ele. A fé nos faz crer em Deus, a esperança nos faz confiar nas suas promessas, e a caridade nos faz amar a Deus acima de tudo e o próximo como a nós mesmos. A maior delas é a caridade.",
-    "cic": "CIC 1812-1829",
-    "pergunta": "Qual dessas três virtudes você mais precisa pedir a Deus hoje?",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
-    "atualizadoEm": "2026-10-29T15:34:39Z"
    }
   ],
-  "atualizadoEm": "2026-11-12T17:06:36Z"
+  "atualizadoEm": "2026-11-13T16:45:09Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
@@ -341,6 +332,6 @@
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-11-12T17:06:39Z"
+  "atualizadoEm": "2026-11-13T16:45:12Z"
  }
 }
