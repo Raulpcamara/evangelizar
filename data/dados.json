@@ -1,104 +1,104 @@
 {
- "geradoEm": "2026-11-13T16:45:12Z",
+ "geradoEm": "2026-11-14T15:22:22Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-13T16:45:05Z",
+   "atualizadoEm": "2026-11-14T15:22:14Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "JMJ Seul 2027 será um \"festival global de esperança\" e apresentará patrimônio espiritual coreano",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/jmj-papa.html",
-     "data": "2026-11-13T13:56:00Z",
+     "titulo": "Hebdomada Papae, o boletim em latim do VN",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/hebdomada-papae-boletim-noticias-latim-vatican-news-14-novembro.html",
+     "data": "2026-11-14T14:39:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Papa: coroar o amor de Maria, da Mãe que une a família e orienta para a reconciliação",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-viagem-apostolica-peru-catedral-chiclayo-2026.html",
+     "data": "2026-11-14T13:48:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Leão e a sinodalidade, “dimensão constitutiva” da Igreja",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-viagem-apostolica-peru-editorial-tornielli-2026.html",
+     "data": "2026-11-14T12:58:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Arcebispo Stanisław Sommertag é o novo núncio na Índia",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/papa-leao-xiv-nomeacao-nuncio-apostolico-india-sommertag.html",
+     "data": "2026-11-14T11:05:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Papa Leão e a promessa cumprida feita aos habitantes de Santa Cruz",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-promessa-cumprida-feita-santa-cruz.html",
+     "data": "2026-11-14T08:02:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "O Papa peruano volta para casa\": o que diz a imprensa peruana?",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-peruano-volta-casa-imprensa-leao-peru.html",
+     "data": "2026-11-14T07:30:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Antonio Cardoso na Canção e a Prece: \"Só um coração\"",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/antonio-cardoso-cancao-prece-um-coracao.html",
+     "data": "2026-11-14T07:00:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Leão XIV: vou a Chiclayo para viver a mesma alegria que vivemos aqui em Lima",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-peru-lima-nunciatura-apostolica-saudacao-bencao.html",
-     "data": "2026-11-13T13:27:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Brasileiros cruzam a fronteira para ver Leão XIV no Peru",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/papa-leao-xiv-peru-brasileiros-acre-amazonas.html",
-     "data": "2026-11-13T13:05:00Z",
+     "titulo": "Reflexão para o XXXIII Domingo do Tempo Comum",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/reflexao-xxxiii-domingo-tempo-comum.html",
+     "data": "2026-11-14T07:00:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "COP31: financiamento climático, metano e transição energética no centro das negociações",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/cop31-turquia-financiamento-climatico-combustiveis-fosseis.html",
-     "data": "2026-11-13T11:29:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Testemunhos de jovens do Peru ao Papa: Deus estendeu a Sua mão e nos sustentou",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/testemunhos-jovens-vigilia-papa-peru.html",
-     "data": "2026-11-13T10:52:00Z",
+     "titulo": "Em um minuto, o oitavo dia de Leão XIV na América Latina",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-america-latina-oitavo-dia-video-um-minuto.html",
+     "data": "2026-11-14T01:04:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Chiclayo em festa: “O Papa volta para casa!”",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-peru-viagem-apostolica-chiclayo.html",
-     "data": "2026-11-13T10:37:00Z",
+     "titulo": "O Papa aos universitários: a ciência sem consciência arruína a vida de todos",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-universidade-catolica-sao-turibio-mogrovejo-chiclayo.html",
+     "data": "2026-11-13T22:45:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Testemunhos sobre os desafios e as esperanças do povo peruano apresentados ao Papa",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/testemunhos-desafios-esperancas-povo-peruano-papa.html",
-     "data": "2026-11-13T09:35:00Z",
+     "titulo": "Papa à Igreja de Chiclayo: não há missão sem comunhão",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-a-igreja-de-chiclayo-nao-ha-missao-sem-comunhao.html",
+     "data": "2026-11-13T22:25:48Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Bispo de Chiclayo: Leão XIV retorna à terra que o fez pastor",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/bispo-chiclayo-leao-xiv-retorna-terra-pastor.html",
-     "data": "2026-11-13T09:16:00Z",
+     "titulo": "María, mãe de Agustín: a fé, força para enfrentar a doença. O Papa é uma graça",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/maria-agustin-fe-forca-para-enfrentar-doenca-papa.html",
+     "data": "2026-11-13T19:18:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Ataques russos deixam regiões da Ucrânia sem energia e atingem hospital em Kiev",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/ucrania-guerra-ataques-russia-eletricidade-hospital.html",
-     "data": "2026-11-13T08:55:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Papa Leão XIV já se encontra na sua querida Chiclayo",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-encontra-querida-chiclayo.html",
-     "data": "2026-11-13T08:38:00Z",
+     "titulo": "Ao Papa, o testemunho da mãe de um jovem autista: nos ensina o essencial",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-testemunho-mae-jovem-autista.html",
+     "data": "2026-11-13T18:58:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Dom Inácio Saúre manifesta preocupação com investigação do assassinato de Dom Osório Afonso",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/mocambique-igreja-bispos-violencia-criminalidade-justica-cem.html",
-     "data": "2026-11-13T08:34:39Z",
-     "secao": "África"
+     "titulo": "Em Fátima e Nazaré, congresso internacional dos santuários marianos",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/fatima-santuarios-maria-igreja-congresso.html",
+     "data": "2026-11-13T18:45:00Z",
+     "secao": "Igreja"
     },
     {
-     "titulo": "Leão XIV, a missão, a fraternidade agostiniana e a ligação com o povo peruano",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/leao-xiv-peru-missao-fraternidade-agostiniana.html",
-     "data": "2026-11-13T07:47:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Evangelho de 13 de novembro",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/evangelho-13-novembro-2026-dom-mario-spaki.html",
-     "data": "2026-11-13T07:30:00Z",
-     "secao": "Evangelho"
-    },
-    {
-     "titulo": "\"Papa peruano, aqui está o seu Vaticano!”: a explosão de alegria dos jovens em Lima",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/peru-lima-vigilia-jovens-estadio-nacional-viagem-papa-leao-xiv.html",
-     "data": "2026-11-13T01:48:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Em um minuto o sétimo dia de Leão XIV na América Latina",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/leao-xiv-viagem-apostolica-america-latina-setimo-dia-video-1-min.html",
-     "data": "2026-11-13T01:10:00Z",
+     "titulo": "O carinho de Leão XIV aos fiéis da Capela São Óscar Romero",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-visita-capela-dom-romero-chiclayo-peru.html",
+     "data": "2026-11-13T18:15:00Z",
      "secao": "Papa"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-13T16:45:07Z",
+   "atualizadoEm": "2026-11-14T15:22:17Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
@@ -145,28 +145,38 @@
   }
  },
  "liturgia": {
-  "data": "2026-11-13",
+  "data": "2026-11-14",
   "celebracao": "Liturgia de hoje",
   "leituras": [],
   "link": "https://evangelizarepreciso.com.br/liturgia-diaria/",
-  "atualizadoEm": "2026-11-13T16:45:08Z"
+  "atualizadoEm": "2026-11-14T15:22:19Z"
  },
  "santo": {
-  "data": "2026-11-13",
-  "nome": "S. Nicolau I, papa",
-  "resumo": "Também lembrados hoje: S. Agostinha Pietrantoni, virgem.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/13.html",
-  "atualizadoEm": "2026-11-13T16:45:09Z"
+  "data": "2026-11-14",
+  "nome": "S. Serapião",
+  "resumo": "",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/14.html",
+  "atualizadoEm": "2026-11-14T15:22:19Z"
  },
  "catequese": {
-  "data": "2026-11-13",
+  "data": "2026-11-14",
   "parte": "A profissão da fé",
-  "tema": "O que é a Igreja?",
-  "texto": "A Igreja é o povo que Deus reúne em Cristo, o Corpo de Cristo e o Templo do Espírito Santo. Ela é ao mesmo tempo visível e espiritual, formada por pessoas frágeis mas sustentada pela graça. Professamos que ela é una, santa, católica e apostólica.",
-  "cic": "CIC 748-870",
-  "pergunta": "De que forma você participa da vida da sua comunidade paroquial?",
+  "tema": "A comunhão dos santos",
+  "texto": "Todos os que pertencem a Cristo formam uma só família: os que peregrinam na terra, os que se purificam após a morte e os que já estão no céu. Nessa comunhão, rezamos uns pelos outros e partilhamos os bens espirituais. Por isso pedimos a intercessão dos santos e rezamos pelos falecidos.",
+  "cic": "CIC 946-962",
+  "pergunta": "Por quem você vai rezar hoje, entre os vivos e os que já partiram?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-13",
+    "parte": "A profissão da fé",
+    "tema": "O que é a Igreja?",
+    "texto": "A Igreja é o povo que Deus reúne em Cristo, o Corpo de Cristo e o Templo do Espírito Santo. Ela é ao mesmo tempo visível e espiritual, formada por pessoas frágeis mas sustentada pela graça. Professamos que ela é una, santa, católica e apostólica.",
+    "cic": "CIC 748-870",
+    "pergunta": "De que forma você participa da vida da sua comunidade paroquial?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
+    "atualizadoEm": "2026-11-13T16:45:09Z"
+   },
    {
     "data": "2026-11-12",
     "parte": "A profissão da fé",
@@ -296,19 +306,9 @@
     "pergunta": "O seu domingo tem sido realmente um dia do Senhor?",
     "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
     "atualizadoEm": "2026-10-31T14:46:39Z"
-   },
-   {
-    "data": "2026-10-30",
-    "parte": "A vida em Cristo",
-    "tema": "Os Dez Mandamentos",
-    "texto": "Os Dez Mandamentos, dados por Deus a Moisés, resumem os deveres para com Deus e para com o próximo. Jesus não os aboliu, mas os levou à plenitude no mandamento do amor. Eles não são um peso, mas um caminho de liberdade e de vida.",
-    "cic": "CIC 2052-2082",
-    "pergunta": "Qual mandamento você sente que precisa viver com mais fidelidade?",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
-    "atualizadoEm": "2026-10-30T15:21:31Z"
    }
   ],
-  "atualizadoEm": "2026-11-13T16:45:09Z"
+  "atualizadoEm": "2026-11-14T15:22:19Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
@@ -332,6 +332,6 @@
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-11-13T16:45:12Z"
+  "atualizadoEm": "2026-11-14T15:22:22Z"
  }
 }
