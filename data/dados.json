@@ -1,106 +1,110 @@
 {
- "geradoEm": "2026-11-15T15:53:37Z",
+ "geradoEm": "2026-11-16T18:56:46Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-15T15:53:31Z",
+   "atualizadoEm": "2026-11-16T18:56:38Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "Dia dos Pobres, o esmoleiro: não são problemas sociais, mas pessoas com dignidade",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/dia-mundial-dos-pobres-santa-missa-dom-luis-marin-de-san-martin.html",
-     "data": "2026-11-15T12:45:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Chiclayo: coração emocional e teológico da visita do Papa ao Peru",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/chiclayo-coracao-emocional-teologico-visita-papa-peru.html",
-     "data": "2026-11-15T09:11:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Fé nos Andes: Papa Leão XIV protagoniza encontro histórico em Cusco",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/fe-andes-papa-leao-xiv-protagoniza-encontro-historico-cusco.html",
-     "data": "2026-11-15T08:36:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Papa: vocês são resposta de Deus à minha oração. Continuem rezando por mim",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-zana-peru-voces-foram-parte-da-resposta-da-minha-oracao.html",
-     "data": "2026-11-14T23:44:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Bissau - Bispos apelam à proteção dos migrantes, diálogo e paz",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/bissau-bispos-apelam-a-protecao-dos-migrantes-dialogo-e-paz.html",
-     "data": "2026-11-14T18:14:00Z",
-     "secao": "África"
-    },
-    {
-     "titulo": "Señor del Costado: a devoção de 350 anos que levou Leão XIV de volta aos Andes peruanos",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/peru-leao-xiv-devocao-senhor-costado-santa-cruz-succhabamba.html",
-     "data": "2026-11-14T17:47:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Um pastor universal entre as montanhas do Peru, Leão em Santa Cruz",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/pastor-universal-montanhas-peru-leao-santa-cruz.html",
-     "data": "2026-11-14T17:33:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Leão XIV aos fiéis andinos: o caminho que percorrestes é uma peregrinação de fé",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-viagem-apostolica-peru-missa-santa-cruz-de-succhabamba.html",
-     "data": "2026-11-14T17:07:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Cardeal Scherer: Deus e os pobres",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/cardeal-scherer-deus-pobres.html",
-     "data": "2026-11-14T17:05:00Z",
+     "titulo": "Camboja: Igreja pede reconciliação e fraternidade: “A paz é desarmante”",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/camboja-igreja-catolica-apelo-reconciliacao-fraternidade-paz.html",
+     "data": "2026-11-16T16:53:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Papa às pessoas com deficiência: vocês também fazem parte da Igreja",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-encontra-pessoas-deficiencia-igreja-santa-cruz-succhabamba.html",
-     "data": "2026-11-14T16:58:00Z",
+     "titulo": "JMJ na Coreia pode abrir novos caminhos para a Igreja, diz religiosa",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/jmj-coreia-encontro-jovens-novos-caminhos-igreja-irma-agnese-kim.html",
+     "data": "2026-11-16T16:18:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Leão XIV: minha viagem chega ao fim, mas o tempo da missão continua",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-missa-base-aerea-de-las-palmas-lima-missao-continua.html",
+     "data": "2026-11-16T15:30:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Papa aos voluntários de Chiclayo: colocar os dons recebidos a serviço dos outros",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-sacerdotes-diocese-chiclayo-sao-turibio-mongrovejo.html",
-     "data": "2026-11-14T15:13:00Z",
+     "titulo": "Papa: diante de desertos de humanidade no Peru, mais oásis de dignidade",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-viagem-apostolica-peru-lar-idosos-desamparados-26.html",
+     "data": "2026-11-16T14:45:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Hebdomada Papae, o boletim em latim do VN",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/hebdomada-papae-boletim-noticias-latim-vatican-news-14-novembro.html",
-     "data": "2026-11-14T14:39:00Z",
+     "titulo": "Mongólia celebra 720 anos da primeira tradução das Escrituras para o mongol",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/mongolia-720-anos-primeira-traducao-escrituras-mongol.html",
+     "data": "2026-11-16T14:16:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Os desafios das eleições de 2027 no Haiti",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/haiti-crise-seguranca-instabilidade-politica-emergencia-eleicoes.html",
+     "data": "2026-11-16T13:46:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "COP31 entra na semana decisiva, com impasses sobre financiamento climático e combustíveis fósseis",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/turquia-cop31-financiamento-climatico-combustiveis-fosseis.html",
+     "data": "2026-11-16T12:56:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "Guatemala decreta estado de sítio em Zacapa e Izabal após onda de violência",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/guatemala-estado-de-sitio-zacapa-izabal-insa-violencia.html",
+     "data": "2026-11-16T12:48:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "No Peru, Congregações religiosas atuam na evangelização, educação e assistência social",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/peru-congregacoes-religiosas-evangelizacao-educacao-assistencia.html",
+     "data": "2026-11-16T11:29:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Gugerotti na Terra Santa: “Sem paz, não há futuro para os cristãos”",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/gugerotti-terra-santa-jerusalem-palestina-igrejas-orientais.html",
+     "data": "2026-11-16T10:12:00Z",
      "secao": "Vaticano"
     },
     {
-     "titulo": "Papa: coroar o amor de Maria, da Mãe que une a família e orienta para a reconciliação",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-viagem-apostolica-peru-catedral-chiclayo-2026.html",
-     "data": "2026-11-14T13:48:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Leão e a sinodalidade, “dimensão constitutiva” da Igreja",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-viagem-apostolica-peru-editorial-tornielli-2026.html",
-     "data": "2026-11-14T12:58:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "O Cristo roxo que une os peruanos no mundo",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/cristo-roxo-une-peruanos-mundo.html",
-     "data": "2026-11-14T11:11:00Z",
+     "titulo": "Mineração ilegal, narcotráfico e conflitos sociais preocupam Igreja em Gana",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/gana-bispos-mineracao-ilegal-narcotrafico-tensoes-sociais.html",
+     "data": "2026-11-16T09:37:00Z",
      "secao": "Igreja"
+    },
+    {
+     "titulo": "ACN: igrejas e monumentos iluminados para recordar os cristãos perseguidos",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/acs-red-week-2026-monumentos-iluminados-cristaos-perseguidos.html",
+     "data": "2026-11-16T09:24:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Evangelho de 16 de novembro",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/evangelho-16-novembre-2026-dom-mario-spaki.html",
+     "data": "2026-11-16T07:30:00Z",
+     "secao": "Evangelho"
+    },
+    {
+     "titulo": "Na \"Terra Avermelhada\", o Papa Leão abraçou as vivências dos povos",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-testemunhos-amazonia-indigenas.html",
+     "data": "2026-11-16T07:17:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Leão XIV denuncia assassinatos de indígenas e exploração predatória da Amazônia",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/leao-xiv-pucallpa-amazonia-violencia-povos-autoctones-ambiente.html",
+     "data": "2026-11-16T06:23:00Z",
+     "secao": "Papa"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-15T15:53:33Z",
+   "atualizadoEm": "2026-11-16T18:56:40Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
+    {
+     "titulo": "Cristo é Rei na Cruz, é Rei glorificado",
+     "link": "https://padrereginaldomanzotti.com.br/blog/cristo-e-rei-na-cruz-e-rei-glorificado/"
+    },
     {
      "titulo": "Educar na fé: o desafio de formar filhos sem afastá-los de Deus",
      "link": "https://padrereginaldomanzotti.com.br/blog/educar-na-fe-o-desafio-de-formar-filhos-sem-afasta-los-de-deus/"
@@ -136,37 +140,43 @@
     {
      "titulo": "Evangelizar é preciso?",
      "link": "https://padrereginaldomanzotti.com.br/blog/evangelizar-e-preciso/"
-    },
-    {
-     "titulo": "XIX Evangelizar É Preciso Fortaleza acontece no próximo sábado com programação especial de fé, música e oração",
-     "link": "https://padrereginaldomanzotti.com.br/blog/xix-evangelizar-e-preciso-fortaleza-acontece-no-proximo-sabado-com-programacao-especial-de-fe-musica-e-oracao/"
     }
    ]
   }
  },
  "liturgia": {
-  "data": "2026-11-15",
+  "data": "2026-11-16",
   "celebracao": "Liturgia de hoje",
   "leituras": [],
   "link": "https://evangelizarepreciso.com.br/liturgia-diaria/",
-  "atualizadoEm": "2026-11-15T15:53:34Z"
+  "atualizadoEm": "2026-11-16T18:56:42Z"
  },
  "santo": {
-  "data": "2026-11-15",
-  "nome": "S. Alberto Magno, bispo e doutor da Igreja, dominicano",
-  "resumo": "Também lembrados hoje: S. José Pignatelli, presbítero jesuíta; S. Macuto.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/15.html",
-  "atualizadoEm": "2026-11-15T15:53:34Z"
+  "data": "2026-11-16",
+  "nome": "S. Margarida da Escócia",
+  "resumo": "Também lembrados hoje: S. Gertrudes, virgem beneditina; S. Inês de Assis, irmã de S. Clara, virgem.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/16.html",
+  "atualizadoEm": "2026-11-16T18:56:43Z"
  },
  "catequese": {
-  "data": "2026-11-15",
+  "data": "2026-11-16",
   "parte": "A profissão da fé",
-  "tema": "Maria, Mãe de Cristo e da Igreja",
-  "texto": "Maria foi associada de modo único à obra de seu Filho, desde a Anunciação até a cruz. Por isso a Igreja a honra como Mãe de Deus e nossa Mãe. A devoção a Maria sempre conduz a Jesus, e ela é o modelo perfeito de fé e de disponibilidade a Deus.",
-  "cic": "CIC 963-972",
-  "pergunta": "Como Maria pode ajudar você a dizer “sim” a Deus nas situações de hoje?",
+  "tema": "Creio na vida eterna",
+  "texto": "Para o cristão, a morte é a passagem para a vida plena com Deus. Cada pessoa é julgada pelo amor que viveu, e o céu é a comunhão perfeita com a Trindade, com Maria e com todos os santos. Essa esperança nos ajuda a viver o presente com responsabilidade e confiança.",
+  "cic": "CIC 1020-1050",
+  "pergunta": "Se hoje fosse o seu último dia, o que você faria de diferente?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-15",
+    "parte": "A profissão da fé",
+    "tema": "Maria, Mãe de Cristo e da Igreja",
+    "texto": "Maria foi associada de modo único à obra de seu Filho, desde a Anunciação até a cruz. Por isso a Igreja a honra como Mãe de Deus e nossa Mãe. A devoção a Maria sempre conduz a Jesus, e ela é o modelo perfeito de fé e de disponibilidade a Deus.",
+    "cic": "CIC 963-972",
+    "pergunta": "Como Maria pode ajudar você a dizer “sim” a Deus nas situações de hoje?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
+    "atualizadoEm": "2026-11-15T15:53:34Z"
+   },
    {
     "data": "2026-11-14",
     "parte": "A profissão da fé",
@@ -296,42 +306,32 @@
     "pergunta": "Você consegue reservar alguns minutos de silêncio diante de Deus hoje?",
     "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
     "atualizadoEm": "2026-11-02T18:51:19Z"
-   },
-   {
-    "data": "2026-11-01",
-    "parte": "A oração cristã",
-    "tema": "O Pai-Nosso, resumo do Evangelho",
-    "texto": "O Pai-Nosso é a oração que o próprio Jesus ensinou aos discípulos. Nela chamamos Deus de Pai e fazemos sete pedidos: os três primeiros voltados para a glória de Deus e os quatro últimos para as nossas necessidades. Por isso a Igreja a chama de resumo de todo o Evangelho.",
-    "cic": "CIC 2759-2865",
-    "pergunta": "Que frase do Pai-Nosso você quer rezar com mais atenção hoje?",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-quarta-parte_po.html",
-    "atualizadoEm": "2026-11-01T15:28:48Z"
    }
   ],
-  "atualizadoEm": "2026-11-15T15:53:34Z"
+  "atualizadoEm": "2026-11-16T18:56:43Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
-  "data": "2026-11-15",
+  "data": "2026-11-22",
   "versoes": [
-   {
-    "nome": "Ano A - nº 63 - 33º Domingo do Tempo Comum (Assembléia)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf1e"
-   },
-   {
-    "nome": "Ano A - nº 63 - 33º Domingo do Tempo Comum (Celular)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf2e"
-   },
-   {
-    "nome": "Ano A - nº 63 - 33º Domingo do Tempo Comum (Celebrante)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf3e"
-   },
    {
     "nome": "Ano A - nº 64 - Solenidade de Nosso Senhor Jesus Cristo Rei do Universo (Assembléia)",
     "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf4e"
+   },
+   {
+    "nome": "Ano A - nº 64 - Solenidade de Nosso Senhor Jesus Cristo Rei do Universo (Celular)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf5e"
+   },
+   {
+    "nome": "Ano A - nº 64 - Solenidade de Nosso Senhor Jesus Cristo Rei do Universo (Celebrante)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf6e"
+   },
+   {
+    "nome": "Ano B - nº 01 - 1º Domingo do Advento (Assembléia)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf7e"
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-11-15T15:53:37Z"
+  "atualizadoEm": "2026-11-16T18:56:46Z"
  }
 }
