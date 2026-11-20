@@ -1,104 +1,104 @@
 {
- "geradoEm": "2026-11-19T17:41:46Z",
+ "geradoEm": "2026-11-20T17:19:20Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-19T17:41:36Z",
+   "atualizadoEm": "2026-11-20T17:19:12Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "Gugerotti em Belém: preservar a esperança na terra da Encarnação",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/missao-gugerotti-terra-santa-belem-iniciativas-solidariedade.html",
-     "data": "2026-11-19T15:30:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Jennifer Hudson no \"Concerto com os Pobres\" com a presença de Leão XIV",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-concerto-com-os-pobres-jennifer-hudson-2026.html",
-     "data": "2026-11-19T13:44:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Papa em Chiclayo, no Peru: divino rosto entre a memória e a gratidão",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/pe-maicon-malacarne-artigo-viagem-apostolica-leao-xiv-peru-26.html",
-     "data": "2026-11-19T13:17:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "O abraço do Papa ao mundo do ciclismo",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/abraco-do-papa-leao-xiv-ao-mundo-ciclismo-23-novembro-campeoes.html",
-     "data": "2026-11-19T13:06:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Susana Baca - Canção Solidária com os deserdados da terra",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/susana-baca-cancao-solidaria-com-os-deserdados-da-terra.html",
-     "data": "2026-11-19T12:53:00Z",
+     "titulo": "Governo aprova criação da Universidade Maria Mãe de África tutelada pela CIRMO",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/mocambique-governo-igreja-cirmo-ismma-jovens-universidades.html",
+     "data": "2026-11-20T16:21:17Z",
      "secao": "África"
     },
     {
-     "titulo": "Ucrânia: crianças recebem brinquedos graças a benfeitores de \"Salesian Missions\"",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/ucrania-criancas-brinquedos-benfeitores-salesian-missions.html",
-     "data": "2026-11-19T12:52:00Z",
+     "titulo": "Moçambique pede 37,2 mil milhões de dólares para reforçar resiliência climática",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/cop31-mocambique-mudancas-climaticas-justica-ambiental-laudatosi.html",
+     "data": "2026-11-20T16:11:07Z",
+     "secao": "África"
+    },
+    {
+     "titulo": "Bispos EUA: preocupaão com migrantes e famílias separadas",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/estados-unidos-bispos-conclusao-assembleia-plenaria.html",
+     "data": "2026-11-20T15:31:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Nigéria: após profanação de Sacrário, arcebispo pede Missa de reparação",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/nigeria-profanacao-sacrario-roubo-hostias-missa-reparacao.html",
-     "data": "2026-11-19T12:44:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Dom Jacques Mourad: \"Sem o apoio da Igreja, não haverá cristãos na Síria\"",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/siria-cristaos-discriminacao-incertezas-arcebispo-homs-mourad.html",
-     "data": "2026-11-19T12:32:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Cristãos iraquianos: patrimônio restaurado e memória dos mártires alimentam a esperança",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/de-bagdad-a-mosul-sinais-de-esperanca-para-cristaos-iraquianos.html",
-     "data": "2026-11-19T11:57:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Trump-Xi-Putin: encontro trilateral histórico em Shenzhen, na China",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/quinta-feira-historico-trilateral-trump-xi-putin-shenzen-china.html",
-     "data": "2026-11-19T11:49:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "JMJ Seul 2027: publicadas as versões em língua de sinais do hino",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/jmj-seul-2027-hino-oficial-publicadas-versoes-lingua-sinais.html",
-     "data": "2026-11-19T11:30:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Solidariedade da Igreja no Líbano após agressão ao metropolita de Homs",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/siria-agressao-metropolita-homs-reacao-igreja-libano.html",
-     "data": "2026-11-19T11:07:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Encontros para promover a dignidade humana à luz de experiências de religiosas",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/projeto-sisters-webinar-formacao-dignidade-humana.html",
-     "data": "2026-11-19T11:00:00Z",
+     "titulo": "Dia Mundial da Pesca: dar dignidade ao trabalho de mulheres e crianças",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/dia-mundial-pesca-santa-se-chica-arellano-fao-fida-pam.html",
+     "data": "2026-11-20T15:16:00Z",
      "secao": "Vaticano"
     },
     {
-     "titulo": "Papa à Comunidade Shalom: tudo deve conduzir a Cristo",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-comunidade-shalom-audiencia-45-anos-aula-paulo-vi.html",
-     "data": "2026-11-19T10:28:00Z",
-     "secao": "Papa"
+     "titulo": "Dia dos Direitos da Criança: nunca tantas crianças foram vítimas das guerras",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/dia-universal-direitos-crianca-vitimas-guerras.html",
+     "data": "2026-11-20T14:55:00Z",
+     "secao": "Mundo"
     },
     {
-     "titulo": "Papa a entidades de caridade: ser \"mão de Deus\" e responder com coragem à indiferença",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-caritas-internacional-19-novembro-2026.html",
-     "data": "2026-11-19T10:15:00Z",
-     "secao": "Papa"
+     "titulo": "Entre os bastidores de encontro em Roma, gaúcho coloca seu trabalho a serviço de Leão XIV",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/shalom-bastidores-encontro-leao-xiv-sonorizacao-tiago-cassol.html",
+     "data": "2026-11-20T14:33:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Colomba Kang Wan-suk: a mártir coreana que inspira a juventude às vésperas da JMJ 2027",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/jmj-seul-2027-martir-coreana-colomba-kang-wan-suk.html",
+     "data": "2026-11-20T13:40:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Árvore de Natal chega ao Vaticano",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/arvore-natal-praca-sao-pedro-aticano-pollino.html",
+     "data": "2026-11-20T13:30:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Semana da Palavra: bispos convidam fiéis coreanos a viver como filhos da luz",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/coreia-mensagem-bispos-semana-palavra.html",
+     "data": "2026-11-20T13:27:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Cardeal Czerny: o propósito por trás da governança da IA determina seu futuro",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/cardeal-czerny-v-forum-europeu-inteligencia-artifical-2026.html",
+     "data": "2026-11-20T13:03:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Cardeal Pizzaballa: “na Terra Santa, a Igreja leva esperança onde a política não chega”",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/cardeal-pizzaballa-terra-santa-igrea-esperanca-politica-2026.html",
+     "data": "2026-11-20T12:45:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Dia Nacional da Consciência Negra: celebrar a resistência e a cultura afro-brasileira",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/dia-nacional-consciencia-negra-brasil-resistencia-cultura-afro.html",
+     "data": "2026-11-20T12:32:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "Comunidade Shalom com o Papa: “A paz não é um pacto, é uma pessoa viva”",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/comunidade-shalom-papa-paz-nao-pacto-pessoa-moyses.html",
+     "data": "2026-11-20T11:41:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Santa Sé alerta para a gravidade da violência digital contra mulheres e meninas",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/santa-se-oea-alerta-violencia-digital-mulheres-meninas.html",
+     "data": "2026-11-20T10:50:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "COP31: a pressão por retrocessos que ameaça trair uma década de promessas",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/cop31-turquia-mudancas-climaticas-nacoes-unidas.html",
+     "data": "2026-11-20T10:17:00Z",
+     "secao": "Mundo"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-19T17:41:40Z",
+   "atualizadoEm": "2026-11-20T17:19:14Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
@@ -145,41 +145,47 @@
   }
  },
  "liturgia": {
-  "data": "2026-11-19",
-  "celebracao": "Quinta-feira da 33ª Semana do Tempo Comum",
+  "data": "2026-11-20",
+  "celebracao": "Sexta-feira da 33ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Livro do Apocalipse de São João 5,1-10"
-   },
-   {
-    "tipo": "Salmo",
-    "ref": "Sl 149,1-2.3-4.5-6a e 9b"
+    "ref": "Livro do Apocalipse de São João 10,8-11"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Lucas 19,41-44"
+    "ref": "Lucas 19,45-48"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/33a-semana-do-tempo-comum-quinta-feira-19-de-novembro-de-2026/",
-  "atualizadoEm": "2026-11-19T17:41:43Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/33a-semana-do-tempo-comum-sexta-feira-20-de-novembro-de-2026/",
+  "atualizadoEm": "2026-11-20T17:19:17Z"
  },
  "santo": {
-  "data": "2026-11-19",
-  "nome": "S. Matilde (Mechtilde), virgem",
-  "resumo": "Também lembrados hoje: S. Abdias, profeta.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/19.html",
-  "atualizadoEm": "2026-11-19T17:41:43Z"
+  "data": "2026-11-20",
+  "nome": "S. Gelásio I, papa",
+  "resumo": "",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/20.html",
+  "atualizadoEm": "2026-11-20T17:19:17Z"
  },
  "catequese": {
-  "data": "2026-11-19",
+  "data": "2026-11-20",
   "parte": "A celebração do mistério cristão",
-  "tema": "A Crisma",
-  "texto": "Na Confirmação, ou Crisma, o batizado recebe a plenitude do Espírito Santo, como os apóstolos em Pentecostes. Ela fortalece a união com Cristo e com a Igreja e dá força especial para testemunhar a fé. É por isso chamada de sacramento da maturidade cristã.",
-  "cic": "CIC 1285-1321",
-  "pergunta": "Em que ambiente você é chamado a testemunhar a fé com mais coragem?",
+  "tema": "A Eucaristia",
+  "texto": "A Eucaristia é fonte e ápice de toda a vida cristã. Nela, Cristo está verdadeiramente presente, com seu Corpo, Sangue, alma e divindade, sob as aparências do pão e do vinho. Na Missa, o sacrifício da cruz se torna presente, e na comunhão recebemos o próprio Senhor.",
+  "cic": "CIC 1322-1419",
+  "pergunta": "Como você se prepara para receber a comunhão?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-19",
+    "parte": "A celebração do mistério cristão",
+    "tema": "A Crisma",
+    "texto": "Na Confirmação, ou Crisma, o batizado recebe a plenitude do Espírito Santo, como os apóstolos em Pentecostes. Ela fortalece a união com Cristo e com a Igreja e dá força especial para testemunhar a fé. É por isso chamada de sacramento da maturidade cristã.",
+    "cic": "CIC 1285-1321",
+    "pergunta": "Em que ambiente você é chamado a testemunhar a fé com mais coragem?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
+    "atualizadoEm": "2026-11-19T17:41:43Z"
+   },
    {
     "data": "2026-11-18",
     "parte": "A celebração do mistério cristão",
@@ -309,19 +315,9 @@
     "pergunta": "O que você tem feito para que a sua fé cresça e não fique parada?",
     "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
     "atualizadoEm": "2026-11-06T16:19:44Z"
-   },
-   {
-    "data": "2026-11-05",
-    "parte": "A profissão da fé",
-    "tema": "Tradição e Sagrada Escritura",
-    "texto": "A Revelação de Deus chega até nós por dois caminhos unidos entre si: a Sagrada Escritura e a Tradição viva da Igreja. Ambas brotam da mesma fonte e formam um só tesouro da fé. Cabe ao Magistério, isto é, ao Papa e aos bispos em comunhão com ele, interpretá-las fielmente.",
-    "cic": "CIC 80-95",
-    "pergunta": "Você tem lido a Bíblia em comunhão com a Igreja, por exemplo seguindo as leituras da missa?",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
-    "atualizadoEm": "2026-11-05T17:10:27Z"
    }
   ],
-  "atualizadoEm": "2026-11-19T17:41:43Z"
+  "atualizadoEm": "2026-11-20T17:19:17Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
@@ -345,6 +341,6 @@
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-11-19T17:41:46Z"
+  "atualizadoEm": "2026-11-20T17:19:20Z"
  }
 }
