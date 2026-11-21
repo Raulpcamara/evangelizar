@@ -1,104 +1,104 @@
 {
- "geradoEm": "2026-11-20T17:19:20Z",
+ "geradoEm": "2026-11-21T16:23:57Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-20T17:19:12Z",
+   "atualizadoEm": "2026-11-21T16:23:49Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "Governo aprova criação da Universidade Maria Mãe de África tutelada pela CIRMO",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/mocambique-governo-igreja-cirmo-ismma-jovens-universidades.html",
-     "data": "2026-11-20T16:21:17Z",
+     "titulo": "África do Sul - Luto pela morte de Phumzile Mlambo-Ngcuka",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/africa-do-sul-luto-pela-morte-de-phumzile-mlambo-ngcuka.html",
+     "data": "2026-11-21T14:17:00Z",
      "secao": "África"
     },
     {
-     "titulo": "Moçambique pede 37,2 mil milhões de dólares para reforçar resiliência climática",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/cop31-mocambique-mudancas-climaticas-justica-ambiental-laudatosi.html",
-     "data": "2026-11-20T16:11:07Z",
+     "titulo": "O Papa: a cultura do poder, do desafio e da guerra envenena os encontros",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-cultura-poder-desafio-guerra-envenena-encontro.html",
+     "data": "2026-11-21T12:58:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Gallagher: “o Líbano deve voltar ao centro da agenda internacional”",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/gallagher-libano-deve-voltar-centro-agenda-internacional.html",
+     "data": "2026-11-21T12:42:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "No encontro com o Papa, as histórias daqueles que transformaram a vida em dom",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/encontro-papa-historias-transformaram-vidas-vaticano-jovens.html",
+     "data": "2026-11-21T12:25:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Nomeação do Núncio Apostólico na Libéria e na Serra Leoa",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/nomeacao-do-nuncio-apostolico-na-liberia-e-na-serra-leoa.html",
+     "data": "2026-11-21T12:19:00Z",
      "secao": "África"
     },
     {
-     "titulo": "Bispos EUA: preocupaão com migrantes e famílias separadas",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/estados-unidos-bispos-conclusao-assembleia-plenaria.html",
-     "data": "2026-11-20T15:31:00Z",
+     "titulo": "O Papa nomeia o padre Serge-Thomas Bonino teólogo da Casa Pontifícia",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-nomeia-padre-dominicano-serge-thomas-bonino-teologo-casa.html",
+     "data": "2026-11-21T12:14:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Na Igreja, uma nova santa e 56 beatos: venerável uma menina de 14 anos",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/igreja-nova-santa-56-beatos-veneravel-menina.html",
+     "data": "2026-11-21T11:54:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "O Papa: a música, assim como a paz, une pessoas de diferentes nações e religiões",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-musica-paz-une-pessoas-diferentes.html",
+     "data": "2026-11-21T11:34:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Leão XIV: quem faz a guerra e destrói a criação está cego pelo poder e pelo dinheiro",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/leao-xiv-guerra-destroi-criacao-astronautica-vaticano-espaco.html",
+     "data": "2026-11-21T11:00:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Da Amazônia à Europa: com apoio da REPAM, denuncia de violações de direitos humanos",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/amazonia-europa-apoio-repam-liderancas-denunciam-violacoes.html",
+     "data": "2026-11-21T10:35:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Dia Mundial da Pesca: dar dignidade ao trabalho de mulheres e crianças",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/dia-mundial-pesca-santa-se-chica-arellano-fao-fida-pam.html",
-     "data": "2026-11-20T15:16:00Z",
+     "titulo": "O cardeal Gugerotti em Nazaré: encontro com as pequenas comunidades cristãs",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/cardeal-gugerotti-nazare-encontro-pequenas-comunidades.html",
+     "data": "2026-11-21T10:17:00Z",
      "secao": "Vaticano"
     },
     {
-     "titulo": "Dia dos Direitos da Criança: nunca tantas crianças foram vítimas das guerras",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/dia-universal-direitos-crianca-vitimas-guerras.html",
-     "data": "2026-11-20T14:55:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Entre os bastidores de encontro em Roma, gaúcho coloca seu trabalho a serviço de Leão XIV",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/shalom-bastidores-encontro-leao-xiv-sonorizacao-tiago-cassol.html",
-     "data": "2026-11-20T14:33:00Z",
+     "titulo": "Confiados uns aos outros: a beleza de uma humanidade magnífica e ferida",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/confiados-outros-beleza-humanidade-magnifica.html",
+     "data": "2026-11-21T10:03:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Colomba Kang Wan-suk: a mártir coreana que inspira a juventude às vésperas da JMJ 2027",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/jmj-seul-2027-martir-coreana-colomba-kang-wan-suk.html",
-     "data": "2026-11-20T13:40:00Z",
+     "titulo": "Onde a vida se torna Vocação e Missão",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/onde-vida-torna-vocacao-missao.html",
+     "data": "2026-11-21T08:32:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Árvore de Natal chega ao Vaticano",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/arvore-natal-praca-sao-pedro-aticano-pollino.html",
-     "data": "2026-11-20T13:30:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Semana da Palavra: bispos convidam fiéis coreanos a viver como filhos da luz",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/coreia-mensagem-bispos-semana-palavra.html",
-     "data": "2026-11-20T13:27:00Z",
+     "titulo": "Magnifica humanitas: a dignidade humana no rosto de quem mais precisa",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/magnifica-humanitas-dignidade-humana-rosto.html",
+     "data": "2026-11-21T08:25:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Cardeal Czerny: o propósito por trás da governança da IA determina seu futuro",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/cardeal-czerny-v-forum-europeu-inteligencia-artifical-2026.html",
-     "data": "2026-11-20T13:03:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Cardeal Pizzaballa: “na Terra Santa, a Igreja leva esperança onde a política não chega”",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/cardeal-pizzaballa-terra-santa-igrea-esperanca-politica-2026.html",
-     "data": "2026-11-20T12:45:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Dia Nacional da Consciência Negra: celebrar a resistência e a cultura afro-brasileira",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/dia-nacional-consciencia-negra-brasil-resistencia-cultura-afro.html",
-     "data": "2026-11-20T12:32:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Comunidade Shalom com o Papa: “A paz não é um pacto, é uma pessoa viva”",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/comunidade-shalom-papa-paz-nao-pacto-pessoa-moyses.html",
-     "data": "2026-11-20T11:41:00Z",
+     "titulo": "A Providência Divina em São João Crisóstomo",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/providencia-divina-sao-joao-crisostomo.html",
+     "data": "2026-11-21T08:13:00Z",
      "secao": "Igreja"
-    },
-    {
-     "titulo": "Santa Sé alerta para a gravidade da violência digital contra mulheres e meninas",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/santa-se-oea-alerta-violencia-digital-mulheres-meninas.html",
-     "data": "2026-11-20T10:50:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "COP31: a pressão por retrocessos que ameaça trair uma década de promessas",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/cop31-turquia-mudancas-climaticas-nacoes-unidas.html",
-     "data": "2026-11-20T10:17:00Z",
-     "secao": "Mundo"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-20T17:19:14Z",
+   "atualizadoEm": "2026-11-21T16:23:51Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
@@ -145,37 +145,51 @@
   }
  },
  "liturgia": {
-  "data": "2026-11-20",
-  "celebracao": "Sexta-feira da 33ª Semana do Tempo Comum",
+  "data": "2026-11-21",
+  "celebracao": "Sábado da 33ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Livro do Apocalipse de São João 10,8-11"
+    "ref": "Profecia de Zacarias 2,14-17"
+   },
+   {
+    "tipo": "Salmo",
+    "ref": "Lc 1,46-47.48-49.50-51.52-53.54-55"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Lucas 19,45-48"
+    "ref": "Mateus 12,46-50"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/33a-semana-do-tempo-comum-sexta-feira-20-de-novembro-de-2026/",
-  "atualizadoEm": "2026-11-20T17:19:17Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/33a-semana-do-tempo-comum-sabado-21-de-novembro-de-2026/",
+  "atualizadoEm": "2026-11-21T16:23:52Z"
  },
  "santo": {
-  "data": "2026-11-20",
-  "nome": "S. Gelásio I, papa",
-  "resumo": "",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/20.html",
-  "atualizadoEm": "2026-11-20T17:19:17Z"
+  "data": "2026-11-21",
+  "nome": "Santo do dia",
+  "resumo": "Toque em “Saiba mais” para conhecer o santo de hoje.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia.html",
+  "atualizadoEm": "2026-11-21T16:23:53Z"
  },
  "catequese": {
-  "data": "2026-11-20",
+  "data": "2026-11-21",
   "parte": "A celebração do mistério cristão",
-  "tema": "A Eucaristia",
-  "texto": "A Eucaristia é fonte e ápice de toda a vida cristã. Nela, Cristo está verdadeiramente presente, com seu Corpo, Sangue, alma e divindade, sob as aparências do pão e do vinho. Na Missa, o sacrifício da cruz se torna presente, e na comunhão recebemos o próprio Senhor.",
-  "cic": "CIC 1322-1419",
-  "pergunta": "Como você se prepara para receber a comunhão?",
+  "tema": "A Confissão",
+  "texto": "No sacramento da Penitência, também chamado de Reconciliação ou Confissão, Deus perdoa os pecados cometidos depois do Batismo. Ele pede arrependimento sincero, confissão ao sacerdote, absolvição e o cumprimento da penitência. É um encontro com a misericórdia que restaura a paz.",
+  "cic": "CIC 1422-1498",
+  "pergunta": "Há quanto tempo você não se confessa? O que o impede de procurar esse encontro?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-20",
+    "parte": "A celebração do mistério cristão",
+    "tema": "A Eucaristia",
+    "texto": "A Eucaristia é fonte e ápice de toda a vida cristã. Nela, Cristo está verdadeiramente presente, com seu Corpo, Sangue, alma e divindade, sob as aparências do pão e do vinho. Na Missa, o sacrifício da cruz se torna presente, e na comunhão recebemos o próprio Senhor.",
+    "cic": "CIC 1322-1419",
+    "pergunta": "Como você se prepara para receber a comunhão?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
+    "atualizadoEm": "2026-11-20T17:19:17Z"
+   },
    {
     "data": "2026-11-19",
     "parte": "A celebração do mistério cristão",
@@ -305,19 +319,9 @@
     "pergunta": "Quando você faz o sinal da cruz, lembra que está invocando a Trindade?",
     "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
     "atualizadoEm": "2026-11-07T15:11:56Z"
-   },
-   {
-    "data": "2026-11-06",
-    "parte": "A profissão da fé",
-    "tema": "O que é a fé?",
-    "texto": "A fé é a resposta pessoal do ser humano a Deus que se revela. É ao mesmo tempo um dom da graça e um ato livre: confiamos em Deus e aceitamos a verdade que Ele nos mostra. A fé não é contrária à razão, e cresce quando é alimentada pela Palavra, pela oração e pela vida em comunidade.",
-    "cic": "CIC 142-165",
-    "pergunta": "O que você tem feito para que a sua fé cresça e não fique parada?",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
-    "atualizadoEm": "2026-11-06T16:19:44Z"
    }
   ],
-  "atualizadoEm": "2026-11-20T17:19:17Z"
+  "atualizadoEm": "2026-11-21T16:23:53Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
@@ -341,6 +345,6 @@
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-11-20T17:19:20Z"
+  "atualizadoEm": "2026-11-21T16:23:57Z"
  }
 }
