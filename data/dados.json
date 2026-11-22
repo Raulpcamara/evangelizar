@@ -1,10 +1,58 @@
 {
- "geradoEm": "2026-11-21T16:23:57Z",
+ "geradoEm": "2026-11-22T16:39:34Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-21T16:23:49Z",
+   "atualizadoEm": "2026-11-22T16:39:25Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
+    {
+     "titulo": "O Papa no almoço com os pobres: “hoje somos todos uma família”",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-almoco-pobres-somos-todos-familia-vaticano.html",
+     "data": "2026-11-22T13:47:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "O Papa: que os responsáveis pelas guerras encontrem logo soluções de paz e concórdia",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-responsaveis-guerras-encontrem-logo-solucoes.html",
+     "data": "2026-11-22T11:45:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Papa no Angelus: Cristo nos levanta do pó do tempo que passa",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-angelus-cristo-levanta-po-tempo-passa.html",
+     "data": "2026-11-22T11:26:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Ucrânia, onde a guerra se tornou a realidade cotidiana das crianças",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/ucrania-guerra-tornou-realidade-cotidiana-criancas.html",
+     "data": "2026-11-22T10:14:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "A Santa Sé: é inaceitável confiar à IA decisões irreversíveis",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/santa-se-inaceitavel-confiar-ia-decisoes-irreversiveis.html",
+     "data": "2026-11-22T09:56:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Em Dubai, histórias de migrantes se entrelaçam com textos da Bíblia",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/emirados-arabes-unidos-dubai-historias-migrantes.html",
+     "data": "2026-11-22T09:45:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "ACNUR lança uma iniciativa global de “Proteção no Mar 2.0” em defesa dos migrantes",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/acnur-iniciativa-global-protecao-mar-2-0.html",
+     "data": "2026-11-22T09:40:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "Kuwait: Vicariato da Arábia do Norte apresenta a “Bíblia Católica da Migração”",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/kuwait-vicariato-arabia-norte-apresenta-biblia-catolica.html",
+     "data": "2026-11-22T09:35:00Z",
+     "secao": "Igreja"
+    },
     {
      "titulo": "África do Sul - Luto pela morte de Phumzile Mlambo-Ngcuka",
      "link": "https://www.vaticannews.va/pt/africa/news/2026-11/africa-do-sul-luto-pela-morte-de-phumzile-mlambo-ngcuka.html",
@@ -46,59 +94,11 @@
      "link": "https://www.vaticannews.va/pt/papa/news/2026-11/igreja-nova-santa-56-beatos-veneravel-menina.html",
      "data": "2026-11-21T11:54:00Z",
      "secao": "Papa"
-    },
-    {
-     "titulo": "O Papa: a música, assim como a paz, une pessoas de diferentes nações e religiões",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-musica-paz-une-pessoas-diferentes.html",
-     "data": "2026-11-21T11:34:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Leão XIV: quem faz a guerra e destrói a criação está cego pelo poder e pelo dinheiro",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/leao-xiv-guerra-destroi-criacao-astronautica-vaticano-espaco.html",
-     "data": "2026-11-21T11:00:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Da Amazônia à Europa: com apoio da REPAM, denuncia de violações de direitos humanos",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/amazonia-europa-apoio-repam-liderancas-denunciam-violacoes.html",
-     "data": "2026-11-21T10:35:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "O cardeal Gugerotti em Nazaré: encontro com as pequenas comunidades cristãs",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/cardeal-gugerotti-nazare-encontro-pequenas-comunidades.html",
-     "data": "2026-11-21T10:17:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Confiados uns aos outros: a beleza de uma humanidade magnífica e ferida",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/confiados-outros-beleza-humanidade-magnifica.html",
-     "data": "2026-11-21T10:03:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Onde a vida se torna Vocação e Missão",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/onde-vida-torna-vocacao-missao.html",
-     "data": "2026-11-21T08:32:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Magnifica humanitas: a dignidade humana no rosto de quem mais precisa",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/magnifica-humanitas-dignidade-humana-rosto.html",
-     "data": "2026-11-21T08:25:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "A Providência Divina em São João Crisóstomo",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/providencia-divina-sao-joao-crisostomo.html",
-     "data": "2026-11-21T08:13:00Z",
-     "secao": "Igreja"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-21T16:23:51Z",
+   "atualizadoEm": "2026-11-22T16:39:28Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
@@ -145,41 +145,51 @@
   }
  },
  "liturgia": {
-  "data": "2026-11-21",
-  "celebracao": "Sábado da 33ª Semana do Tempo Comum",
+  "data": "2026-11-22",
+  "celebracao": "Nosso Senhor Jesus Cristo Rei do Universo",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Profecia de Zacarias 2,14-17"
+    "ref": "Profecia de Ezequiel 34,11-12.15-17"
    },
    {
-    "tipo": "Salmo",
-    "ref": "Lc 1,46-47.48-49.50-51.52-53.54-55"
+    "tipo": "2ª Leitura",
+    "ref": "Primeira Carta de São Paulo aos Coríntios 15,20-26.28"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Mateus 12,46-50"
+    "ref": "Mateus 25,31-46"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/33a-semana-do-tempo-comum-sabado-21-de-novembro-de-2026/",
-  "atualizadoEm": "2026-11-21T16:23:52Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/nosso-senhor-jesus-cristo-rei-do-universo-domingo-22-de-novembro-de-2026/",
+  "atualizadoEm": "2026-11-22T16:39:30Z"
  },
  "santo": {
-  "data": "2026-11-21",
-  "nome": "Santo do dia",
-  "resumo": "Toque em “Saiba mais” para conhecer o santo de hoje.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia.html",
-  "atualizadoEm": "2026-11-21T16:23:53Z"
+  "data": "2026-11-22",
+  "nome": "S. Cecília, virgem e mártir, no cemitério de Calisto",
+  "resumo": "",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/22.html",
+  "atualizadoEm": "2026-11-22T16:39:31Z"
  },
  "catequese": {
-  "data": "2026-11-21",
+  "data": "2026-11-22",
   "parte": "A celebração do mistério cristão",
-  "tema": "A Confissão",
-  "texto": "No sacramento da Penitência, também chamado de Reconciliação ou Confissão, Deus perdoa os pecados cometidos depois do Batismo. Ele pede arrependimento sincero, confissão ao sacerdote, absolvição e o cumprimento da penitência. É um encontro com a misericórdia que restaura a paz.",
-  "cic": "CIC 1422-1498",
-  "pergunta": "Há quanto tempo você não se confessa? O que o impede de procurar esse encontro?",
+  "tema": "A Unção dos Enfermos",
+  "texto": "A Unção dos Enfermos é o sacramento que dá força, paz e coragem a quem enfrenta doença grave ou a fragilidade da idade avançada. Não é só para o momento da morte. Pela unção, o doente une seu sofrimento ao de Cristo e recebe a graça do Espírito Santo.",
+  "cic": "CIC 1499-1532",
+  "pergunta": "Você conhece alguém doente que poderia receber esse sacramento ou uma visita sua?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-21",
+    "parte": "A celebração do mistério cristão",
+    "tema": "A Confissão",
+    "texto": "No sacramento da Penitência, também chamado de Reconciliação ou Confissão, Deus perdoa os pecados cometidos depois do Batismo. Ele pede arrependimento sincero, confissão ao sacerdote, absolvição e o cumprimento da penitência. É um encontro com a misericórdia que restaura a paz.",
+    "cic": "CIC 1422-1498",
+    "pergunta": "Há quanto tempo você não se confessa? O que o impede de procurar esse encontro?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
+    "atualizadoEm": "2026-11-21T16:23:53Z"
+   },
    {
     "data": "2026-11-20",
     "parte": "A celebração do mistério cristão",
@@ -309,19 +319,9 @@
     "pergunta": "Que gesto concreto você pode fazer esta semana para cuidar da criação?",
     "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
     "atualizadoEm": "2026-11-08T15:36:30Z"
-   },
-   {
-    "data": "2026-11-07",
-    "parte": "A profissão da fé",
-    "tema": "Um só Deus em três Pessoas",
-    "texto": "O mistério central da fé cristã é a Santíssima Trindade: um só Deus em três Pessoas distintas, o Pai, o Filho e o Espírito Santo. Não são três deuses, mas um único Deus que é comunhão de amor. Fomos batizados em nome da Trindade e somos chamados a participar dessa comunhão.",
-    "cic": "CIC 232-260",
-    "pergunta": "Quando você faz o sinal da cruz, lembra que está invocando a Trindade?",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
-    "atualizadoEm": "2026-11-07T15:11:56Z"
    }
   ],
-  "atualizadoEm": "2026-11-21T16:23:53Z"
+  "atualizadoEm": "2026-11-22T16:39:31Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
@@ -345,6 +345,6 @@
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-11-21T16:23:57Z"
+  "atualizadoEm": "2026-11-22T16:39:34Z"
  }
 }
