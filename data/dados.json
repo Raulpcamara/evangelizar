@@ -1,106 +1,110 @@
 {
- "geradoEm": "2026-11-22T16:39:34Z",
+ "geradoEm": "2026-11-23T20:36:00Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-22T16:39:25Z",
+   "atualizadoEm": "2026-11-23T20:35:52Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "O Papa no almoço com os pobres: “hoje somos todos uma família”",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-almoco-pobres-somos-todos-familia-vaticano.html",
-     "data": "2026-11-22T13:47:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "O Papa: que os responsáveis pelas guerras encontrem logo soluções de paz e concórdia",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-responsaveis-guerras-encontrem-logo-solucoes.html",
-     "data": "2026-11-22T11:45:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Papa no Angelus: Cristo nos levanta do pó do tempo que passa",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-angelus-cristo-levanta-po-tempo-passa.html",
-     "data": "2026-11-22T11:26:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Ucrânia, onde a guerra se tornou a realidade cotidiana das crianças",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/ucrania-guerra-tornou-realidade-cotidiana-criancas.html",
-     "data": "2026-11-22T10:14:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "A Santa Sé: é inaceitável confiar à IA decisões irreversíveis",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/santa-se-inaceitavel-confiar-ia-decisoes-irreversiveis.html",
-     "data": "2026-11-22T09:56:00Z",
+     "titulo": "Cardeal Czerny: na era da IA, educar jovens para a verdade e o aprofundamento",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/cardeal-michael-czerny-prefeito-emerito-educar-jovens-ia-2026.html",
+     "data": "2026-11-23T15:03:00Z",
      "secao": "Vaticano"
     },
     {
-     "titulo": "Em Dubai, histórias de migrantes se entrelaçam com textos da Bíblia",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/emirados-arabes-unidos-dubai-historias-migrantes.html",
-     "data": "2026-11-22T09:45:00Z",
+     "titulo": "O fracasso da COP31 e o papel estratégico dos agentes da paz",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/fracasso-cop31-clima-onu-antalia-turquia-papel-agentes-paz.html",
+     "data": "2026-11-23T13:41:00Z",
      "secao": "Mundo"
     },
     {
-     "titulo": "ACNUR lança uma iniciativa global de “Proteção no Mar 2.0” em defesa dos migrantes",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/acnur-iniciativa-global-protecao-mar-2-0.html",
-     "data": "2026-11-22T09:40:00Z",
-     "secao": "Mundo"
+     "titulo": "Dicastério para o Diálogo Inter-religioso, plenária de 24 a 26 de novembro",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/assembleia-plenaria-dicasterio-dialogo-inter-religioso-novembro.html",
+     "data": "2026-11-23T12:23:00Z",
+     "secao": "Vaticano"
     },
     {
-     "titulo": "Kuwait: Vicariato da Arábia do Norte apresenta a “Bíblia Católica da Migração”",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/kuwait-vicariato-arabia-norte-apresenta-biblia-catolica.html",
-     "data": "2026-11-22T09:35:00Z",
+     "titulo": "Cabo Verde - Avenida, no Fogo, é dedicada a P. Ottavio Fasano",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/cabo-verde-avenida-no-fogo-e-dedicada-a-p-ottavio-fasano.html",
+     "data": "2026-11-23T12:12:00Z",
+     "secao": "África"
+    },
+    {
+     "titulo": "23 de novembro: 65 anos da morte do Venerável Padre Pelágio Sauter",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/sessenta-cinco-anos-morte-veneravel-padre-pelagio-sauter.html",
+     "data": "2026-11-23T11:57:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "África do Sul - Luto pela morte de Phumzile Mlambo-Ngcuka",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/africa-do-sul-luto-pela-morte-de-phumzile-mlambo-ngcuka.html",
-     "data": "2026-11-21T14:17:00Z",
+     "titulo": "Missionários Espiritianos - Tanta Missão junta",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/missionarios-espiritianos-tanta-missao-junta.html",
+     "data": "2026-11-23T11:52:00Z",
      "secao": "África"
     },
     {
-     "titulo": "O Papa: a cultura do poder, do desafio e da guerra envenena os encontros",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-cultura-poder-desafio-guerra-envenena-encontro.html",
-     "data": "2026-11-21T12:58:00Z",
+     "titulo": "Papa: ciclismo reforça a espiritualidade e o respeito pelo meio ambiente",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-audiencia-uniao-ciclistica-internacional.html",
+     "data": "2026-11-23T11:29:01Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Gallagher: “o Líbano deve voltar ao centro da agenda internacional”",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/gallagher-libano-deve-voltar-centro-agenda-internacional.html",
-     "data": "2026-11-21T12:42:00Z",
+     "titulo": "Leão XIV: novo quartel da Guarda Suíça nasce de uma história de solidariedade",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-audiencia-fundacao-quartel-guarda-suica-26.html",
+     "data": "2026-11-23T10:20:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "“Hóstias vivas no mundo”: arte anuncia o Congresso Eucarístico Nacional",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/arquidiocese-goiania-teaser-19-congresso-eucaristico.html",
+     "data": "2026-11-23T10:12:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Sudão do Sul: ataques contra civis deixam dezenas de mortos em Warrap",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/sudao-sudao-sul-guerra-africa-mortos-civis-ataques-warrap.html",
+     "data": "2026-11-23T09:47:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "Cáritas Ucrânia relata a Leão XIV a missão humanitária em Oleshky",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/ucrania-guerra-russia-caritas-kiev-oleshky-papa-leao-vaticano.html",
+     "data": "2026-11-23T09:32:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Ataques russos deixam vítimas em várias regiões da Ucrânia",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/ucrania-ataques-russos-22-23-novembro-mortos-feridos.html",
+     "data": "2026-11-23T08:49:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "COP31 termina sem acordo, mas mantém decisões sobre adaptação e transição justa",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/cop31-sem-acordo-politico-global-adaptacao-transicao-justa.html",
+     "data": "2026-11-23T08:30:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "O mundo conectado formata nova cultura",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/mundo-conectado-formata-nova-cultural-pe-gerson-schmidt.html",
+     "data": "2026-11-23T07:36:00Z",
      "secao": "Vaticano"
     },
     {
-     "titulo": "No encontro com o Papa, as histórias daqueles que transformaram a vida em dom",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/encontro-papa-historias-transformaram-vidas-vaticano-jovens.html",
-     "data": "2026-11-21T12:25:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Nomeação do Núncio Apostólico na Libéria e na Serra Leoa",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/nomeacao-do-nuncio-apostolico-na-liberia-e-na-serra-leoa.html",
-     "data": "2026-11-21T12:19:00Z",
-     "secao": "África"
-    },
-    {
-     "titulo": "O Papa nomeia o padre Serge-Thomas Bonino teólogo da Casa Pontifícia",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-nomeia-padre-dominicano-serge-thomas-bonino-teologo-casa.html",
-     "data": "2026-11-21T12:14:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Na Igreja, uma nova santa e 56 beatos: venerável uma menina de 14 anos",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/igreja-nova-santa-56-beatos-veneravel-menina.html",
-     "data": "2026-11-21T11:54:00Z",
-     "secao": "Papa"
+     "titulo": "Evangelho de 23 de novembro",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/evangelho-23-novembro-2026-dom-mario-spaki.html",
+     "data": "2026-11-23T07:30:00Z",
+     "secao": "Evangelho"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-22T16:39:28Z",
+   "atualizadoEm": "2026-11-23T20:35:54Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
+    {
+     "titulo": "A Mãe da medalha milagrosa",
+     "link": "https://padrereginaldomanzotti.com.br/blog/a-mae-da-medalha-milagrosa/"
+    },
     {
      "titulo": "Padre Reginaldo Manzotti mantém agenda em Salvador e celebra Santa Missa da Família Evangelizar É Preciso",
      "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-mantem-agenda-em-salvador-e-celebra-santa-missa-da-familia-evangelizar-e-preciso/"
@@ -136,50 +140,52 @@
     {
      "titulo": "Padre Reginaldo Manzotti abre agenda em Fortaleza com coletiva de imprensa sobre o XIX Evangelizar É Preciso",
      "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-abre-agenda-em-fortaleza-com-coletiva-de-imprensa-sobre-o-xix-evangelizar-e-preciso/"
-    },
-    {
-     "titulo": "Padre Reginaldo Manzotti mobiliza fiéis para Dia D de doação de sangue em Fortaleza",
-     "link": "https://padrereginaldomanzotti.com.br/blog/padre-reginaldo-manzotti-mobiliza-fieis-para-dia-d-de-doacao-de-sangue-em-fortaleza/"
     }
    ]
   }
  },
  "liturgia": {
-  "data": "2026-11-22",
-  "celebracao": "Nosso Senhor Jesus Cristo Rei do Universo",
+  "data": "2026-11-23",
+  "celebracao": "Segunda-feira da 34ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Profecia de Ezequiel 34,11-12.15-17"
-   },
-   {
-    "tipo": "2ª Leitura",
-    "ref": "Primeira Carta de São Paulo aos Coríntios 15,20-26.28"
+    "ref": "Livro do Apocalipse de São João 14,1-3.4b-5"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Mateus 25,31-46"
+    "ref": "Lucas 21,1-4"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/nosso-senhor-jesus-cristo-rei-do-universo-domingo-22-de-novembro-de-2026/",
-  "atualizadoEm": "2026-11-22T16:39:30Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/34a-semana-do-tempo-comum-segunda-feira-23-de-novembro-de-2026/",
+  "atualizadoEm": "2026-11-23T20:35:57Z"
  },
  "santo": {
-  "data": "2026-11-22",
-  "nome": "S. Cecília, virgem e mártir, no cemitério de Calisto",
-  "resumo": "",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/22.html",
-  "atualizadoEm": "2026-11-22T16:39:31Z"
+  "data": "2026-11-23",
+  "nome": "S. Clemente I, papa e mártir: suas relíquias são veneradas na igreja com seu nome",
+  "resumo": "Também lembrados hoje: S. Columbano, abade; Santa Felicidade, mártir.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/23.html",
+  "atualizadoEm": "2026-11-23T20:35:57Z"
  },
  "catequese": {
-  "data": "2026-11-22",
+  "data": "2026-11-23",
   "parte": "A celebração do mistério cristão",
-  "tema": "A Unção dos Enfermos",
-  "texto": "A Unção dos Enfermos é o sacramento que dá força, paz e coragem a quem enfrenta doença grave ou a fragilidade da idade avançada. Não é só para o momento da morte. Pela unção, o doente une seu sofrimento ao de Cristo e recebe a graça do Espírito Santo.",
-  "cic": "CIC 1499-1532",
-  "pergunta": "Você conhece alguém doente que poderia receber esse sacramento ou uma visita sua?",
+  "tema": "O sacramento da Ordem",
+  "texto": "Pela Ordem, Cristo continua a cuidar do seu povo por meio de bispos, presbíteros e diáconos. Eles são consagrados para servir a Igreja anunciando a Palavra, celebrando os sacramentos e guiando a comunidade. É um ministério de serviço, não de poder.",
+  "cic": "CIC 1536-1600",
+  "pergunta": "Você tem rezado pelos padres da sua paróquia e pelas vocações?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-22",
+    "parte": "A celebração do mistério cristão",
+    "tema": "A Unção dos Enfermos",
+    "texto": "A Unção dos Enfermos é o sacramento que dá força, paz e coragem a quem enfrenta doença grave ou a fragilidade da idade avançada. Não é só para o momento da morte. Pela unção, o doente une seu sofrimento ao de Cristo e recebe a graça do Espírito Santo.",
+    "cic": "CIC 1499-1532",
+    "pergunta": "Você conhece alguém doente que poderia receber esse sacramento ou uma visita sua?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
+    "atualizadoEm": "2026-11-22T16:39:31Z"
+   },
    {
     "data": "2026-11-21",
     "parte": "A celebração do mistério cristão",
@@ -309,42 +315,28 @@
     "pergunta": "O que muda na sua vida saber que Deus quis viver como um de nós?",
     "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
     "atualizadoEm": "2026-11-09T19:12:31Z"
-   },
-   {
-    "data": "2026-11-08",
-    "parte": "A profissão da fé",
-    "tema": "Deus, criador do céu e da terra",
-    "texto": "Deus criou o mundo livremente, por amor, e não por necessidade. Toda a criação é boa e reflete a sabedoria de quem a fez. O ser humano recebeu a missão de cuidar dela, como administrador e não como dono, para a glória de Deus e o bem de todos.",
-    "cic": "CIC 290-301",
-    "pergunta": "Que gesto concreto você pode fazer esta semana para cuidar da criação?",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
-    "atualizadoEm": "2026-11-08T15:36:30Z"
    }
   ],
-  "atualizadoEm": "2026-11-22T16:39:31Z"
+  "atualizadoEm": "2026-11-23T20:35:57Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
-  "data": "2026-11-22",
+  "data": "2026-11-29",
   "versoes": [
-   {
-    "nome": "Ano A - nº 64 - Solenidade de Nosso Senhor Jesus Cristo Rei do Universo (Assembléia)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf4e"
-   },
-   {
-    "nome": "Ano A - nº 64 - Solenidade de Nosso Senhor Jesus Cristo Rei do Universo (Celular)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf5e"
-   },
-   {
-    "nome": "Ano A - nº 64 - Solenidade de Nosso Senhor Jesus Cristo Rei do Universo (Celebrante)",
-    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf6e"
-   },
    {
     "nome": "Ano B - nº 01 - 1º Domingo do Advento (Assembléia)",
     "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf7e"
+   },
+   {
+    "nome": "Ano B - nº 01 - 1º Domingo do Advento (Celular)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf8e"
+   },
+   {
+    "nome": "Ano B - nº 01 - 1º Domingo do Advento (Celebrante)",
+    "link": "https://arqrio.com.br/app/painel/amissa.php?$=97c6963f1657da1fd3|24cddaR33eb|4|2dcf9e"
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-11-22T16:39:34Z"
+  "atualizadoEm": "2026-11-23T20:36:00Z"
  }
 }
