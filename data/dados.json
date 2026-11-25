@@ -1,104 +1,104 @@
 {
- "geradoEm": "2026-11-24T19:44:04Z",
+ "geradoEm": "2026-11-25T18:51:07Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-24T19:43:56Z",
+   "atualizadoEm": "2026-11-25T18:50:59Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "Gaza, Oxfam: 99% da Faixa corre risco de contaminação ambiental",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/faixa-gaza-guerra-oriente-medio-oxfam-ataques-israel-cisjordania.html",
-     "data": "2026-11-24T18:01:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Treze anos da Evangelii Gaudium: a alegria do Evangelho como roteiro também de Leão XIV",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-documento-evangelizacao.html",
-     "data": "2026-11-24T13:55:00Z",
+     "titulo": "Papa Leão XIV inicia visitas pastorais de Advento pela paróquia de Sant’Andrea delle Fratte",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/leao-xiv-visita-pastoral-sant-andrea-delle-fratte-roma-27-novemb.html",
+     "data": "2026-11-25T16:27:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "A Pizzaballa, a Pomba de Ouro pela Paz: “Desarmar também as palavras\"",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/oriente-medio-israel-palestina-terra-santa-pizzaballa-guerra-paz.html",
-     "data": "2026-11-24T13:48:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "As aventuras de Carlo Collodi: os 200 anos do criador de Pinóquio e muito mais",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/200-anos-nascimento-carlo-collodi-pai-pinoquio-italia-2026.html",
-     "data": "2026-11-24T13:35:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "Leão XIV: “o algoritmo não pode substituir o discernimento humano”",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/papa-leao-argentina-mundo-trabalho-ia-economia-doutrina-social.html",
-     "data": "2026-11-24T12:35:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Ucrânia: o heroísmo silencioso dos bombeiros em meio à guerra",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/ucrania-acao-bombeiros-heroismo-salvar-vidas-ataques-russos.html",
-     "data": "2026-11-24T12:27:00Z",
-     "secao": "Mundo"
-    },
-    {
-     "titulo": "João Pessoa: 263ª Romaria da Penha, esperados mais de 600 mil fiéis",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/joao-pessoa-romaria-penha-600-mil-fieis.html",
-     "data": "2026-11-24T12:26:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Calendário das celebrações do Papa durante o Natal",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/calendario-celebracoes-papa-natal-dezembro-2026-janeiro-2027.html",
-     "data": "2026-11-24T12:05:00Z",
+     "titulo": "Com Leão para testemunhar a proximidade espiritual entre detentos e monjas",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-cronica-audiencia-geral-25-novembro-2026.html",
+     "data": "2026-11-25T16:17:00Z",
      "secao": "Papa"
     },
     {
-     "titulo": "Pará: 83º Círio de Nossa Senhora das Graças, fé e histórias de devoção",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/para-cirio-nossa-senhora-gracas-fe-historias.html",
-     "data": "2026-11-24T11:52:00Z",
+     "titulo": "Entre violência e esperança, comunidade eclesial continua a semear o futuro no Haiti",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/haiti-violencia-esperanca-comunidade-eclesial-semeia-futuro.html",
+     "data": "2026-11-25T16:16:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Catedral de Pelotas marca celebração dos três jubileus de Dom Jacinto Bergmann",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/catedral-pelotas-dom-jacinto-bergmann-celebracao-tres-jubileus0.html",
-     "data": "2026-11-24T11:47:00Z",
+     "titulo": "Sacerdotes da Comunidade Católica Shalom participam de retiro em Assis, Itália",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/sacerdotes-comunidade-catolica-shalom-retiro-assis.html",
+     "data": "2026-11-25T15:50:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "Moçambique - Dia Mundial da Juventude em Nampula",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/mocambique-dia-mundial-da-juventude-em-nampula0.html",
-     "data": "2026-11-24T10:53:00Z",
-     "secao": "África"
+     "titulo": "Mianmar: catedral destruída por terremoto é reconsagrada em meio à guerra e à esperança",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/mianmar-catedral-destruida-terremoto-reconsagrada-guerra.html",
+     "data": "2026-11-25T15:34:00Z",
+     "secao": "Igreja"
     },
     {
-     "titulo": "As lendas do ciclismo com o Papa e 15 bicicletas em doação a jovens carentes",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/papa-leao-xiv-audiencia-lendas-ciclismo-esporte-fe-caridade-26.html",
-     "data": "2026-11-24T10:41:00Z",
+     "titulo": "Santo Padre envia mensagem aos participantes da XXI Assembleia da ODUCAL",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/santo-padre-envia-mensagem-participantes-assembleia-oducal.html",
+     "data": "2026-11-25T14:42:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Líbia, ataque a navios russos: teme-se uma escalada do conflito",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/ataques-naves-russas-na-libia-teme-se-escalada-conflito.html",
+     "data": "2026-11-25T13:45:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "\"Pensar antes de dar um clique\": seminaristas refletem sobre o uso das tecnologias digitais",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/quenia-seminaristas-sociedade-missoes-africanas-tecnologias.html",
+     "data": "2026-11-25T13:22:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "O Advento: um tempo novo em preparação ao Natal do Senhor",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/advento-tempo-novo-preparacao-natal-senhor.html",
+     "data": "2026-11-25T11:56:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Diocese de Xingu-Altamira: os jovens em oração",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/diocese-xingu-altamira-jovens-oracao.html",
+     "data": "2026-11-25T11:51:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Papa aos fiéis de língua portuguesa: com o Advento, semear a paz nas famílias",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-audiencia-geral-lingua-portuguesa-paz-familias-26.html",
+     "data": "2026-11-25T11:38:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "O Papa reformula a pastoral carcerária, surge uma rede a serviço da Igreja no mundo",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-motu-proprio-pastoral-carceraria-servico-igreja.html",
+     "data": "2026-11-25T11:10:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Papa nomeia coordenador do Serviço de Animação da Pastoral Carcerária",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-nomeacao-coordenacao-pastoral-carceraria.html",
+     "data": "2026-11-25T11:05:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Nomeado Chefe do Protocolo da Secretaria de Estado",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/papa-leao-xiv-nomeacao-chefe-protocolo-secretaria-estado.html",
+     "data": "2026-11-25T11:05:00Z",
      "secao": "Vaticano"
     },
     {
-     "titulo": "Moçambique - D. Inácio Saúre exorta os jovens a caminharem com Cristo",
-     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/mocambique-dom-inacio-saure-exorta-os-jovens-a-caminharem-com-cr.html",
-     "data": "2026-11-24T10:39:00Z",
-     "secao": "África"
-    },
-    {
-     "titulo": "Apelo da Igreja na Eritreia: resolver os conflitos com o diálogo",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/eritreia-conselho-igreja-catolica-apelo-dialogo-conflitos.html",
-     "data": "2026-11-24T08:22:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Leão XIV convida os bispos a promover dias de oração e jejum pelas vocações",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/vocacoes-papa.html",
-     "data": "2026-11-24T07:49:00Z",
+     "titulo": "Após COP31, o apelo de Leão XIV: nunca esquecer \"do rosto humano da crise climática\"",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-audiencia-geral-apelo-cop31-crise-climatica.html",
+     "data": "2026-11-25T10:14:00Z",
      "secao": "Papa"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-24T19:43:57Z",
+   "atualizadoEm": "2026-11-25T18:51:01Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
@@ -145,37 +145,47 @@
   }
  },
  "liturgia": {
-  "data": "2026-11-24",
-  "celebracao": "Terça-feira da 34ª Semana do Tempo Comum",
+  "data": "2026-11-25",
+  "celebracao": "Quarta-feira da 34ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Livro do Apocalipse de São João 14,14-19"
+    "ref": "Livro do Apocalipse de São João 15,1-4"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Lucas 21,5-11"
+    "ref": "Lucas 21,12-19"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/34a-semana-do-tempo-comum-terca-feira-24-de-novembro-de-2026/",
-  "atualizadoEm": "2026-11-24T19:44:00Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/34a-semana-do-tempo-comum-quarta-feira-25-de-novembro-de-2026/",
+  "atualizadoEm": "2026-11-25T18:51:04Z"
  },
  "santo": {
-  "data": "2026-11-24",
-  "nome": "S. Crisógono, mártir de Aquileia",
-  "resumo": "Também lembrados hoje: SS. André Dũng Lạc, presbítero e Companheiros, mártires.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/24.html",
-  "atualizadoEm": "2026-11-24T19:44:00Z"
+  "data": "2026-11-25",
+  "nome": "S. Moisés, mártir em Roma",
+  "resumo": "Também lembrados hoje: S. Pedro de Alexandria, bispo e mártir; S. Catarina de Alexandria.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/25.html",
+  "atualizadoEm": "2026-11-25T18:51:04Z"
  },
  "catequese": {
-  "data": "2026-11-24",
-  "parte": "A celebração do mistério cristão",
-  "tema": "O Matrimônio",
-  "texto": "No Matrimônio, um homem e uma mulher se unem por toda a vida numa aliança de amor fiel e fecundo. Cristo elevou essa união à dignidade de sacramento e dá aos esposos a graça para se amarem como Ele ama a Igreja. A família nascida do matrimônio é chamada de Igreja doméstica.",
-  "cic": "CIC 1601-1666",
-  "pergunta": "Como a sua família pode se tornar mais uma pequena Igreja, com oração e perdão?",
-  "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
+  "data": "2026-11-25",
+  "parte": "A vida em Cristo",
+  "tema": "A dignidade da pessoa humana",
+  "texto": "Toda pessoa foi criada à imagem e semelhança de Deus e, por isso, tem uma dignidade que ninguém pode tirar. Dotada de razão e liberdade, ela é chamada à felicidade eterna. Respeitar a vida e a dignidade de cada pessoa é o fundamento de toda a moral cristã.",
+  "cic": "CIC 1700-1715",
+  "pergunta": "Há alguém que você tem tratado sem reconhecer a dignidade de filho de Deus?",
+  "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-24",
+    "parte": "A celebração do mistério cristão",
+    "tema": "O Matrimônio",
+    "texto": "No Matrimônio, um homem e uma mulher se unem por toda a vida numa aliança de amor fiel e fecundo. Cristo elevou essa união à dignidade de sacramento e dá aos esposos a graça para se amarem como Ele ama a Igreja. A família nascida do matrimônio é chamada de Igreja doméstica.",
+    "cic": "CIC 1601-1666",
+    "pergunta": "Como a sua família pode se tornar mais uma pequena Igreja, com oração e perdão?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-segunda-parte_po.html",
+    "atualizadoEm": "2026-11-24T19:44:00Z"
+   },
    {
     "data": "2026-11-23",
     "parte": "A celebração do mistério cristão",
@@ -305,19 +315,9 @@
     "pergunta": "Como a esperança da Ressurreição pode mudar a forma de você encarar as perdas?",
     "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
     "atualizadoEm": "2026-11-11T16:38:49Z"
-   },
-   {
-    "data": "2026-11-10",
-    "parte": "A profissão da fé",
-    "tema": "Por que Jesus morreu na cruz?",
-    "texto": "Jesus entregou livremente a sua vida na cruz por amor ao Pai e a nós. Sua morte é o sacrifício que nos reconcilia com Deus e nos liberta do pecado. A cruz, que parecia derrota, tornou-se o sinal maior do amor de Deus pela humanidade.",
-    "cic": "CIC 599-618",
-    "pergunta": "Que cruz você carrega hoje, e como pode uni-la à cruz de Cristo?",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
-    "atualizadoEm": "2026-11-10T16:37:07Z"
    }
   ],
-  "atualizadoEm": "2026-11-24T19:44:00Z"
+  "atualizadoEm": "2026-11-25T18:51:04Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
@@ -337,6 +337,6 @@
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-11-24T19:44:04Z"
+  "atualizadoEm": "2026-11-25T18:51:07Z"
  }
 }
