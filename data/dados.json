@@ -1,104 +1,104 @@
 {
- "geradoEm": "2026-11-25T18:51:07Z",
+ "geradoEm": "2026-11-26T18:39:22Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-25T18:50:59Z",
+   "atualizadoEm": "2026-11-26T18:39:17Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
     {
-     "titulo": "Papa Leão XIV inicia visitas pastorais de Advento pela paróquia de Sant’Andrea delle Fratte",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/leao-xiv-visita-pastoral-sant-andrea-delle-fratte-roma-27-novemb.html",
-     "data": "2026-11-25T16:27:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Com Leão para testemunhar a proximidade espiritual entre detentos e monjas",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-cronica-audiencia-geral-25-novembro-2026.html",
-     "data": "2026-11-25T16:17:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Entre violência e esperança, comunidade eclesial continua a semear o futuro no Haiti",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/haiti-violencia-esperanca-comunidade-eclesial-semeia-futuro.html",
-     "data": "2026-11-25T16:16:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Sacerdotes da Comunidade Católica Shalom participam de retiro em Assis, Itália",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/sacerdotes-comunidade-catolica-shalom-retiro-assis.html",
-     "data": "2026-11-25T15:50:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Mianmar: catedral destruída por terremoto é reconsagrada em meio à guerra e à esperança",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/mianmar-catedral-destruida-terremoto-reconsagrada-guerra.html",
-     "data": "2026-11-25T15:34:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Santo Padre envia mensagem aos participantes da XXI Assembleia da ODUCAL",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/santo-padre-envia-mensagem-participantes-assembleia-oducal.html",
-     "data": "2026-11-25T14:42:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Líbia, ataque a navios russos: teme-se uma escalada do conflito",
-     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/ataques-naves-russas-na-libia-teme-se-escalada-conflito.html",
-     "data": "2026-11-25T13:45:00Z",
+     "titulo": "Alerta de meningite em Gaza, Pezzati: catástrofe sanitária e humana",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/gaza-palestinos-meningite-epidemia-ataques-israel-denuncia-oxfam.html",
+     "data": "2026-11-26T17:10:00Z",
      "secao": "Mundo"
     },
     {
-     "titulo": "\"Pensar antes de dar um clique\": seminaristas refletem sobre o uso das tecnologias digitais",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/quenia-seminaristas-sociedade-missoes-africanas-tecnologias.html",
-     "data": "2026-11-25T13:22:00Z",
+     "titulo": "Em Aguarico, uma Igreja que defende a vida na Amazônia",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/vicariato-aguarico-amazonia-equatoriana-ecologia-integral.html",
+     "data": "2026-11-26T15:29:00Z",
      "secao": "Igreja"
     },
     {
-     "titulo": "O Advento: um tempo novo em preparação ao Natal do Senhor",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/advento-tempo-novo-preparacao-natal-senhor.html",
-     "data": "2026-11-25T11:56:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Diocese de Xingu-Altamira: os jovens em oração",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/diocese-xingu-altamira-jovens-oracao.html",
-     "data": "2026-11-25T11:51:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Papa aos fiéis de língua portuguesa: com o Advento, semear a paz nas famílias",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-audiencia-geral-lingua-portuguesa-paz-familias-26.html",
-     "data": "2026-11-25T11:38:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "O Papa reformula a pastoral carcerária, surge uma rede a serviço da Igreja no mundo",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-motu-proprio-pastoral-carceraria-servico-igreja.html",
-     "data": "2026-11-25T11:10:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Papa nomeia coordenador do Serviço de Animação da Pastoral Carcerária",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-nomeacao-coordenacao-pastoral-carceraria.html",
-     "data": "2026-11-25T11:05:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "Nomeado Chefe do Protocolo da Secretaria de Estado",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/papa-leao-xiv-nomeacao-chefe-protocolo-secretaria-estado.html",
-     "data": "2026-11-25T11:05:00Z",
+     "titulo": "Pontifícia Academia de Teologia, apelo por proteção dos jovens e justiça ambiental",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/pontificia-academia-teologia-apelo-protecao-jovens-meio-ambiente.html",
+     "data": "2026-11-26T15:08:00Z",
      "secao": "Vaticano"
     },
     {
-     "titulo": "Após COP31, o apelo de Leão XIV: nunca esquecer \"do rosto humano da crise climática\"",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-audiencia-geral-apelo-cop31-crise-climatica.html",
-     "data": "2026-11-25T10:14:00Z",
+     "titulo": "Padre Anselmo Ribeiro e o encontro com o Papa Leão XIV",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/padre-anselmo-ribeiro-encontro-papa-leao-xiv.html",
+     "data": "2026-11-26T15:08:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "OMS promete ajuda a Cuba, que enfrenta uma crise sanitária",
+     "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/cuba-oms-ajuda-crise-sanitaria.html",
+     "data": "2026-11-26T14:55:00Z",
+     "secao": "Mundo"
+    },
+    {
+     "titulo": "Frei Olivier-Thomas Venard: “É reconfortante não nos sentirmos sozinhos”",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/terra-santa-paz-dialogo-guerra-dominicanos-escola-biblica.html",
+     "data": "2026-11-26T14:46:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "“Paz, dignidade humana e desafios da IA”: o apelo de Mattarella e Parolin na Lateranense",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/universidade-lateranense-ano-academico-parolin-mattarella.html",
+     "data": "2026-11-26T14:14:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Morre aos 90 anos arcebispo Thomas Menamparampil, o “profeta da paz” da Índia",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/india-morre-aos-90-anos-dom-thomas-menamparampil-profeta-paz.html",
+     "data": "2026-11-26T13:43:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Viburno da Ucrânia doado a Leão XIV é plantado e abençoado nos Jardins Vaticanos",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/jardins-vaticanos-plantio-viburno-ucrania.html",
+     "data": "2026-11-26T13:16:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Gallagher: diplomacia pode ser eficaz mesmo sem poderio militar",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/santa-se-diplomacia-internazional-dialogo-paz.html",
+     "data": "2026-11-26T13:12:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Medalha Milagrosa: das aparições em Paris a uma marcante conversão em Roma",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/medalha-milagrosa-nossa-senhora-sion-papa-leao.html",
+     "data": "2026-11-26T13:00:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "O adeus ao Pe. Hammond, 66 anos de missão pela reconciliação entre as Coreias",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/padre-gerard-hammond-faleceu-93-anos-missionario-coreia.html",
+     "data": "2026-11-26T12:55:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Cultura da Vida: 45 anos de Familiaris Consortio, o serviço à vida na vocação familiar",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/cultura-vida-45-anos-familiaris-consortio.html",
+     "data": "2026-11-26T12:02:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Papa aos religiosos: é preciso ouvir muito, ter paciência e renovar a fé",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-dialogo-superiores-superioras-uisg-usg.html",
+     "data": "2026-11-26T10:55:27Z",
      "secao": "Papa"
+    },
+    {
+     "titulo": "Reitor brasileiro de Basílica em Roma convida para a festa de Santo André",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/festa-santo-andre.html",
+     "data": "2026-11-26T10:14:00Z",
+     "secao": "Igreja"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-25T18:51:01Z",
+   "atualizadoEm": "2026-11-26T18:39:19Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
@@ -145,37 +145,47 @@
   }
  },
  "liturgia": {
-  "data": "2026-11-25",
-  "celebracao": "Quarta-feira da 34ª Semana do Tempo Comum",
+  "data": "2026-11-26",
+  "celebracao": "Quinta-feira da 34ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Livro do Apocalipse de São João 15,1-4"
+    "ref": "Livro do Apocalipse de São João 18,1-2.21-23; 19,1-3.9a"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Lucas 21,12-19"
+    "ref": "Lucas 21,20-28"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/34a-semana-do-tempo-comum-quarta-feira-25-de-novembro-de-2026/",
-  "atualizadoEm": "2026-11-25T18:51:04Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/34a-semana-do-tempo-comum-quinta-feira-26-de-novembro-de-2026/",
+  "atualizadoEm": "2026-11-26T18:39:19Z"
  },
  "santo": {
-  "data": "2026-11-25",
-  "nome": "S. Moisés, mártir em Roma",
-  "resumo": "Também lembrados hoje: S. Pedro de Alexandria, bispo e mártir; S. Catarina de Alexandria.",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/25.html",
-  "atualizadoEm": "2026-11-25T18:51:04Z"
+  "data": "2026-11-26",
+  "nome": "S. Sirício, papa",
+  "resumo": "Também lembrados hoje: S. Leonardo de Porto Maurício, sacerdote franciscano; S. Silvestre, abade, fundador dos Silvestrinos.",
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/26.html",
+  "atualizadoEm": "2026-11-26T18:39:19Z"
  },
  "catequese": {
-  "data": "2026-11-25",
+  "data": "2026-11-26",
   "parte": "A vida em Cristo",
-  "tema": "A dignidade da pessoa humana",
-  "texto": "Toda pessoa foi criada à imagem e semelhança de Deus e, por isso, tem uma dignidade que ninguém pode tirar. Dotada de razão e liberdade, ela é chamada à felicidade eterna. Respeitar a vida e a dignidade de cada pessoa é o fundamento de toda a moral cristã.",
-  "cic": "CIC 1700-1715",
-  "pergunta": "Há alguém que você tem tratado sem reconhecer a dignidade de filho de Deus?",
+  "tema": "As Bem-aventuranças",
+  "texto": "As Bem-aventuranças, proclamadas por Jesus no Sermão da Montanha, são o coração da sua pregação. Elas mostram o caminho da verdadeira felicidade: pobreza de espírito, mansidão, misericórdia, pureza de coração e busca da justiça e da paz. Revelam o rosto do próprio Cristo.",
+  "cic": "CIC 1716-1729",
+  "pergunta": "Qual das Bem-aventuranças é mais difícil para você viver hoje?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-25",
+    "parte": "A vida em Cristo",
+    "tema": "A dignidade da pessoa humana",
+    "texto": "Toda pessoa foi criada à imagem e semelhança de Deus e, por isso, tem uma dignidade que ninguém pode tirar. Dotada de razão e liberdade, ela é chamada à felicidade eterna. Respeitar a vida e a dignidade de cada pessoa é o fundamento de toda a moral cristã.",
+    "cic": "CIC 1700-1715",
+    "pergunta": "Há alguém que você tem tratado sem reconhecer a dignidade de filho de Deus?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
+    "atualizadoEm": "2026-11-25T18:51:04Z"
+   },
    {
     "data": "2026-11-24",
     "parte": "A celebração do mistério cristão",
@@ -305,19 +315,9 @@
     "pergunta": "Você costuma pedir a luz do Espírito Santo antes de decisões importantes?",
     "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
     "atualizadoEm": "2026-11-12T17:06:36Z"
-   },
-   {
-    "data": "2026-11-11",
-    "parte": "A profissão da fé",
-    "tema": "Cristo ressuscitou",
-    "texto": "A Ressurreição de Jesus é a verdade culminante da nossa fé. Ele venceu a morte e vive com um corpo glorioso, como testemunharam os apóstolos. Por isso, a morte não tem a última palavra: Cristo ressuscitado é a garantia da nossa própria ressurreição.",
-    "cic": "CIC 638-658",
-    "pergunta": "Como a esperança da Ressurreição pode mudar a forma de você encarar as perdas?",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
-    "atualizadoEm": "2026-11-11T16:38:49Z"
    }
   ],
-  "atualizadoEm": "2026-11-25T18:51:04Z"
+  "atualizadoEm": "2026-11-26T18:39:19Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
@@ -337,6 +337,6 @@
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-11-25T18:51:07Z"
+  "atualizadoEm": "2026-11-26T18:39:22Z"
  }
 }
