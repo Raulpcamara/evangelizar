@@ -1,10 +1,70 @@
 {
- "geradoEm": "2026-11-27T18:28:42Z",
+ "geradoEm": "2026-11-28T17:12:44Z",
  "noticias": {
   "vatican": {
-   "atualizadoEm": "2026-11-27T18:28:36Z",
+   "atualizadoEm": "2026-11-28T17:12:36Z",
    "fonte": "https://www.vaticannews.va/pt.rss.xml",
    "items": [
+    {
+     "titulo": "Líderes pentecostais no Vaticano: rezamos com o Papa e pelo Papa",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-lideres-pentecostais-audiencia-28-novembro-2026.html",
+     "data": "2026-11-28T14:55:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "“You are not alone” - um filme sobre a violência contra a mulher",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/you-are-not-alone-um-filme-sobre-a-violencia-contra-a-mulher.html",
+     "data": "2026-11-28T13:14:00Z",
+     "secao": "África"
+    },
+    {
+     "titulo": "Beatos os mártires de Madri: apaixonados por Cristo a serviço do próximo",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/beatificacao-martires-madri-ignacio-alaez-vaquero-28-novembro-26.html",
+     "data": "2026-11-28T13:04:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Leão XIV a oficiais da Marinha da Itália: construam a paz, agindo pelo bem de todos",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-comissarios-militares-maritimos-italia-paz-bem-26.html",
+     "data": "2026-11-28T12:28:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Papa: com as outras religiões, buscar o bem que une, sem atenuar as diferenças",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-congresso-internacional-santo-agostinho-2026.html",
+     "data": "2026-11-28T11:39:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Hebdomada Papae: o boletim de notícias em latim de 28 de novembro",
+     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/hebdomada-papae-boletim-noticias-28-novembro-2026.html",
+     "data": "2026-11-28T11:25:00Z",
+     "secao": "Vaticano"
+    },
+    {
+     "titulo": "Dom A. Juliasse: “Aumenta perseguição e decapitação de cristãos em Cabo Delgado”",
+     "link": "https://www.vaticannews.va/pt/africa/news/2026-11/cabo-delgado-terrorismo-perseguicao-cristaos-defesa-vida-humana.html",
+     "data": "2026-11-28T09:08:09Z",
+     "secao": "África"
+    },
+    {
+     "titulo": "Papa aos paroquianos do centro de Roma: caminhem sempre unidos",
+     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-saudacao-comunidade-paroquial-santo-andrea-fratte.html",
+     "data": "2026-11-28T07:33:00Z",
+     "secao": "Papa"
+    },
+    {
+     "titulo": "Antonio Cardoso na Canção e a Prece: Quando dezembro chegar",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/antonio-cardoso-cancao-prece-quando-dezembro-chegar.html",
+     "data": "2026-11-28T07:00:00Z",
+     "secao": "Igreja"
+    },
+    {
+     "titulo": "Reflexão para 1º Domingo do Advento",
+     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/reflexao-1-domingo-advento.html",
+     "data": "2026-11-28T07:00:00Z",
+     "secao": "Igreja"
+    },
     {
      "titulo": "Kuwait acusa o Irã pelo ataque que matou dois técnicos italianos",
      "link": "https://www.vaticannews.va/pt/mundo/news/2026-11/kuwait-acusa-o-ira-pelo-ataque-que-matou-dois-tecnicos-italianos.html",
@@ -34,71 +94,11 @@
      "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/assembleia-oducal-sinodalidade-missao-universidades-catolicas.html",
      "data": "2026-11-27T13:59:00Z",
      "secao": "Igreja"
-    },
-    {
-     "titulo": "ANEC e REPAM-Brasil: diagnóstico sobre a educação superior católica na Amazônia Legal",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/anec-repam-brasil-diagnostico-educacao-superior-catolica.html",
-     "data": "2026-11-27T13:42:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Visitas do Papa às paróquias: oportunidade de avaliação pastoral, diz cardeal Reina",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/papa-leao-xiv-visitas-paroquias-roma-cardeal-reina-2026.html",
-     "data": "2026-11-27T13:36:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Líbano celebra a visita de Leão XIV com livro dedicada à paz",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/libano-celebra-visita-leao-xiv-livro-dedicado-a-paz.html",
-     "data": "2026-11-27T13:08:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "IOR: revogada medida do Tribunal de Budapeste",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/ior-revogada-medida-precedente-tribunal-budapeste-hungria-malta.html",
-     "data": "2026-11-27T13:04:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Paraná: Nossa Senhora do Rocio, sob o manto da Mãe do Divino Orvalho",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/parana-nossa-senhora-rocio-manto-mae-divino.html",
-     "data": "2026-11-27T12:45:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Ignacio Aláez Vaquero e dez companheiros mártires serão beatificados neste sábado",
-     "link": "https://www.vaticannews.va/pt/vaticano/news/2026-11/espanha-beatificacao-gnacio-alaez-dez-companheiros-martires.html",
-     "data": "2026-11-27T12:40:00Z",
-     "secao": "Vaticano"
-    },
-    {
-     "titulo": "Roma: Sant'Andrea delle Fratte, a igreja de Nossa Senhora do Milagre",
-     "link": "https://www.vaticannews.va/pt/igreja/news/2026-11/igreja-santo-andrea-delle-frate-roma-nossa-senhora-milagre-26.html",
-     "data": "2026-11-27T12:34:00Z",
-     "secao": "Igreja"
-    },
-    {
-     "titulo": "Papa: o esporte ajuda os jovens a superar o isolamento e educa à fraternidade",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-o-esporte-ajuda-os-jovens-a-superar-o-isolamento.html",
-     "data": "2026-11-27T11:33:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "“Acolhamos a fragilidade”, o tema da mensagem do Papa para a Quaresma de 2027",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-tema-mensagem-quaresma-2027-acolhamos-fragilidade.html",
-     "data": "2026-11-27T11:10:00Z",
-     "secao": "Papa"
-    },
-    {
-     "titulo": "O pesar do Papa pelas vítimas do acidente rodoviário no Egito",
-     "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-telegrama-egito-acidente-explosao-caminhao-tanque.html",
-     "data": "2026-11-27T11:10:00Z",
-     "secao": "Papa"
     }
    ]
   },
   "manzotti": {
-   "atualizadoEm": "2026-11-27T18:28:37Z",
+   "atualizadoEm": "2026-11-28T17:12:38Z",
    "fonte": "https://padrereginaldomanzotti.com.br/noticias",
    "items": [
     {
@@ -145,37 +145,47 @@
   }
  },
  "liturgia": {
-  "data": "2026-11-27",
-  "celebracao": "Sexta-feira da 34ª Semana do Tempo Comum",
+  "data": "2026-11-28",
+  "celebracao": "Sábado da 34ª Semana do Tempo Comum",
   "leituras": [
    {
     "tipo": "1ª Leitura",
-    "ref": "Livro do Apocalipse de São João 20,1-4.11-21,2"
+    "ref": "Livro do Apocalipse de São João 22,1-7"
    },
    {
     "tipo": "Evangelho",
-    "ref": "Lucas 21,29-33"
+    "ref": "Lucas 21,34-36"
    }
   ],
-  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/34a-semana-do-tempo-comum-sexta-feira-27-de-novembro-de-2026/",
-  "atualizadoEm": "2026-11-27T18:28:40Z"
+  "link": "https://evangelizarepreciso.com.br/liturgia-diaria/34a-semana-do-tempo-comum-sabado-28-de-novembro-de-2026/",
+  "atualizadoEm": "2026-11-28T17:12:41Z"
  },
  "santo": {
-  "data": "2026-11-27",
-  "nome": "S. Virgílio, bispo de Salzburgo",
+  "data": "2026-11-28",
+  "nome": "S. Tiago da Marca, sacerdote franciscano",
   "resumo": "",
-  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/27.html",
-  "atualizadoEm": "2026-11-27T18:28:40Z"
+  "link": "https://www.vaticannews.va/pt/santo-do-dia/11/28.html",
+  "atualizadoEm": "2026-11-28T17:12:41Z"
  },
  "catequese": {
-  "data": "2026-11-27",
+  "data": "2026-11-28",
   "parte": "A vida em Cristo",
-  "tema": "A consciência",
-  "texto": "A consciência é o lugar mais íntimo da pessoa, onde ela está a sós com Deus e escuta a sua voz. Ela nos ajuda a discernir o bem e o mal em cada situação. Por isso precisa ser formada continuamente pela Palavra de Deus, pelo ensinamento da Igreja e pela oração.",
-  "cic": "CIC 1776-1802",
-  "pergunta": "Você costuma fazer um exame de consciência no fim do dia?",
+  "tema": "Fé, esperança e caridade",
+  "texto": "As virtudes teologais são dons de Deus que nos ligam diretamente a Ele. A fé nos faz crer em Deus, a esperança nos faz confiar nas suas promessas, e a caridade nos faz amar a Deus acima de tudo e o próximo como a nós mesmos. A maior delas é a caridade.",
+  "cic": "CIC 1812-1829",
+  "pergunta": "Qual dessas três virtudes você mais precisa pedir a Deus hoje?",
   "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
   "historico": [
+   {
+    "data": "2026-11-27",
+    "parte": "A vida em Cristo",
+    "tema": "A consciência",
+    "texto": "A consciência é o lugar mais íntimo da pessoa, onde ela está a sós com Deus e escuta a sua voz. Ela nos ajuda a discernir o bem e o mal em cada situação. Por isso precisa ser formada continuamente pela Palavra de Deus, pelo ensinamento da Igreja e pela oração.",
+    "cic": "CIC 1776-1802",
+    "pergunta": "Você costuma fazer um exame de consciência no fim do dia?",
+    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-terceira-parte_po.html",
+    "atualizadoEm": "2026-11-27T18:28:40Z"
+   },
    {
     "data": "2026-11-26",
     "parte": "A vida em Cristo",
@@ -305,19 +315,9 @@
     "pergunta": "Por quem você vai rezar hoje, entre os vivos e os que já partiram?",
     "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
     "atualizadoEm": "2026-11-14T15:22:19Z"
-   },
-   {
-    "data": "2026-11-13",
-    "parte": "A profissão da fé",
-    "tema": "O que é a Igreja?",
-    "texto": "A Igreja é o povo que Deus reúne em Cristo, o Corpo de Cristo e o Templo do Espírito Santo. Ela é ao mesmo tempo visível e espiritual, formada por pessoas frágeis mas sustentada pela graça. Professamos que ela é una, santa, católica e apostólica.",
-    "cic": "CIC 748-870",
-    "pergunta": "De que forma você participa da vida da sua comunidade paroquial?",
-    "link": "https://www.vatican.va/archive/cathechism_po/index_new/index-primeira-parte_po.html",
-    "atualizadoEm": "2026-11-13T16:45:09Z"
    }
   ],
-  "atualizadoEm": "2026-11-27T18:28:40Z"
+  "atualizadoEm": "2026-11-28T17:12:41Z"
  },
  "folheto": {
   "titulo": "Folheto da próxima missa",
@@ -337,6 +337,6 @@
    }
   ],
   "fonte": "https://arqrio.org.br/folhetos",
-  "atualizadoEm": "2026-11-27T18:28:42Z"
+  "atualizadoEm": "2026-11-28T17:12:44Z"
  }
 }
